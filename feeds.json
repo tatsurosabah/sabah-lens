@@ -1,0 +1,28 @@
+{
+  "_comment": "取り込み元の設定。ここを編集して git push すれば次回の自動更新から反映されます。",
+
+  "google_alerts": [],
+  "_google_alerts_help": "google.com/alerts で「配信先: RSSフィード」にしたアラートのフィードURL（https://www.google.com/alerts/feeds/... ）を文字列で並べてください。空でもGoogle Newsだけで動きます。",
+
+  "google_news": [
+    { "q": "Sabah stateless",                        "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "Sabah refugee",                          "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "Sabah undocumented",                     "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "Sabah citizenship children",             "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "\"Bajau Laut\"",                         "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "Sabah UNHCR OR asylum",                  "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "Sabah Rohingya",                         "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "Sabah immigration detention OR deportation", "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+    { "q": "Sabah IMM13 OR MyKAS",                   "hl": "en-MY", "gl": "MY", "ceid": "MY:en" },
+
+    { "q": "Sabah PATI",                             "hl": "ms-MY", "gl": "MY", "ceid": "MY:ms" },
+    { "q": "Sabah tanpa kewarganegaraan",            "hl": "ms-MY", "gl": "MY", "ceid": "MY:ms" },
+    { "q": "kanak-kanak tanpa kewarganegaraan Sabah","hl": "ms-MY", "gl": "MY", "ceid": "MY:ms" },
+    { "q": "pelarian Sabah",                         "hl": "ms-MY", "gl": "MY", "ceid": "MY:ms" },
+    { "q": "MyKAS OR IMM13 Sabah",                   "hl": "ms-MY", "gl": "MY", "ceid": "MY:ms" }
+  ],
+
+  "max_items": 500,
+  "max_age_days": 400,
+  "max_translations_per_run": 450
+}

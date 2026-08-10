@@ -1,0 +1,67 @@
+name: ニュース更新
+
+on:
+  schedule:
+    # UTC 表記。サバ時間(UTC+8)の 8:30 / 14:30 / 20:30 / 翌2:30 にあたる。
+    # sabah-watch と同時刻にすると Google 側から見て一斉アクセスになるので30分ずらす
+    - cron: '30 0,6,12,18 * * *'
+  workflow_dispatch:        # 手動実行用
+  push:
+    paths:
+      - 'feeds.json'        # 収集条件を変えたらすぐ反映
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45     # 初回は全件のリダイレクト解決が走るので長めに取る
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # enrich.mjs は Node 22 以降の組み込み WebSocket を使う（CDP 接続に必要）
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: ニュース取得と翻訳
+        run: python3 fetch_news.py
+
+      # Google ニュースのリンクは JS を実行しないと実URLに解決できない。
+      # ubuntu-latest には Chrome が入っているのでそれを使う。
+      - name: 記事の実URL・画像・抜粋を解決
+        run: |
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || true)"
+          if [ -z "$CHROME" ]; then
+            echo "Chrome が見つからないので解決をスキップする（記事は文字カードで表示される）"
+            exit 0
+          fi
+          echo "using $CHROME"
+          CHROME_PATH="$CHROME" node enrich.mjs --conc 6 --limit 220
+        continue-on-error: true    # 解決に失敗してもニュース自体は落とさない
+
+      # 抜粋が付くのは解決の後なので、翻訳はここでもう一度だけ回す
+      - name: 増えた抜粋を日本語にする
+        run: python3 fetch_news.py --translate-only
+        continue-on-error: true
+
+      - name: 変更があればコミット
+        run: |
+          if git diff --quiet -- news.json; then
+            echo "変更なし"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git commit -m "ニュース更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
