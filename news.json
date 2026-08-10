@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10T08:27:48Z",
- "count": 164,
+ "updated": "2026-08-10T23:51:47Z",
+ "count": 165,
  "tags": {
   "入管・摘発": 103,
   "市民権": 27,
@@ -18,16 +18,16 @@
   "Sabah Media": 29,
   "Daily Express Malaysia": 16,
   "sabahnews.com.my": 12,
-  "Borneo Post": 12,
+  "Borneo Post": 11,
   "NST Online": 11,
   "TV Sabah News": 10,
   "The Star": 10,
   "sabahnewstoday.net": 7,
   "Jesselton Times": 6,
   "Berita Harian": 5,
+  "Malay Mail": 5,
   "Saluran 122": 5,
   "Sabah Post": 4,
-  "Malay Mail": 4,
   "Astro Awani": 3,
   "MalaysiaGazette": 3,
   "Free Malaysia Today": 3,
@@ -38,7 +38,7 @@
   "Portal Berita RTM": 2,
   "Yahoo": 1,
   "Newswav": 1,
-  "Bernama": 1,
+  "bernama": 1,
   "Sayang Sabah": 1,
   "Malaysiakini": 1,
   "Buletin TV3": 1,
@@ -46,6 +46,7 @@
   "Options, The Edge": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
+  "freemalaysiatoday.com": 1,
   "Utusan Malaysia": 1,
   "Gempak": 1,
   "The Edge Malaysia": 1,
@@ -66,12 +67,12 @@
     "入管・摘発"
    ],
    "title_ja": "トダック作戦: PATI 10 人を逮捕、無許可行商人を逮捕",
-   "summary_ja": "コタキナバル：火曜日（8月4日）、SAFMA地区、コタキナバル市場および周辺海域で実施された統合的なソード作戦により、フィリピンからの合計10人の不法滞在者（PATI）が逮捕された。作戦は午後11時に開始され、コタキナバル市庁舎(DBKK)と王立マレーシア警察(PDRM)、マレーシア入国管理局(JIM)、執行機関が関与した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/operasi-todak-10-pati-ditahan-penjaja-tanpa-lesen-dikompaun/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/08/030f02da-48a2-4e0d-943b-9e9db7cd9e27.jpeg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：火曜日（8月4日）、SAFMA地区、コタキナバル市場および周辺海域で実施された統合的なソード作戦により、フィリピンからの合計10人の不法滞在者（PATI）が逮捕された。作戦は午後11時に開始され、コタキナバル市庁舎(DBKK)と王立マレーシア警察(PDRM)、マレーシア入国管理局(JIM)、執行機関が関与した。"
   },
   {
    "title": "10 PATI Ditahan Dalam Operasi Todak",
@@ -87,13 +88,13 @@
     "入管・摘発"
    ],
    "title_ja": "10 PATI、トダック作戦で逮捕",
-   "summary_ja": "コタキナバル：2025年8月7日 – パサールのSAFMA周辺で実施されたトダック作戦で、合計10人のフィリピン人不法移民（PATI）国民が逮捕された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/10-pati-ditahan-dalam-operasi-todak/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/08/IMG_0637.jpeg",
    "image_alt": "10 PATI Ditahan dalam Operasi Todak",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：2025年8月7日 – パサールのSAFMA周辺で実施されたトダック作戦で、合計10人のフィリピン人不法移民（PATI）国民が逮捕された。"
   },
   {
    "title": "JIM Sabah pindahkan 4,447 PATI ke negara asal setakat ini",
@@ -109,12 +110,12 @@
     "入管・摘発"
    ],
    "title_ja": "ジム・サバ州はこれまでに4,447人のPATIを出身国に移送している",
-   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、これまでに合計4,447人の不法外国人移民（PATI）拘留者を法的手続きを完了した後、それぞれの出身国に移送した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/08/05/jim-sabah-pindahkan-4447-pati-ke-negara-asal-setakat-ini/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/08/FB_IMG_1785887705806.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、これまでに合計4,447人の不法外国人移民（PATI）拘留者を法的手続きを完了した後、それぞれの出身国に移送した。"
   },
   {
    "title": "42 PATI warga Filipina dipindahkan pulang ke negara asal",
@@ -130,13 +131,13 @@
     "入管・摘発"
    ],
    "title_ja": "42人のPATIフィリピン人が母国に送還された",
-   "summary_ja": "LAHAD DATU: 2026 年 8 月 4 日 — マレーシア移民局 (JIM) サバ州は、不法移民抑留者 (PATI) を出身国に移送するプログラムを実施",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/42-pati-warga-filipina-dipindahkan-pulang-ke-negara-asal/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/08/IMG_0534-1024x471.jpeg",
    "image_alt": "42 PATI warga Filipina dipindahkan pulang ke negara asal",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "LAHAD DATU: 2026 年 8 月 4 日 — マレーシア移民局 (JIM) サバ州は、不法移民抑留者 (PATI) を出身国に移送するプログラムを実施"
   },
   {
    "title": "Decade-old image misrepresented as Filipinos arrested in Sabah migrant crackdown",
@@ -152,12 +153,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州の移民弾圧で逮捕されたフィリピン人として10年前の画像が誤って伝えられる",
-   "summary_ja": "マレーシアの入国管理当局はサバ州で不法移民の弾圧を続けているが、詰め込まれた空間にいる男性たちの写真には拘束されたタウスグ族のメンバーは写っていない…",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.yahoo.com/news/world/articles/decade-old-image-misrepresented-filipinos-041601539.html",
    "image": "https://s.yimg.com/lo/mysterio/api/28060bb0b05aae8ba02cc70736d3dfdbbf38b362478fd762efb0c7c6103a614d/lightyear_networkapi/resizefill_w605_h784%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F3c3e7de87321087b557c1142e0b463b6",
    "site_name": "Yahoo News",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "マレーシアの入国管理当局はサバ州で不法移民の弾圧を続けているが、詰め込まれた空間にいる男性たちの写真には拘束されたタウスグ族のメンバーは写っていない…"
   },
   {
    "title": "ESSCOM Tumpas Aktiviti Haram RM433,077 di Sandakan, 25 PATI Ditahan",
@@ -173,12 +174,12 @@
     "入管・摘発"
    ],
    "title_ja": "ESSCOM、サンダカンの違法行為でRM433,077を摘発、PATI25人を逮捕",
-   "summary_ja": "サンダカン：7月29日から30日にかけて、この地区周辺の数カ所で行われたESSCOM統合作戦で、合計25人の不法移民（PATI）が逮捕され、RM43万3,077相当の様々な犯罪が摘発された。スラム居住地域と市内中心部を含む作戦では、密輸活動、規制品の悪用、不法公共施設との接続、法律違反も明らかになった。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/esscom-tumpas-aktiviti-haram-rm433077-di-sandakan-25-pati-ditahan/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/07/c3ec4f2a-6fa9-438f-8603-1072974e81aa.jpeg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サンダカン：7月29日から30日にかけて、この地区周辺の数カ所で行われたESSCOM統合作戦で、合計25人の不法移民（PATI）が逮捕され、RM43万3,077相当の様々な犯罪が摘発された。スラム居住地域と市内中心部を含む作戦では、密輸活動、規制品の悪用、不法公共施設との接続、法律違反も明らかになった。"
   },
   {
    "title": "Dua PATI terkait kes bunuh kanak-kanak dipenjara kerana masuk Sabah secara haram",
@@ -195,12 +196,12 @@
     "子ども"
    ],
    "title_ja": "子供の殺害に関与した不法滞在者2名がサバ州に不法入国した罪で投獄された",
-   "summary_ja": "10歳の少女殺害事件の捜査に協力するために拘束された不法移民2人(PATI)が、有罪を認めた後、懲役4か月の判決を受けた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/07/31/dua-pati-terkait-kes-bunuh-kanak-kanak-dipenjara-kerana-masuk-sabah-secara-haram/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/07/Suspek-murder.jpeg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "10歳の少女殺害事件の捜査に協力するために拘束された不法移民2人(PATI)が、有罪を認めた後、懲役4か月の判決を受けた。"
   },
   {
    "title": "Undocumented teen arrested in Tawau rape probe",
@@ -217,10 +218,10 @@
     "子ども"
    ],
    "title_ja": "タワウのレイプ捜査で不法滞在の十代を逮捕",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/285741/undocumented-teen-arrested-in-tawau-rape-probe/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "MALAYSIA-BORN WOMAN DENIED CITIZENSHIP WHILE SABAH STILL AWAITS JUSTICE OVER PROJECT IC",
@@ -258,12 +259,12 @@
     "入管・摘発"
    ],
    "title_ja": "雇用主は敷地内に PATI を置いたとして RM5,000 の罰金を科せられた",
-   "summary_ja": "本日、地元の雇用主2名が、不法滞在者(PATI)の敷地内への滞在を許可した罪を認めた後、ここセッションズ裁判所からそれぞれRM5,000の罰金を課せられた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/07/27/majikan-didenda-rm5000-benar-pati-berada-di-premis/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/07/IMG-20260723-WA0237.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "本日、地元の雇用主2名が、不法滞在者(PATI)の敷地内への滞在を許可した罪を認めた後、ここセッションズ裁判所からそれぞれRM5,000の罰金を課せられた。"
   },
   {
    "title": "No detention deaths: Sabah Immigration Department",
@@ -279,12 +280,12 @@
     "入管・摘発"
    ],
    "title_ja": "拘留死亡者なし：サバ州入国管理局",
-   "summary_ja": "コタキナバル：サバ州入国管理局は、州の入国管理局の過密により多くのフィリピン人抑留者が死亡したというネット上での報道を否定した。",
    "first_seen": "2026-08-10T08:27:43Z",
    "url_real": "https://newswav.com/article/no-detention-deaths-sabah-immigration-department-A2607_dzriud",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/07/SH_Sitti_Saleha_Habib_Yussof.jpg",
    "site_name": "Newswav",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州入国管理局は、州の入国管理局の過密により多くのフィリピン人抑留者が死亡したというネット上での報道を否定した。"
   },
   {
    "title": "Sabah Immigration denies viral claims of detainee deaths",
@@ -300,10 +301,10 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州移民局、被収容者死亡のウイルス報道を否定",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/07/26/sabah-immigration-denies-viral-claims-of-detainee-deaths/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "JIM denies Sabah detention depots overcrowded after claims of Filipino detainee deaths",
@@ -319,18 +320,37 @@
     "入管・摘発"
    ],
    "title_ja": "JIM、フィリピン人拘留者の死亡主張を受けてサバ州の拘留所が超満員になったことを否定",
-   "summary_ja": "同省は、すべての被収容者が適切なケアを受けていると主張しているが、過密状態が多数のフィリピン人被収容者の死亡を引き起こしたと主張している。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thevibes.com/articles/news/125458/jim-denies-sabah-detention-depots-overcrowded-after-claims-of-filipino-detainee-deaths",
    "image": "https://media.thevibes.com/images/uploads/covers/_large/20210425-Immigresen-Bintulu-FB.jpg",
    "site_name": "The Vibes",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "同省は、すべての被収容者が適切なケアを受けていると主張しているが、過密状態が多数のフィリピン人被収容者の死亡を引き起こしたと主張している。"
+  },
+  {
+   "title": "Viral detention depot death claims baseless: Sabah Immgiration",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjgza1AzVW9LQVpOSGQtRVVYYjFpZmRBZVdORVptNC13MFpjamRBODlUc3QtdEVxNktGRVdLWHBpQTFRZWdkRkw2MXYzSVQxR2RBR0ZKaWJnQWJ1UzM1azZDaXEzTE1VQzBadW5WS2dtWENFeWhSMENTcnZ6RUhXYUdjTGgwc3EwbWQ0Z09zOS14YmNKMlpVUHBNYjRqLUQ1ZzVPQVZZR2xUQXVwUjZ4U3F2UnpldFJXN0dTUVI3OEdDYjlJbFBTd3NuUkV4Tmh6a2JCcjZkaEVmYUE?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-07-26T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "91ab306ab182",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ウイルスによる拘留所死亡主張は根拠なし：サバ州入国管理局",
+   "first_seen": "2026-08-09T01:55:15Z",
+   "url_real": "https://www.dailyexpress.com.my/news/285513/viral-detention-depot-death-claims-baseless-sabah-immgiration/",
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-07-26T06:56:01Z",
    "lang": "en",
    "origin": "news",
@@ -340,31 +360,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州移民局、フィリピン人抑留者が倉庫で死亡したというウイルスの主張を否定",
-   "summary_ja": "サバ州、移民、主張、否定、フィリピン人、デット",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://bernama.com/en/news.php?id=2586053",
    "image": "https://bernama.com/storage/photos/cea9a18c8b0f1fdb83bb2b58a8e274db676552790ebfc-medium",
    "site_name": "BERNAMA",
-   "enriched": "ok"
-  },
-  {
-   "title": "Viral detention depot death claims baseless: Sabah Immgiration",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3Rfcldpclh5eG5ZNjNzSlRCQkFjTnRzQWVqcXdBdEFDVnF1R1JLR2ctYlVUQkFEOXEyVFJCSldJSGc5VGl4Z0tYQklnZUhIQml2SVM4YVVvZHdMNkZtUzhZZWtIaV9lV0pTM252RnB5ME9yZXA3cTlCWW1FUWl6NlJHdFltUVo4MTNBZGFDdXY5RlE0V3BZMDAwTV8tT3dYWmcyRzNvQmFaUQ?oc=5",
-   "source": "Daily Express Malaysia",
-   "date": "2026-07-26T06:11:20Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah immigration detention OR deportation",
-   "id": "91ab306ab182",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "ウイルスによる拘留所死亡主張は根拠なし：サバ州入国管理局",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://www.dailyexpress.com.my/news/285513/viral-detention-depot-death-claims-baseless-sabah-immgiration/",
-   "enriched": "blocked"
+   "enriched": "ok",
+   "summary_ja": "サバ州、移民、主張、否定、フィリピン人、デット"
   },
   {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths in overcrowded depots",
@@ -380,12 +381,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州移民局、超満員の倉庫でフィリピン人抑留者が死亡したというウイルス報道を否定",
-   "summary_ja": "コタキナバル：サバ州入国管理局は、州の拘置所の過密により多数のフィリピン人拘留者が死亡したとするソーシャルメディアの主張に反論した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/nation/2026/07/1497326/sabah-immigration-denies-viral-claim-filipino-detainee-deaths",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/AE9724DACC00F3CD4757781C572E7E83_data.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州入国管理局は、州の拘置所の過密により多数のフィリピン人拘留者が死亡したとするソーシャルメディアの主張に反論した。"
   },
   {
    "title": "130 PATI ditahan dalam operasi penguatkuasaan JIM Sabah di lima daerah",
@@ -401,12 +402,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州の5つの地区でのJIM強制執行作戦で不法滞在者130人が逮捕された",
-   "summary_ja": "サバ州のマレーシア移民局（JIM）は、州内の5つの地区で実施された一連の取り締まり活動により、合計130人の不法移民（PATI）を逮捕した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/07/24/130-pati-ditahan-dalam-operasi-penguatkuasaan-jim-sabah-di-lima-daerah/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/07/753164210_27469070242784901_5224449907110060359_n.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のマレーシア移民局（JIM）は、州内の5つの地区で実施された一連の取り締まり活動により、合計130人の不法移民（PATI）を逮捕した。"
   },
   {
    "title": "130 PATI Ditahan Dalam Serbuan Imigresen Di Lima Daerah Sabah",
@@ -422,12 +423,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州5地区の移民襲撃で外国人130人を逮捕",
-   "summary_ja": "投稿者: Romie Stanley DGuns コタキナバル、7月23日 – 最近、コタキナバル、ケニンガウ、サンダカン、ラハダトゥ、センポルナの5つの地区で同時に実施されたサバ州マレーシア入国管理局による一連の統合執行作戦で、合計130人の不法移民(IMI)が逮捕された。フィリピン、インドネシア、パキスタン、インドの国民からなるすべての被拘禁者",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nabalunews.com/post/130-pati-ditahan-dalam-serbuan-imigresen-di-lima-daerah-sabah",
    "image": "https://static.wixstatic.com/media/d65831_b7740947151b459a8a1a06953e2dcaeb~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/d65831_b7740947151b459a8a1a06953e2dcaeb~mv2.jpg",
    "site_name": "Nabalu News",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "投稿者: Romie Stanley DGuns コタキナバル、7月23日 – 最近、コタキナバル、ケニンガウ、サンダカン、ラハダトゥ、センポルナの5つの地区で同時に実施されたサバ州マレーシア入国管理局による一連の統合執行作戦で、合計130人の不法移民(IMI)が逮捕された。フィリピン、インドネシア、パキスタン、インドの国民からなるすべての被拘禁者"
   },
   {
    "title": "JIM Sabah Usir 260 PTI Filipina Melalui Pelabuhan Lahad Datu",
@@ -443,12 +444,12 @@
     "入管・摘発"
    ],
    "title_ja": "ジム・サバ州、ラハダトゥ港を通じてフィリピン人PTI260人を国外追放",
-   "summary_ja": "ラハド・ダトゥ：マレーシア入国管理局（JIM）サバ州は、多くの人を帰国させました...",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.sabahpost.net/2026/07/16/jim-sabah-usir-260-pti-filipina-melalui-pelabuhan-lahad-datu/",
    "image": "https://www.sabahpost.net/wp-content/uploads/2026/07/pati2.jpg",
    "site_name": "Sabah Post",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラハド・ダトゥ：マレーシア入国管理局（JIM）サバ州は、多くの人を帰国させました..."
   },
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
@@ -464,10 +465,10 @@
     "市民権"
    ],
    "title_ja": "サバ州では3,640件の市民権申請がまだ検討中 - KDN",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.bharian.com.my/berita/nasional/2026/07/1588993/3640-permohonan-kewarganegaraan-di-sabah-masih-dalam-pertimbangan",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Lagi 260 PATI Filipina diusir pulang ke negara asal",
@@ -504,12 +505,12 @@
     "入管・摘発"
    ],
    "title_ja": "62 PATI、KK、クダット、サンダカンの統合入国管理作戦で拘束",
-   "summary_ja": "コタキナバル：コタキナバル、クダット、サンダカンを含む3つの地区で実施されたサバ州入国管理局（JIM）による複数の取締りにより、合計62人の不法移民（PATI）が逮捕された。ジム・サバ氏は本日声明で、ペルバ行為で逮捕された外国人62人に関連し、作戦中に合計216人が検査されたと発表した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/62-pati-ditahan-dalam-operasi-bersepadu-imigresen-di-kk-kudat-dan-sandakan/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/07/746463538_27354974300861163_5213288980000343419_n-e1783919381653.jpg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：コタキナバル、クダット、サンダカンを含む3つの地区で実施されたサバ州入国管理局（JIM）による複数の取締りにより、合計62人の不法移民（PATI）が逮捕された。ジム・サバ氏は本日声明で、ペルバ行為で逮捕された外国人62人に関連し、作戦中に合計216人が検査されたと発表した。"
   },
   {
    "title": "12 warga China dihantar pulang, lebih 4,000 PATI dipindahkan dari Sabah setakat ini",
@@ -525,12 +526,12 @@
     "入管・摘発"
    ],
    "title_ja": "これまでに12人の中国人が強制送還され、4,000人以上の不法滞在者がサバ州から移送されている",
-   "summary_ja": "7月9日にパーパール入国管理局が実施したPATI抑留者移送プログラムを通じて、合計12人の不法外国移民（PATI）中国人が出身国に送還された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/07/11/12-warga-china-dihantar-pulang-lebih-4000-pati-dipindahkan-dari-sabah-setakat-ini/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/07/PTI2.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "7月9日にパーパール入国管理局が実施したPATI抑留者移送プログラムを通じて、合計12人の不法外国移民（PATI）中国人が出身国に送還された。"
   },
   {
    "title": "103 PATI dicekup dalam operasi empat daerah",
@@ -546,13 +547,13 @@
     "入管・摘発"
    ],
    "title_ja": "4つの地区での作戦で不法滞在者103人が逮捕された",
-   "summary_ja": "コタキナバル：コタキナバル、ケニンガウ、サンダカン、タワウで実施された強制捜査で、サバ州のマレーシア入国管理局（JIM）により合計103人の不法移民（PATI）が逮捕された。この作戦では、渡航書類の不所持など、1959/63年移民法に基づくさまざまな犯罪を犯した疑いで103人の外国人が逮捕されるまでに、合計500人が取り調べられた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnewstoday.net/103-pati-dicekup-dalam-operasi-empat-daerah/",
    "image": "https://sabahnewstoday.net/wp-content/uploads/2026/07/IMG_1618.jpeg",
    "image_alt": "IMG_1618",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：コタキナバル、ケニンガウ、サンダカン、タワウで実施された強制捜査で、サバ州のマレーシア入国管理局（JIM）により合計103人の不法移民（PATI）が逮捕された。この作戦では、渡航書類の不所持など、1959/63年移民法に基づくさまざまな犯罪を犯した疑いで103人の外国人が逮捕されるまでに、合計500人が取り調べられた。"
   },
   {
    "title": "Pengurus didenda RM10,000 ambil PATI bekerja",
@@ -568,12 +569,12 @@
     "入管・摘発"
    ],
    "title_ja": "PATIを職場に連れて行ったマネージャーにRM10,000の罰金",
-   "summary_ja": "洗車場の管理者は昨年、不法移民（PATI）を雇用した罪を認めた後、当地のセッションズ裁判所から1万リンギットの罰金を科せられた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/07/08/pengurus-didenda-rm10000-ambil-pati-bekerja/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/09/InShot_20250917_191100835-scaled.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "洗車場の管理者は昨年、不法移民（PATI）を雇用した罪を認めた後、当地のセッションズ裁判所から1万リンギットの罰金を科せられた。"
   },
   {
    "title": "PARLIAMENT | Sabah MP calls for Refugees Act; good response to diesel quota hike - PM",
@@ -590,12 +591,12 @@
     "政策・政治"
    ],
    "title_ja": "議会 |サバ州議員は難民法を要求。ディーゼル割り当て引き上げに対する良好な対応－首相",
-   "summary_ja": "今日国会で何が起こっているのか。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.malaysiakini.com/news/779041",
    "image": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2026/07/b4c75e378a2a99d1db540466820fb296.jpg=s600",
    "site_name": "Malaysiakini",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "今日国会で何が起こっているのか。"
   },
   {
    "title": "Malaysia needs clear refugee framework after decades of unresolved issues, Tuaran MP tells Dewan Rakyat",
@@ -612,10 +613,10 @@
     "政策・政治"
    ],
    "title_ja": "トゥアラン議員、デワン・ラクヤット氏に数十年にわたる未解決の問題を経て、マレーシアには明確な難民枠組みが必要だと語る",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/07/07/malaysia-needs-clear-refugee-framework-after-decades-of-unresolved-issues-tuaran-mp-tells-dewan-rakyat/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "208 PATI ditahan dalam operasi Imigresen Sabah",
@@ -631,12 +632,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州移民作戦で208人のPATIが拘束された",
-   "summary_ja": "サバ州マレーシア入国管理局は、州全域で実施した26回の取締りにより208人の不法移民を逮捕した。この作戦には、不法滞在者の存在や入国管理施設の悪用と戦うために1,187人の検査が含まれていた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.astroawani.com/video/208-pati-ditahan-dalam-operasi-imigresen-sabah",
    "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s1.dmcdn.net/v/cAotI1gI6nyRR-tbM",
    "site_name": "Awani",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州マレーシア入国管理局は、州全域で実施した26回の取締りにより208人の不法移民を逮捕した。この作戦には、不法滞在者の存在や入国管理施設の悪用と戦うために1,187人の検査が含まれていた。"
   },
   {
    "title": "208 PATI ditahan dalam 26 operasi serentak JIM Sabah",
@@ -652,12 +653,12 @@
     "入管・摘発"
    ],
    "title_ja": "26の同時JIMサバ作戦で208人のPATIが拘束された",
-   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、州内のすべての地区で同時に実施された26回の強制捜査により、合計208人の不法移民（PATI）を拘留した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/07/03/208-pati-ditahan-dalam-26-operasi-serentak-jim-sabah/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/07/736349118_27251486544543273_565592008402134724_n.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、州内のすべての地区で同時に実施された26回の強制捜査により、合計208人の不法移民（PATI）を拘留した。"
   },
   {
    "title": "44 PATI ditahan dalam Ops Sapu di Sandakan",
@@ -673,12 +674,12 @@
     "入管・摘発"
    ],
    "title_ja": "サンダカンのオプサプで不法滞在者44人逮捕",
-   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、先週土曜日にここサンダカン地区周辺で実施されたサプ作戦で、合計44人の不法移民（PATI）を逮捕した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/06/29/44-pati-ditahan-dalam-ops-sapu-di-sandakan/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/06/732226248_27193042367054358_2394365747823668495_n.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、先週土曜日にここサンダカン地区周辺で実施されたサプ作戦で、合計44人の不法移民（PATI）を逮捕した。"
   },
   {
    "title": "91 PATI ditahan dalam operasi bersepadu di empat daerah",
@@ -694,17 +695,17 @@
     "入管・摘発"
    ],
    "title_ja": "4地区の統合作戦で不法滞在者91人を逮捕",
-   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、コタキナバル、クダット、タワウ、ラナウで行われたいくつかの取り締まり活動で、合計91人の不法移民（PATI）を逮捕した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/06/26/91-pati-ditahan-dalam-operasi-bersepadu-di-empat-daerah/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/06/FB_IMG_1782432583884-1.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、コタキナバル、クダット、タワウ、ラナウで行われたいくつかの取り締まり活動で、合計91人の不法移民（PATI）を逮捕した。"
   },
   {
    "title": "JIM Sabah hantar pulang 351 PATI ke Indonesia, Filipina",
    "summary": "Menurut beliau, pada masa sama, seramai 138 warga Filipina dari Depot Imigresen Tawau dipindahkan melalui Pelabuhan Lahad Datu ke Pelabuhan Bongao, Tawi-Tawi menggunakan feri komersial.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjE2TGw5SmhxZDVyd1JsTkdjNVlRbUJZcHZHb05Zbk9YQmtNRGZvWktpd21ZbHdGVG9FRW8tWVFhdHk1UWhCS25mTnkyMXRBTUdFTGJLdjNwMmV0OFUzcFpGanpRUEFITU1NeVFNdlJ3MFlmZU16V1Zzd0VTZ05RSnotMjNvUkNIbjFFd1UyX1hwdms4cW4ya2Nvdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWl3WTY5dlN1TUNOcldWYzFYMEUtX3V6VlJUR1lEWWpLeVd3dlVNTE5HeHBVc00xV1NmSlNqRy02NHRhS29fWUNxallRTVlyYm82bXJOMThLUk00YUdOQTJNeHpCSVNoMzM4LWFpajFZZ3NxMkFldnVJbkUtVHMxUV9TS0IzMXA1ckp4Y0Y5Vl9xSlN1YVAzemFvQllMUjE0WGR6b2RRU05ibmpvVWJQX0Z1YW1ab05v?oc=5",
    "source": "Sabah Kini2",
    "date": "2026-06-26T07:00:00Z",
    "lang": "ms",
@@ -715,12 +716,12 @@
     "入管・摘発"
    ],
    "title_ja": "ジム・サバ州は351人のPATIをインドネシア、フィリピンに帰国させた",
-   "summary_ja": "同氏によると、同時にタワウ入国管理所から合計138人のフィリピン人が商用フェリーを使用してラハダトゥ港を経由してタウィタウィ州ボンガオ港に移送されたという。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahkini2.org/en/news/7834/jim-sabah-hantar-pulang-351-pati-ke-indonesia-filipina/view",
    "image": "https://sabahkini2.org/public/data/files/FAIL_2026/JUN_2026/JIM_Sabah_hantar_pulang_351_PATI_ke_Indonesia%2C_Filipina.jpg",
    "site_name": "Sabah Kini2",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "同氏によると、同時にタワウ入国管理所から合計138人のフィリピン人が商用フェリーを使用してラハダトゥ港を経由してタウィタウィ州ボンガオ港に移送されたという。"
   },
   {
    "title": "91 illegal immigrants nabbed in four Sabah districts",
@@ -734,12 +735,12 @@
    "id": "296242e695aa",
    "tags": [],
    "title_ja": "サバ州4地区で不法移民91人逮捕",
-   "summary_ja": "コタキナバル：水曜日（6月24日）遅く、4つの地区にわたる移民ホットスポットでの統合作戦中にサバ州入国管理局によって合計91人の不法移民が逮捕された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2026/06/25/91-illegal-immigrants-nabbed-in-four-sabah-districts",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/06/25/3976629.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：水曜日（6月24日）遅く、4つの地区にわたる移民ホットスポットでの統合作戦中にサバ州入国管理局によって合計91人の不法移民が逮捕された。"
   },
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
@@ -755,10 +756,10 @@
     "入管・摘発"
    ],
    "title_ja": "今年、サバ州から4,000人近くのPATIが追放された",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.bharian.com.my/berita/nasional/2026/06/1578188/hampir-4000-pati-sudah-diusir-dari-sabah-tahun-ini",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "JIM Sabah Tahan 91 PATI Di Empat Daerah",
@@ -774,13 +775,13 @@
     "入管・摘発"
    ],
    "title_ja": "ジム・サバ州、4つの地域で91人のPATIを拘束",
-   "summary_ja": "コタキナバル：2026年6月25日 – サバ州のマレーシア入国管理局（JIM）による数回の強制捜査で、合計91人の不法移民（IMM）が逮捕された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/jim-sabah-tahan-91-pati-di-empat-daerah/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/06/photo_2026-06-25_13-04-56.jpg",
    "image_alt": "JIM Sabah tahan 91 PATI di empat daerah",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：2026年6月25日 – サバ州のマレーシア入国管理局（JIM）による数回の強制捜査で、合計91人の不法移民（IMM）が逮捕された。"
   },
   {
    "title": "91 PATI Ditahan Dalam Operasi Bersepadu di KK, Kudat, Tawau dan Ranau",
@@ -796,12 +797,12 @@
     "入管・摘発"
    ],
    "title_ja": "KK、クダット、タワウ、ラナウでの統合作戦で91人のPATIが拘束される",
-   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は昨日、コタキナバル、クダット、タワウ、ラナウを含む4つの地区で実施された複数の取り締まり活動により、合計91人の不法移民（PATI）を逮捕した。ジム・サバは、オプス・セレラ、オプス・ショッピング、オプス・セルカップ、オプス・サプー、オプス・クティプを含む一連の作戦がコタキナバルで実行されたと報告した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/91-pati-ditahan-dalam-operasi-bersepadu-di-kk-kudat-tawau-dan-ranau/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/06/729897025_27158545887170673_7487019842714044505_n-e1782362991651.jpg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は昨日、コタキナバル、クダット、タワウ、ラナウを含む4つの地区で実施された複数の取り締まり活動により、合計91人の不法移民（PATI）を逮捕した。ジム・サバは、オプス・セレラ、オプス・ショッピング、オプス・セルカップ、オプス・サプー、オプス・クティプを含む一連の作戦がコタキナバルで実行されたと報告した。"
   },
   {
    "title": "The 15-day deficit: How Sabah’s shorter birth registration window is fuelling a statelessness crisis",
@@ -817,12 +818,12 @@
     "無国籍"
    ],
    "title_ja": "15日間の不足: サバ州の出生登録期間の短縮がいかにして無国籍危機を加速させているか",
-   "summary_ja": "コタキナバル、6月30日 — 差別禁止と知識へのアクセス推進者（アナク）事務局長のアン・バルタザール氏は、出生登録は不平等で複雑だと述べた...",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.malaymail.com/news/malaysia/2026/06/21/the-15-day-deficit-how-sabahs-shorter-birth-registration-window-is-fuelling-a-statelessness-crisis/224632",
    "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/21/347824.jpg",
    "site_name": "Malay Mail",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル、6月30日 — 差別禁止と知識へのアクセス推進者（アナク）事務局長のアン・バルタザール氏は、出生登録は不平等で複雑だと述べた..."
   },
   {
    "title": "166 PATI Filipina dihantar pulang ke negara asal",
@@ -838,13 +839,13 @@
     "入管・摘発"
    ],
    "title_ja": "166人のフィリピン国籍者が出身国に送還された",
-   "summary_ja": "ラハド・ダトゥ：昨日、マレーシア入国管理局（JIM）サバ州が実施したPATI捕虜の出身国への送還プログラムを通じて、フィリピンからの合計166人の不法外国人移民（PATI）が出身国に送還された。この移送には、コタキナバル入国管理所とサンダカン入国管理所からラハダトゥ港を経由してボンガオ港に送られた被拘禁者が含まれていた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnewstoday.net/166-pati-filipina-dihantar-pulang-ke-negara-asal/",
    "image": "https://sabahnewstoday.net/wp-content/uploads/2026/06/IMG_0777.jpeg",
    "image_alt": "IMG_0777",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラハド・ダトゥ：昨日、マレーシア入国管理局（JIM）サバ州が実施したPATI捕虜の出身国への送還プログラムを通じて、フィリピンからの合計166人の不法外国人移民（PATI）が出身国に送還された。この移送には、コタキナバル入国管理所とサンダカン入国管理所からラハダトゥ港を経由してボンガオ港に送られた被拘禁者が含まれていた。"
   },
   {
    "title": "Imigresen Sabah Pulangkan Lebih 3,000 PATI Ke Negara Asal, Majoriti Warga Filipina",
@@ -860,12 +861,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州移民局、3,000人以上の国内避難民を母国（大半がフィリピン人）に送還",
-   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、これまでに合計3,625人の不法移民（PATI）をそれぞれの出身国に送還することに成功し、移民取締りの取り組みを強化し続けている。ジム・サバ氏は声明で、不法滞在者全員の大半がフィリピン国民である2,428人、法的手続きを完了した中国国民70人が含まれると発表した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/imigresen-sabah-pulangkan-lebih-3000-pati-ke-negara-asal-majoriti-warga-filipina/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/06/IMG_9518.jpeg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、これまでに合計3,625人の不法移民（PATI）をそれぞれの出身国に送還することに成功し、移民取締りの取り組みを強化し続けている。ジム・サバ氏は声明で、不法滞在者全員の大半がフィリピン国民である2,428人、法的手続きを完了した中国国民70人が含まれると発表した。"
   },
   {
    "title": "166 PATI Warganegara Filipina Dipindahkan Pulang Melalui Lahad Datu",
@@ -882,13 +883,13 @@
     "入管・摘発"
    ],
    "title_ja": "帰化したフィリピン人166人がラハダトゥを通じて送還される",
-   "summary_ja": "ラハダトゥ：2026年6月20日 - フィリピン国民である不法移民（PATI）拘留者計166名が、ラハダトゥ港を通じて出身国に移送された",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/166-pati-warganegara-filipina-dipindahkan-pulang-melalui-lahad-datu/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-20-at-1.53.03-PM.jpeg",
    "image_alt": "166 PATI Warganegara Filipina Dipindahkan Pulang Melalui Lahad Datu",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラハダトゥ：2026年6月20日 - フィリピン国民である不法移民（PATI）拘留者計166名が、ラハダトゥ港を通じて出身国に移送された"
   },
   {
    "title": "Kemarahan Awam Berhubung Isu Rohingya Petanda Malaya Kini Mula Merasai Apa yang Sabah Tanggung Berdekad-dekad ?",
@@ -904,13 +905,13 @@
     "ロヒンギャ"
    ],
    "title_ja": "ロヒンギャ問題に対する国民の怒り マラヤが今、感じ始めている兆候 サバ州が何十年も耐えてきたものとは？",
-   "summary_ja": "(写真 - アタマ・カタマ、MOPOT 機構会長) 投稿者: MOPOT - サバ慣習地の擁護者 コタキナバル: MOPOT - サバ慣習地の擁護者は本日、西マレーシアの人々が連邦の人口統計ガバナンスの失敗を感じ始めていると強く述べた。  サバ州の人々、特にサバ州の原住民は、より早く、より深く、そして広範囲にわたる傷を負ってそれを感じてきました...",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://jesseltontimes.com/2026/06/19/kemarahan-awam-berhubung-isu-rohingya-petanda-malaya-kini-mula-merasai-apa-yang-sabah-tanggung-berdekad-dekad/",
    "image": "https://jesseltontimes.com/wp-content/uploads/2026/06/images-56.jpeg",
    "image_alt": "images (56)",
    "site_name": "Jesselton Times",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "(写真 - アタマ・カタマ、MOPOT 機構会長) 投稿者: MOPOT - サバ慣習地の擁護者 コタキナバル: MOPOT - サバ慣習地の擁護者は本日、西マレーシアの人々が連邦の人口統計ガバナンスの失敗を感じ始めていると強く述べた。  サバ州の人々、特にサバ州の原住民は、より早く、より深く、そして広範囲にわたる傷を負ってそれを感じてきました..."
   },
   {
    "title": "Talk about Sabah first before the Rohingya",
@@ -926,12 +927,12 @@
     "ロヒンギャ"
    ],
    "title_ja": "ロヒンギャの前にまずサバ州について話しましょう",
-   "summary_ja": "Sabah Ali BahBah による意見記事 マレーシアのロヒンギャ難民危機に関するコメントでインターネット全体が炎上しているようだ。ほぼ沸騰しそうな人種的緊張を乗り越えて見ると、おそらくそれは…",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/06/18/talk-about-sabah-first-before-the-rohingya/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-15.56.20.jpeg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "Sabah Ali BahBah による意見記事 マレーシアのロヒンギャ難民危機に関するコメントでインターネット全体が炎上しているようだ。ほぼ沸騰しそうな人種的緊張を乗り越えて見ると、おそらくそれは…"
   },
   {
    "title": "ESSCOM tahan 64 PATI dalam operasi bersepadu di Lahad Datu",
@@ -947,12 +948,12 @@
     "入管・摘発"
    ],
    "title_ja": "ESSCOM、ラハダトゥでの統合作戦で不法滞在者64人を拘束",
-   "summary_ja": "水曜日までの２日間にわたって実施されたこの地区での統合捜査により、フィリピンとインドネシアの不法移民（ＰＡＴＩ）国民計６４人が逮捕された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/06/18/esscom-tahan-64-pati-dalam-operasi-bersepadu-di-lahad-datu/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/06/IMG-20260618-WA0010.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "水曜日までの２日間にわたって実施されたこの地区での統合捜査により、フィリピンとインドネシアの不法移民（ＰＡＴＩ）国民計６４人が逮捕された。"
   },
   {
    "title": "64 PATI ditahan dalam operasi bersepadu ESSCOM di Lahad Datu",
@@ -968,10 +969,10 @@
     "入管・摘発"
    ],
    "title_ja": "ラハダトゥでのESSCOM統合作戦で64人のPATIが逮捕された",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://malaysiagazette.com/2026/06/18/64-pati-ditahan-dalam-operasi-bersepadu-esscom-di-lahad-datu/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Born here, but unrecognised: The fight for citizenship in Sabah",
@@ -987,12 +988,12 @@
     "市民権"
    ],
    "title_ja": "ここで生まれたが認識されていない: サバ州での市民権をめぐる戦い",
-   "summary_ja": "コタ・ベルド: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/regional/2026/06/1462885/born-here-unrecognised-fight-citizenship-sabah",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/9D20860110F9522AB54A1483CE7B34E5_data_1.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタ・ベルド: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。"
   },
   {
    "title": "SABAH MUST NOT BECOME ANOTHER CASE OF “TOO LITTLE, TOO LATE” — THE FAILURE TO IMPLEMENT THE RCI RECOMMENDATIONS HAS ALLOWED THE PTI PROBLEM TO PERSIST",
@@ -1008,13 +1009,13 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州が新たな「遅すぎる」ケースになってはなりません — RCI 勧告の実施の失敗により、PTI 問題が存続することになりました",
-   "summary_ja": "コタキナバル：ボルネオマレーシア窮状財団（BoPiMaFo）は、ロヒンギャ問題は緊急かつ協調的な行動が必要な深刻な国家的懸案となっているというタン・スリ・アヨブ・カーン氏の最近の警告に留意する。私たちは 1 つの基本原則に同意します。不法移民に早い段階で断固として対処しなければ、その影響は深刻なものになる可能性があります。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://jesseltontimes.com/2026/06/13/sabah-must-not-become-another-case-of-too-little-too-late-the-failure-to-implement-the-rci-recommendations-has-allowed-the-pti-problem-to-persist/",
    "image": "https://jesseltontimes.com/wp-content/uploads/2026/06/IMG_20260613_075717.png",
    "image_alt": "IMG_20260613_075717",
    "site_name": "Jesselton Times",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：ボルネオマレーシア窮状財団（BoPiMaFo）は、ロヒンギャ問題は緊急かつ協調的な行動が必要な深刻な国家的懸案となっているというタン・スリ・アヨブ・カーン氏の最近の警告に留意する。私たちは 1 つの基本原則に同意します。不法移民に早い段階で断固として対処しなければ、その影響は深刻なものになる可能性があります。"
   },
   {
    "title": "114 PATI ditahan, Tawau catat tangkapan tertinggi",
@@ -1030,12 +1031,12 @@
     "入管・摘発"
    ],
    "title_ja": "114人のPATIが逮捕され、タワウは最多の逮捕数を記録",
-   "summary_ja": "タワウ：昨日、サバ州移民局（JIM）の執行活動で3地区で合計114人の不法移民（PATI）が逮捕され、タワウでは昨日、さまざまな入国犯罪で61人が逮捕され、最多の逮捕者数を記録した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.hmetro.com.my/mutakhir/2026/06/1369316/114-pati-ditahan-tawau-catat-tangkapan-tertinggi",
    "image": "https://assets.hmetro.com.my/images/articles/sb-114pati-o_HMfield_image_socialmedia.var_1781318455.jpg",
    "site_name": "Harian Metro",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "タワウ：昨日、サバ州移民局（JIM）の執行活動で3地区で合計114人の不法移民（PATI）が逮捕され、タワウでは昨日、さまざまな入国犯罪で61人が逮捕され、最多の逮捕者数を記録した。"
   },
   {
    "title": "86 PATI dicekup dalam operasi imigresen di Kota Kinabalu",
@@ -1051,13 +1052,13 @@
     "入管・摘発"
    ],
    "title_ja": "コタキナバルの移民作戦で86人のPATIが逮捕された",
-   "summary_ja": "コタキナバル：昨日、同地区周辺の数カ所で実施された取締りで、マレーシア入国管理局（JIM）サバ州により合計86人の不法移民（PATI）が逮捕された。この作戦は、サバ州 JIM 執行部の合計 24 人の警察官が関与した公的告発に基づいて行われました。サバJIMの所長は声明で、作戦期間中合計125人が検査を受けたと述べた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnewstoday.net/86-pati-dicekup-dalam-operasi-imigresen-di-kota-kinabalu/",
    "image": "https://sabahnewstoday.net/wp-content/uploads/2026/06/IMG_0482.jpeg",
    "image_alt": "IMG_0482",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：昨日、同地区周辺の数カ所で実施された取締りで、マレーシア入国管理局（JIM）サバ州により合計86人の不法移民（PATI）が逮捕された。この作戦は、サバ州 JIM 執行部の合計 24 人の警察官が関与した公的告発に基づいて行われました。サバJIMの所長は声明で、作戦期間中合計125人が検査を受けたと述べた。"
   },
   {
    "title": "86 PATI Ditahan di Kota Kinabalu, Orang Ramai Diminta Terus Salurkan Maklumat",
@@ -1073,12 +1074,12 @@
     "入管・摘発"
    ],
    "title_ja": "コタキナバルで86人のPATIが逮捕、人々は引き続き情報提供を求められる",
-   "summary_ja": "コタキナバル：サバ州マレーシア入国管理局（JIM）による強制捜査により、地区周辺の数カ所で合計86人の不法移民（PATI）が逮捕された。公的告発を受けて行われたこの作戦では、24人の法執行官が125人を検査し、そのうちフィリピン人とインドネシア人からなる86人を逮捕した。拘束された人たちは全員無罪であると信じられている",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/86-pati-ditahan-di-kota-kinabalu-orang-ramai-diminta-terus-salurkan-maklumat/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/06/6f58fea6-1745-4cae-b4c3-d43b1483fea9.jpeg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州マレーシア入国管理局（JIM）による強制捜査により、地区周辺の数カ所で合計86人の不法移民（PATI）が逮捕された。公的告発を受けて行われたこの作戦では、24人の法執行官が125人を検査し、そのうちフィリピン人とインドネシア人からなる86人を逮捕した。拘束された人たちは全員無罪であると信じられている"
   },
   {
    "title": "Minister calls for careful review of IMM13 deportation petition",
@@ -1096,10 +1097,10 @@
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/282841/minister-calls-for-careful-review-of-imm13-deportation-petition/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
@@ -1115,10 +1116,10 @@
     "市民権"
    ],
    "title_ja": "IMM13 問題: 請願は徹底的に検討する必要がある: ムスタファ",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/282868/isu-imm13-petisyen-perlu-dikaji-secara-mendalam-mustapha/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Study: Disabled, stateless children among most vulnerable in Sabah",
@@ -1135,10 +1136,10 @@
     "子ども"
    ],
    "title_ja": "研究: サバ州で最も弱い立場にある障害のある無国籍の子供たち",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/06/06/study-disabled-stateless-children-among-most-vulnerable-in-sabah/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Sabah study shows stateless children excluded from healthcare, schooling and social protection systems",
@@ -1157,12 +1158,12 @@
     "無国籍"
    ],
    "title_ja": "サバ州の調査で、無国籍の子どもたちが医療、学校教育、社会的保護制度から排除されていることが判明",
-   "summary_ja": "コタキナバル — 新しい報告書によると、市民権書類も国籍も認められていないサバ州の子どもたちは、福祉のあらゆる主要な分野で遅れをとっているという。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.malaymail.com/news/malaysia/2026/06/05/sabah-study-shows-stateless-children-excluded-from-healthcare-schooling-and-social-protection-systems/222582",
    "image": "https://www.malaymail.com/malaymail/uploads/images/2026/06/05/344771.jpg",
    "site_name": "Malay Mail",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル — 新しい報告書によると、市民権書類も国籍も認められていないサバ州の子どもたちは、福祉のあらゆる主要な分野で遅れをとっているという。"
   },
   {
    "title": "Parliamentary symposium to spotlight Sabah's stateless children",
@@ -1180,12 +1181,12 @@
     "政策・政治"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
-   "summary_ja": "コタキナバル：子どもの権利の法改正に関する議会シンポジウムは、不法滞在や無国籍の子どもたちをめぐるサバ州の長年の問題の現実を浮き彫りにする手段として機能する。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/regional/2026/06/1456513/parliamentary-symposium-spotlight-sabahs-stateless-children",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/48059A741767074CA88459AE546AC988_data_1.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：子どもの権利の法改正に関する議会シンポジウムは、不法滞在や無国籍の子どもたちをめぐるサバ州の長年の問題の現実を浮き彫りにする手段として機能する。"
   },
   {
    "title": "Undocumented children and those in rural Sabah lag in health, digital access, says Unicef study",
@@ -1202,12 +1203,12 @@
     "子ども"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
-   "summary_ja": "コタキナバル：国連児童基金（ユニセフ）マレーシアによると、不法滞在の子供たちや、アクセスが困難な場所に住んでいる子供たちは、全体的な幸福にとって最も大きな障壁に直面している人々の一人であることが判明した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2026/06/05/undocumented-children-and-those-in-rural-sabah-lag-in-health-digital-access-says-unicef-study",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/06/05/3944097.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：国連児童基金（ユニセフ）マレーシアによると、不法滞在の子供たちや、アクセスが困難な場所に住んでいる子供たちは、全体的な幸福にとって最も大きな障壁に直面している人々の一人であることが判明した。"
   },
   {
    "title": "Sembilan PATI dipenjara, didenda masuk Sabah secara haram",
@@ -1223,12 +1224,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州に不法入国した9人のPATIが投獄、罰金刑",
-   "summary_ja": "9 人の不法移民 (PATI) が、有効な渡航書類を持たずにサバ州に入国したとして有罪を認め、有罪判決を受けた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/06/03/sembilan-pati-dipenjara-didenda-masuk-sabah-secara-haram/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/09/InShot_20250917_191100835-scaled.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "9 人の不法移民 (PATI) が、有効な渡航書類を持たずにサバ州に入国したとして有罪を認め、有罪判決を受けた。"
   },
   {
    "title": "“DON’T CONFUSE REFUGEES WITH ILLEGAL IMMIGRATION” — SABAH DESERVES HONEST DISCUSSION, NOT EMOTIONAL SIMPLIFICATION",
@@ -1245,13 +1246,13 @@
     "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
-   "summary_ja": "ボルネオ窮状マレーシア財団（BoPiMaFo）、ダニエル・ジョン・ジャンブン著 コタキナバル：ボルネオ窮状マレーシア財団（BoPiMaFo）は、サバ州人に難民問題についてより人道的な理解を求めるサバ・ムフティ・ダトゥク・ブンス・アジズ・ジャーファルの最近の発言に注目している。私たちは明確に述べます：慈悲と移民法は相互に排他的ではありません。でもサバは…",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://jesseltontimes.com/2026/05/29/dont-confuse-refugees-with-illegal-immigration-sabah-deserves-honest-discussion-not-emotional-simplification/",
    "image": "https://jesseltontimes.com/wp-content/uploads/2026/05/IMG_20260529_052101.jpg",
    "image_alt": "IMG_20260529_052101",
    "site_name": "Jesselton Times",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ボルネオ窮状マレーシア財団（BoPiMaFo）、ダニエル・ジョン・ジャンブン著 コタキナバル：ボルネオ窮状マレーシア財団（BoPiMaFo）は、サバ州人に難民問題についてより人道的な理解を求めるサバ・ムフティ・ダトゥク・ブンス・アジズ・ジャーファルの最近の発言に注目している。私たちは明確に述べます：慈悲と移民法は相互に排他的ではありません。でもサバは…"
   },
   {
    "title": "LDP calls for practical solutions to Sabah stateless issue",
@@ -1267,10 +1268,10 @@
     "無国籍"
    ],
    "title_ja": "自民党はサバ州無国籍問題の現実的な解決策を求める",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/282196/ldp-calls-for-practical-solutions-to-sabah-stateless-issue/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "LDP urges constructive approach to Sabah’s PTI, stateless children issues",
@@ -1288,10 +1289,10 @@
     "無国籍"
    ],
    "title_ja": "自民党はサバ州のPTI、無国籍児童問題への建設的なアプローチを要請",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/05/27/ldp-urges-constructive-approach-to-sabahs-pti-stateless-children-issues/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Pelarian di Sabah mesti ada keinginan berubah, mekanisme penyelesaian perlu holistik – Mufti Sabah",
@@ -1307,12 +1308,12 @@
     "難民"
    ],
    "title_ja": "サバ州の難民は変わりたいという願望を持っていなければならず、解決メカニズムは総合的である必要がある - サバ・ムフティ",
-   "summary_ja": "サバ州のムフティ、ダトゥク・ブンス・アジズ・ジャアファル氏は、国境に入りサバ州に定住する外国人難民は変わりたいという願望を持つ必要があると語った。彼は、自分の運命を改善するという決意には、総合的な解決メカニズムがフォローアップされる必要があると説明しました。 #アジェンダAWANI",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.astroawani.com/video/pelarian-di-sabah-mesti-ada-keinginan-berubah-mekanisme-penyelesaian-perlu-holistik--mufti-sabah",
    "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s1.dmcdn.net/v/bBVPC1g5ibRPNzjU9",
    "site_name": "Awani",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のムフティ、ダトゥク・ブンス・アジズ・ジャアファル氏は、国境に入りサバ州に定住する外国人難民は変わりたいという願望を持つ必要があると語った。彼は、自分の運命を改善するという決意には、総合的な解決メカニズムがフォローアップされる必要があると説明しました。 #アジェンダAWANI"
   },
   {
    "title": "Rakyat Sabah perlu difahamkan isu pelarian melalui lensa kemanusiaan – Mufti Sabah",
@@ -1328,12 +1329,12 @@
     "難民"
    ],
    "title_ja": "サバ州の人々は人道的な視点から難民問題を理解する必要がある - サバ・ムフティ",
-   "summary_ja": "サバ州のムフティ、ダトゥク・ブンス・アジズ・ジャアファル氏は、サバ州人は人道的価値観に基づいた合理的なアプローチで入国する難民の問題を理解する必要があると述べた。 #アジェンダAWANI",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.astroawani.com/video/rakyat-sabah-perlu-difahamkan-isu-pelarian-melalui-lensa-kemanusiaan--mufti-sabah",
    "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s1.dmcdn.net/v/cWGQA1gKt705r570n",
    "site_name": "Awani",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のムフティ、ダトゥク・ブンス・アジズ・ジャアファル氏は、サバ州人は人道的価値観に基づいた合理的なアプローチで入国する難民の問題を理解する必要があると述べた。 #アジェンダAWANI"
   },
   {
    "title": "Action urged on stateless issue, MyKAS proposal",
@@ -1350,10 +1351,10 @@
     "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS 提案に対して行動を促す",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/282132/action-urged-on-stateless-issue-mykas-proposal/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Perlu tindakan segera isu tanpa kewarganegaraan, cadangan MyKAS",
@@ -1370,10 +1371,10 @@
     "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/282174/perlu-tindakan-segera-isu-tanpa-kewarganegaraan-cadangan-mykas/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "11 PATI dipenjara atas pelbagai kesalahan imigresen",
@@ -1389,12 +1390,12 @@
     "入管・摘発"
    ],
    "title_ja": "11人のPATIがさまざまな入国犯罪で投獄された",
-   "summary_ja": "合計 11 人の不法移民 (PATI) が、さまざまな移民犯罪を犯したとして、ここのセッションズ裁判所によって実刑判決を受けた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/05/25/11-pati-dipenjara-atas-pelbagai-kesalahan-imigresen/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/09/InShot_20250917_191100835-scaled.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "合計 11 人の不法移民 (PATI) が、さまざまな移民犯罪を犯したとして、ここのセッションズ裁判所によって実刑判決を受けた。"
   },
   {
    "title": "Program hantar pulang PATI diteruskan melalui udara",
@@ -1410,12 +1411,12 @@
     "入管・摘発"
    ],
    "title_ja": "PATI本国送還プログラムは空路でも継続",
-   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、8人のフィリピン人を米国に送還することで、空輸による強制送還カテゴリーにおける不法移民のための被収容者移送プログラム（PATI）を継続している。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/05/23/program-hantar-pulang-pati-diteruskan-melalui-udara/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/05/IMM-21-mei.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、8人のフィリピン人を米国に送還することで、空輸による強制送還カテゴリーにおける不法移民のための被収容者移送プログラム（PATI）を継続している。"
   },
   {
    "title": "RELAX MYKAS RULES?” — SABAH HAS HAD ENOUGH OF IMMIGRATION FAILURES AND IDENTITY CONTROVERSIES",
@@ -1432,13 +1433,13 @@
     "市民権"
    ],
    "title_ja": "ミカスのルールを緩めますか？」 — サバ州では移民の失敗やアイデンティティに関する論争が何度もあった",
-   "summary_ja": "ダニエル・ジョン・ジャンブン氏、マレーシア窮状ボルネオ財団（BoPiMaFo） コタキナバル：マレーシア窮状財団（BoPiMaFo）は、サバ州の無国籍者に対するMyKas申請要件を緩和するよう政府に求めるマレーシア国際人道機関（MHO）の提案に真剣に留意している。私たちははっきりと述べます：サバ州はもう十分です。未解決の移民はもう十分だ",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://jesseltontimes.com/2026/05/22/relax-mykas-rules-sabah-has-had-enough-of-immigration-failures-and-identity-controversies/",
    "image": "https://jesseltontimes.com/wp-content/uploads/2026/05/images-41.jpeg",
    "image_alt": "images (41)",
    "site_name": "Jesselton Times",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ダニエル・ジョン・ジャンブン氏、マレーシア窮状ボルネオ財団（BoPiMaFo） コタキナバル：マレーシア窮状財団（BoPiMaFo）は、サバ州の無国籍者に対するMyKas申請要件を緩和するよう政府に求めるマレーシア国際人道機関（MHO）の提案に真剣に留意している。私たちははっきりと述べます：サバ州はもう十分です。未解決の移民はもう十分だ"
   },
   {
    "title": "NGO warns against MyKas eligibility relaxation",
@@ -1455,10 +1456,10 @@
     "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/05/22/ngo-warns-against-mykas-eligibility-relaxation/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Improve rather than replace MyKAS: Malaysia International Humanitarian Organisation",
@@ -1474,10 +1475,10 @@
     "市民権"
    ],
    "title_ja": "MyKAS を置き換えるのではなく改善する: マレーシア国際人道支援機関",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/281911/improve-rather-than-replace-mykas-malaysia-international-humanitarian-organisation/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Relax MyKas rules for stateless Sabahans, MHO tells govt",
@@ -1494,10 +1495,10 @@
     "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/05/21/relax-mykas-rules-for-stateless-sabahans-mho-tells-govt/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "MHO urges Putrajaya to revise MyKas policy",
@@ -1514,10 +1515,10 @@
     "政策・政治"
    ],
    "title_ja": "MHO、プトラジャヤにMyKas政策の改訂を要請",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/281898/mho-urges-putrajaya-to-revise-mykas-policy/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "MHO Gesa Pembaharuan Dasar MyKAS, Isu ‘Stateless’ Sabah Semakin Membimbangkan",
@@ -1535,12 +1536,12 @@
     "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
-   "summary_ja": "コタキナバル：マレーシア国際人道機関（MHO）は、現行の条件が厳しすぎるとされ、結果としてサバ州の無国籍者の多くが有効な身分証明書を持たないままになっているとして、連邦政府に対しMyKAS政策を見直すよう求めている。サバ州MHOコーディネーターのジェリー・ジェイメ氏は、MyKASメカニズムは置き換える必要はなく、むしろ改善する必要があると述べた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/mho-gesa-pembaharuan-dasar-mykas-isu-stateless-sabah-semakin-membimbangkan/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/05/f6534283-57f4-4c91-9c8a-ac16505d0fb2.jpeg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：マレーシア国際人道機関（MHO）は、現行の条件が厳しすぎるとされ、結果としてサバ州の無国籍者の多くが有効な身分証明書を持たないままになっているとして、連邦政府に対しMyKAS政策を見直すよう求めている。サバ州MHOコーディネーターのジェリー・ジェイメ氏は、MyKASメカニズムは置き換える必要はなく、むしろ改善する必要があると述べた。"
   },
   {
    "title": "Immigration rounds up 54 illegal immigrants in Sabah crackdown",
@@ -1556,12 +1557,12 @@
     "入管・摘発"
    ],
    "title_ja": "移民局、サバ州の取り締まりで不法移民54人を検挙",
-   "summary_ja": "コタキナバル：サバ州入国管理局は最近、シピタンとセンポルナでの取締り中に、さまざまな入国犯罪で外国人54人を検挙した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/regional/2026/05/1440755/immigration-rounds-54-illegal-immigrants-sabah-crackdown",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/92061903CA2A61F33CB3B688795C5246_data.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州入国管理局は最近、シピタンとセンポルナでの取締り中に、さまざまな入国犯罪で外国人54人を検挙した。"
   },
   {
    "title": "285 tahanan PATI warga Filipina dipindahkan pulang melalui Lahad Datu",
@@ -1577,13 +1578,13 @@
     "入管・摘発"
    ],
    "title_ja": "285人のフィリピン人PATI捕虜がラハダトゥ経由で自宅に移送された",
-   "summary_ja": "ラハダトゥ、2026年5月15日 – フィリピンからの合計285人の不法外国人移民（PATI）拘留者が、ラハダトゥ港を通じて出身国に送還された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/285-tahanan-pati-warga-filipina-dipindahkan-pulang-melalui-lahad-datu/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/05/2be77c00-4433-4f8c-9014-76afe39aa59b.jpeg",
    "image_alt": "285 tahanan PATI warga Filipina dipindahkan pulang melalui Lahad Datu",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラハダトゥ、2026年5月15日 – フィリピンからの合計285人の不法外国人移民（PATI）拘留者が、ラハダトゥ港を通じて出身国に送還された。"
   },
   {
    "title": "JIM hantar pulang 285 PATI warga Filipina",
@@ -1599,10 +1600,10 @@
     "入管・摘発"
    ],
    "title_ja": "JIMは285人のPATIフィリピン人を帰国させた",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.buletintv3.my/nasional/jim-hantar-pulang-285-pati-warga-filipina/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Sabah deports 156 Indonesian illegal immigrants in latest exercise",
@@ -1618,12 +1619,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州、最新の演習でインドネシア人不法移民156人を国外追放",
-   "summary_ja": "コタキナバル：サバ州入国管理局は、月曜日（5月11日）の国外追放演習中にインドネシア人不法移民156人を送り返した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2026/05/12/sabah-deports-156-indonesian-illegal-immigrants-in-latest-exercise",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/05/12/3903892.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州入国管理局は、月曜日（5月11日）の国外追放演習中にインドネシア人不法移民156人を送り返した。"
   },
   {
    "title": "156 PATI dihantar pulang ke negara asal",
@@ -1639,12 +1640,12 @@
     "入管・摘発"
    ],
    "title_ja": "156人のPATIが出身国に送還された",
-   "summary_ja": "3歳から62歳までの合計156人のインドネシア人不法移民拘留者が出身国に送還された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/05/12/156-pati-dihantar-pulang-ke-negara-asal/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/05/IMM-Tawau.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "3歳から62歳までの合計156人のインドネシア人不法移民拘留者が出身国に送還された。"
   },
   {
    "title": "156 PATI warga Indonesia dihantar pulang",
@@ -1660,12 +1661,12 @@
     "入管・摘発"
    ],
    "title_ja": "PATIインドネシア国民156人が帰国",
-   "summary_ja": "タワウ：本日、マレーシア移民局（JIM）サバ州の最新の移送作戦により、合計156人のインドネシア人不法移民（PATI）がここタワウ港を通じて出身国に送還された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.hmetro.com.my/mutakhir/2026/05/1356672/156-pati-warga-indonesia-dihantar-pulang",
    "image": "https://assets.hmetro.com.my/images/articles/gibalik-o_HMfield_image_socialmedia.var_1778508241.jpg",
    "site_name": "Harian Metro",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "タワウ：本日、マレーシア移民局（JIM）サバ州の最新の移送作戦により、合計156人のインドネシア人不法移民（PATI）がここタワウ港を通じて出身国に送還された。"
   },
   {
    "title": "Kerajaan digesa longgar syarat MyKas bantu golongan stateless Sabah – MHO",
@@ -1683,10 +1684,10 @@
     "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://malaysiagazette.com/2026/05/10/kerajaan-digesa-longgar-syarat-mykas-bantu-golongan-stateless-sabah-mho/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Ops Sapu nets 21 undocumented foreigners in Kota Kinabalu",
@@ -1700,10 +1701,10 @@
    "id": "19399a672a81",
    "tags": [],
    "title_ja": "オプスサプ、コタキナバルで不法滞在の外国人21人を逮捕",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/281147/ops-sapu-nets-21-undocumented-foreigners-in-kota-kinabalu/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Tiga daerah digempur, 132 PATI ditahan di Sabah",
@@ -1719,12 +1720,12 @@
     "入管・摘発"
    ],
    "title_ja": "3つの地域が攻撃され、サバ州で132人のPATIが拘束された",
-   "summary_ja": "コタキナバル、5月8日：マレーシア入国管理局（JIM）サバ州は昨日、3つの地区で同時に実施された統合作戦により、合計132人の不法移民（PATI）を逮捕することに成功した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.tvsarawak.my/2026/05/08/tiga-daerah-digempur-132-pati-ditahan-di-sabah/",
    "image": "https://s3.tvstv.my/wp-content/uploads/2026/05/NOOOOO-WATERMARK-2026-05-08T145305.667.jpg",
    "site_name": "TVS",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル、5月8日：マレーシア入国管理局（JIM）サバ州は昨日、3つの地区で同時に実施された統合作戦により、合計132人の不法移民（PATI）を逮捕することに成功した。"
   },
   {
    "title": "Bajau Laut teen’s illegal entry trial set for 2027: His case draws attention on stateless issue in Sabah",
@@ -1742,10 +1743,10 @@
     "無国籍"
    ],
    "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
-   "summary_ja": "",
    "first_seen": "2026-08-10T08:27:43Z",
    "url_real": "https://www.dailyexpress.com.my/news/281050/bajau-laut-teen-s-illegal-entry-trial-set-for-2027-his-case-draws-attention-on-stateless-issue-in-sabah/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
@@ -1762,12 +1763,12 @@
     "市民権"
    ],
    "title_ja": "MHO、文書危機に対処するために無国籍者向けの MyKAS カードを支援",
-   "summary_ja": "クアラルンプール：人道団体は内務省に対し、影響を受ける個人と国家安全保障の両方にリスクをもたらす長期にわたる文書作成危機に対処するため、MyKAS一時居住者IDカードを無国籍者にも拡大するよう求めた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/nation/2026/05/1433542/mho-backs-mykas-card-stateless-people-address-documentation-crisis",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/63AF211C3B74726DDAE5A3F891F6FB1A_data_3.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "クアラルンプール：人道団体は内務省に対し、影響を受ける個人と国家安全保障の両方にリスクをもたらす長期にわたる文書作成危機に対処するため、MyKAS一時居住者IDカードを無国籍者にも拡大するよう求めた。"
   },
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
@@ -1803,12 +1804,12 @@
     "入管・摘発"
    ],
    "title_ja": "有効なパスポートなしでサバ州に入国した32人のPATIに懲役と罰金刑",
-   "summary_ja": "合計30人の不法移民（PATI）が、有効な渡航書類を持たずにサバ州に入国した罪で有罪を認めた後、当地のセッションズ裁判所によりそれぞれ4か月の懲役刑を言い渡された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/05/04/32-pati-dihukum-penjara-denda-masuk-sabah-tanpa-pas-sah/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/03/InShot_20250325_102547117.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "合計30人の不法移民（PATI）が、有効な渡航書類を持たずにサバ州に入国した罪で有罪を認めた後、当地のセッションズ裁判所によりそれぞれ4か月の懲役刑を言い渡された。"
   },
   {
    "title": "Prioritize the future of Sabah's youth and TVET graduates rather than MyKas holders, says Warisan",
@@ -1824,15 +1825,15 @@
     "市民権"
    ],
    "title_ja": "MyKas保持者よりもサバ州の若者とTVET卒業生の将来を優先すべきだとワリサン氏は言う",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/04/30/prioritize-the-future-of-sabahs-youth-and-tvet-graduates-rather-than-mykas-holders-says-warisan/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "From sea gypsies to street kids: Sabah's stateless children fighting to survive",
    "summary": "KOTA KINABALU:  Last year, a video of migrant children grabbing leftovers from a table at a restaurant went viral, shocking netizens.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3loclNubnl4MmNWWWFoVG1UY1FJakV3NWxKek8wZkNEWml3anVUOHlRQ0NVc1NjQm1HZmUwakVwOHVEU3Z5OWFHQl9fclh0aGU1WFFCdHc2RWg5QTEyd3lSaHJGQzNTOHJ4SjczLUl1bElsNnpZUGNpc1BmOUtSa0w4RHRoZV8zbmtlclRnVmlIN2E3WVJOa3BQcEtVSGdQMUNWc0NJckU1TnZQNlZZNWtIZnBTanVW0gG-AUFVX3lxTE5OX0VSOFV2VUVrRG93dUd2NUNUZTFOcjg3MF9RdWUwelJ6MUlic3pjX2JfaXlIV3dWNHN1cUNScnVOTGEzX0ZjbUVfRXBrOUdTbzBudllPNXN6cGhGNDkwcHFnSXhYWUM3dW1fWDJ0bEEwZHpMYXNvUlBEejR6cWJqcWZnYUY2RGFMcjBPZmlYNDRmS3cwYmdPSS1KNVRnbG96MnNxeVFPZTVBVFZYa3NKVWxGVWY2VmVESk5tbXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdXRYZFlkczRUYUQzbUE2THAxM1RXZFhtQUMxUkw2SUlDUmFRT2NJR2dPSThTdWVTNGVrX3puMVFfVGNJUGU1VEItMy1GRmVfaGdYQURMb1hXMFd4Ni1yMl8yajhGZ1R6NGI1dUQ0dzVSS3p4Z25jVHZpMENCeXBzR2h6V0p3c2hGWnMyWi12NExxTkF0aGhlVjZoT3FGS0VKeDltQ2Z1b29hSGJ1T1ktWHRURzJDdVNlM3UtRDlHWG00TTRUeHFsMEpLUUYwOWtUVFhYUS1Sb2dSRENSZmZKdGdwR1gzdnhDNHkxY3pnemZzUC1mcTEyQzFSRVVTeWx3a3VGUFJ0TEx2MWtudlE4RXdDN3F1SFU1MmhxOS1YbEU3dVFDRTcyR09YVF9RSDdRY2pN0gG-AUFVX3lxTE5OX0VSOFV2VUVrRG93dUd2NUNUZTFOcjg3MF9RdWUwelJ6MUlic3pjX2JfaXlIV3dWNHN1cUNScnVOTGEzX0ZjbUVfRXBrOUdTbzBudllPNXN6cGhGNDkwcHFnSXhYWUM3dW1fWDJ0bEEwZHpMYXNvUlBEejR6cWJqcWZnYUY2RGFMcjBPZmlYNDRmS3cwYmdPSS1KNVRnbG96MnNxeVFPZTVBVFZYa3NKVWxGVWY2VmVESk5tbXc?oc=5",
    "source": "NST Online",
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
@@ -1844,12 +1845,12 @@
     "無国籍"
    ],
    "title_ja": "海のジプシーからストリートチルドレンまで：生き残るために戦うサバ州の無国籍の子供たち",
-   "summary_ja": "コタキナバル：昨年、移民の子供たちがレストランのテーブルから残り物を掴む動画が急速に拡散し、ネットユーザーに衝撃を与えた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/nation/2026/04/1429317/sea-gypsies-street-kids-sabahs-stateless-children-fighting-survive",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/6D50EFFC87D98FB099BA6FCFEF0E237C_data_1.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：昨年、移民の子供たちがレストランのテーブルから残り物を掴む動画が急速に拡散し、ネットユーザーに衝撃を与えた。"
   },
   {
    "title": "166 PATI dihantar pulang ke Filipina",
@@ -1865,12 +1866,12 @@
     "入管・摘発"
    ],
    "title_ja": "166人のPATIがフィリピンに送り返された",
-   "summary_ja": "フィリピン国籍の不法移民 (PATI) 囚人計 166 名が、マレーシア入国管理局 (JIM) が実施した PATI 拘留者移送プログラムを通じて出身国に送還されました。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/04/29/166-pati-dihantar-pulang-ke-filipina/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/04/Imm-hantar-pulang.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "フィリピン国籍の不法移民 (PATI) 囚人計 166 名が、マレーシア入国管理局 (JIM) が実施した PATI 拘留者移送プログラムを通じて出身国に送還されました。"
   },
   {
    "title": "A classroom under a tree: Sabah's stateless children learning without schools or documents",
@@ -1888,12 +1889,12 @@
     "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
-   "summary_ja": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。しかし、彼らは中国人ではなく、家庭でも中国語を話せません。",
    "first_seen": "2026-08-10T08:27:43Z",
    "url_real": "https://www.nst.com.my/news/nation/2026/04/1429328/classroom-under-tree-sabahs-stateless-children-learning-without-schools",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/4BF6542D82F5C73A236D0066A877FF0E_data_1.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。しかし、彼らは中国人ではなく、家庭でも中国語を話せません。"
   },
   {
    "title": "Undocumented children in Sabah trapped by stigma and denied basic rights: NGO",
@@ -1910,12 +1911,12 @@
     "子ども"
    ],
    "title_ja": "サバ州の不法滞在の子供たちが汚名に囚われ、基本的権利を否定される：NGO",
-   "summary_ja": "コタキナバル: 不法滞在の子供たちに対する社会的偏見が、彼らを助ける取り組みを妨げていると活動家は語る。",
    "first_seen": "2026-08-10T08:27:43Z",
    "url_real": "https://www.nst.com.my/news/nation/2026/04/1429323/undocumented-children-sabah-trapped-stigma-and-denied-basic-rights-ngo",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/5E4DCA90D7C0A65727E864CAC4240586_data_0.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル: 不法滞在の子供たちに対する社会的偏見が、彼らを助ける取り組みを妨げていると活動家は語る。"
   },
   {
    "title": "Sabah leader backs MyKAS move for stateless people",
@@ -1932,12 +1933,12 @@
     "無国籍"
    ],
    "title_ja": "サバ州の指導者、無国籍者のためのMyKASの動きを支持",
-   "summary_ja": "コタキナバル：無国籍者や不法滞在者にMyKASを提供するという政府の取り組みは賢明で前向きな一歩だとペルーサハーン・ラクヤット・サバ・バックベンチャーズ・クラブ会長のダトゥク・マシウン・バナ氏は言う。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/regional/2026/04/1427313/sabah-leader-backs-mykas-move-stateless-people",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/90DF312E529CB2E09D9B3A28CE79718F_data_1.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：無国籍者や不法滞在者にMyKASを提供するという政府の取り組みは賢明で前向きな一歩だとペルーサハーン・ラクヤット・サバ・バックベンチャーズ・クラブ会長のダトゥク・マシウン・バナ氏は言う。"
   },
   {
    "title": "19 PATI ditahan dalam operasi di Sipitang",
@@ -1953,12 +1954,12 @@
     "入管・摘発"
    ],
    "title_ja": "シピタンでの作戦で不法滞在者19人が逮捕された",
-   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、シピタン地区入国管理局の管轄区域周辺で不法移民（PATI）に対する強制措置を継続している。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/04/25/19-pati-ditahan-dalam-operasi-di-sipitang/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/04/IMM-sipitang.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州のマレーシア入国管理局（JIM）は、シピタン地区入国管理局の管轄区域周辺で不法移民（PATI）に対する強制措置を継続している。"
   },
   {
    "title": "PPM Sabah gagalkan seludup arak, tahan PATI dalam dua operasi di Semporna",
@@ -1974,12 +1975,12 @@
     "入管・摘発"
    ],
    "title_ja": "PPMサバ州がアルコール密輸に失敗、センポルナでの2つの作戦でPATIを逮捕",
-   "summary_ja": "センポルナ、4月25日：本日、この地区の海域でサバ州第4海兵警察隊（PPM）による2件の作戦の一環として、非課税の酒144本を含むRM51,320相当を押収した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.tvsarawak.my/2026/04/25/ppm-sabah-gagalkan-seludup-arak-tahan-pati-dalam-dua-operasi-di-semporna/",
    "image": "https://s3.tvstv.my/wp-content/uploads/2026/04/PIXX13102025-rk-5-1.png",
    "site_name": "TVS",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "センポルナ、4月25日：本日、この地区の海域でサバ州第4海兵警察隊（PPM）による2件の作戦の一環として、非課税の酒144本を含むRM51,320相当を押収した。"
   },
   {
    "title": "19 PATI dicekup dalam operasi imigresen",
@@ -1995,13 +1996,13 @@
     "入管・摘発"
    ],
    "title_ja": "19人のPATIが入国審査で捕まった",
-   "summary_ja": "シピタン：昨日、この地区周辺でサバ州マレーシア入国管理局による強制捜査により、合計19人の不法移民（PATI）が逮捕された。この作戦では、警察官8人が4つの施設を捜索し、合計411人を検査した。検査の結果、拘束された不法滞在者は全員、渡航書類やパスポートを提示しなかったインドネシア人とフィリピン人であることが判明した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnewstoday.net/19-pati-dicekup-dalam-operasi-imigresen/",
    "image": "https://sabahnewstoday.net/wp-content/uploads/2026/04/IMG_1594.jpeg",
    "image_alt": "IMG_1594",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "シピタン：昨日、この地区周辺でサバ州マレーシア入国管理局による強制捜査により、合計19人の不法移民（PATI）が逮捕された。この作戦では、警察官8人が4つの施設を捜索し、合計411人を検査した。検査の結果、拘束された不法滞在者は全員、渡航書類やパスポートを提示しなかったインドネシア人とフィリピン人であることが判明した。"
   },
   {
    "title": "207 PATI dihantar pulang ke negara asal",
@@ -2017,12 +2018,12 @@
     "入管・摘発"
    ],
    "title_ja": "207人のPATIが出身国に送還された",
-   "summary_ja": "マレーシア入国管理局（JIM）サバ州によるPATI拘留者移送プログラムを通じて、合計207人の不法滞在者（PATI）が出身国に送還された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/04/24/207-pati-dihantar-pulang-ke-negara-asal/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/04/deport.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "マレーシア入国管理局（JIM）サバ州によるPATI拘留者移送プログラムを通じて、合計207人の不法滞在者（PATI）が出身国に送還された。"
   },
   {
    "title": "207 tahanan PATI dipulangkan ke negara asal",
@@ -2038,13 +2039,13 @@
     "入管・摘発"
    ],
    "title_ja": "207人のPATI捕虜が出身国に送還された",
-   "summary_ja": "サバ州: 2026 年 4 月 24 日 - 合計 207 人の不法移民抑留者 (PATI) が、PATI 抑留者移送プログラムを通じて出身国に送還されました。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/207-tahanan-pati-dipulangkan-ke-negara-asal/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/04/IMG_3211.jpeg",
    "image_alt": "207 tahanan PATI dipulangkan ke negara asal",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州: 2026 年 4 月 24 日 - 合計 207 人の不法移民抑留者 (PATI) が、PATI 抑留者移送プログラムを通じて出身国に送還されました。"
   },
   {
    "title": "Imigresen Tahan 19 PATI Dalam Operasi di Sipitang",
@@ -2060,12 +2061,12 @@
     "入管・摘発"
    ],
    "title_ja": "入国管理局はシピタンで19のPATIを稼働させている",
-   "summary_ja": "シピタン：昨日、サバ州入国管理局（JIM）がシピタン地区入国管理局の管轄区域周辺で実施した取締りで、合計19人の不法移民（PATI）が逮捕された。 4つの施設で行われたこの作戦には、合計8人の入国審査官が関与した。 41名を対象とした検査の結果、外国人計19名が合格",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/imigresen-tahan-19-pati-dalam-operasi-di-sipitang/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/04/680365765_26398868926471710_3669218084151876740_n-e1777003767812.jpg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "シピタン：昨日、サバ州入国管理局（JIM）がシピタン地区入国管理局の管轄区域周辺で実施した取締りで、合計19人の不法移民（PATI）が逮捕された。 4つの施設で行われたこの作戦には、合計8人の入国審査官が関与した。 41名を対象とした検査の結果、外国人計19名が合格"
   },
   {
    "title": "207 PATI Babit Indonesia, Filipina Dipulangkan Imigresen Selepas Selesai Jalani Hukuman",
@@ -2081,12 +2082,12 @@
     "入管・摘発"
    ],
    "title_ja": "207人のPATIインドネシア人、フィリピン人が刑期を終えて入国管理局に帰国",
-   "summary_ja": "コタキナバル：インドネシア人とフィリピン人を含む合計207人の不法滞在者（PATI）が木曜、マレーシア入国管理局（JIM）サバ州によって刑期を終えて母国に送還された。このうち、合計192人がインドネシア国民、残りの15人がフィリピン国民で、全国の入国管理所からの収容者が含まれている。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/207-pati-babit-indonesia-filipina-dipulangkan-imigresen-selepas-selesai-jalani-hukuman/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/04/680464600_26392632930428643_739757968864684584_n-e1777005672865.jpg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：インドネシア人とフィリピン人を含む合計207人の不法滞在者（PATI）が木曜、マレーシア入国管理局（JIM）サバ州によって刑期を終えて母国に送還された。このうち、合計192人がインドネシア国民、残りの15人がフィリピン国民で、全国の入国管理所からの収容者が含まれている。"
   },
   {
    "title": "Syarikat dikompaun RM105,000 lindungi 21 PATI",
@@ -2102,12 +2103,12 @@
     "入管・摘発"
    ],
    "title_ja": "会社は 21 PATI で保護された RM105,000 を複利化しました",
-   "summary_ja": "ある企業は、21人の不法移民（PATI）を自社の管理下の敷地内に匿ったとして、RM105,000の罰金を科せられた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/04/23/syarikat-dikompaun-rm105000-lindungi-21-pati/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/04/imm-kompaun.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ある企業は、21人の不法移民（PATI）を自社の管理下の敷地内に匿ったとして、RM105,000の罰金を科せられた。"
   },
   {
    "title": "Refugee crisis in Malaysia reaches critical levels as Sabah faces mounting pressure",
@@ -2123,12 +2124,12 @@
     "難民"
    ],
    "title_ja": "サバ州が高まる圧力に直面し、マレーシアの難民危機が危機レベルに達する",
-   "summary_ja": "この国は深刻化する難民問題に直面しており、サバ州だけで100万人以上の難民がいるとの推計もある。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thevibes.com/articles/news/122134/refugee-crisis-in-malaysia-reaches-critical-levels-as-sabah-faces-mounting-pressure",
    "image": "https://media.thevibes.com/images/uploads/covers/_large/rohingya-refugees-boat-migrant-AFP.jpg",
    "site_name": "The Vibes",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "この国は深刻化する難民問題に直面しており、サバ州だけで100万人以上の難民がいるとの推計もある。"
   },
   {
    "title": "Isu pelarian di Malaysia mencecah tahap kritikal, di Sabah sahaja lebih sejuta",
@@ -2144,10 +2145,10 @@
     "難民"
    ],
    "title_ja": "マレーシアの難民問題は危機的なレベルに達しており、サバ州だけで100万人以上が難民となっている",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.bharian.com.my/berita/nasional/2026/04/1536758/isu-pelarian-di-malaysia-mencecah-tahap-kritikal-di-sabah-sahaja",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "31 PATI ditahan dalam operasi JIM di Kundasang",
@@ -2163,12 +2164,12 @@
     "入管・摘発"
    ],
    "title_ja": "クンダサンでのJIM作戦で31人のPATIが逮捕された",
-   "summary_ja": "マレーシア移民局（JIM）サバ州が実施した作戦で、合計31人の不法移民（PATI）の逮捕に成功した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/04/15/31-pati-ditahan-dalam-operasi-jim-di-kundasang/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/04/671017384_26305906715767932_1437633684841134727_n.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "マレーシア移民局（JIM）サバ州が実施した作戦で、合計31人の不法移民（PATI）の逮捕に成功した。"
   },
   {
    "title": "Sabah civil society groups call for transparency on undocumented population",
@@ -2184,12 +2185,12 @@
     "人権・NGO"
    ],
    "title_ja": "サバ州の市民社会団体、不法滞在者に関する透明性を求める",
-   "summary_ja": "コタキナバル：市民社会団体は、サバ州の不法滞在者に関する透明性の向上と、外国人排斥の高まりを抑制するためのより強力な行動を求めている。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2026/04/05/sabah-civil-society-groups-call-for-transparency-on-undocumented-population",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/04/05/3845119.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：市民社会団体は、サバ州の不法滞在者に関する透明性の向上と、外国人排斥の高まりを抑制するためのより強力な行動を求めている。"
   },
   {
    "title": "Dua majikan didenda RM5,000 lindungi PATI di Lahad Datu",
@@ -2205,13 +2206,13 @@
     "入管・摘発"
    ],
    "title_ja": "ラハダトゥの不法移民保護で雇用主2社にRM5,000の罰金",
-   "summary_ja": "ラハダトゥ：2026年4月3日 – 本日、地元雇用主2名が不法移民保護の罪でラハダトゥセッションズ裁判所で起訴された",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/dua-majikan-didenda-rm5000-lindungi-pati-di-lahad-datu/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/04/IMG_2438.jpeg",
    "image_alt": "Dua majikan didenda RM5,000 lindungi PATI di Lahad Datu",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラハダトゥ：2026年4月3日 – 本日、地元雇用主2名が不法移民保護の罪でラハダトゥセッションズ裁判所で起訴された"
   },
   {
    "title": "Undocumented teen pleads not guilty to illegal stay in Sabah",
@@ -2227,10 +2228,10 @@
     "子ども"
    ],
    "title_ja": "不法滞在の十代、サバ州不法滞在で無罪を主張",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/278672/undocumented-teen-pleads-not-guilty-to-illegal-stay-in-sabah/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Four stateless students charged with illegal entry into Sabah",
@@ -2247,12 +2248,12 @@
     "子ども"
    ],
    "title_ja": "無国籍学生4人がサバ州への不法入国で起訴",
-   "summary_ja": "コタキナバル：パラオ人か海洋遊牧民とみられる無国籍学生4人が不法入国の罪で起訴された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2026/04/01/four-stateless-students-charged-with-illegal-entry-into-sabah",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/04/01/3839032.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：パラオ人か海洋遊牧民とみられる無国籍学生4人が不法入国の罪で起訴された。"
   },
   {
    "title": "Four Bajau Laut charged with illegal entry into Sabah",
@@ -2268,10 +2269,10 @@
     "バジャウ"
    ],
    "title_ja": "バジャウ族のラウト族4人がサバ州への不法入国で起訴",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/278575/four-bajau-laut-charged-with-illegal-entry-into-sabah/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Four stateless Bajau Laut charged, three get bail",
@@ -2288,10 +2289,10 @@
     "無国籍"
    ],
    "title_ja": "無国籍バジャウ・ラウト4人が起訴、3人が保釈",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/278544/four-stateless-bajau-laut-charged-three-get-bail/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Tiga penduduk Bajau Laut tanpa kewarganegaraan dibenar ikat jamin",
@@ -2309,12 +2310,12 @@
     "バジャウ"
    ],
    "title_ja": "バジャウ・ラウト島の無国籍住民3人が保釈を認められる",
-   "summary_ja": "市民権を持たない（無国籍）バジャウ・ラウト人4人が本日、不法入国の罪でセッションズ法廷で起訴された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/03/31/tiga-penduduk-bajau-laut-tanpa-kewarganegaraan-dibenar-ikat-jamin/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/03/InShot_20250325_102547117.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "市民権を持たない（無国籍）バジャウ・ラウト人4人が本日、不法入国の罪でセッションズ法廷で起訴された。"
   },
   {
    "title": "NIKO tiada IC: Imigresen Sabah digesa serbu Sekolah Alternatif digerakkan Mukmin Nantang jadi pelindung PTI di Sabah",
@@ -2331,12 +2332,12 @@
     "教育"
    ],
    "title_ja": "ニコのIC：サバ州移民局、サバ州のPTIを守るためにムクミン・ナンタンが動員したオルタナティブ・スクールを強制捜査",
-   "summary_ja": "以前、ムクミン・ナンタンはボルネオ・コムラッドおよびオルタナティブ・スクールと協力し、UMSの学生を装った不法滞在の少年9人を連れてデモを行った。今回はNIKOという男の子です。  サバ州移民局は、PTIを「育成」する代替学校を強制捜査するために断固とした行動を起こす必要がある",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahkini2.com/en/news/7659/niko-tiada-ic-imigresen-sabah-digesa-serbu-sekolah-alternatif-digerakkan-mukmin-nantang-jadi-pelindung-pti-di-sabah/view",
    "image": "https://sabahkini2.com/public/data/files/FAIL_2026/MAC_2026/NIKO_TIADA_IC-_MUKMIN.jpg",
    "site_name": "Sabah Kini2",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "以前、ムクミン・ナンタンはボルネオ・コムラッドおよびオルタナティブ・スクールと協力し、UMSの学生を装った不法滞在の少年9人を連れてデモを行った。今回はNIKOという男の子です。  サバ州移民局は、PTIを「育成」する代替学校を強制捜査するために断固とした行動を起こす必要がある"
   },
   {
    "title": "Arrest of stateless teen in Malaysia highlights Sabah’s citizenship crisis",
@@ -2355,12 +2356,12 @@
     "無国籍"
    ],
    "title_ja": "マレーシアでの無国籍十代の逮捕でサバ州の市民権危機が浮き彫りに",
-   "summary_ja": "人権団体は、国内の無国籍者は基本的な保護を受けずに不法移民として扱われることが多いと述べている。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.scmp.com/week-asia/people/article/3346779/arrest-stateless-teen-malaysia-highlights-plight-sabahs-1-million-non-citizens",
    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/03/16/8483aad8-d2c8-449f-bdcf-9bddd1dcaf14_c22a6db1.jpg?itok=1bkBZbXM&v=1773661765",
    "site_name": "South China Morning Post",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "人権団体は、国内の無国籍者は基本的な保護を受けずに不法移民として扱われることが多いと述べている。"
   },
   {
    "title": "Zan Azlee's newest directorial work offers a glimpse into life within the stateless Bajau Laut community",
@@ -2377,11 +2378,11 @@
     "バジャウ"
    ],
    "title_ja": "ザン・アズリーの最新監督作品は、無国籍のバジャウ・ラウト族コミュニティの生活を垣間見ることができる",
-   "summary_ja": "ジャーナリストで映画製作者の彼は、最新プロジェクト「ジョム・キタ・ケ・ラウト：イトゥイ・スリ・スリ・バジャウ！」で人権を擁護している。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.optionstheedge.com/topic/culture/zan-azlees-newest-directorial-work-offers-glimpse-life-within-stateless-bajau-laut",
    "image": "https://www.optionstheedge.com/sites/default/files/styles/banner/public/field/featured-image/2026/banner_zan_azlee.png?itok=QxX1_-D7",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ジャーナリストで映画製作者の彼は、最新プロジェクト「ジョム・キタ・ケ・ラウト：イトゥイ・スリ・スリ・バジャウ！」で人権を擁護している。"
   },
   {
    "title": "29 PATI ditahan dalam operasi imigresen di Ranau",
@@ -2397,12 +2398,12 @@
     "入管・摘発"
    ],
    "title_ja": "ラナウでの移民作戦で29人のPATIが逮捕された",
-   "summary_ja": "ラナウ、3月4日 – 火曜日に地区内の3つの別々の場所で実施された取り締まりで、合計29人の不法移民が違反の疑いで逮捕された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://berita.rtm.gov.my/kes/senarai-berita-kes/senarai-artikel/29-pati-ditahan-dalam-operasi-imigresen-di-ranau/",
    "image": "https://berita.rtm.gov.my/wp-content/uploads/01-homepage/2026-NEW/03-Kes/03MAC/0403-SBH-JIM-PATI-RANAU.jpg",
    "site_name": "Portal Berita RTM",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラナウ、3月4日 – 火曜日に地区内の3つの別々の場所で実施された取り締まりで、合計29人の不法移民が違反の疑いで逮捕された。"
   },
   {
    "title": "29 PATI Ditahan JIM Sabah",
@@ -2418,12 +2419,12 @@
     "入管・摘発"
    ],
    "title_ja": "29 PATI、ジム・サバ氏に拘束される",
-   "summary_ja": "2026年3月4日RANAU：サバ州のマレーシア入国管理局（JIM）は昨日、この地区周辺で実施された作戦で29人の不法移民（PATI）の逮捕に成功した。 JIMサバ所長のダトゥクSHシッティ・サレハ・ハビブ・ユソフ氏は、関与した外国人全員が1959/63年移民法（法律155）および1963年移民規則に基づく様々な犯罪の疑いで逮捕されたと述べた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nabalunews.com/post/29-pati-ditahan-jim-sabah",
    "image": "https://static.wixstatic.com/media/d65831_0167f243bf934f25ad6368ec9500b355~mv2.jpg/v1/fill/w_1280,h_963,al_c/d65831_0167f243bf934f25ad6368ec9500b355~mv2.jpg",
    "site_name": "Nabalu News",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "2026年3月4日RANAU：サバ州のマレーシア入国管理局（JIM）は昨日、この地区周辺で実施された作戦で29人の不法移民（PATI）の逮捕に成功した。 JIMサバ所長のダトゥクSHシッティ・サレハ・ハビブ・ユソフ氏は、関与した外国人全員が1959/63年移民法（法律155）および1963年移民規則に基づく様々な犯罪の疑いで逮捕されたと述べた。"
   },
   {
    "title": "10 PATI dipenjara empat bulan",
@@ -2439,12 +2440,12 @@
     "入管・摘発"
    ],
    "title_ja": "10 PATIは4ヶ月の懲役刑",
-   "summary_ja": "セッションズ裁判所はここで、有効な書類を持たずに州に滞在したとして有罪を認めた不法移民（PATI）10人に懲役4か月の判決を下した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/02/19/10-pati-dipenjara-empat-bulan/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/09/InShot_20250917_191100835-scaled.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "セッションズ裁判所はここで、有効な書類を持たずに州に滞在したとして有罪を認めた不法移民（PATI）10人に懲役4か月の判決を下した。"
   },
   {
    "title": "61 undocumented Filipino migrants detained in Sabah operation",
@@ -2481,12 +2482,12 @@
     "入管・摘発"
    ],
    "title_ja": "ESSCOM 統合運用によりセンポルナで 61 PATI を保持",
-   "summary_ja": "センポルナ：木曜以来、サバ州東部治安部隊が調整するセンポルナ地区統合作戦で、合計61人のフィリピンの不法移民（PATI）が逮捕された。すべての個人は、1959/63 年の移民法第 15 条(1)(c) および第 6(1)(c) に基づく措置のため、マレーシア移民局 (JIM) センポルナに引き渡されました。作戦には警察をはじめとするさまざまな機関の協力が必要です",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/operasi-bersepadu-esscom-tahan-61-pati-di-semporna/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/02/a19a95f5-aaa7-4a12-b261-9fe8d9e898b8.jpg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "センポルナ：木曜以来、サバ州東部治安部隊が調整するセンポルナ地区統合作戦で、合計61人のフィリピンの不法移民（PATI）が逮捕された。すべての個人は、1959/63 年の移民法第 15 条(1)(c) および第 6(1)(c) に基づく措置のため、マレーシア移民局 (JIM) センポルナに引き渡されました。作戦には警察をはじめとするさまざまな機関の協力が必要です"
   },
   {
    "title": "Imigresen Sabah tahan 86 PATI dalam operasi bersepadu",
@@ -2502,13 +2503,13 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州入国管理局、統合作戦で不法滞在者86人を拘束",
-   "summary_ja": "コタキナバル：サバ州入国管理局（JIM）は、2月4日から6日までコタキナバル、ラハダトゥ、タワウで実施された複数の取締り活動を通じて、86人の不法移民（PATI）を逮捕した。サバ州JIM局長は、コタキナバル執行部の作戦部隊が実施した作戦で合計56人の不法滞在者が逮捕され、27人が不法滞在者（PATI）を逮捕したと述べた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnewstoday.net/imigresen-sabah-tahan-86-pati-dalam-operasi-bersepadu/",
    "image": "https://sabahnewstoday.net/wp-content/uploads/2026/02/IMG_1281-e1770513054245.jpeg",
    "image_alt": "IMG_1281",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州入国管理局（JIM）は、2月4日から6日までコタキナバル、ラハダトゥ、タワウで実施された複数の取締り活動を通じて、86人の不法移民（PATI）を逮捕した。サバ州JIM局長は、コタキナバル執行部の作戦部隊が実施した作戦で合計56人の不法滞在者が逮捕され、27人が不法滞在者（PATI）を逮捕したと述べた。"
   },
   {
    "title": "53 PTI Ditahan Dalam Ops Kutip dan Ops Sapu di Sekitar KK dan Tuaran",
@@ -2524,12 +2525,12 @@
     "入管・摘発"
    ],
    "title_ja": "KKとトゥアラン周辺のオプス・クティプとオプス・サプで53人のPTIを逮捕",
-   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、2月2日から3日までの2日間、コタキナバルとトゥアラン周辺で動員されたオプス・クティプとオプス・サプを通じて53人の不法移民（PTI）を逮捕した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.sabahpost.net/2026/02/06/53-pti-ditahan-dalam-ops-kutip-dan-ops-sapu-di-sekitar-kk-dan-tuaran/",
    "image": "https://www.sabahpost.net/wp-content/uploads/2026/02/tahan2-1.jpg",
    "site_name": "Sabah Post",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、2月2日から3日までの2日間、コタキナバルとトゥアラン周辺で動員されたオプス・クティプとオプス・サプを通じて53人の不法移民（PTI）を逮捕した。"
   },
   {
    "title": "Imigresen Tahan 53 PATI Dalam OPS Kutip Dan Sapu Di Kota Kinabalu, Tuaran",
@@ -2545,12 +2546,12 @@
     "入管・摘発"
    ],
    "title_ja": "入国管理局、トゥアラン州コタキナバルでのOPS収集と掃討で53人のPATIを拘束",
-   "summary_ja": "コタキナバル、サバ州マレーシア入国管理局は、2日から2日間実施されたオプス・クティプとオプス・サプの実施において、合計53人の不法移民(PATI)を拘留した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/02/05/imigresen-tahan-53-pati-dalam-ops-kutip-dan-sapu-di-kota-kinabalu-tuaran/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/02/626764763_25609911358700808_658208857038429330_n.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル、サバ州マレーシア入国管理局は、2日から2日間実施されたオプス・クティプとオプス・サプの実施において、合計53人の不法移民(PATI)を拘留した。"
   },
   {
    "title": "Bajau Laut people through the eyes of young filmmakers",
@@ -2566,13 +2567,13 @@
     "バジャウ"
    ],
    "title_ja": "若い映画監督の目から見たバジャウ・ラウト族の人々",
-   "summary_ja": "東マレーシアの若者 3 人が、外の世界からほとんど忘れ去られたこの島の日常生活を探るドキュメンタリーを共同監督しています。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.freemalaysiatoday.com/category/leisure/2026/02/03/filmmakers-capture-the-heart-of-the-bajau-laut-people",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/02/1660161d-lifestyle-bajau-emel-pic-020226.webp",
    "image_alt": "bajau",
    "site_name": "Free Malaysia Today | FMT",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "東マレーシアの若者 3 人が、外の世界からほとんど忘れ去られたこの島の日常生活を探るドキュメンタリーを共同監督しています。"
   },
   {
    "title": "23 PATI ditahan dalam operasi Imigresen di Ranau",
@@ -2588,13 +2589,13 @@
     "入管・摘発"
    ],
    "title_ja": "ラナウでの入国審査で23人のPATIが逮捕された",
-   "summary_ja": "ラナウ：2026年2月2日 — 昨日ラナウ周辺で実施された取り締まり作戦で、合計23人の不法移民（PATI）が逮捕された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://tvsabahnews.com/23-pati-ditahan-dalam-operasi-imigresen-di-ranau/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/02/625121316_25596533210038623_510071676193862003_n.jpg",
    "image_alt": "23 PATI ditahan dalam operasi Imigresen di Ranau",
    "site_name": "TV Sabah | News Portals",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラナウ：2026年2月2日 — 昨日ラナウ周辺で実施された取り締まり作戦で、合計23人の不法移民（PATI）が逮捕された。"
   },
   {
    "title": "SPECIAL REPORT | Baka sakali, hanapbuhay: Undocumented in Sandakan",
@@ -2608,13 +2609,13 @@
    "id": "204989586305",
    "tags": [],
    "title_ja": "スペシャルレポート |念のため、雇用: サンダカンでは文書化されていない",
-   "summary_ja": "ミンダナオ島の海上裏口を通ってサバ州へ人身売買された女性は、どちらの国のパスポートも持たずにサンダカンに20年間住んでいる。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://mindanews.com/special-reports/2026/01/special-report-baka-sakali-hanapbuhay-undocumented-in-sandakan/",
    "image": "https://mindanews.com/wp-content/uploads/2026/01/Featured-Images-template_20260131_224503_0000.png",
    "image_alt": "SPECIAL REPORT | Baka sakali, hanapbuhay: Undocumented in Sandakan",
    "site_name": "MindaNews",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ミンダナオ島の海上裏口を通ってサバ州へ人身売買された女性は、どちらの国のパスポートも持たずにサンダカンに20年間住んでいる。"
   },
   {
    "title": "JIM Sabah Perhebat Operasi, Tahan Lapan PATI Dalam Ops Gegar Sekitar Kota Kinabalu",
@@ -2630,12 +2631,12 @@
     "入管・摘発"
    ],
    "title_ja": "ジム・サバ大作戦、コタキナバル周辺で8人のパティを暴力作戦に拘束",
-   "summary_ja": "コタキナバル--サバ州のマレーシア入国管理局(JIM)は、木曜早朝市内全域で実施されたOps Gegarを通じて取り締まり活動を強化し続けている。での操作は…",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/01/31/jim-sabah-perhebat-operasi-tahan-lapan-pati-dalam-ops-gegar-sekitar-kota-kinabalu/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/01/622661436_25564353416589936_7885743890297843676_n.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル--サバ州のマレーシア入国管理局(JIM)は、木曜早朝市内全域で実施されたOps Gegarを通じて取り締まり活動を強化し続けている。での操作は…"
   },
   {
    "title": "77 PATI DITAHAN DALAM OPERASI IMIGRESEN DI KOTA KINABALU, KENINGAU",
@@ -2651,12 +2652,12 @@
     "入管・摘発"
    ],
    "title_ja": "77パティ、ケニンガウ州コタキナバルの入国管理で逮捕",
-   "summary_ja": "MKNウェブサイト ケニンガウ州コタキナバルの入国管理で77人の患者が逮捕 コタキナバル：マレーシア入国管理局（JIM）・サバ州は、不法移民（PATI）77人が複数の施設で拘束されたことを受け、取り締まりを強化し続けている。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.mkn.gov.my/web/ms/2026/01/28/77-pati-ditahan-dalam-operasi-imigresen-di-kota-kinabalu-keningau/",
    "image": "https://www.mkn.gov.my/web/wp-content/uploads/sites/3/2026/01/MKNS1-19.jpg",
    "site_name": "Laman Web MKN",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "MKNウェブサイト ケニンガウ州コタキナバルの入国管理で77人の患者が逮捕 コタキナバル：マレーシア入国管理局（JIM）・サバ州は、不法移民（PATI）77人が複数の施設で拘束されたことを受け、取り締まりを強化し続けている。"
   },
   {
    "title": "Immigration Dept nab 16 undocumented foreigners in Keningau",
@@ -2672,10 +2673,10 @@
     "入管・摘発"
    ],
    "title_ja": "入国管理局、ケニンガウの不法滞在外国人16人を摘発",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2026/01/23/immigration-dept-nab-16-undocumented-foreigners-in-keningau/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "16 Pati Ditahan dalam Operasi Imigresen Keningau",
@@ -2713,12 +2714,12 @@
     "入管・摘発"
    ],
    "title_ja": "24 PATI コタキナバル周辺で拘束",
-   "summary_ja": "コタキナバル：1月15日から16日に実施されたマヒル作戦、サプ作戦、セレラ作戦、ゲガル作戦の実施を通じて、コタキナバル周辺サバ州でマレーシア入国管理局による強制捜査で合計24人の不法移民（PATI）が逮捕された。この作戦には市本部のマレーシア入国管理局（JIM）の職員計29人が関与した。 [...]",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/24-pati-ditahan-di-sekitar-kota-kinabalu/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/01/615390950_1194864579528490_5163708339335952936_n.jpg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：1月15日から16日に実施されたマヒル作戦、サプ作戦、セレラ作戦、ゲガル作戦の実施を通じて、コタキナバル周辺サバ州でマレーシア入国管理局による強制捜査で合計24人の不法移民（PATI）が逮捕された。この作戦には市本部のマレーシア入国管理局（JIM）の職員計29人が関与した。 [...]"
   },
   {
    "title": "FROM STATELESS TO SYABU: A Human Rights Crisis at Sabah’s Crossroads",
@@ -2735,19 +2736,19 @@
     "人権・NGO"
    ],
    "title_ja": "無国籍からシャブへ: サバ州の岐路に立つ人権危機",
-   "summary_ja": "マジャンキム事務所 – 特別捜査 パート 1: ドアが壊れた夜 – そしてコタキナバルに続いた何百万人もの人々: 2000 年代初頭、インドネシア人の若い家族がカリマンタンとサバ州の間の監視されていない広大な国境を、パスポートを持ってではなく、希望を持って越えました。  彼らはコタの郊外に小さな小屋を建てました...",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://jesseltontimes.com/2026/01/05/from-stateless-to-syabu-a-human-rights-crisis-at-sabahs-crossroads/",
    "image": "https://jesseltontimes.com/wp-content/uploads/2026/01/IMG-20260104-WA0154.jpg",
    "image_alt": "IMG-20260104-WA0154",
    "site_name": "Jesselton Times",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "マジャンキム事務所 – 特別捜査 パート 1: ドアが壊れた夜 – そしてコタキナバルに続いた何百万人もの人々: 2000 年代初頭、インドネシア人の若い家族がカリマンタンとサバ州の間の監視されていない広大な国境を、パスポートを持ってではなく、希望を持って越えました。  彼らはコタの郊外に小さな小屋を建てました..."
   },
   {
    "title": "Dakwaan Adun Warisan Pati meningkat di Sabah ‘mengelirukan’, kata Pemuda PGRS",
    "summary": "Sayap itu berkata dakwaan tersebut tidak berlandaskan tafsiran data rasmi Jabatan Perangkaan Malaysia.",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWJfM3dxdGoya2tMbFFwaVZaXzNQTF93ZVhBem1sVXU0d1V6UmVxQ0VudVRGY2pGU0V1ZEQwRS1oZXRwdjZ5SlA4RndRbWVMT2hWVXI0UlByT3VJUk0td0JpNDdOdnJadjRTNFJqWk9aREpKZEZ2WXB0eFcwWHUyRnF2TFJxNkFjTmNIa1BRaTRuVzhBcE51eWlTN09UeGhEZDZ6emYzWUppQ1d0ZVNuekV3VTBoeDljcnc1Rkk4UFNpM0dfWVFOaHB4bnROSG0tLUhSb3FvbmRvOU5W?oc=5",
-   "source": "Free Malaysia Today",
+   "source": "freemalaysiatoday.com",
    "date": "2026-01-05T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -2757,13 +2758,13 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州で人口が増加しているというワリサン・パティ議員の主張は「誤解を招く」とPGRSユースは述べた",
-   "summary_ja": "同団体は、この主張はマレーシア統計局の公式データ解釈に基づいていないと述べた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/01/05/dakwaan-adun-warisan-pati-meningkat-di-sabah-mengelirukan-kata-pemuda-pgrs",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/11/02e83661-stock-arial-view-of-city-kota-kinabalu-sabah-fmt-17112025-10.webp",
    "image_alt": "Arial view of city - Kota Kinabalu, Sabah",
    "site_name": "Free Malaysia Today | FMT",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "同団体は、この主張はマレーシア統計局の公式データ解釈に基づいていないと述べた。"
   },
   {
    "title": "Dakwaan Warisan mengenai PATI mengelirukan – Pemuda Gagasan Rakyat",
@@ -2779,12 +2780,12 @@
     "入管・摘発"
    ],
    "title_ja": "PATIに関するワリサンの主張は誤解を招く - ペムダ・ガガサン・ラクヤット",
-   "summary_ja": "サバ州の非国民数の増加を不法移民（PATI）の問題と結びつけるワリサン党（ワリサン）州議会（議会）の一部議員の主張は誤解を招くものである...",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2026/01/04/dakwaan-warisan-mengenai-pati-mengelirukan-pemuda-gagasan-rakyat/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/12/Picsart_25-12-16_17-49-18-585.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州の非国民数の増加を不法移民（PATI）の問題と結びつけるワリサン党（ワリサン）州議会（議会）の一部議員の主張は誤解を招くものである..."
   },
   {
    "title": "Sabah rep seeks answers over ongoing stateless children begging in Kota Kinabalu",
@@ -2802,12 +2803,12 @@
     "人権・NGO"
    ],
    "title_ja": "サバ州代表、コタキナバルで続く無国籍の子供たちの物乞いについて答えを求める",
-   "summary_ja": "コタキナバル：州政府は、この問題に対処するためにRM250,000が割り当てられているにもかかわらず、州都の幹線道路沿いで物乞いをする無国籍の子供たちが依然として存在していることを説明する必要がある。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2025/12/28/sabah-rep-seeks-answers-over-ongoing-stateless-children-begging-in-kota-kinabalu",
    "image": "https://apicms.thestar.com.my/uploads/images/2025/12/28/3693741.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：州政府は、この問題に対処するためにRM250,000が割り当てられているにもかかわらず、州都の幹線道路沿いで物乞いをする無国籍の子供たちが依然として存在していることを説明する必要がある。"
   },
   {
    "title": "Babies, elderly, among 783 deported to the Philippines from Sandakan",
@@ -2823,12 +2824,12 @@
     "入管・摘発"
    ],
    "title_ja": "サンダカンからフィリピンに強制送還された783人には乳児や高齢者も含まれる",
-   "summary_ja": "サンダカン：金曜日（12月19日）、サンダカンからフィリピンに強制送還された783人の不法移民の中には、乳児や高齢者も含まれていた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2025/12/20/babies-elderly-among-783-deported-to-the-philippines-from-sandakan",
    "image": "https://apicms.thestar.com.my/uploads/images/2025/12/20/3682815.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サンダカン：金曜日（12月19日）、サンダカンからフィリピンに強制送還された783人の不法移民の中には、乳児や高齢者も含まれていた。"
   },
   {
    "title": "218 PATI warga Indonesia dihantar pulang",
@@ -2844,12 +2845,12 @@
     "入管・摘発"
    ],
    "title_ja": "PATIインドネシア国民218人が帰国",
-   "summary_ja": "コタキナバル、12月17日 – 火曜日、合計218人のインドネシア人不法移民(PATI)が移送プログラムを通じて本国に送還された。サバ州入国管理局長…",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/218-pati-warga-indonesia-dihantar-pulang/",
    "image": "https://berita.rtm.gov.my/wp-content/uploads/02-nasional/2025/12DIS/1712-SBH-IMIGRESEN-HANTAR-PULANGNEW.png",
    "site_name": "Portal Berita RTM",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル、12月17日 – 火曜日、合計218人のインドネシア人不法移民(PATI)が移送プログラムを通じて本国に送還された。サバ州入国管理局長…"
   },
   {
    "title": "Undocumented migrants caught trying to enter Sabah via Lawas",
@@ -2863,10 +2864,10 @@
    "id": "cc0eb2449117",
    "tags": [],
    "title_ja": "ラワス経由でサバ州に入ろうとした不法移民が逮捕される",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2025/12/12/undocumented-migrants-caught-trying-to-enter-sabah-via-lawas/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "64 PATI Ditahan Dalam Operasi Penguatkuasaan Imigresen di Tawau",
@@ -2904,12 +2905,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州の移民作戦、タワウで86人のPTIの殺害に成功",
-   "summary_ja": "タワウ：サバ州のマレーシア入国管理局（JIM）は、12月3日と5日に同地区周辺の数カ所で取り締まり活動を行い、合計86人の不法移民（PTI）を逮捕した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.sabahpost.net/2025/12/06/operasi-imigresen-sabah-berjaya-tumpaskan-86-pti-di-tawau/",
    "image": "https://www.sabahpost.net/wp-content/uploads/2025/12/pati.jpg",
    "site_name": "Sabah Post",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "タワウ：サバ州のマレーシア入国管理局（JIM）は、12月3日と5日に同地区周辺の数カ所で取り締まり活動を行い、合計86人の不法移民（PTI）を逮捕した。"
   },
   {
    "title": "JIM Sabah Hantar Pulang 699 PTI Filipina Ke Negara Asal",
@@ -2933,6 +2934,26 @@
    "enriched": "ok"
   },
   {
+   "title": "Migrants, roads, power supply among top issues for Sabah voters",
+   "summary": "Stable electricity supplies, more social welfare aid, and boosting the economy also figure in voters' thinking.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFkblVOWWJOMmYtaTM2Vy01cFV2dzlYVEhIaUlaS0VmNjBXc2R4cVBGWmtMemtxcVhfVFJzcnBmaVhzZVR2THEtYVRURmxTcHVUSDlTTTVxVUFXU3R2US1xb090cV9OWmltVVFqeExNazA1bHZGMk5mS2M0bEVyQVN1QmFnQm1QcEVjLS13Z05sbzFEeXQ1Vzk0cF9IZHZOMjhTZXBIaTRIMGw0YnhnSk51eUwwN1EtNmVyaXlVSDQ?oc=5",
+   "source": "Free Malaysia Today",
+   "date": "2025-11-22T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "bbbdd8f3f8ef",
+   "tags": [],
+   "title_ja": "サバ州の有権者にとって移民、道路、電力供給が最重要課題となっている",
+   "summary_ja": "安定した電力供給、社会福祉援助の拡大、経済の活性化も有権者の考えに含まれます。",
+   "first_seen": "2026-08-10T23:51:47Z",
+   "url_real": "https://www.freemalaysiatoday.com/category/nation/2025/11/22/migrants-roads-power-supply-among-top-issues-for-sabahs-voters",
+   "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/11/02e83661-stock-arial-view-of-city-kota-kinabalu-sabah-fmt-17112025-10.webp",
+   "image_alt": "Arial view of city - Kota Kinabalu, Sabah",
+   "site_name": "Free Malaysia Today | FMT",
+   "enriched": "ok"
+  },
+  {
    "title": "Sabah children without documentation can apply for citizenship under joint Home Ministry-state panel, says Saifuddin Nasution",
    "summary": "TAWAU, Nov 20 — The Home Ministry has advised Sabah residents facing the problem of children without documentation due to irregular marriages of their parents to come forward to...",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeW9BTjZ6Tkw4ZkZqcGVpNVhtTUY1VHdFSzV5ckFMTmFKTjZ2a2xsZ21HWVFHbE1XVzdGSWNVdDRaZzdTdk1LXzNhREdHTi04QjBPZlM3bXRZUzd1UFUxVHh4a1Q4cDM5YV9RUmZYeXpkXzA4dHBVTnRuczlOQzczZnVIMWs0ODFoZjBiMWRnWno5OVR2Y0VyWk8wNXF2ekFDbXhTVnFYek5aU0NxRGl2LU5ZcmNOSmJPbWttem82Z0N5REN2UmhQSDdNV3pNTHFMUHl1S1Y4dEZqTC1XQl9XME5peG1TUVlJcTNoMHRpTjZDTFFLUlZHVVd2QndrV2hrMlJTQ25DYmlMcUppUVFv0gGUAkFVX3lxTE4wRlgzWWVWUmlpZ2VCUHprVGxVVmVtVjBXWmVtR2JIalJiX3dVOTRJU0l4NWRUay1Uc2xvZ1J0dm9jVHZMWjZ2YnFxSkdmU19LRW1HOGY1TEM2MUR3dVk5TGxBMTBKcUFBWUxaYnAydVhhOTdySXBWLUlHVkt0OE10VGhXaldpdUlQaWMzb0FqWGVpZHRNQXQxNl9oNFV6TEFQVUdSSHFqclpzTDJNbjNIalZIZkQ0UWVSNjEzTEZiRFM2Ti1PMnFwb0NWZ3p2ME1XVE0ySVA5OV9uc3FwZFNENXlJOHJWMUd5V1pKYzJLVXJTRXZWb2t0aDBrMUY3elZoUHphU3pkbzBCZk5aRkFFVG45SA?oc=5",
@@ -2948,12 +2969,12 @@
     "政策・政治"
    ],
    "title_ja": "サイフディン・ナスティオン氏は、書類のないサバ州の子供たちは内務省と州の共同委員会の下で市民権を申請できると述べた",
-   "summary_ja": "タワウ、11月20日 — 内務省は、両親の不規則な結婚により書類のない子供たちの問題に直面しているサバ州住民に対し、名乗り出るよう勧告した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.malaymail.com/news/malaysia/2025/11/20/sabah-children-without-documentation-can-apply-for-citizenship-under-joint-home-ministry-state-panel-says-saifuddin-nasution/199109",
    "image": "https://www.malaymail.com/malaymail/uploads/images/2025/11/20/310665.JPG",
    "site_name": "Malay Mail",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "タワウ、11月20日 — 内務省は、両親の不規則な結婚により書類のない子供たちの問題に直面しているサバ州住民に対し、名乗り出るよう勧告した。"
   },
   {
    "title": "Calon PRN kena tahu tanggungjawab, tanggani isu PATI di Sabah – Azharina",
@@ -2969,12 +2990,12 @@
     "入管・摘発"
    ],
    "title_ja": "PRN候補者は自らの責任を理解し、サバ州のPATI問題に対処しなければならない - アズハリナ",
-   "summary_ja": "PRN候補者は自らの責任を理解し、サバ州のPATI問題に対処しなければならない - アズハリナ",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.utusan.com.my/gaya/hiburan/2025/11/calon-prn-kena-tahu-tanggungjawab-tanggani-isu-pati-di-sabah-azharina/",
    "image": "https://www.utusan.com.my/wp-content/uploads/2025/11/IMG_2026.jpeg",
    "site_name": "Utusan Malaysia",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "PRN候補者は自らの責任を理解し、サバ州のPATI問題に対処しなければならない - アズハリナ"
   },
   {
    "title": "\"It's A Bad Image Untuk Sabah\" - Azharina Harap PRN Sabah Bawa Perubahan, Minta Basmi Masalah PATI, Dadah & Kebersihan",
@@ -2990,12 +3011,12 @@
     "入管・摘発"
    ],
    "title_ja": "「サバ州にとって悪いイメージだ」 - アズハリナさんはサバ州PRNが変化をもたらすことを望み、PATI、薬物、衛生問題の根絶を求める",
-   "summary_ja": "サバ州生まれの歌手、アズハリナは、最近話題になった、もし自分がもし…",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://gempak.com/its-bad-image-untuk-sabah-azharina-harap-prn-sabah-bawa-perubahan-minta-basmi-masalah-pati-dadah",
    "image": "https://d3lmgsai2rsy7d.cloudfront.net/gempak/media/uploads/image/2025-11/Astro_Gempak_azharina_sabah.jpg",
    "site_name": "Gempak",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サバ州生まれの歌手、アズハリナは、最近話題になった、もし自分がもし…"
   },
   {
    "title": "Rezeki di kaki lima, lumrah hidup pemegang dokumen IMM13",
@@ -3011,12 +3032,12 @@
     "市民権"
    ],
    "title_ja": "IMM13 文書保持者にとって、路上での食事は通常の生活です",
-   "summary_ja": "クナック、11月19日：クナックの町にある金店の歩道で、ベニヤ板の台が付いた小さなテーブルの前で、熱心にお辞儀をする男性の姿が見える。彼は器用な手で、顧客の所有する金製品を切断、成形、修理します。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.tvsarawak.my/2025/11/19/rezeki-di-kaki-lima-lumrah-hidup-pemegang-dokumen-imm13/",
    "image": "https://s3.tvstv.my/wp-content/uploads/2025/11/WATERMARK-TVS-DO-NOT-DELETE-2025-11-19T153325.073.png",
    "site_name": "TVS",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "クナック、11月19日：クナックの町にある金店の歩道で、ベニヤ板の台が付いた小さなテーブルの前で、熱心にお辞儀をする男性の姿が見える。彼は器用な手で、顧客の所有する金製品を切断、成形、修理します。"
   },
   {
    "title": "12 PATI Ditahan Dalam Operasi Imigresen Di Sandakan Dan Sipitang",
@@ -3032,13 +3053,13 @@
     "入管・摘発"
    ],
    "title_ja": "12 PATI、サンダカンとシピタンの入国管理で拘束",
-   "summary_ja": "サンダカン：最近、サンダカン地区とシピタン地区で3日間に渡って実施された強制捜査により、サバ州マレーシア入国管理局（JIM）により合計12人の不法移民（PATI）が拘束された。本日発表された声明によると、この作戦は2025年11月5日から7日にかけてサンダカン入国管理局とシ州の入国管理官20名が関与して実施された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnewstoday.net/12-pati-ditahan-dalam-operasi-imigresen-di-sandakan-dan-sipitang/",
    "image": "https://sabahnewstoday.net/wp-content/uploads/2025/11/89186199-A738-4208-A1EE-E3CD877B15F2-e1762575227409.jpeg",
    "image_alt": "89186199-A738-4208-A1EE-E3CD877B15F2",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サンダカン：最近、サンダカン地区とシピタン地区で3日間に渡って実施された強制捜査により、サバ州マレーシア入国管理局（JIM）により合計12人の不法移民（PATI）が拘束された。本日発表された声明によると、この作戦は2025年11月5日から7日にかけてサンダカン入国管理局とシ州の入国管理官20名が関与して実施された。"
   },
   {
    "title": "94 PATI Indonesia dihantar pulang melalui Tawau",
@@ -3054,12 +3075,12 @@
     "入管・摘発"
    ],
    "title_ja": "94人のインドネシア人PATIがタワウ経由で帰国",
-   "summary_ja": "アフマド・フスナヤン・タワウ著：昨日、合計94人のインドネシア人不法移民（PATI）が、PATI抑留者移送プログラムを通じてタワウ・フェリーターミナル経由で出身国に送還された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2025/11/07/94-pati-indonesia-dihantar-pulang-melalui-tawau/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/11/InShot_20251107_152623356.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "アフマド・フスナヤン・タワウ著：昨日、合計94人のインドネシア人不法移民（PATI）が、PATI抑留者移送プログラムを通じてタワウ・フェリーターミナル経由で出身国に送還された。"
   },
   {
    "title": "Young Voices: The lottery of birth: Sabah’s stateless youth",
@@ -3075,13 +3096,13 @@
     "無国籍"
    ],
    "title_ja": "若い声: 誕生の宝くじ: サバ州の無国籍の若者",
-   "summary_ja": "コタキナバルに戻るといつも、私よりも年をとったようなリズムに戻ります。食卓にいる母の兄弟たち、外で焼かれる子羊の煙、庭の向こうに果てしなく広がる海。訪問するたびに、自分がここにどれほど根付いているかを思い出します。私たちは同じ水を共有しているかもしれませんが、同じではありません...",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://theedgemalaysia.com/node/777208",
    "image": "https://assets.theedgemarkets.com/P58-Sabah-TEM1599_Forum_theedgemalaysia.jpg",
    "image_alt": "Young Voices: The lottery of birth: Sabah’s stateless youth",
    "site_name": "The Edge Malaysia",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバルに戻るといつも、私よりも年をとったようなリズムに戻ります。食卓にいる母の兄弟たち、外で焼かれる子羊の煙、庭の向こうに果てしなく広がる海。訪問するたびに、自分がここにどれほど根付いているかを思い出します。私たちは同じ水を共有しているかもしれませんが、同じではありません..."
   },
   {
    "title": "10 illegal immigrants fail to enter Sabah near Kudat",
@@ -3095,10 +3116,10 @@
    "id": "6b923c31130c",
    "tags": [],
    "title_ja": "不法移民10人がクダット近郊サバ州への入国に失敗",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2025/11/02/10-illegal-immigrants-fail-to-enter-sabah-near-kudat/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "255 PATI Indonesia dihantar pulang ke negara asal",
@@ -3114,12 +3135,12 @@
     "入管・摘発"
    ],
    "title_ja": "インドネシア国籍の255人が母国に送還された",
-   "summary_ja": "シッティ・ノル・アジザ・タラタ著 タワウ：合計255人の不法移民（PATI）インドネシア国民が、タワウ・フェリーターミナル経由でインドネシアのヌヌカン港に向かい、出身国に送還された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahmedia.com/2025/10/17/255-pati-indonesia-dihantar-pulang-ke-negara-asal/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/10/IMG_20251017_175544.jpg",
    "site_name": "Sabah Media",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "シッティ・ノル・アジザ・タラタ著 タワウ：合計255人の不法移民（PATI）インドネシア国民が、タワウ・フェリーターミナル経由でインドネシアのヌヌカン港に向かい、出身国に送還された。"
   },
   {
    "title": "255 PATI warga Indonesia di Sabah dihantar pulang",
@@ -3135,12 +3156,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州のインドネシア永住者255人が帰国",
-   "summary_ja": "コタキナバル、10月17日：サバ州マレーシア入国管理局（JIM）は木曜日、外国人抑留者の出身国への移送プログラムを通じて、インドネシア人不法移民（PATI）255人を送還した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.tvsarawak.my/2025/10/17/255-pati-warga-indonesia-di-sabah-dihantar-pulang/",
    "image": "https://s3.tvstv.my/wp-content/uploads/2025/10/PIXX13102025-rk-13-1.png",
    "site_name": "TVS",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル、10月17日：サバ州マレーシア入国管理局（JIM）は木曜日、外国人抑留者の出身国への移送プログラムを通じて、インドネシア人不法移民（PATI）255人を送還した。"
   },
   {
    "title": "29 PATI ditahan dalam Operasi Bersepadu Imigresen Sabah",
@@ -3156,12 +3177,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州の統合移民作戦で不法滞在者29人が逮捕",
-   "summary_ja": "コタキナバル：マレーシア入国管理局（JIM）サバ州は、先週火曜日からこの都市周辺で2日間にわたって実施された一連の取り締まり活動で、合計29人の不法移民（PATI）を逮捕することに成功した。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.tvsarawak.my/2025/10/16/29-pati-ditahan-dalam-operasi-bersepadu-imigresen-sabah/",
    "image": "https://s3.tvstv.my/wp-content/uploads/2025/10/NOOOOO-WATERMARK-59.png",
    "site_name": "TVS",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：マレーシア入国管理局（JIM）サバ州は、先週火曜日からこの都市周辺で2日間にわたって実施された一連の取り締まり活動で、合計29人の不法移民（PATI）を逮捕することに成功した。"
   },
   {
    "title": "21 PATI ditahan dalam operasi JIM di Tawau",
@@ -3177,10 +3198,10 @@
     "入管・摘発"
    ],
    "title_ja": "タワウでのJIM作戦で21人のPATIが逮捕された",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://malaysiagazette.com/2025/10/09/21-pati-ditahan-dalam-operasi-jim-di-tawau/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Syurga Tercemar: Pelancong Dedah Realiti Sampah, Anak Tanpa Warganegara di Semporna",
@@ -3197,12 +3218,12 @@
     "市民権"
    ],
    "title_ja": "汚染された楽園：観光客がセンポルナのゴミと無国籍の子供たちの現実を暴露",
-   "summary_ja": "投稿者: アフマド・ファズラン シャー・ビン・アブド・ラーマン＆シャリフディン・ビン・アブドゥル・ラヒム センポルナ、10月6日 - 半島からの旅行者、ニック・サレハは、センポルナ周辺の海が美しい海で有名であるにもかかわらず、プラスチック廃棄物で汚染されているのを見つけて失望を表明した。 「最初は海が綺麗でびっくりしました。でも下を見るとプラスチックが浮いていました。」外から […]",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnews.com.my/syurga-tercemar-pelancong-dedah-realiti-sampah-anak-tanpa-warganegara-di-semporna/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-01-at-15.45.08-1.jpeg",
    "site_name": "Sabah News - Bebas Bersuara",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "投稿者: アフマド・ファズラン シャー・ビン・アブド・ラーマン＆シャリフディン・ビン・アブドゥル・ラヒム センポルナ、10月6日 - 半島からの旅行者、ニック・サレハは、センポルナ周辺の海が美しい海で有名であるにもかかわらず、プラスチック廃棄物で汚染されているのを見つけて失望を表明した。 「最初は海が綺麗でびっくりしました。でも下を見るとプラスチックが浮いていました。」外から […]"
   },
   {
    "title": "Sabah’s hidden crisis: Illegal immigration and its lasting impact",
@@ -3219,10 +3240,10 @@
     "政策・政治"
    ],
    "title_ja": "サバ州の隠れた危機: 不法移民とその永続的な影響",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2025/10/05/sabahs-hidden-crisis-illegal-immigration-and-its-lasting-impact/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "‘Dancing with the Waves’: Artist Denis Chai captures stateless Bajau Laut children’s lives in poignant portraits",
@@ -3240,12 +3261,12 @@
     "バジャウ"
    ],
    "title_ja": "「ダンシング・ウィズ・ザ・ウェーブズ」：アーティストのデニス・チャイが、無国籍のバジャウ・ラウト族の子どもたちの生活を感動的なポートレートで捉えている",
-   "summary_ja": "クアラルンプール、10 月 1 日 — サバ州センポルナの自然のままの海に住むバジャウ ラウト族のコミュニティは、海を読むという並外れた才能を持っています。 これらの海洋遊牧民は生計を立てています...",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.malaymail.com/news/life/2025/10/01/dancing-with-the-waves-artist-denis-chai-captures-stateless-bajau-laut-childrens-lives-in-poignant-portraits/193025",
    "image": "https://www.malaymail.com/malaymail/uploads/images/2025/10/01/301881.jpg",
    "site_name": "Malay Mail",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "クアラルンプール、10 月 1 日 — サバ州センポルナの自然のままの海に住むバジャウ ラウト族のコミュニティは、海を読むという並外れた才能を持っています。 これらの海洋遊牧民は生計を立てています..."
   },
   {
    "title": "43 PATI China Ditahan Dalam Operasi Imigresen Ranau",
@@ -3261,13 +3282,13 @@
     "入管・摘発"
    ],
    "title_ja": "ラナウ入国管理で中国人外国人43人を逮捕",
-   "summary_ja": "ラナウ：マレーシア入国管理局（JIM）サバ州は、ラナウ周辺で実施された取り締まり作戦で、不法滞在者（PATI）中国人合計43人を逮捕することに成功した。 Facebook ページの公式声明によると、週に 2 回の諜報活動と公的告発により、49 人を検査した結果、成人男性 43 人が有効な渡航書類またはパスポートを持っていないことが判明しました。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://sabahnewstoday.net/43-pati-china-ditahan-dalam-operasi-imigresen-ranau/",
    "image": "https://sabahnewstoday.net/wp-content/uploads/2025/09/6A0D6E0A-D660-4F5E-96F3-F0DF5DBC1465.jpeg",
    "image_alt": "6A0D6E0A-D660-4F5E-96F3-F0DF5DBC1465",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "ラナウ：マレーシア入国管理局（JIM）サバ州は、ラナウ周辺で実施された取り締まり作戦で、不法滞在者（PATI）中国人合計43人を逮捕することに成功した。 Facebook ページの公式声明によると、週に 2 回の諜報活動と公的告発により、49 人を検査した結果、成人男性 43 人が有効な渡航書類またはパスポートを持っていないことが判明しました。"
   },
   {
    "title": "Building hope and belonging for the Bajau Laut",
@@ -3283,13 +3304,13 @@
     "バジャウ"
    ],
    "title_ja": "バジャウ・ラウト族に希望と帰属意識を築く",
-   "summary_ja": "国民がマレーシアデーを祝う中、セバンカット島は故郷と呼ぶこの国で承認を求めて闘っている人たちがいることを思い出させるために立っている。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.freemalaysiatoday.com/category/nation/2025/09/16/building-hope-and-belonging-for-the-bajau-laut",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/09/f28c02d7-the-bajau-laut-malaysia-day-fmt-140925-1.webp",
    "image_alt": "Building hope and belonging for the Bajau Laut",
    "site_name": "Free Malaysia Today | FMT",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "国民がマレーシアデーを祝う中、セバンカット島は故郷と呼ぶこの国で承認を求めて闘っている人たちがいることを思い出させるために立っている。"
   },
   {
    "title": "Bajau Laut woe should be handled differently",
@@ -3305,10 +3326,10 @@
     "バジャウ"
    ],
    "title_ja": "バジャウ・ラウトの災難は別の方法で対処されるべきだ",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/read/6220/bajau-laut-woe-should-be-handled-differently/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "5 penempatan PATI diserbu, 40 ditahan",
@@ -3344,12 +3365,12 @@
     "市民権"
    ],
    "title_ja": "サバ州の子どもたちの市民権の問題と国家安全保障は依然として優先事項である",
-   "summary_ja": "マダニ政府は、市民権状況に関する特別委員会会議を通じて、サバ州で発生する子供の市民権問題に特別な注意を払い続けている。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://malaysiamadani.gov.my/2025/08/isu-kewarganegaraan-kanak-kanak-sabah-keselamatan-negara-tetap-diutamakan/",
    "image": "https://malaysiamadani.gov.my/wp-content/uploads/2025/08/isu-kanak2-Sabah.jpg",
    "site_name": "Malaysia MADANI",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "マダニ政府は、市民権状況に関する特別委員会会議を通じて、サバ州で発生する子供の市民権問題に特別な注意を払い続けている。"
   },
   {
    "title": "Joint federal-state committee set up to fast-track citizenship applications under Article 15A in Sabah",
@@ -3365,12 +3386,12 @@
     "市民権"
    ],
    "title_ja": "サバ州で第15A条に基づく市民権申請を迅速に進めるため連邦・州共同委員会が設置",
-   "summary_ja": "コタキナバル：連邦憲法第15A条に基づき、無国籍の子供やその他の適格な申請者の市民権申請を迅速に進めるため、連邦・州共同委員会がサバ州に設置された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2025/08/14/joint-federal-state-committee-set-up-to-fast-track-citizenship-applications-under-article-15a-in-sabah",
    "image": "https://apicms.thestar.com.my/uploads/images/2025/08/14/3467915.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：連邦憲法第15A条に基づき、無国籍の子供やその他の適格な申請者の市民権申請を迅速に進めるため、連邦・州共同委員会がサバ州に設置された。"
   },
   {
    "title": "Saifuddin: Bajau Laut not neglected, roadmap in place for integration",
@@ -3386,12 +3407,12 @@
     "バジャウ"
    ],
    "title_ja": "サイフディン氏: バジャウ・ラウトは無視されておらず、統合に向けたロードマップは整備されている",
-   "summary_ja": "コタキナバル：サバ州のバジャウ・ラウト族コミュニティの状況に対処するための取り組みはすでに始まっている、とダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣は述べた。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nst.com.my/news/nation/2025/08/1260217/saifuddin-bajau-laut-not-neglected-roadmap-place-integration",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/relocate14z_NSTfield_image_socialmedia.var_1755169541.jpg",
    "site_name": "NST Online",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州のバジャウ・ラウト族コミュニティの状況に対処するための取り組みはすでに始まっている、とダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣は述べた。"
   },
   {
    "title": "Sabah muktamadkan 1,247 permohonan kewarganegaraan di bawah Perkara 15A",
@@ -3447,12 +3468,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州入国管理局、ケニンガウの大規模捜索で141人を逮捕",
-   "summary_ja": "コタキナバル：サバ州内陸部ケニンガウ地区での入国管理局による大規模な作戦中に、フィリピンとインドネシアからの計141人の不法移民が拘束された。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2025/07/30/sabah-immigration-dept-nabs-141-during-major-raid-in-keningau",
    "image": "https://apicms.thestar.com.my/uploads/images/2025/07/30/3442611.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "コタキナバル：サバ州内陸部ケニンガウ地区での入国管理局による大規模な作戦中に、フィリピンとインドネシアからの計141人の不法移民が拘束された。"
   },
   {
    "title": "Overcrowding at Sandakan depot as ops continue against undocumented migrants",
@@ -3468,18 +3489,18 @@
     "入管・摘発"
    ],
    "title_ja": "不法移民に対する作戦が続く中、サンダカンの倉庫は超満員",
-   "summary_ja": "サンダカン：サバ州全域で強制執行が続いているため、サンダカン入国管理所には最大収容人数の1,200人を超える1,500人以上の不法移民が収容されている。",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.thestar.com.my/news/nation/2025/07/25/overcrowding-at-sandakan-depot-as-ops-continue-against-undocumented-migrants",
    "image": "https://apicms.thestar.com.my/uploads/images/2025/07/25/3434734.jpg",
    "site_name": "The Star",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "サンダカン：サバ州全域で強制執行が続いているため、サンダカン入国管理所には最大収容人数の1,200人を超える1,500人以上の不法移民が収容されている。"
   },
   {
    "title": "Seen but never welcomed, the Bajau Laut of Semporna continue to lose out in tourism boom",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWpfY3Zmai04VTFLdjVRekU0NG1yTE5vb3hGQ3dqa0pkUzFzdU8yNmxCREttbGVFT25jTzN5ZzN4SGFRX2g4R09SR3Y3bjhlcGJ5MVktTVVoZy1mdWVXOXpYM0ZuUjE1RUd3WHhBdzEtNEN3eDJqRXcwcm5iU1hZamttdDhVWFBJT1dEMEQ1bFJaT0gzZ1VnZGlTTl9GTGlqS2NIUjVQRlBqT2NxaGhXR2R3M091Rld4X0dxR01TblRreDNiMzcyZQ?oc=5",
-   "source": "Borneo Post",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUNXcm1uWWZZM1Rub2pjLXY0empEcERndEdubFRUb3liZkVpb1pCR2owejlMR3c4bjhSQld6ZDdpVkdEMFNvQnJNdUNtdWkwTDNLREhZdFVxNHFud09mOFR4VHJycVNrb0lVamdCVUJOd1JKQy1aYnN4NWtjVWw4RWlRTXVDWkh3dXRsbjBnanpLNlM4WlhDckE1OFZhdUN1Y0VDNW5KMEJlcmhyQmpJb3lnR09HOHAxbTNjWUN3ZkE3X3VJQ0QyVG9xVm1YZ3hYX05sUy0wWklCeldrQ2fSAeMBQVVfeXFMTjVTZXh2ZEJRNENNcHRKRW5EYmVFank4UUNPclJhcjl2U3UzQnQ2Y2tjY2lTTWIzNWh5VmV0MExERHk3VVdlUWhxa0Q5aEZBVHY4YW1IMkk5azhBRkZqSlZrUGxXQ0YxRWhMU0FqeXlMRS1RWVFZQWxleExwNnNTb1V3WHZQLVpPNGhrb0IwR2tKRzVfMlRSNkdkWjJsMGtRaWJmUTVLYm9CMUdqZTNWSmllWVNNWWRLam5PcFkyaGl1enpFZnp1djJHY1VSMmxTN0FmZ0J5TkxJVV9BYTNnVDJZVWM?oc=5",
+   "source": "Malay Mail",
    "date": "2025-07-17T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -3489,11 +3510,11 @@
     "バジャウ"
    ],
    "title_ja": "センポルナのバジャウ・ラウト族は、見られることはあっても歓迎されることはなく、観光ブームで負け続けている",
-   "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.theborneopost.com/2025/07/17/seen-but-never-welcomed-the-bajau-laut-of-semporna-continue-to-lose-out-in-tourism-boom/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   }
  ],
- "enriched_at": "2026-08-10T21:40:18Z"
+ "enriched_at": "2026-08-10T23:52:00Z"
 }
