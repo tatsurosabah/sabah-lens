@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T23:51:47Z",
+ "updated": "2026-08-11T02:35:44Z",
  "count": 165,
  "tags": {
   "入管・摘発": 103,
@@ -28,9 +28,9 @@
   "Malay Mail": 5,
   "Saluran 122": 5,
   "Sabah Post": 4,
+  "Free Malaysia Today": 4,
   "Astro Awani": 3,
   "MalaysiaGazette": 3,
-  "Free Malaysia Today": 3,
   "The Vibes": 2,
   "Nabalu News": 2,
   "Sabah Kini2": 2,
@@ -46,7 +46,6 @@
   "Options, The Edge": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
-  "freemalaysiatoday.com": 1,
   "Utusan Malaysia": 1,
   "Gempak": 1,
   "The Edge Malaysia": 1,
@@ -454,7 +453,7 @@
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnZYYU1DaEFYdG5kX3pLZzRGdi1ZNGVIdW5LQi15MGFVSEY4bkpzTV9faVozcFg4SEhsS2RDYTR2N0tmbzJ0NlVNblNRRGt0dTJfM0dtcHlvZmNLMlF1eUNmelhidVpRa2dtNDRYbWhXVm9zaHNIcmhKMFJTckFJa2ZrYldJXzZHbG01bElsSDdFaWVoVU1JNjk2eXo2ZnY4RVZxWnlGTnQ4R3E2QXZUS0wzU09qRkE3c2J5clR3ek5pb01VRzNJamhyTktKVlJka2t4atIBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
    "source": "Berita Harian",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
@@ -2748,7 +2747,7 @@
    "title": "Dakwaan Adun Warisan Pati meningkat di Sabah ‘mengelirukan’, kata Pemuda PGRS",
    "summary": "Sayap itu berkata dakwaan tersebut tidak berlandaskan tafsiran data rasmi Jabatan Perangkaan Malaysia.",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWJfM3dxdGoya2tMbFFwaVZaXzNQTF93ZVhBem1sVXU0d1V6UmVxQ0VudVRGY2pGU0V1ZEQwRS1oZXRwdjZ5SlA4RndRbWVMT2hWVXI0UlByT3VJUk0td0JpNDdOdnJadjRTNFJqWk9aREpKZEZ2WXB0eFcwWHUyRnF2TFJxNkFjTmNIa1BRaTRuVzhBcE51eWlTN09UeGhEZDZ6emYzWUppQ1d0ZVNuekV3VTBoeDljcnc1Rkk4UFNpM0dfWVFOaHB4bnROSG0tLUhSb3FvbmRvOU5W?oc=5",
-   "source": "freemalaysiatoday.com",
+   "source": "Free Malaysia Today",
    "date": "2026-01-05T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -2945,13 +2944,13 @@
    "id": "bbbdd8f3f8ef",
    "tags": [],
    "title_ja": "サバ州の有権者にとって移民、道路、電力供給が最重要課題となっている",
-   "summary_ja": "安定した電力供給、社会福祉援助の拡大、経済の活性化も有権者の考えに含まれます。",
    "first_seen": "2026-08-10T23:51:47Z",
    "url_real": "https://www.freemalaysiatoday.com/category/nation/2025/11/22/migrants-roads-power-supply-among-top-issues-for-sabahs-voters",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/11/02e83661-stock-arial-view-of-city-kota-kinabalu-sabah-fmt-17112025-10.webp",
    "image_alt": "Arial view of city - Kota Kinabalu, Sabah",
    "site_name": "Free Malaysia Today | FMT",
-   "enriched": "ok"
+   "enriched": "ok",
+   "summary_ja": "安定した電力供給、社会福祉援助の拡大、経済の活性化も有権者の考えに含まれます。"
   },
   {
    "title": "Sabah children without documentation can apply for citizenship under joint Home Ministry-state panel, says Saifuddin Nasution",
@@ -3515,6 +3514,5 @@
    "enriched": "blocked",
    "summary_ja": ""
   }
- ],
- "enriched_at": "2026-08-10T23:52:00Z"
+ ]
 }
