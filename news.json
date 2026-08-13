@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T19:38:37Z",
+ "updated": "2026-08-13T03:08:31Z",
  "count": 171,
  "tags": {
   "入管・摘発": 107,
@@ -37,7 +37,7 @@
   "Sabah Kini2": 2,
   "Harian Metro": 2,
   "Portal Berita RTM": 2,
-  "yahoo.com": 1,
+  "AFP Fact Check": 1,
   "Newswav": 1,
   "Bernama": 1,
   "Sayang Sabah": 1,
@@ -48,7 +48,7 @@
   "MindaNews": 1,
   "mkn.gov.my": 1,
   "Utusan Malaysia": 1,
-  "gempak.com": 1,
+  "Gempak": 1,
   "The Edge Malaysia": 1,
   "Malaysia MADANI": 1
  },
@@ -164,9 +164,9 @@
   {
    "title": "Decade-old image misrepresented as Filipinos arrested in Sabah migrant crackdown",
    "summary": "Malaysian immigration officials have continued their crackdown on undocumented migrants in the state of Sabah, but a photo of men in a crammed space does not show detained members of the Tausug ethnic...",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3FBMnBlYmNpblk0OE1LczNqY09MYnZMdGt5WENpUDB3aXllcC1xcExKZjh3TzhmZlBpdF9QTFItSWFWeDNHVkRTcF9nOW56MWJ2VXVySksySkE2QVJzT2c0NDJlSEc2X2ZjWDBLcXdsNWNDRWJVZzJfOEFhVzZ3b1U1cXlubFhMbGw5NkVqVDN4ajF3eFdZcmZfQ3dscnM?oc=5",
-   "source": "yahoo.com",
-   "date": "2026-08-03T04:16:00Z",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jY2pTWGxvZHcxQTZzWVROUXJSSVQ1TXBxMzU5NDJFM29IbmdYX29lV1pOSVM1V0FKX2x5Wm52OHpqOWJqUUc1VGxVaUxqR2s4NWcyQXRhQ1g?oc=5",
+   "source": "AFP Fact Check",
+   "date": "2026-08-03T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -3108,7 +3108,7 @@
    "title": "\"It's A Bad Image Untuk Sabah\" - Azharina Harap PRN Sabah Bawa Perubahan, Minta Basmi Masalah PATI, Dadah & Kebersihan",
    "summary": "Penyanyi kelahiran Sabah, Azharina tampil menjelaskan kenyataannya yang tular baru-baru ini mengenai tindakan pertama yang akan dilakukan sekiranya memegang…",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObENVSXlQUVJPWDRKM2JMRUxocXpDbmxUQWY2RmdlZ0dwWkNwdXItUi1PZEd1X1FYMTRJZk1MTEdXV2hkTHpuUk1lOEQwbGhqbEdyLWhYWTM2MG44VUdZX3ppYktBM3hCazJOeHhZLXlVaE95NmF3SW9YOF84TVlrYnZRMlUtRXNQM2xRUHdOcFYxN29JaHdDMzY3MlB3T0ZkSmdZMWp1NzJyQVl2N05nSGJnTzY1Zw?oc=5",
-   "source": "gempak.com",
+   "source": "Gempak",
    "date": "2025-11-19T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3324,10 +3324,10 @@
     "バジャウ"
    ],
    "title_ja": "ボルネオ・ボイス、バジャウ・ラウト族コミュニティに関するシャフィー氏の発言を曲解したとして批判",
-   "summary_ja": "",
    "first_seen": "2026-08-12T13:58:38Z",
    "url_real": "https://www.theborneopost.com/2025/10/07/borneo-voice-criticised-for-twisting-shafies-remarks-on-bajau-laut-community/",
-   "enriched": "blocked"
+   "enriched": "blocked",
+   "summary_ja": ""
   },
   {
    "title": "Syurga Tercemar: Pelancong Dedah Realiti Sampah, Anak Tanpa Warganegara di Semporna",
