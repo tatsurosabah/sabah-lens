@@ -239,8 +239,39 @@ img { display: block; }
 .dotsep { width: 3px; height: 3px; border-radius: 50%; background: currentColor; opacity: .45; flex: none; }
 
 /* 既読は色を落とす。消さずに沈める */
-.card.read { opacity: .58; }
+.card.read, .row.read { opacity: .58; }
 .card.read .shot img { filter: grayscale(.75); }
+
+/* ─────────────── 文字だけの一覧（サムネイルOFF） ─────────────── */
+
+.no-thumbs .feed { gap: 0; }
+.row {
+  display: flex; align-items: flex-start; gap: 10px; width: 100%; text-align: left;
+  padding: 15px 2px; border-bottom: 1px solid rgba(255, 255, 255, .08);
+  color: var(--on-dark);
+}
+.row:active { opacity: .6; }
+.row-main { flex: 1; min-width: 0; }
+.row h3 {
+  margin: 0 0 5px; font-size: 16px; line-height: 1.45; font-weight: 600; letter-spacing: -.2px;
+}
+.row .orig {
+  margin: 0 0 7px; font-size: 12px; color: var(--on-dark-sub); line-height: 1.4;
+  display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;
+}
+.row .foot { display: flex; align-items: center; gap: 7px; font-size: 11.5px; color: var(--on-dark-sub); flex-wrap: wrap; }
+.row .tag { background: rgba(255, 255, 255, .1); color: var(--on-dark-sub); }
+.star.flat {
+  position: static; flex: none; width: 30px; height: 30px; background: none;
+  margin-top: -3px;
+}
+.star.flat svg { stroke: var(--faint); }
+.star.flat.on svg { fill: #ffb400; stroke: #ffb400; }
+
+/* アイコンは状態で描き分ける */
+.iconbtn .ic-off { display: none; }
+.no-thumbs .iconbtn .ic-on { display: none; }
+.no-thumbs .iconbtn .ic-off { display: block; }
 
 /* ─────────────── 空・読み込み ─────────────── */
 
@@ -268,10 +299,67 @@ img { display: block; }
 .sheet .grab { width: 38px; height: 4px; border-radius: 999px; background: #d3d8e6; margin: 9px auto 0; }
 .sheet .shot { aspect-ratio: 16 / 9; margin-top: 10px; }
 .sheet-body { padding: 16px 18px 0; }
-.sheet-body h2 { margin: 0 0 8px; font-size: 22px; line-height: 1.38; font-weight: 800; letter-spacing: -.4px; }
-.sheet-body .orig { margin: 0 0 12px; font-size: 13.5px; color: var(--faint); line-height: 1.5; }
-.sheet-body .sum { font-size: 14.5px; line-height: 1.7; color: #333c56; margin: 0 0 16px; }
-.sheet-body .foot { display: flex; align-items: center; gap: 7px; font-size: 12.5px; color: var(--sub); flex-wrap: wrap; margin-bottom: 14px; }
+.sheet-body h2 { margin: 0 0 8px; font-size: 23px; line-height: 1.4; font-weight: 800; letter-spacing: -.4px; }
+.sheet-body .orig { margin: 0 0 14px; font-size: 13px; color: var(--faint); line-height: 1.5; }
+.sheet-body .foot { display: flex; align-items: center; gap: 7px; font-size: 12.5px; color: var(--sub); flex-wrap: wrap; margin-bottom: 10px; }
+
+/* 記事画面の閉じる／保存。写真の上に乗るので暗い丸にする。
+   sticky ＋ 負の margin で「場所を取らずに上に貼り付く」形にしている。
+   absolute だと長い本文を読み進めたときに上へ流れて押せなくなる。 */
+.sheet-head {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; align-items: center; padding: 8px 14px 0;
+  margin-bottom: -52px;
+  pointer-events: none;
+}
+.sheet-head > button { pointer-events: auto; }
+.iconbtn.dark { background: rgba(10, 14, 28, .55); color: #fff; backdrop-filter: blur(6px); }
+.iconbtn.dark.star-on svg { fill: #ffb400; stroke: #ffb400; }
+
+/* 要約。全文の前に置く一番大事な塊なので、色面で明確に区切る */
+.digest {
+  background: #eef3ff; border-left: 3px solid var(--royal);
+  border-radius: 4px 12px 12px 4px; padding: 13px 15px; margin: 0 0 20px;
+}
+.digest h4 {
+  margin: 0 0 6px; font-size: 11px; font-weight: 800; letter-spacing: 1.2px;
+  color: var(--royal);
+}
+.digest p { margin: 0; font-size: 14.5px; line-height: 1.75; color: #1e2740; font-weight: 500; }
+
+.expander {
+  display: flex; align-items: center; justify-content: space-between; width: 100%;
+  background: none; border: 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  padding: 14px 2px; margin: 0 0 4px;
+  font-size: 14px; font-weight: 700; color: var(--royal);
+}
+.expander svg {
+  width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2.2;
+  stroke-linecap: round; stroke-linejoin: round; transition: transform .2s ease;
+}
+.expander[aria-expanded="true"] svg { transform: rotate(180deg); }
+
+.article { display: none; margin: 14px 0 18px; }
+.article.open { display: block; }
+.article p {
+  margin: 0 0 15px; font-size: 16px; line-height: 1.95; color: #232c44;
+}
+.article .cont {
+  font-size: 12.5px; color: var(--faint); text-align: center; margin: 4px 0 0;
+}
+
+.nobody {
+  background: var(--surface-2, #f3f5fa); border-radius: 12px; padding: 16px; margin-bottom: 18px;
+}
+.nobody p { margin: 0 0 12px; font-size: 13.5px; color: var(--sub); line-height: 1.6; }
+
+.ghost-wide {
+  display: flex; align-items: center; justify-content: center; gap: 7px;
+  background: #eef1f8; color: var(--sub); border-radius: 13px; padding: 13px;
+  font-size: 14px; font-weight: 700; margin-top: 4px;
+}
+.ghost-wide svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.disclaimer { font-size: 11.5px; color: var(--faint); text-align: center; margin: 14px 0 0; line-height: 1.6; }
 .memo {
   width: 100%; border: 1px solid var(--line); border-radius: var(--radius-sm);
   padding: 11px 12px; font-size: 14px; min-height: 74px; resize: vertical;
@@ -307,11 +395,15 @@ img { display: block; }
   <div class="wrap top-row">
     <div class="brand"><span class="mark"></span><b>Sabah</b><span>Lens</span></div>
     <div class="grow"></div>
+    <button class="iconbtn" id="btnThumbs" aria-label="サムネイルの表示切替">
+      <svg viewBox="0 0 24 24" class="ic-on"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.5"/><path d="M21 16l-5-5-6 6"/></svg>
+      <svg viewBox="0 0 24 24" class="ic-off"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
     <button class="iconbtn" id="btnSearch" aria-label="検索">
       <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
     </button>
     <button class="iconbtn" id="btnUnread" aria-label="未読のみ">
-      <svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h9"/></svg>
+      <svg viewBox="0 0 24 24"><path d="M4 5h16l-6.2 7.4V19l-3.6-2v-4.6z"/></svg>
     </button>
     <button class="iconbtn" id="btnStar" aria-label="保存した記事">
       <svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z"/></svg>
@@ -338,11 +430,16 @@ img { display: block; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v2';
+const CACHE_LABEL = 'lens-v4';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
-const DEFAULT_STATE = { v: 1, read: {}, star: {}, memo: {}, unreadOnly: false, starOnly: false };
+const DEFAULT_STATE = {
+  v: 2, read: {}, star: {}, memo: {},
+  unreadOnly: false, starOnly: false,
+  thumbs: true,          // サムネイル表示。false で文字だけの一覧になる
+  expandBody: false,     // 記事画面で全文を開いたままにするか
+};
 let state = load();
 
 function load() {
@@ -400,6 +497,18 @@ function ago(iso) {
 const jaTitle = it => it.title_ja || it.title || '';
 const showOrig = it => (it.title_ja && it.title && it.title_ja !== it.title) ? it.title : '';
 const linkOf = it => it.url_real || it.url;
+
+/* 画像は2種類ある。
+   thumb = Google ニュースのサムネイル。550px 程度と小さいが 10KB 前後と軽く、
+           Cloudflare で本文が取れない媒体でも必ず付く。一覧はこちらを使う。
+   image = 媒体の og:image。大きく綺麗だが 80〜330KB ある。
+           大きく見せるヒーローと記事画面だけこちらを優先する。 */
+const smallImg = it => it.thumb || it.image || '';
+const bigImg = it => it.image || it.thumb || '';
+
+/* 読む本文。要約 → 全文の順に出す */
+const summaryOf = it => it.summary_ja2 || it.summary_ja || it.summary || '';
+const bodyOf = it => it.body_ja || '';
 const isNew = it => it.first_seen && (Date.now() - Date.parse(it.first_seen)) < 36 * 3600 * 1000;
 
 /* ─── データ ─── */
@@ -427,44 +536,63 @@ function visible() {
 
 /* ─── 描画 ─── */
 
-function cardHTML(it, i) {
-  const t = jaTitle(it), orig = showOrig(it);
-  const starOn = state.star[it.id] ? ' on' : '';
-  const readCls = state.read[it.id] ? ' read' : '';
-  const tags = (it.tags || []).slice(0, 2).map(tg => {
+function tagChips(it, limit) {
+  return (it.tags || []).slice(0, limit).map(tg => {
     const c = TAG_COLORS[tg];
     return c
       ? `<span class="tag k" style="background:${c[1]}">${esc(tg)}</span>`
       : `<span class="tag">${esc(tg)}</span>`;
   }).join('');
+}
 
-  const starBtn = `<button class="star${starOn}" data-star="${esc(it.id)}" aria-label="保存">
+function cardHTML(it, i) {
+  const t = jaTitle(it), orig = showOrig(it);
+  const starOn = state.star[it.id] ? ' on' : '';
+  const readCls = state.read[it.id] ? ' read' : '';
+  const tags = tagChips(it, 2);
+  const foot = `<div class="foot">${tags}<span>${esc(it.source || '')}</span>` +
+               `<i class="dotsep"></i><span>${esc(ago(it.date))}</span></div>`;
+
+  const starBtn = cls => `<button class="${cls}${starOn}" data-star="${esc(it.id)}" aria-label="保存">
       <svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z"/></svg></button>`;
+
+  // ── 文字だけの一覧（サムネイルOFF）
+  if (!state.thumbs) {
+    return `<article class="row${readCls}" data-open="${esc(it.id)}">
+      <div class="row-main">
+        <h3>${esc(t)}</h3>
+        ${orig ? `<p class="orig">${esc(orig)}</p>` : ''}
+        ${foot}
+      </div>
+      ${starBtn('star flat')}
+    </article>`;
+  }
+
+  // ── 写真カード
+  const src = smallImg(it);
   const srcBadge = `<span class="badge-src">${esc(it.source || '')}</span>`;
   const newBadge = isNew(it) ? '<span class="newdot">NEW</span>' : '';
 
   let shot;
-  if (it.image) {
+  if (src) {
     // loading=lazy と decoding=async でスクロールを止めない。
     // 参照元を送らないのは、媒体側のホットリンク制限に引っかかりにくくするため。
-    shot = `<div class="shot">${srcBadge}${starBtn}${newBadge}
+    shot = `<div class="shot">${srcBadge}${starBtn('star')}${newBadge}
       <img loading="${i < 3 ? 'eager' : 'lazy'}" decoding="async" referrerpolicy="no-referrer"
-           src="${esc(it.image)}" alt="${esc(it.image_alt || '')}"
+           src="${esc(src)}" alt="${esc(it.image_alt || '')}"
            onload="this.classList.add('in')" onerror="this.closest('.shot').dataset.fail='1';this.remove()"></div>`;
   } else {
     const [c1, c2] = colorsFor(it.tags);
-    shot = `<div class="shot type" style="--c1:${c1};--c2:${c2}">${srcBadge}${starBtn}${newBadge}
+    shot = `<div class="shot type" style="--c1:${c1};--c2:${c2}">${srcBadge}${starBtn('star')}${newBadge}
       <div class="tt">${esc(t)}</div></div>`;
   }
-
-  const heading = it.image ? `<h3>${esc(t)}</h3>` : '';
-  const origLine = (it.image && orig) ? `<p class="orig">${esc(orig)}</p>` : '';
 
   return `<article class="card${readCls}" data-open="${esc(it.id)}">
     ${shot}
     <div class="body">
-      ${heading}${origLine}
-      <div class="foot">${tags}<span>${esc(it.source || '')}</span><i class="dotsep"></i><span>${esc(ago(it.date))}</span></div>
+      ${src ? `<h3>${esc(t)}</h3>` : ''}
+      ${(src && orig) ? `<p class="orig">${esc(orig)}</p>` : ''}
+      ${foot}
     </div>
   </article>`;
 }
@@ -472,7 +600,7 @@ function cardHTML(it, i) {
 function heroHTML(it) {
   const t = jaTitle(it), orig = showOrig(it);
   return `<a class="hero" data-open="${esc(it.id)}">
-    <img src="${esc(it.image)}" alt="" referrerpolicy="no-referrer" decoding="async">
+    <img src="${esc(bigImg(it))}" alt="" referrerpolicy="no-referrer" decoding="async">
     <div class="scrim"></div>
     <div class="inner">
       <span class="kicker">${esc((it.tags || [])[0] || 'ピックアップ')}</span>
@@ -518,9 +646,10 @@ function render(resetPage = true) {
   if (resetPage) shown = PAGE;
 
   // 先頭が未読で画像持ちならヒーローに昇格させる。既読だらけのときは無理に出さない。
+  // サムネイルを切っているときはヒーローも出さない（写真を見ない設定なので）。
   let rest = list, hero = null;
-  if (!query && list.length > 3) {
-    hero = list.find(it => it.image && !state.read[it.id]) || (list[0].image ? list[0] : null);
+  if (state.thumbs && !query && list.length > 3) {
+    hero = list.find(it => bigImg(it) && !state.read[it.id]) || (bigImg(list[0]) ? list[0] : null);
     if (hero) rest = list.filter(it => it !== hero);
   }
   heroSlot.innerHTML = hero ? heroHTML(hero) : '';
@@ -542,6 +671,7 @@ function render(resetPage = true) {
 
   $('#btnUnread').classList.toggle('on', !!state.unreadOnly);
   $('#btnStar').classList.toggle('on', !!state.starOnly);
+  document.body.classList.toggle('no-thumbs', !state.thumbs);
 }
 
 function renderChips() {
@@ -568,37 +698,89 @@ function openSheet(id) {
   if (!state.read[id]) { state.read[id] = 1; save(); }
 
   const t = jaTitle(it), orig = showOrig(it);
-  const sum = it.summary_ja || it.summary || '';
-  const tags = (it.tags || []).map(tg => {
-    const c = TAG_COLORS[tg];
-    return c ? `<span class="tag k" style="background:${c[1]}">${esc(tg)}</span>` : `<span class="tag">${esc(tg)}</span>`;
-  }).join('');
+  const sum = summaryOf(it);
+  const body = bodyOf(it);
+  const tags = tagChips(it, 99);
+  const img = bigImg(it);
 
-  let shot = '';
-  if (it.image) {
-    shot = `<div class="shot"><img src="${esc(it.image)}" alt="" referrerpolicy="no-referrer"
-      onload="this.classList.add('in')" onerror="this.closest('.shot').remove()"></div>`;
-  }
+  const shot = img
+    ? `<div class="shot"><img src="${esc(img)}" alt="" referrerpolicy="no-referrer"
+        onload="this.classList.add('in')" onerror="this.closest('.shot').remove()"></div>`
+    : '';
 
-  sheet.innerHTML = `<div class="grab"></div>
-    ${shot}
-    <div class="sheet-body">
-      <h2>${esc(t)}</h2>
-      ${orig ? `<p class="orig">${esc(orig)}</p>` : ''}
-      ${sum ? `<p class="sum">${esc(sum)}</p>` : ''}
-      <div class="foot">${tags}<span>${esc(it.source || '')}</span><i class="dotsep"></i><span>${esc(ago(it.date))}</span></div>
-      <p class="memo-label">メモ</p>
-      <textarea class="memo" id="memoBox" placeholder="この記事について気づいたこと">${esc(state.memo[id] || '')}</textarea>
-    </div>
-    <div class="sheet-actions">
+  // 本文は段落ごとに <p> にする。改行を潰すと読めたものではない
+  const bodyHTML = body
+    ? body.split(/\n{2,}/).map(p => p.trim()).filter(Boolean)
+        .map(p => `<p>${esc(p)}</p>`).join('')
+    : '';
+
+  // 本文が取れなかった記事（Cloudflare で読めない媒体など）は、その旨を出して原文に誘導する
+  const noBody = `<div class="nobody">
+      <p>この媒体は本文を取り込めませんでした。原文でお読みください。</p>
       <a class="btn primary" href="${esc(linkOf(it))}" target="_blank" rel="noopener noreferrer">
-        記事を開く
+        原文を開く
         <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-8 8M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
       </a>
-      <button class="btn ghost${state.star[id] ? ' on' : ''}" id="sheetStar" aria-label="保存">
+    </div>`;
+
+  sheet.innerHTML = `<div class="grab"></div>
+    <div class="sheet-head">
+      <button class="iconbtn dark" id="sheetClose" aria-label="閉じる">
+        <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <div class="grow"></div>
+      <button class="iconbtn dark${state.star[id] ? ' star-on' : ''}" id="sheetStar" aria-label="保存">
         <svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z"/></svg>
       </button>
+    </div>
+    ${shot}
+    <div class="sheet-body">
+      <div class="foot">${tags}<span>${esc(it.source || '')}</span><i class="dotsep"></i><span>${esc(ago(it.date))}</span></div>
+      <h2>${esc(t)}</h2>
+      ${orig ? `<p class="orig">${esc(orig)}</p>` : ''}
+
+      ${sum ? `<section class="digest">
+        <h4>要約</h4>
+        <p>${esc(sum)}</p>
+      </section>` : ''}
+
+      ${bodyHTML ? `
+      <button class="expander" id="expandBtn" aria-expanded="${state.expandBody ? 'true' : 'false'}">
+        <span class="lbl">冒頭を日本語で読む</span>
+        <svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+      <section class="article${state.expandBody ? ' open' : ''}" id="articleBody">
+        ${bodyHTML}
+        <p class="cont">— ここから先は原文でお読みください</p>
+      </section>` : noBody}
+
+      <p class="memo-label">メモ</p>
+      <textarea class="memo" id="memoBox" placeholder="この記事について気づいたこと">${esc(state.memo[id] || '')}</textarea>
+
+      ${bodyHTML ? `<a class="btn ghost-wide" href="${esc(linkOf(it))}" target="_blank" rel="noopener noreferrer">
+        原文（${esc(it.source || '媒体')}）を開く
+        <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-8 8M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
+      </a>` : ''}
+      <p class="disclaimer">要約と冒頭のみの機械翻訳です。正確さが要るときは原文を確認してください。</p>
     </div>`;
+
+  sheet.scrollTop = 0;
+  $('#sheetClose').addEventListener('click', closeSheet);
+
+  // 要約と本文の第1段落はほぼ同じ内容になる（ニュースは逆ピラミッド型なので）。
+  // 並べると重複して見えるため、全文は畳んでおき、開いた状態は覚えておく。
+  const expandBtn = $('#expandBtn');
+  if (expandBtn) {
+    expandBtn.addEventListener('click', () => {
+      state.expandBody = !state.expandBody;
+      save();
+      $('#articleBody').classList.toggle('open', state.expandBody);
+      expandBtn.setAttribute('aria-expanded', state.expandBody ? 'true' : 'false');
+      expandBtn.querySelector('.lbl').textContent =
+        state.expandBody ? '冒頭を閉じる' : '冒頭を日本語で読む';
+    });
+    if (state.expandBody) expandBtn.querySelector('.lbl').textContent = '冒頭を閉じる';
+  }
 
   sheetBg.classList.add('open');
   sheet.classList.add('open');
@@ -611,7 +793,7 @@ function openSheet(id) {
   });
   $('#sheetStar').addEventListener('click', () => {
     toggleStar(id);
-    $('#sheetStar').classList.toggle('on', !!state.star[id]);
+    $('#sheetStar').classList.toggle('star-on', !!state.star[id]);
   });
 }
 
@@ -660,6 +842,12 @@ document.addEventListener('click', e => {
   }
 });
 
+$('#btnThumbs').addEventListener('click', () => {
+  state.thumbs = !state.thumbs;
+  save(); render();
+  toast(state.thumbs ? 'サムネイルあり' : '文字だけの一覧');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 $('#btnUnread').addEventListener('click', () => {
   state.unreadOnly = !state.unreadOnly;
   if (state.unreadOnly) state.starOnly = false;

@@ -49,8 +49,18 @@ jobs:
           CHROME_PATH="$CHROME" node enrich.mjs --conc 6 --limit 220
         continue-on-error: true    # 解決に失敗してもニュース自体は落とさない
 
-      # 抜粋が付くのは解決の後なので、翻訳はここでもう一度だけ回す
-      - name: 増えた抜粋を日本語にする
+      # Cloudflare を挟む媒体（Daily Express / Borneo Post など）は記事ページを
+      # 読めないが、Google ニュース側のサムネイルなら全記事ぶん取れる。
+      - name: Google ニュースのサムネイルを取る
+        run: |
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || true)"
+          [ -z "$CHROME" ] && exit 0
+          CHROME_PATH="$CHROME" node thumbs.mjs
+        continue-on-error: true
+
+      # 本文と抜粋が付くのは解決の後なので、翻訳はここでもう一度回す。
+      # 本文は長いので1回で終わらないことがあるが、残りは次回に持ち越される。
+      - name: 本文と抜粋を日本語にする
         run: python3 fetch_news.py --translate-only
         continue-on-error: true
 

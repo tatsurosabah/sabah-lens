@@ -11,33 +11,57 @@
 
 | | sabah-watch | sabah-lens |
 |---|---|---|
-| 見せ方 | 文字リスト | 写真カード＋ヒーロー |
-| 記事リンク | news.google.com 経由 | **媒体の実URL直リンク** |
-| 写真 | なし | og:image（164件中127件＝77%） |
-| 抜粋 | アラート由来のみ | **全記事**（og:description を和訳） |
-| 収集時間 | 30秒 | 数分〜（新着分だけ解決するため） |
+| 見せ方 | 文字リスト | 写真カード（文字だけの一覧にも切替可） |
+| 読み方 | 媒体サイトへ飛ぶ | **アプリ内で「要約→全文の和訳」を読む** |
+| 写真 | なし | 99%（Google ニュースのサムネイル＋og:image） |
+| 記事リンク | news.google.com 経由 | 媒体の実URL（補助的な導線） |
 
 ## 写真をどうやって取っているか
 
-Google ニュースRSSには `media:content` も `enclosure` も無い。写真は記事ページの
-`og:image` から取るしかないが、RSSのリンクは `news.google.com/rss/articles/…` という
-署名付きの中継URLで、**HTTPだけでは実URLに解決できない**（中継ページの静的HTMLに
-転送先が無く、JSを実行して初めて記事に飛ぶ）。
+Google ニュースRSSには `media:content` も `enclosure` も無い。取り方は2系統ある。
+
+**1. Google ニュースのサムネイル（`thumb`／主力）**
+
+検索ページに出るカード画像が `news.google.com/api/attachments/…` から配信されている。
+RSSのリンクに入っている記事IDでカードと突き合わせれば取れる（`thumbs.mjs`）。
+
+- **Cloudflare で記事ページを読めない媒体でも必ず付く。これで取得率が 77% → 99% になった**
+- `-w800-h450-p-df-rw` を付けて 554x331 / **10KB 前後**。媒体の og:image（80〜330KB）の
+  20分の1以下なので、一覧のカードにはこちらを使う
+
+**2. 媒体の og:image（`image`／高解像度用）**
+
+`enrich.mjs` が記事ページから拾う。大きく見せるヒーローと記事画面だけこちらを優先する。
+
+## 実URL・本文をどうやって取っているか
+
+RSSのリンクは `news.google.com/rss/articles/…` という署名付きの中継URLで、
+**HTTPだけでは実URLに解決できない**（中継ページの静的HTMLに転送先が無く、
+JSを実行して初めて記事に飛ぶ）。
 
 そこで `enrich.mjs` が headless Chrome を CDP で駆動し、実際にページを踏んで
+`url_real` / `image` / `summary` / **`body`（本文）** を拾う。
+GitHub Actions の ubuntu ランナーには Chrome が入っているのでそれを使う。
 
-- 着地した実URL → `url_real`
-- `og:image` → `image`
-- `og:description` → `summary`
+- **一度解決した記事には `enriched_v` が付き、二度と触らない。** 日々の実行で実際に
+  ブラウザを開くのは新着数件だけ。抽出の仕様を変えたときだけ `VERSION` を上げて取り直す
+- `HeadlessChrome` を名乗ると弾く媒体があるので通常の Chrome の UA を名乗る。
+  これで Berita Harian などは通るが、**Daily Express / Borneo Post は30秒待っても抜けない**
+  （`enriched: "blocked"`）。この2媒体は本文が取れないので、記事画面では原文へ誘導する
 
-を拾う。GitHub Actions の ubuntu ランナーには Chrome が入っているのでそれを使う。
+## アプリ内で読む（要約 → 全文）
 
-**一度解決した記事には `enriched` が付き、二度と触らない。** 日々の実行で実際に
-ブラウザを開くのは新着数件だけなので、初回だけ時間がかかる。
+記事をタップすると、媒体サイトではなく**アプリ内の記事画面**が開く。
 
-取れない記事もある。Daily Express / Borneo Post / Berita Harian は Cloudflare の
-ボット判定に当たる（`enriched: "blocked"`）。これらは **タグ色のタイポグラフィカード**
-として表示され、リンク自体は実URLで通る。
+1. **要約** — `summary_ja2`。本文の和訳から抜き出し式で3文つくる（`summarize_ja`）。
+   ニュースは逆ピラミッド型なので第1文は必ず採り、残りは頻出語を多く含む文から選ぶ。
+   外部のLLMを使わずに済ませるための素朴な方式
+2. **全文（日本語訳）** — `body_ja`。`translate_long()` が段落の切れ目を保ったまま
+   1500字ずつに割って訳す。1回の実行で終わらなくても、残りは次回に持ち越される
+3. 原文へのリンクは末尾に補助的に置く
+
+> **本文の和訳を持つのでリポジトリは private。** 各媒体の記事全文がネットに出る状態を
+> 避けるため。公開URLの扱いは下の「公開について」を参照。
 
 ## iPhone に入れる
 

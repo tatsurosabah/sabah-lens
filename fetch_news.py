@@ -272,6 +272,99 @@ def translate(text, target="ja", source="auto"):
         return None
 
 
+SENT_END = re.compile(r"(?<=[。！？])")
+
+
+def translate_long(text, chunk=1500):
+    """長い本文を文の切れ目で分割して訳し、つないで返す。
+
+    翻訳エンドポイントは1回あたり2000字程度で頭打ちになるので、
+    段落・文の境界で切る。途中で1つでも失敗したら None を返し、
+    中途半端な訳文を残さない（次回まるごとやり直す）。
+    """
+    # 1) 段落に分ける。長すぎる段落だけ文で割る
+    units = []
+    for para in (p.strip() for p in text.split("\n\n")):
+        if not para:
+            continue
+        if len(para) <= chunk:
+            units.append(para)
+            continue
+        cur = ""
+        for sent in SENT_END.split(para):
+            if len(cur) + len(sent) > chunk and cur:
+                units.append(cur)
+                cur = ""
+            cur += sent
+        if cur:
+            units.append(cur)
+
+    # 2) 段落の切れ目を保ったまま、上限まで詰めて1回分にする
+    parts, buf, n = [], [], 0
+    for u in units:
+        if n + len(u) > chunk and buf:
+            parts.append("\n\n".join(buf))
+            buf, n = [], 0
+        buf.append(u)
+        n += len(u) + 2
+    if buf:
+        parts.append("\n\n".join(buf))
+
+    out = []
+    for p in parts:
+        ja = translate(p)
+        if not ja:
+            return None
+        out.append(ja)
+        time.sleep(0.3)
+    return "\n\n".join(out).strip()
+
+
+def summarize_ja(text, max_sentences=3, max_chars=220):
+    """日本語の本文から抜き出し式の要約を作る。
+
+    ニュースは逆ピラミッド型で第1文がほぼ要約なので、まず第1文を必ず採る。
+    残りは「本文全体でよく出てくる語」を多く含む文から選び、元の順に並べ直す。
+    外部APIを使わずに済ませるための素朴な方式だが、見出しの次に読む3行としては十分。
+    """
+    if not text:
+        return ""
+    body = text.replace("\n", " ")
+    sents = [s.strip() for s in SENT_END.split(body) if len(s.strip()) > 15]
+    if not sents:
+        return text[:max_chars]
+    if len(sents) <= max_sentences:
+        return "".join(sents)[:max_chars]
+
+    # 2文字以上の漢字・カタカナのまとまりを内容語とみなして数える
+    words = re.findall(r"[一-龥]{2,}|[ァ-ヴー]{3,}", body)
+    freq = {}
+    for w in words:
+        freq[w] = freq.get(w, 0) + 1
+
+    scored = []
+    for i, s in enumerate(sents):
+        toks = re.findall(r"[一-龥]{2,}|[ァ-ヴー]{3,}", s)
+        if not toks:
+            continue
+        score = sum(freq.get(t, 0) for t in toks) / (len(toks) ** 0.5)
+        scored.append((score, i))
+    scored.sort(reverse=True)
+
+    picked = {0}
+    for _, i in scored:
+        if len(picked) >= max_sentences:
+            break
+        picked.add(i)
+
+    out = ""
+    for i in sorted(picked):
+        if len(out) + len(sents[i]) > max_chars and out:
+            break
+        out += sents[i]
+    return out
+
+
 def translate_missing(cfg):
     """news.json を読み、未訳の見出し・抜粋だけ翻訳して書き戻す。
 
@@ -285,36 +378,65 @@ def translate_missing(cfg):
     items = payload.get("items", [])
 
     budget = int(cfg.get("max_translations_per_run", 450))
-    todo = [it for it in items
-            if not it.get("title_ja") or (it.get("summary") and not it.get("summary_ja"))]
+
+    def needs(it):
+        return (not it.get("title_ja")
+                or (it.get("summary") and not it.get("summary_ja"))
+                or (it.get("body") and not it.get("body_ja")))
+
+    todo = [it for it in items if needs(it)]
     print(f"未訳: {len(todo)} 件（上限 {budget} 回）")
-    if not todo:
-        return
 
     done = 0
-    for it in todo:
+    saved_every = 20
+    for n, it in enumerate(todo, 1):
         if done >= budget:
             print("  … 上限に達したので残りは次回に回します")
             break
+
         if not it.get("title_ja"):
             ja = translate(it["title"])
             if ja:
                 it["title_ja"] = ja
             done += 1
             time.sleep(0.25)
+
         if it.get("summary") and not it.get("summary_ja"):
             ja = translate(it["summary"])
             if ja:
                 it["summary_ja"] = ja
             done += 1
             time.sleep(0.25)
-        if done and done % 50 == 0:
-            print(f"  翻訳 {done} 回…")
 
+        # 本文は長いので分割翻訳。1回の実行で全部は終わらないこともある
+        if it.get("body") and not it.get("body_ja"):
+            ja = translate_long(it["body"])
+            if ja:
+                it["body_ja"] = ja
+            done += max(1, len(it["body"]) // 1500)
+            if n % 5 == 0 or n == len(todo):
+                print(f"  {n}/{len(todo)} 本文訳 … （翻訳 {done} 回）")
+
+        # 途中で落ちても成果を捨てないよう、こまめに書き出す
+        if n % saved_every == 0:
+            _write(payload)
+
+    # 要約は訳文から作り直す（外部APIを使わない抜き出し式）
+    for it in items:
+        if it.get("body_ja"):
+            it["summary_ja2"] = summarize_ja(it["body_ja"])
+        elif it.get("summary_ja"):
+            it["summary_ja2"] = summarize_ja(it["summary_ja"])
+
+    _write(payload)
+    print(f"翻訳完了: {done} 回 / 本文の和訳 {sum(1 for i in items if i.get('body_ja'))}"
+          f"/{sum(1 for i in items if i.get('body'))} 件"
+          f" / 要約 {sum(1 for i in items if i.get('summary_ja2'))} 件")
+
+
+def _write(payload):
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
-    have = sum(1 for it in items if it.get("summary_ja"))
-    print(f"翻訳完了: {done} 回 / 抜粋の和訳あり {have}/{len(items)} 件")
 
 
 # ---------------------------------------------------------------- メイン
@@ -376,9 +498,11 @@ def main():
         merged[it["id"]] = it
     print(f"関連あり: {len(merged)} 件（重複排除後）")
 
-    # enrich.mjs が付けた解決結果。RSS を取り直しても必ず引き継ぐ。
-    # （落とすと同じ記事を毎回ブラウザで開き直すことになり、実行が数十分伸びる）
-    ENRICHED_KEYS = ("url_real", "image", "image_alt", "site_name", "enriched")
+    # enrich.mjs / thumbs.mjs が付けた解決結果と、その和訳。
+    # RSS を取り直しても必ず引き継ぐ。落とすと同じ記事を毎回ブラウザで開き直し、
+    # 本文を訳し直すことになって実行が数十分伸びる。
+    ENRICHED_KEYS = ("url_real", "image", "image_alt", "thumb", "site_name",
+                     "enriched", "enriched_v", "body", "body_ja", "summary_ja2")
 
     # ---- 既存とマージ（既訳・既存の日付・解決済みの画像などは維持）
     for iid, it in merged.items():

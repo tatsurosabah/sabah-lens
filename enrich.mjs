@@ -1,34 +1,46 @@
-// news.json の記事に「実URL・og:image・抜粋」を足す。
+// news.json の記事に「実URL・og:image・抜粋・本文」を足す。
 //
 // なぜブラウザが要るのか:
 //   Google ニュースRSSのリンク（news.google.com/rss/articles/…）は署名付きで、
 //   HTTPだけでは実URLに解決できない。中継ページの静的HTMLにも転送先は無く、
 //   JSを実行して初めて記事に飛ぶ。よって headless Chrome を CDP で駆動する。
-//   そして Google ニュースRSSには media:content も enclosure も無いので、
-//   画像は着地先の og:image から取るしかない。
 //
-// 一度解決した記事は news.json に焼き付くので二度と触らない。
+// 一度解決した記事は news.json に焼き付き、二度と触らない（enriched_v で判定）。
 // 日々の実行で実際に処理されるのは新着数件だけになる。
 //
 // 使い方:
-//   node enrich.mjs [--limit N] [--conc N] [--file news.json] [--retry-failed]
+//   node enrich.mjs [--limit N] [--conc N] [--file news.json] [--retry-failed] [--force]
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { spawn } from 'node:child_process';
 
+// 抽出の仕様を変えたら上げる。上げると全記事が取り直しになる。
+const VERSION = 2;
+
 const args = process.argv.slice(2);
-const opt = (name, dflt) => {
-  const i = args.indexOf(name);
-  return i >= 0 ? args[i + 1] : dflt;
-};
+const opt = (name, dflt) => { const i = args.indexOf(name); return i >= 0 ? args[i + 1] : dflt; };
 const FILE = opt('--file', 'news.json');
 const LIMIT = Number(opt('--limit', '0')) || Infinity;
 const CONC = Number(opt('--conc', '5'));
 const RETRY_FAILED = args.includes('--retry-failed');
+const FORCE = args.includes('--force');
 
 const PORT = 9377;
 const NAV_MS = 22000;      // 中継ページが記事に飛ぶまでの待ち上限
-const SETTLE_MS = 2500;    // 着地後、og メタが入るまで
+const SETTLE_MS = 2000;    // 着地後、og メタが入るまで
+const CF_WAIT_MS = 20000;  // Cloudflare の自動チャレンジを待つ上限
+
+// 本文は「冒頭の数段落」までしか保存しない。
+// news.json は GitHub Pages でそのまま公開されるので、各媒体の記事全文の和訳を
+// ネットに置くことになるのを避ける。ニュースは逆ピラミッド型で冒頭に要点が来るため、
+// この範囲でも「何が起きたか」はほぼ読める。続きは原文リンクへ誘導する。
+const BODY_PARAS = 4;
+const BODY_MAX = 1200;
+
+// HeadlessChrome を名乗ると弾く媒体があるので、通常の Chrome を名乗る。
+// これだけで Berita Harian などは通る（Daily Express / Borneo Post は通らない）。
+const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
+  '(KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36';
 
 // ─────────────── Chrome を起こす ───────────────
 
@@ -48,6 +60,9 @@ async function startChrome() {
       chromeProc = spawn(bin, [
         '--headless=new', '--disable-gpu', '--no-sandbox', '--no-first-run',
         '--no-default-browser-check', '--disable-dev-shm-usage',
+        '--disable-blink-features=AutomationControlled',
+        '--window-size=1280,900', '--lang=en-US,en',
+        `--user-agent=${UA}`,
         '--user-data-dir=/tmp/sabahlens-chrome',
         `--remote-debugging-port=${PORT}`, 'about:blank',
       ], { stdio: 'ignore' });
@@ -87,16 +102,19 @@ const send = (method, params = {}, sessionId) => new Promise(resolve => {
 
 // ─────────────── 記事ページから拾うもの ───────────────
 
-const EXTRACT = `(() => {
+const EXTRACT = String.raw`(() => {
   const meta = sel => document.querySelector(sel)?.content?.trim() || '';
   const abs = u => { try { return new URL(u, location.href).href; } catch { return ''; } };
+  const title = document.title || '';
+
+  const blocked = /just a moment|attention required|checking your browser|access denied|are you a robot|verifying you are human/i.test(title)
+    || !!document.querySelector('#challenge-running, #cf-challenge-running, form#challenge-form');
 
   let img = meta('meta[property="og:image"]')
          || meta('meta[property="og:image:secure_url"]')
          || meta('meta[name="twitter:image"]')
          || meta('meta[name="twitter:image:src"]');
 
-  // og が無い場合だけ本文の先頭画像を拾う。ロゴやアイコンは弾く。
   if (!img) {
     for (const el of document.querySelectorAll('article img, .entry-content img, .post-content img, main img')) {
       const s = el.currentSrc || el.src || '';
@@ -106,15 +124,47 @@ const EXTRACT = `(() => {
     }
   }
 
-  const title = document.title || '';
+  // 本文の取り出し。
+  // 決め打ちのセレクタ（.entry-content など）だけだと、当てはまらないサイトで
+  // まるごと空になる。そこで「段落テキストを一番多く直に抱えている要素が本文」
+  // という見方で探す。Readability の考え方の簡易版。
+  const NOISE = /^(share|tweet|advertisement|iklan|baca juga|read more|related|follow us|subscribe|sign up|copyright|photo:|foto:|gambar:|by |oleh )/i;
+  const clean = el => (el.innerText || '').trim().replace(/\s+/g, ' ');
+  const goodParas = el => [...el.querySelectorAll(':scope > p')]
+    .map(clean).filter(t => t.length > 35 && !NOISE.test(t));
+
+  let best = null, bestLen = 0;
+  for (const el of document.querySelectorAll('article, main, section, div, td')) {
+    // 画面から隠れている塊（別タブ用の複製など）は無視する
+    if (!el.offsetParent && el.tagName !== 'BODY') {
+      const cs = getComputedStyle(el);
+      if (cs.display === 'none' || cs.visibility === 'hidden') continue;
+    }
+    const ps = goodParas(el);
+    if (ps.length < 2) continue;
+    const len = ps.join('').length;
+    if (len > bestLen) { bestLen = len; best = el; }
+  }
+
+  let paras = best ? goodParas(best) : [];
+  // それでも取れなければ、文書全体の段落から拾う
+  if (paras.join('').length < 250) {
+    const all = [...document.querySelectorAll('p')].map(clean)
+      .filter(t => t.length > 60 && !NOISE.test(t));
+    if (all.join('').length > paras.join('').length) paras = all;
+  }
+  paras = [...new Set(paras)];   // 同じ段落を繰り返し出すサイトがある
+  paras = paras.slice(0, __PARAS__);   // 冒頭だけ（全文は保存しない）
+
   return JSON.stringify({
     landed: location.href,
+    title,
+    blocked,
     img: img ? abs(img) : '',
     imgAlt: meta('meta[property="og:image:alt"]'),
     desc: meta('meta[property="og:description"]') || meta('meta[name="description"]'),
     site: meta('meta[property="og:site_name"]'),
-    published: meta('meta[property="article:published_time"]'),
-    blocked: /just a moment|attention required|checking your browser|access denied|are you a robot/i.test(title),
+    body: paras.join('\n\n'),
   });
 })()`;
 
@@ -122,22 +172,37 @@ async function resolveOne(url) {
   const { targetId } = await send('Target.createTarget', { url: 'about:blank' });
   const { sessionId } = await send('Target.attachToTarget', { targetId, flatten: true });
   try {
+    const extract = EXTRACT.replace('__PARAS__', String(BODY_PARAS));
     await send('Page.enable', {}, sessionId);
+    await send('Emulation.setUserAgentOverride',
+      { userAgent: UA, acceptLanguage: 'en-US,en;q=0.9', platform: 'MacIntel' }, sessionId);
     frameUrl.delete(sessionId);
     await send('Page.navigate', { url }, sessionId);
 
-    const isGoogle = u => !u || u.startsWith('about:') || /^https?:\/\/(news|www)\.google\.com/.test(u);
+    // 「まだ Google にいる」か「そもそもページとして開けていない」かを見る。
+    // chrome-error:// を着地扱いにすると url_real がそれで上書きされて壊れる。
+    const notLanded = u => !u || u.startsWith('about:') || u.startsWith('chrome-error:')
+      || u.startsWith('chrome:') || /^https?:\/\/(news|www)\.google\.com/.test(u);
     const deadline = Date.now() + NAV_MS;
     let landedOff = false;
     while (Date.now() < deadline) {
       await new Promise(r => setTimeout(r, 400));
-      if (!isGoogle(frameUrl.get(sessionId))) { landedOff = true; break; }
+      if (!notLanded(frameUrl.get(sessionId))) { landedOff = true; break; }
     }
-    if (!landedOff) return { landed: '', img: '', desc: '', blocked: false, timeout: true };
+    if (!landedOff) return { landed: '', timeout: true };
 
     await new Promise(r => setTimeout(r, SETTLE_MS));
-    const r = await send('Runtime.evaluate', { expression: EXTRACT, returnByValue: true }, sessionId);
-    return r?.result?.value ? JSON.parse(r.result.value) : { landed: frameUrl.get(sessionId) || '' };
+
+    // Cloudflare のチャレンジは自力で抜けることがある。抜けるまで粘る。
+    let out = null;
+    const cfDeadline = Date.now() + CF_WAIT_MS;
+    for (;;) {
+      const r = await send('Runtime.evaluate', { expression: extract, returnByValue: true }, sessionId);
+      out = r?.result?.value ? JSON.parse(r.result.value) : { landed: frameUrl.get(sessionId) || '' };
+      if (!out.blocked || Date.now() > cfDeadline) break;
+      await new Promise(r => setTimeout(r, 1500));
+    }
+    return out;
   } finally {
     await send('Target.closeTarget', { targetId });
   }
@@ -148,16 +213,19 @@ async function resolveOne(url) {
 const data = JSON.parse(readFileSync(FILE, 'utf8'));
 const items = data.items || [];
 
-// enriched が付いていれば済み。失敗記録があるものは --retry-failed のときだけ再挑戦する。
 const todo = items.filter(it => {
-  if (it.enriched === 'ok') return false;
-  if (it.enriched && !RETRY_FAILED) return false;
-  return /^https?:\/\/news\.google\.com/.test(it.url || '');
+  if (!/^https?:\/\/news\.google\.com/.test(it.url || '')) return false;
+  if (FORCE) return true;
+  if (it.enriched_v === VERSION) {
+    // 版が同じでも、前回ブロックされたものは --retry-failed で再挑戦する
+    return RETRY_FAILED && it.enriched !== 'ok';
+  }
+  return true;
 }).slice(0, LIMIT);
 
-console.log(`対象 ${todo.length} 件 / 全 ${items.length} 件（同時 ${CONC}）`);
+console.log(`対象 ${todo.length} 件 / 全 ${items.length} 件（同時 ${CONC}, 版 ${VERSION}）`);
 
-let done = 0, withImg = 0, blocked = 0, failed = 0;
+let done = 0, withImg = 0, withBody = 0, blocked = 0, failed = 0;
 let cursor = 0;
 await Promise.all(Array.from({ length: Math.min(CONC, todo.length) }, async () => {
   while (cursor < todo.length) {
@@ -166,22 +234,29 @@ await Promise.all(Array.from({ length: Math.min(CONC, todo.length) }, async () =
     try { r = await resolveOne(it.url); }
     catch (e) { r = { err: String(e).slice(0, 100) }; }
 
-    if (r.landed) {
+    if (r.landed && /^https?:/.test(r.landed)) {
       it.url_real = r.landed;
       if (r.img) { it.image = r.img; if (r.imgAlt) it.image_alt = r.imgAlt; withImg++; }
-      // 抜粋は既にアラート由来のものがあればそちらを優先する
       if (r.desc && !it.summary) it.summary = r.desc.slice(0, 400);
       if (r.site && !it.site_name) it.site_name = r.site;
-      it.enriched = r.img ? 'ok' : (r.blocked ? 'blocked' : 'noimage');
+      if (r.body && r.body.length > 200) {
+        const next = r.body.slice(0, BODY_MAX);
+        if (next !== it.body) { it.body = next; it.body_ja = ''; }   // 本文が変わったら訳し直す
+        withBody++;
+      }
+      it.enriched = r.body && r.body.length > 200 ? 'ok'
+                  : r.blocked ? 'blocked'
+                  : r.img ? 'nobody' : 'thin';
       if (r.blocked) blocked++;
     } else {
       it.enriched = 'failed';
       failed++;
     }
+    it.enriched_v = VERSION;
 
     done++;
     if (done % 10 === 0 || done === todo.length) {
-      console.log(`  ${done}/${todo.length}  画像 ${withImg} / ブロック ${blocked} / 失敗 ${failed}`);
+      console.log(`  ${done}/${todo.length}  画像 ${withImg} / 本文 ${withBody} / ブロック ${blocked} / 失敗 ${failed}`);
     }
   }
 }));
@@ -192,8 +267,8 @@ if (todo.length) {
 }
 
 const total = items.length;
-const haveImg = items.filter(i => i.image).length;
-console.log(`\n完了: 画像あり ${haveImg}/${total} (${(haveImg / total * 100).toFixed(0)}%)`);
+console.log(`\n完了: 画像 ${items.filter(i => i.image || i.thumb).length}/${total}` +
+            ` / 本文 ${items.filter(i => i.body).length}/${total}`);
 
 ws.close();
 try { chromeProc?.kill(); } catch {}
