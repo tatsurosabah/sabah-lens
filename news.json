@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T18:57:16Z",
+ "updated": "2026-08-16T02:06:59Z",
  "count": 182,
  "tags": {
   "入管・摘発": 114,
@@ -36,7 +36,7 @@
   "The Vibes": 2,
   "Nabalu News": 2,
   "Sayang Sabah": 2,
-  "Sabah Kini2": 2,
+  "sabahkini2.com": 2,
   "Portal Berita RTM": 2,
   "Nikkei Asia": 1,
   "AFP Fact Check": 1,
@@ -45,7 +45,7 @@
   "Migrant Times": 1,
   "jesseltontimes.com": 1,
   "Buletin TV3": 1,
-  "South China Morning Post": 1,
+  "scmp.com": 1,
   "Options, The Edge": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
@@ -909,12 +909,12 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州のJIM強制執行作戦で208人のPATIが逮捕された",
-   "summary_ja": "",
    "first_seen": "2026-08-15T18:57:16Z",
    "url_real": "https://www.sayangsabah.com.my/2026/07/208-pati-ditahan-dalam-operasi.html",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFEWTHPCoZ0sguUSUF36nYWLuX3TFHQYIIsMvEJZMstB5y1rKqk2MPmgT5Xg52g57ivcpKY8J12k00Vg",
    "enriched": "thin",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFEWTHPCoZ0sguUSUF36nYWLuX3TFHQYIIsMvEJZMstB5y1rKqk2MPmgT5Xg52g57ivcpKY8J12k00Vg"
+   "summary_ja": ""
   },
   {
    "title": "208 PATI ditahan dalam 26 operasi serentak JIM Sabah",
@@ -1022,7 +1022,7 @@
    "title": "JIM Sabah hantar pulang 351 PATI ke Indonesia, Filipina",
    "summary": "Menurut beliau, pada masa sama, seramai 138 warga Filipina dari Depot Imigresen Tawau dipindahkan melalui Pelabuhan Lahad Datu ke Pelabuhan Bongao, Tawi-Tawi menggunakan feri komersial.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWl3WTY5dlN1TUNOcldWYzFYMEUtX3V6VlJUR1lEWWpLeVd3dlVNTE5HeHBVc00xV1NmSlNqRy02NHRhS29fWUNxallRTVlyYm82bXJOMThLUk00YUdOQTJNeHpCSVNoMzM4LWFpajFZZ3NxMkFldnVJbkUtVHMxUV9TS0IzMXA1ckp4Y0Y5Vl9xSlN1YVAzemFvQllMUjE0WGR6b2RRU05ibmpvVWJQX0Z1YW1ab05v?oc=5",
-   "source": "Sabah Kini2",
+   "source": "sabahkini2.com",
    "date": "2026-06-26T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -2155,15 +2155,15 @@
     "入管・摘発"
    ],
    "title_ja": "帰化したフィリピン人285人が母国に送還された",
-   "summary_ja": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。",
    "first_seen": "2026-08-15T18:57:16Z",
    "url_real": "https://www.hmetro.com.my/mutakhir/2026/05/1357850/285-pati-warga-filipina-dihantar-pulang-ke-negara-asal",
    "image": "https://assets.hmetro.com.my/images/articles/pati14-o_HMfield_image_socialmedia.var_1778747960.jpg",
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU7iW7LH-i8UiDkPiKvXkXpTx-3yBkx3klaOxeqCS7tto18TwzH-ZxsTnBZ7zxaAn6bA",
    "site_name": "Harian Metro",
    "enriched": "nobody",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU7iW7LH-i8UiDkPiKvXkXpTx-3yBkx3klaOxeqCS7tto18TwzH-ZxsTnBZ7zxaAn6bA",
-   "summary_ja2": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。"
+   "summary_ja2": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。",
+   "summary_ja": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。"
   },
   {
    "title": "Sabah deports 156 Indonesian illegal immigrants in latest exercise",
@@ -3086,7 +3086,7 @@
    "title": "NIKO tiada IC: Imigresen Sabah digesa serbu Sekolah Alternatif digerakkan Mukmin Nantang jadi pelindung PTI di Sabah",
    "summary": "Sebelum ini Mukmin Nantang bersama Borneo Komrad dan Sekolah Alternatif membawa 9 budak tiada dokumen menyamar mahasiswa UMS untuk berdemo. Kali ini budak bernama NIKO pula.  Imigresen Sabah perlu bertindak tegas serbu Sekolah Alternatif  'menternak' PTI",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaDRaUXh2Nkpic3FQNWhGbFdSWW1OSU1ncTkwbG5uUTY1eXVva0wwR1k0dU80U0gza1lnbHZ4SDFPd1c2cjJfN0VhbE9YeHNiZnpLbjlHY0ZKekdSUk9QUzhvR1Nqd0xOWGYzMmFaMFlPR0J5YUY4d3JDY0JhX3B1MWV6NG9pNHUwUVl6amhQRkYyTWhLUnk3ZzVFQndfTk5wMXNUM1NhdTlHUlFLYXdvaUtNVjBJMXpBb2FXc3VaczlhaVNkWjUzMmJaOGRtM1hnWVpGVmZzMWNKdnFWTldBQUdZbnJOdnJuS1d6UQ?oc=5",
-   "source": "Sabah Kini2",
+   "source": "sabahkini2.com",
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3113,7 +3113,7 @@
    "title": "Arrest of stateless teen in Malaysia highlights Sabah’s citizenship crisis",
    "summary": "Rights groups say stateless people in the country are often treated as undocumented migrants without basic protections.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTRGNFVDUTlLVnVzcHAxZXlsRU5sSWZzcXllUFNXeWc3Rmt2bmdHaXdlMkxQbXV1aHItZUdpcW8wazhNM2Ftc2lZd053bk14eTVqOU5tRktLQWl2WEE1T1g0QVltRzRaOXRWQlUtbjhMMTZTM2RxOEgwWVIzM285bjNiVXhONzU3RnNnYV8wdE9jRUN1a3JOVmVhT25jN0RRUWtXaEJOSEozak4zWDlud0x6aTh5SDZqOFpudlBxRkFHVHo4Nkp1T0ZfVF_SAcwBQVVfeXFMT2NpTmZ0eGpDdEtULTU4UC1MZS1wd2VtekNZdjNfZmFIVFI0QzdTTV9jbklxV2NpOFVKUkpXZi0tWnNtdDZzbE9YZGxWUTZWQndsRUY2aDBJME5uTjJqRTgwRmVDN0YwWHVTZENHYzRWT0ZaZE5BMEQ4SW5wWVI1ZkpyMmstY2dSMmxXdkQzc0U0MHRkSVh0bW1PRFB3SHk4NXkyM0w2cDg4QVhaOFNRMmlZV2RFYzZPQVJzb3pmTm01MWI1TDNpSDV1T2Fq?oc=5",
-   "source": "South China Morning Post",
+   "source": "scmp.com",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -4632,7 +4632,5 @@
    "summary_ja2": "センポルナ、7 月 17 日 — サバ州の東海岸沖の輝く海では、インスタ映えする白砂のビーチ、ターコイズブルーの海に浮かぶ水上バンガロー、そしてたくさんの海洋生物を求めて、毎日 2,000 人近くのほとんどが中国人の観光客とダイバーが美しい島々に集まり、観光業が盛んです。しかし、センポルナの有名な海洋遊牧民であり、居住者であるバジャウ・ラウトにとって、きらびやかな観光広告の下にある現実は、はるかに牧歌的ではありません。",
    "summary_ja": "センポルナ、7 月 17 日 — サバ州の東海岸沖の輝く海では、観光業が繁盛しており、主に中国人の観光客やダイバーが 2,000 人近くも絵のように美しい島々に集まります。"
   }
- ],
- "enriched_at": "2026-08-15T18:57:27Z",
- "thumbs_at": "2026-08-15T18:59:37Z"
+ ]
 }
