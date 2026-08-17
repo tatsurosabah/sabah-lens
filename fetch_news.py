@@ -169,6 +169,58 @@ def auto_tags(text):
     return [name for name, rx in TAG_RULES if rx.search(text)]
 
 
+# ---------------------------------------------------------------- 報道の広がり
+#
+# 同じ出来事でも「サバ州のローカル紙だけが書いている」のか「全国紙が取り上げた」
+# のかで意味が違う。後者は州外にも届いている話題ということ。媒体のドメインで分ける。
+
+LOCAL_DOMAINS = {
+    # サバ州の媒体
+    "sabahmedia.com", "dailyexpress.com.my", "sabahnews.com.my", "tvsabahnews.com",
+    "sabahnewstoday.net", "jesseltontimes.com", "sabahpost.net", "nabalunews.com",
+    "sayangsabah.com.my", "sabahkini2.com", "newsabahtimes.com.my", "sabahtoday.net",
+    # ボルネオ島の地域紙（サバ版を持つ／州外には広がっていない扱い）
+    "theborneopost.com", "utusanborneo.com.my", "tvsarawak.my", "dayakdaily.com",
+}
+
+NATIONAL_DOMAINS = {
+    "nst.com.my", "thestar.com.my", "malaymail.com", "bernama.com", "bharian.com.my",
+    "freemalaysiatoday.com", "astroawani.com", "malaysiagazette.com", "hmetro.com.my",
+    "thevibes.com", "rtm.gov.my", "berita.rtm.gov.my", "newswav.com", "malaysiakini.com",
+    "buletintv3.my", "optionstheedge.com", "theedgemalaysia.com", "utusan.com.my",
+    "gempak.com", "sinarharian.com.my", "kosmo.com.my", "themalaysianreserve.com",
+    "mkn.gov.my", "malaysiamadani.gov.my", "theedgemarkets.com", "says.com",
+}
+
+
+def domain_of(url):
+    m = re.match(r"https?://([^/]+)", url or "")
+    if not m:
+        return ""
+    host = m.group(1).lower()
+    return host[4:] if host.startswith("www.") else host
+
+
+def classify_scope(item):
+    """local（州内・ボルネオ）/ national（マレーシア全国）/ foreign（海外）"""
+    host = domain_of(item.get("url_real") or "")
+    if not host:
+        # 実URLが未解決のときは媒体名から推測する
+        name = (item.get("source") or "").lower()
+        if any(k in name for k in ("sabah", "borneo", "jesselton", "nabalu", "kinabalu")):
+            return "local"
+        return "national"
+
+    for d in LOCAL_DOMAINS:
+        if host == d or host.endswith("." + d):
+            return "local"
+    for d in NATIONAL_DOMAINS:
+        if host == d or host.endswith("." + d):
+            return "national"
+    # 未知のドメイン。.my なら国内、そうでなければ海外とみなす
+    return "national" if host.endswith(".my") else "foreign"
+
+
 # ---------------------------------------------------------------- フィード解析
 
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -421,6 +473,10 @@ def translate_missing(cfg):
         if n % saved_every == 0:
             _write(payload)
 
+    # 報道の広がりも付け直す（enrich で url_real が入った後に確定する）
+    for it in items:
+        it["scope"] = classify_scope(it)
+
     # 要約は訳文から作り直す（外部APIを使わない抜き出し式）
     for it in items:
         if it.get("body_ja"):
@@ -562,6 +618,10 @@ def main():
         print(f"翻訳完了: {done} 回")
 
     # ---- 書き出し
+    # scope は url_real が解決されると変わりうるので毎回付け直す
+    for it in kept:
+        it["scope"] = classify_scope(it)
+
     sources = {}
     tag_counts = {}
     for it in kept:

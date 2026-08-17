@@ -108,9 +108,12 @@ img { display: block; }
 .searchbar input::placeholder { color: var(--on-dark-sub); }
 .searchbar input:focus { outline: 2px solid var(--royal); }
 
-/* タグの横スクロール */
+/* タグの横スクロール。
+   端まで流したいので .wrap の中には入れないが、max-width と auto margin で
+   本文と同じ位置に揃える（これが無いと広い画面で左端に取り残される）。 */
 .chips {
   display: flex; gap: 7px; overflow-x: auto; padding: 0 14px 10px;
+  max-width: 708px; margin: 0 auto;
   scrollbar-width: none; -webkit-overflow-scrolling: touch;
 }
 .chips::-webkit-scrollbar { display: none; }
@@ -126,15 +129,32 @@ img { display: block; }
 
 .meta-row {
   display: flex; align-items: center; gap: 8px;
-  padding: 14px 0 10px; font-size: 12.5px; color: var(--on-dark-sub);
+  padding: 10px 0 12px; font-size: 12px; color: var(--on-dark-sub);
 }
 .meta-row .live { width: 7px; height: 7px; border-radius: 50%; background: #35d07f; flex: none; }
+
+/* 報道の広がり（州内 / 全国）の切替。
+   タグとは別の軸なので、タグ列に混ぜず独立した帯にしている。 */
+.scope {
+  display: flex; gap: 3px; padding: 3px; margin: 12px 0 2px;
+  background: rgba(255, 255, 255, .06); border-radius: 999px;
+}
+.scope button {
+  flex: 1; border-radius: 999px; padding: 7px 6px; font-size: 12.5px; font-weight: 700;
+  color: var(--on-dark-sub); white-space: nowrap; transition: background .15s, color .15s;
+}
+.scope button.on { background: #fff; color: var(--ink); }
+.scope button .n { opacity: .5; margin-left: 4px; font-size: 11px; }
 
 /* ─────────────── ヒーロー ─────────────── */
 
 .hero {
   position: relative; display: block; border-radius: var(--radius); overflow: hidden;
-  aspect-ratio: 4 / 5; background: var(--bg-2); margin-bottom: 20px;
+  /* 4:5 だと画面をほぼ埋めてしまい「大きすぎる」。通常カード(16:9)より
+     一回り大きい程度に留め、横幅が広い画面では高さで頭打ちにする。 */
+  /* width を明示しないと max-height から横幅まで逆算されて縮む */
+  width: 100%; aspect-ratio: 4 / 3; max-height: 400px;
+  background: var(--bg-2); margin-bottom: 20px;
   box-shadow: 0 18px 44px rgba(0, 0, 0, .45);
 }
 .hero img { width: 100%; height: 100%; object-fit: cover; }
@@ -416,6 +436,7 @@ img { display: block; }
 </header>
 
 <main class="wrap">
+  <div class="scope" id="scopeBar"></div>
   <div class="meta-row" id="metaRow"></div>
   <div id="heroSlot"></div>
   <div class="feed" id="feed">
@@ -430,7 +451,7 @@ img { display: block; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v4';
+const CACHE_LABEL = 'lens-v5';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
@@ -514,13 +535,27 @@ const isNew = it => it.first_seen && (Date.now() - Date.parse(it.first_seen)) < 
 /* ─── データ ─── */
 let ALL = [];
 let activeTag = null;
+let activeScope = '';
 let query = '';
 
 const $ = s => document.querySelector(s);
 const feedEl = $('#feed'), chipsEl = $('#chips'), heroSlot = $('#heroSlot'), metaRow = $('#metaRow');
 
+/* 報道の広がり。local=サバ州・ボルネオの媒体、national=マレーシア全国紙、
+   foreign=海外。同じ出来事でも州内だけの話か全国に届いた話かで意味が変わる。 */
+const SCOPES = [
+  { key: '', label: 'すべて' },
+  { key: 'local', label: 'サバ州内' },
+  { key: 'national', label: '全国・海外' },
+];
+const scopeOf = it => it.scope || 'national';
+const inScope = (it, key) => !key || (key === 'national'
+  ? scopeOf(it) !== 'local'          // 全国と海外はまとめて「州外に届いた」扱い
+  : scopeOf(it) === key);
+
 function visible() {
   let list = ALL;
+  if (activeScope) list = list.filter(it => inScope(it, activeScope));
   if (activeTag) list = list.filter(it => (it.tags || []).includes(activeTag));
   if (state.unreadOnly) list = list.filter(it => !state.read[it.id]);
   if (state.starOnly) list = list.filter(it => state.star[it.id]);
@@ -647,9 +682,11 @@ function render(resetPage = true) {
 
   // 先頭が未読で画像持ちならヒーローに昇格させる。既読だらけのときは無理に出さない。
   // サムネイルを切っているときはヒーローも出さない（写真を見ない設定なので）。
+  // ヒーローは大きく出すので、媒体の高解像度画像がある記事だけを選ぶ。
+  // Google のサムネイル（554px幅）を全幅に引き伸ばすとぼやけて逆効果になる。
   let rest = list, hero = null;
   if (state.thumbs && !query && list.length > 3) {
-    hero = list.find(it => bigImg(it) && !state.read[it.id]) || (bigImg(list[0]) ? list[0] : null);
+    hero = list.find(it => it.image && !state.read[it.id]) || list.find(it => it.image) || null;
     if (hero) rest = list.filter(it => it !== hero);
   }
   heroSlot.innerHTML = hero ? heroHTML(hero) : '';
@@ -664,9 +701,9 @@ function render(resetPage = true) {
     pump();       // 絞り込みで件数が減り、下端が既に近い場合に備える
   }
 
-  const unread = ALL.filter(it => !state.read[it.id]).length;
+  const unread = list.filter(it => !state.read[it.id]).length;
   metaRow.innerHTML = `<span class="live"></span>
-    <span>${ALL.length}件 · 未読 ${unread}件</span><i class="dotsep"></i>
+    <span>${list.length}件 · 未読 ${unread}件</span><i class="dotsep"></i>
     <span>更新 ${esc(ago(window.__updated))}</span>`;
 
   $('#btnUnread').classList.toggle('on', !!state.unreadOnly);
@@ -674,12 +711,22 @@ function render(resetPage = true) {
   document.body.classList.toggle('no-thumbs', !state.thumbs);
 }
 
+function renderScope() {
+  $('#scopeBar').innerHTML = SCOPES.map(s => {
+    const n = ALL.filter(it => inScope(it, s.key)).length;
+    return `<button data-scope="${s.key}" class="${activeScope === s.key ? 'on' : ''}">${s.label}<span class="n">${n}</span></button>`;
+  }).join('');
+}
+
 function renderChips() {
+  // タグの件数は、いま選んでいる「広がり」の中での件数にする。
+  // 全体件数のままだと、絞り込んだ結果0件のタグが数字付きで並んで混乱する。
+  const pool = ALL.filter(it => inScope(it, activeScope));
   const counts = {};
-  for (const it of ALL) for (const tg of (it.tags || [])) counts[tg] = (counts[tg] || 0) + 1;
+  for (const it of pool) for (const tg of (it.tags || [])) counts[tg] = (counts[tg] || 0) + 1;
   const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
   chipsEl.innerHTML =
-    `<button class="chip${activeTag ? '' : ' on'}" data-tag="">すべて<span class="n">${ALL.length}</span></button>` +
+    `<button class="chip${activeTag ? '' : ' on'}" data-tag="">すべて<span class="n">${pool.length}</span></button>` +
     sorted.map(([tg, n]) =>
       `<button class="chip${activeTag === tg ? ' on' : ''}" data-tag="${esc(tg)}">${esc(tg)}<span class="n">${n}</span></button>`
     ).join('');
@@ -839,6 +886,18 @@ document.addEventListener('click', e => {
     activeTag = chip.dataset.tag || null;
     renderChips(); render();
     window.scrollTo({ top: 0, behavior: 'smooth' });
+    return;
+  }
+
+  const sc = e.target.closest('[data-scope]');
+  if (sc) {
+    activeScope = sc.dataset.scope || '';
+    // 広がりを変えるとタグの件数も変わるので、選択中のタグが空になるなら解除する
+    if (activeTag && !ALL.some(it => inScope(it, activeScope) && (it.tags || []).includes(activeTag))) {
+      activeTag = null;
+    }
+    renderScope(); renderChips(); render();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 });
 
@@ -883,6 +942,7 @@ fetch('news.json', { cache: 'no-cache' })
       if (da !== db) return db.localeCompare(da);
       return (b.image ? 1 : 0) - (a.image ? 1 : 0);
     });
+    renderScope();
     renderChips();
     render();
   })
