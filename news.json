@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-17T13:22:03Z",
- "count": 185,
+ "updated": "2026-08-17T19:08:23Z",
+ "count": 187,
  "tags": {
-  "入管・摘発": 116,
-  "市民権": 29,
+  "入管・摘発": 117,
+  "市民権": 30,
   "無国籍": 28,
   "子ども": 21,
   "バジャウ": 14,
@@ -18,8 +18,8 @@
   "Sabah Media": 33,
   "Daily Express Malaysia": 17,
   "NST Online": 14,
+  "Borneo Post": 13,
   "sabahnews.com.my": 12,
-  "Borneo Post": 12,
   "The Star": 11,
   "TV Sabah News": 10,
   "sabahnewstoday.net": 8,
@@ -27,6 +27,7 @@
   "Saluran 122": 6,
   "Jesselton Times": 5,
   "Berita Harian": 5,
+  "Sabah Post": 4,
   "Free Malaysia Today": 4,
   "Astro Awani": 3,
   "MalaysiaGazette": 3,
@@ -34,11 +35,10 @@
   "tvsabahnews.com": 2,
   "The Vibes": 2,
   "Nabalu News": 2,
-  "sabahpost.net": 2,
   "Sayang Sabah": 2,
   "Sabah Kini2": 2,
   "Portal Berita RTM": 2,
-  "Sabah Post": 2,
+  "PressReader": 1,
   "Nikkei Asia": 1,
   "AFP Fact Check": 1,
   "Newswav": 1,
@@ -57,6 +57,29 @@
   "Malaysia MADANI": 1
  },
  "items": [
+  {
+   "title": "Jangan mudah terperdaya dengan tawaran MyKAS: Dino",
+   "summary": "Digital newsstand featuring 7000+ of the world’s most popular newspapers & magazines. Enjoy unlimited reading on up to 5 devices with 7-day free trial.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEhiaU9jZTlabmliSF9yd1g2TjByeVhXRUpZSDZYaTJsbzFaYXFZYjFJcGpYRDRmLXA0c3A3VW0xWWMtOHd1bHMzZ19DU3JYRUt4OWpwN0l2RURCX25JNHU5ZWxDNE9DZGRSdTRhV3ZXTTM2bm9ubGVPUjRzMzAyZS1FdE1COUtI?oc=5",
+   "source": "PressReader",
+   "date": "2026-08-17T18:09:57Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "MyKAS OR IMM13 Sabah",
+   "id": "8808cef90868",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "MyKAS: Dino のオファーに騙されないでください",
+   "summary_ja": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。 7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。",
+   "first_seen": "2026-08-17T19:08:22Z",
+   "scope": "foreign",
+   "url_real": "https://www.pressreader.com/malaysia/utusan-borneo-sabah/20260818/281728391351991",
+   "enriched": "thin",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz5mGSUxiUhxqt72_C2yggBxXp8voBTerXvR6G8KYDIY539ql5Dah75jmUBcb0yxhTFQ",
+   "summary_ja2": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。"
+  },
   {
    "title": "Act on NGO involved in MyKAS assistance",
    "summary": "",
@@ -443,7 +466,7 @@
    "summary": "Dua majikan tempatan didenda RM5,000 setiap seorang oleh Mahkamah Sesyen di sini hari ini selepas mengaku bersalah atas pertuduhan membenarkan pendatang asing tanpa izin (PATI) berada di premis mer…",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1FFNXE2RFA1d0dRWEdlcnNxZWxjR2FFSDZ0b3R2U2xHdTBzU2xiaXFpZkl0TUFaY2Zkb1lPazJoWnhWbVp4NV9XVEpCVGRLSnJlRzFDZW9CN3NBczBXU2hlNjFlTFVKYWh2MkdSbTN6ZGZLWkpySmxvTEZyejVjOEYtMy1DQi1sRjhRZVpR?oc=5",
    "source": "Sabah Media",
-   "date": "2026-07-27T08:06:53Z",
+   "date": "2026-07-27T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -698,7 +721,7 @@
    "title": "JIM Sabah Usir 260 PTI Filipina Melalui Pelabuhan Lahad Datu",
    "summary": "LAHAD DATU: Jabatan Imigresen Malaysia (JIM) Sabah menghantar pulang seramai …",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmdMUDBJTjFiYlZjLVdILW83d1BjRFlJRTBCU05xV3hLZ1pIeDd4bW5Dbk5UbWZHOXlfU2xhNkF1VWtvTVJJc1ZjbFZJV0RJa2NwMzZzcXRLdTNTYlVLTVR6X0w5aDV2ZmZ1ZUczMDNLamlVZzlRRl9ST3YtZUVnc3VHVEN3NHJYTzZBTXBzTFQzeGMyR2xQejdubjdiSUE?oc=5",
-   "source": "sabahpost.net",
+   "source": "Sabah Post",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -854,6 +877,28 @@
    "summary_ja2": "コタキナバル：7月9日にパパール入国管理局が実施したPATI抑留者移送プログラムを通じて、中国からの合計12人の不法滞在者（PATI）が出身国に送還された。サバ州のマレーシア入国管理局（JIM）は声明で、このプログラムにはコタキナバル国際空港から中国の広州へ出発した成人男性10名と成人女性2名が参加したと発表した。",
    "summary_ja": "7月9日にパーパール入国管理局が実施したPATI抑留者移送プログラムを通じて、合計12人の不法外国移民（PATI）中国人が出身国に送還された。",
    "scope": "local"
+  },
+  {
+   "title": "12 Chinese illegal immigrants deported from Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGl5SEdxY1VscVJJemZNQlpXdlQ1T2tlbWp0SWFRbXp6LWs3UGVBMkZwUHdEQ1RmTkN2TktuZzZHZC1NVnlIRzVzS1JfX3N1SzVlYXFSdk52ZkV2QVotalVRcjhMbks5X0JDUWFtSmtHRjg3ak1qSUExbldJNEhKRGRfcF9wcjk0TDdvR05vVUtNNHc0ZHc?oc=5",
+   "source": "Borneo Post",
+   "date": "2026-07-11T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "e7f80832d4f6",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "中国人不法移民12人をサバ州から強制送還",
+   "summary_ja": "",
+   "first_seen": "2026-08-17T19:08:22Z",
+   "scope": "local",
+   "url_real": "https://www.theborneopost.com/2026/07/11/12-chinese-illegal-immigrants-deported-from-sabah/",
+   "enriched": "blocked",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgvhWMlu-dcCsJk2q0_Ex-4CnR4MidU7ZNcVfCwlrrn3fQSf7hOwiONU8VE-_R_cmMCQ&fopt=w577-h372-rw-dcnTGM66AI"
   },
   {
    "title": "103 PATI dicekup dalam operasi empat daerah",
@@ -4087,7 +4132,7 @@
    "title": "Operasi Imigresen Sabah Berjaya Tumpaskan 86 PTI di Tawau",
    "summary": "TAWAU: Jabatan Imigresen Malaysia (JIM) Sabah menahan seramai 86 pendatang tanpa izin (PTI) dalam operasi penguatkuasaan di beberapa lokasi sekitar daerah ini pada 3 dan 5 Disember lalu.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUEFXQ1FzSGdLeWV4TFhnZTR5MVZsU0YzbV93ZVMwVjhyUFV3SDdzMG50OFhaVUh2QVFHT1VjSmI4Q05JUmVlMW9yc2lncDgzLTJQaXV5eGlHcUJEMkYyMHFkWUNFMzF4YmwxQmU4YlpxQlV3NHR5YlpYUHptT1B6bTBIbjROaUJ1X2tDNXRBT05MZklIdTRwVzMzMA?oc=5",
-   "source": "sabahpost.net",
+   "source": "Sabah Post",
    "date": "2025-12-06T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4894,5 +4939,7 @@
    "summary_ja": "センポルナ、7 月 17 日 — サバ州の東海岸沖の輝く海では、観光業が繁盛しており、主に中国人の観光客やダイバーが 2,000 人近くも絵のように美しい島々に集まります。",
    "scope": "national"
   }
- ]
+ ],
+ "enriched_at": "2026-08-17T19:08:56Z",
+ "thumbs_at": "2026-08-17T19:11:06Z"
 }
