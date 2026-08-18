@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-17T19:08:23Z",
- "count": 187,
+ "updated": "2026-08-18T01:58:56Z",
+ "count": 188,
  "tags": {
-  "入管・摘発": 117,
+  "入管・摘発": 118,
   "市民権": 30,
   "無国籍": 28,
   "子ども": 21,
@@ -15,7 +15,7 @@
   "医療・福祉": 2
  },
  "sources": {
-  "Sabah Media": 33,
+  "Sabah Media": 34,
   "Daily Express Malaysia": 17,
   "NST Online": 14,
   "Borneo Post": 13,
@@ -25,14 +25,15 @@
   "sabahnewstoday.net": 8,
   "Malay Mail": 7,
   "Saluran 122": 6,
-  "Jesselton Times": 5,
   "Berita Harian": 5,
   "Sabah Post": 4,
+  "jesseltontimes.com": 4,
   "Free Malaysia Today": 4,
   "Astro Awani": 3,
   "MalaysiaGazette": 3,
   "Harian Metro": 3,
   "tvsabahnews.com": 2,
+  "Jesselton Times": 2,
   "The Vibes": 2,
   "Nabalu News": 2,
   "Sayang Sabah": 2,
@@ -44,9 +45,8 @@
   "Newswav": 1,
   "Malaysiakini": 1,
   "Migrant Times": 1,
-  "jesseltontimes.com": 1,
   "Buletin TV3": 1,
-  "South China Morning Post": 1,
+  "scmp.com": 1,
   "Options, The Edge": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
@@ -71,14 +71,14 @@
     "市民権"
    ],
    "title_ja": "MyKAS: Dino のオファーに騙されないでください",
-   "summary_ja": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。 7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。",
    "first_seen": "2026-08-17T19:08:22Z",
-   "scope": "foreign",
    "url_real": "https://www.pressreader.com/malaysia/utusan-borneo-sabah/20260818/281728391351991",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz5mGSUxiUhxqt72_C2yggBxXp8voBTerXvR6G8KYDIY539ql5Dah75jmUBcb0yxhTFQ",
    "enriched": "thin",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz5mGSUxiUhxqt72_C2yggBxXp8voBTerXvR6G8KYDIY539ql5Dah75jmUBcb0yxhTFQ",
-   "summary_ja2": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。"
+   "summary_ja2": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。",
+   "summary_ja": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。 7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。",
+   "scope": "foreign"
   },
   {
    "title": "Act on NGO involved in MyKAS assistance",
@@ -772,6 +772,33 @@
    "scope": "national"
   },
   {
+   "title": "260 PATI warga Filipina dihantar pulang",
+   "summary": "Seramai 260 Pendatang Asing Tanpa Izin (PATI) warga Filipina dihantar pulang ke negara asal menerusi Program Pemindahan Tahanan Asing yang dilaksanakan Jabatan Imigresen Malaysia (JIM) Negeri Sabah",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NT0FHV3psYnpJSXE2U2pjN1pPTTJHd3djcXZCR2h0YzFWb3FYV1RDOEltV1IwTjRuRkE5cUI4OEJIRXByR2RnMFZrX2FkRGNrSk40YmJtcld5YUE3MXFLTWptU205QTYyM2xtTVYxR1p1a3VMbUJFblh5ZUtUTmc?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-07-16T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "10c502360b1a",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "帰化したフィリピン人260人が国外追放された",
+   "summary_ja": "サバ州のマレーシア入国管理局（JIM）が実施した外国人抑留者移送プログラムを通じて、フィリピンから合計260人の不法移民（PATI）が母国に送還された。",
+   "first_seen": "2026-08-18T01:58:55Z",
+   "scope": "local",
+   "url_real": "https://sabahmedia.com/2026/07/16/260-pati-warga-filipina-dihantar-pulang/",
+   "image": "https://sabahmedia.com/wp-content/uploads/2026/07/748278503_27382215348137058_3271970085323600611_n.jpg",
+   "site_name": "Sabah Media",
+   "body": "KOTA KINABALU : Seramai 260 Pendatang Asing Tanpa Izin (PATI) warga Filipina dihantar pulang ke negara asal menerusi Program Pemindahan Tahanan Asing yang dilaksanakan Jabatan Imigresen Malaysia (JIM) Negeri Sabah\n\nJIM Sabah dalam satu kenyataan memaklumkan, pemindahan itu melibatkan tahanan dari Depot Imigresen Kota Kinabalu, Depot Imigresen Papar dan Depot Imigresen Sandakan yang dibawa melalui Pelabuhan Lahad Datu sebelum berlepas ke Pelabuhan Bongao, Tawi-Tawi, Filipina menggunakan perkhidmatan feri komersial.\n\nMenurut kenyataan itu, daripada keseluruhan tahanan yang dipindahkan, seramai 167 adalah lelaki dewasa, 40 perempuan dewasa, 30 kanak-kanak lelaki dan 23 kanak-kanak perempuan berusia antara lima hari hingga 68 tahun.\n\n“Semua kanak-kanak yang menyertai program berkenaan diiringi ibu bapa atau penjaga masing-masing bagi memastikan proses penghantaran pulang berjalan lancar dan teratur.",
+   "body_ja": "コタキナバル：サバ州マレーシア移民局（JIM）が実施した外国人抑留者移送プログラムを通じて、フィリピンからの計260人の不法移民（PATI）が母国に送還された。\n\nジム・サバ氏は声明の中で、移送にはコタキナバル入国管理所、パパル入国管理所、サンダカン入国管理所からの被収容者がラハダトゥ港を経由して移送され、商業フェリーサービスを利用してフィリピンのタウィタウィ州ボンガオ港へ出発したと発表した。\n\n声明によると、移送された拘留者の総数のうち、生後5日から68歳までの成人男性が167人、成人女性が40人、少年が30人、少女が23人だった。\n\n「プログラムに参加するすべての子供には、帰国プロセスがスムーズかつ秩序ある方法で行われるよう、それぞれの両親または保護者が同伴します。",
+   "enriched": "ok",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1__w8s2shhypBlvFJfr8kB9ONqBk9NRDE35deKLdlCJjc-AunmqV0h6bhnySYslswv9c&fopt=w640-h384-rw-dcAbCCkrxjcbYA",
+   "summary_ja2": "コタキナバル：サバ州マレーシア移民局（JIM）が実施した外国人抑留者移送プログラムを通じて、フィリピンからの計260人の不法移民（PATI）が母国に送還された。ジム・サバ氏は声明の中で、移送にはコタキナバル入国管理所、パパル入国管理所、サンダカン入国管理所からの被収容者がラハダトゥ港を経由して移送され、商業フェリーサービスを利用してフィリピンのタウィタウィ州ボンガオ港へ出発したと発表した。"
+  },
+  {
    "title": "Lagi 260 PATI Filipina diusir pulang ke negara asal",
    "summary": "LAHAD DATU: Seramai 260 Pendatang Asing Tanpa Izin (PATI) warga Filipina dihantar pulang ke negara asal menerusi Program Pemindahan Tahanan PATI yang dilaksanakan Jabatan Imigresen Malaysia (JIM) Sabah, semalam. Semua tahanan terbabit dipindahkan dari Depot Imigresen Kota Kinabalu, Papar dan Sandakan melalui Pelabuhan Lahad Datu ke Pelabuhan Bongao, Tawi-Tawi, Filipina menggunakan perkhidmatan fer",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3YtY1JuWnJsYjRoY2hXYWpiYTYwbVVFWmZIZDJkU0NJbnI2OXlwUzk2QlVjUDlxVXNISGxSMEFlZFJkUHJLcmdfRW5xdGpJV1g0MnFFTzVhUjcza0F4b0lmMHdva1l3b052Q2JXcmlzSFZjZTRIdWkwSjlzckkwM291aWh0bjZyTDdIYTVGODhETHNxRmZ2cUp4SQ?oc=5",
@@ -892,13 +919,13 @@
     "入管・摘発"
    ],
    "title_ja": "中国人不法移民12人をサバ州から強制送還",
-   "summary_ja": "",
    "first_seen": "2026-08-17T19:08:22Z",
-   "scope": "local",
    "url_real": "https://www.theborneopost.com/2026/07/11/12-chinese-illegal-immigrants-deported-from-sabah/",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgvhWMlu-dcCsJk2q0_Ex-4CnR4MidU7ZNcVfCwlrrn3fQSf7hOwiONU8VE-_R_cmMCQ&fopt=w577-h372-rw-dcnTGM66AI",
    "enriched": "blocked",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgvhWMlu-dcCsJk2q0_Ex-4CnR4MidU7ZNcVfCwlrrn3fQSf7hOwiONU8VE-_R_cmMCQ&fopt=w577-h372-rw-dcnTGM66AI"
+   "summary_ja": "",
+   "scope": "local"
   },
   {
    "title": "103 PATI dicekup dalam operasi empat daerah",
@@ -1874,7 +1901,7 @@
    "title": "“DON’T CONFUSE REFUGEES WITH ILLEGAL IMMIGRATION” — SABAH DESERVES HONEST DISCUSSION, NOT EMOTIONAL SIMPLIFICATION",
    "summary": "By Daniel John Jambun, Borneo’s Plight in Malaysia Foundation (BoPiMaFo) KOTA KINABALU: Borneo’s Plight in Malaysia Foundation (BoPiMaFo) takes note of the recent remarks by Sabah Mufti Datuk Bungsu Aziz Jaafar urging Sabahans to adopt a more humanitarian understanding of refugee issues. We state clearly: Compassion and immigration law are not mutually exclusive. But Sabah...",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZzYwLWY3OC0xLVJDQ1JmUHpEUnh3Q2trTFVGT0poNVhqTG1KanI0OVlweDdMTzdzRGNCQVc1bnppSTB0TXZoQTJUQ2JrM1c5d0pBZGxEdWVFR2JXM1VocVNlR2hoU1lvQjNiM1ZvRXBVai1tZ3RnUGlrYUVwWTduU3lRVXgweXloRVdUOHV6Ukd1R3daU0k3YUNtOFdTck1sVjdNRlhlY3NVdVBiRnFTejFzZWpQQTMtVTNoY0RIMVZEXzVLWVk3SnJpSVVYamtHbGs1LUtpQmZLdGNSbktZZ9IB5gFBVV95cUxQU0xqN1FVVUdlWFc5Y0U3RnliUVkwWTZGQ3VnZDVhZDJCZWNaUE5Sczhic2ZQQnc0bHVRc1B4UF95cVZYZUlVUGdCM1RuYmlXY1dORmYweVAwdFJ2djl5VWVTcGNFd0dSS3FvZXYwVDdDWmZoWmVGTGZHTVRkekRtSGxvcE5uNk9yUzJIdHl4NmVYdlBxOTZfUGNwdnBnTHVSamRhZzdONmFoeGxFZGJlTUhSbG9CdGpSaDZxb09fbVBRdDlQMC1pUkozVGROOG9BZmRHY0V5WlEtWFBRNTN6cG91cUhuUQ?oc=5",
-   "source": "Jesselton Times",
+   "source": "jesseltontimes.com",
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2103,7 +2130,7 @@
    "title": "RELAX MYKAS RULES?” — SABAH HAS HAD ENOUGH OF IMMIGRATION FAILURES AND IDENTITY CONTROVERSIES",
    "summary": "Daniel John Jambun, Borneo’s Plight in Malaysia Foundation (BoPiMaFo) KOTA KINABALU: Borneo’s Plight in Malaysia Foundation (BoPiMaFo) takes serious note of the proposal by the Malaysia International Humanitarian Organisation (MHO) urging the Government to relax MyKas application requirements for stateless persons in Sabah. We state clearly: Sabah has had enough. Enough of unresolved immigration c",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0xWOUw5ZF8zbEd6V1FQdGFLclUzakNUalNGRUdoNzlTc21XRm5qRUM3TVZuLUNvNEdvLTNTOWYzWTJhMXdBdWZDcXZXM3R1VDNMNnpieUVLbkUtRENkSmcyMmk1TWl3NkxpT1hyVGhwYnZLUmkydFlka2tMcTZLcWxwODdERVN1RFFmOWk5bk1MX0xBVWNUN0ZnNFhLLS1BVWd0aDh5UXVRZFFCVURIZTFLa0l3M1BDcGZheHAtRjRBSEpIb1Y00gHMAUFVX3lxTE40a2dXQzFSN3dYVW5BX1YyMzMxeXYzWENWYkMxbnZ0XzFzaVVxazBhZmhyY05PdVBwLUFCRm5RT3ppNVl6aUpJNGJ3X2FRbG9FTWd6ai11VjRqOTFBcF8tY1dFb19Yb01FWGFQSVNUWERzMlB2YWpWSW5YVlp3NFB4RUtkY2FPZVlKNGpnLVVCMnR5TDJ0bFZLRzNTbk9KWVRSWnhqN3NYODBqenVkenFwZ2c1NUFMTUZCUHZoTy00Q0Z0ZG5PS214eGhsRw?oc=5",
-   "source": "Jesselton Times",
+   "source": "jesseltontimes.com",
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -3335,7 +3362,7 @@
    "title": "Arrest of stateless teen in Malaysia highlights Sabah’s citizenship crisis",
    "summary": "Rights groups say stateless people in the country are often treated as undocumented migrants without basic protections.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTRGNFVDUTlLVnVzcHAxZXlsRU5sSWZzcXllUFNXeWc3Rmt2bmdHaXdlMkxQbXV1aHItZUdpcW8wazhNM2Ftc2lZd053bk14eTVqOU5tRktLQWl2WEE1T1g0QVltRzRaOXRWQlUtbjhMMTZTM2RxOEgwWVIzM285bjNiVXhONzU3RnNnYV8wdE9jRUN1a3JOVmVhT25jN0RRUWtXaEJOSEozak4zWDlud0x6aTh5SDZqOFpudlBxRkFHVHo4Nkp1T0ZfVF_SAcwBQVVfeXFMT2NpTmZ0eGpDdEtULTU4UC1MZS1wd2VtekNZdjNfZmFIVFI0QzdTTV9jbklxV2NpOFVKUkpXZi0tWnNtdDZzbE9YZGxWUTZWQndsRUY2aDBJME5uTjJqRTgwRmVDN0YwWHVTZENHYzRWT0ZaZE5BMEQ4SW5wWVI1ZkpyMmstY2dSMmxXdkQzc0U0MHRkSVh0bW1PRFB3SHk4NXkyM0w2cDg4QVhaOFNRMmlZV2RFYzZPQVJzb3pmTm01MWI1TDNpSDV1T2Fq?oc=5",
-   "source": "South China Morning Post",
+   "source": "scmp.com",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -3866,7 +3893,7 @@
    "title": "FROM STATELESS TO SYABU: A Human Rights Crisis at Sabah’s Crossroads",
    "summary": "By Majangkim Office – Special Investigation  PART 1: THE NIGHT THE DOOR BROKE – AND THE MILLIONS WHO FOLLOWED KOTA KINABALU: In the early 2000s, a young Indonesian family crossed the vast, unmonitored border between Kalimantan and Sabah — not with passports, but with hope.  They built a small shack on the outskirts of Kota...",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGdQdjlUYmNGUkZ3SGFCQ3JqU0U3dldpNGdVT3BkZWJPX1ZyR0VERDVJN0F1aWR4d3pVc3hiUGJtV3cwa1pYV0JJVG9haGZnb09weVNKRnBNRHcyazk1ZDJTMFl3ZDVJckd0LUlFdmQ5SU1DZF9zQlMyOXZINjNGOTN2cXA4aGtrdmVlMUR4dUpndDAwMGg0WE52c2Y3SEM0V3FCQmxQcmXSAa4BQVVfeXFMT1JFT3JHRHBqSkVtbTV0SUd2NDZZTzNjamF4UDBvRWVjV05SNTdtOXBsSlg1RERKLWRFVkhfZm9ObndyMm5OUDlxNTFOcDVwVFJreThNUHB1dkVJN2VxY1ZqLUlhSmpBTmtGanhTdm04TzR5a3JvVGkyWnBOWjdaam1yVjVHRzRUTVAxZUNlQ1Y3bU1fMDUyUzNiUEU2Q3E0aUVvc0I3R0FidXFRZGZn?oc=5",
-   "source": "Jesselton Times",
+   "source": "jesseltontimes.com",
    "date": "2026-01-05T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -4940,6 +4967,6 @@
    "scope": "national"
   }
  ],
- "enriched_at": "2026-08-17T19:08:56Z",
- "thumbs_at": "2026-08-17T19:11:06Z"
+ "enriched_at": "2026-08-18T01:59:04Z",
+ "thumbs_at": "2026-08-18T02:01:13Z"
 }
