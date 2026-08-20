@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-20T13:28:05Z",
- "count": 198,
+ "updated": "2026-08-20T19:11:28Z",
+ "count": 199,
  "tags": {
-  "入管・摘発": 124,
+  "入管・摘発": 125,
   "市民権": 32,
   "無国籍": 29,
   "子ども": 22,
@@ -17,8 +17,8 @@
  "sources": {
   "Sabah Media": 35,
   "Daily Express Malaysia": 17,
+  "NST Online": 15,
   "Borneo Post": 14,
-  "NST Online": 14,
   "The Star": 12,
   "sabahnews.com.my": 12,
   "TV Sabah News": 10,
@@ -58,30 +58,55 @@
  },
  "items": [
   {
+   "title": "Sabah Immigration repatriates 4,750 illegal immigrants",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEU2WUFialQxRkltZjZiOEJLRWxsT25ROXZ6b3FsQUpiZXA4RXN0YzF3UmZiMEV0WTk5OUhyYXdXZ0J6MW81T09lWVRxUFVhX3JXekFyVHJKZ2JPNUs5NGFpUzkwYk9WcEs3d1ViMnMwNlEwTUU1SDhpX0VacVJXRFpITElmUU1TVHpQbXVMRjA1N2llYTluU3B2LVNycGstbllVWjMxS1RFZS15VWxv0gGvAUFVX3lxTE5QRTZZQWJqVDFGSW1mNmI4QktFbGxPblE5dnpvcWxBSmJlcDhFc3RjMXdSZmIwRXRZOTk5SHJhd1dnQnoxbzVPT2VZVHFQVWFfcld6QXJUckpnYk81Szk0YWlTOTBiT1ZwSzd3VWIyczA2UTBNRTVIOGlfRVpxUldEWkhMSWZRTVNUelBtdUxGMDU3aWVhOW5TcHYtU3Jway1uWVVaMzFLVEVlLXlVbG8?oc=5",
+   "source": "NST Online",
+   "date": "2026-08-20T14:05:56Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "d8c99f87101b",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、不法移民4,750人を送還",
+   "summary_ja": "",
+   "first_seen": "2026-08-20T19:11:27Z",
+   "scope": "national",
+   "url_real": "https://www.nst.com.my/amp/news/regional/2026/08/1515546/sabah-immigration-repatriates-4750-illegal-immigrants",
+   "body": "TAWAU: The Sabah Immigration Department has repatriated 4,750 illegal immigrants of various nationalities to their respective countries so far this year.\n\nIn a statement today, the Sabah Immigration Department said Filipinos accounted for the highest number at 3,008, followed by Indonesians (1,478), Pakistanis (118), Chinese (109), Vietnamese (18) and 19 others of various nationalities.\n\n\"The figure also includes the latest transfer programme involving 144 Indonesian nationals (today) who were transported via a commercial ferry,\" it said.\n\nThe statement said all the Indonesian detainees, aged between three and 68, comprised 107 adult men, 26 adult women, four boys and seven girls, with the children accompanied by their parents or respective escorts.",
+   "body_ja": "タワウ：サバ州入国管理局は、今年これまでにさまざまな国籍の不法移民4,750人をそれぞれの国に送還した。\n\nサバ州入国管理局は本日の声明で、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人が続いたと発表した。\n\n「この数字には、商業フェリーで移送された（現在）144人のインドネシア人が関与した最新の移送プログラムも含まれている」と同紙は述べた。\n\n声明によると、3歳から68歳までのインドネシア人全員の拘束者は成人男性107人、成人女性26人、少年4人、少女7人で構成されており、子供には両親またはそれぞれの付き添いが同伴していた。",
+   "enriched": "ok",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4UmOUhXA5sUZccT8tvHsOtqLvh5XE31LXn-6qWrAROnjQfVbtWeU7SdDWUSlmkkD1Lw",
+   "summary_ja2": "タワウ：サバ州入国管理局は、今年これまでにさまざまな国籍の不法移民4,750人をそれぞれの国に送還した。サバ州入国管理局は本日の声明で、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人が続いたと発表した。"
+  },
+  {
    "title": "Sabah repatriates 4,750 undocumented migrants",
    "summary": "Most of them comprise Filipinos and Indonesians.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0FZR2hhZjZ3eWFJN2RxRXhjNlFiY2lYUktyVU1YM3RZZ3JOdWhnTF9MLUxIM3RlX0F4a1hqMlVIakxNUV91Rk9NOTRKSUU1dFNhVVRQbUtWbHNFVGxFUXZnVDZlLTJiTUZweHM1bEtpX1hvcGhqWEFzNlVJbXV0dm1iaHNaWW9QajM1eE1rYWhwQ2JTWld0Mk5tallrZmZQdmlmUHVtNjhhdw?oc=5",
    "source": "Free Malaysia Today",
-   "date": "2026-08-20T13:09:43Z",
+   "date": "2026-08-20T13:09:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
    "id": "a8bb539cc33c",
    "tags": [],
    "title_ja": "サバ州、不法移民4,750人を本国送還",
-   "summary_ja": "彼らのほとんどはフィリピン人とインドネシア人で構成されています。",
    "first_seen": "2026-08-20T13:28:04Z",
-   "scope": "national",
    "url_real": "https://www.freemalaysiatoday.com/category/nation/2026/08/20/sabah-repatriates-4-750-undocumented-migrants",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/eb0060d2-555a-4bdb-b468-854bf2d2019b-pendatang-tanpa-izin-sabah-bernama-resize-200826-1.webp",
    "image_alt": "Sabah repatriates 4,750 undocumented migrants",
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqYtyGHxRk0IKy-ZAG6vGCTZZFs6W4BxO_q9ZVa-5gPQONumaHnQ2EVj4OiNQDxw4UKHM&fopt=w701-h394-rw-dcAQAK",
    "site_name": "Free Malaysia Today | FMT",
-   "body": "In a statement today, it said Filipinos accounted for the highest number at 3,008, followed by Indonesians (1,478), Pakistanis (118), Chinese (109), Vietnamese (18) and 19 others of various nationalities, Bernama reported.\n\n“The figure also includes the latest transfer programme involving 144 Indonesian nationals (today), transported via a commercial ferry,” it said.\n\nThey comprised 107 adult men, 26 adult women, four boys and seven girls.\n\nAll of them were from the Kota Kinabalu, Papar and Sandakan immigration detention depots. They were repatriated after completing their sentences for offences under various laws and after obtaining valid travel documents in lieu of a passport (SPLP).",
-   "body_ja": "バーナマ通信によると、本日の声明では、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人が続いたと述べた。\n\n「この数字には、商業フェリーで輸送された（現在）144人のインドネシア人が関与した最新の移送プログラムも含まれている」と同紙は述べた。\n\n参加者は成人男性107名、成人女性26名、男子4名、女子7名で構成されていた。\n\n彼らは全員、コタキナバル、パパール、サンダカンの入国者収容所の出身者だった。彼らは、さまざまな法律に基づく犯罪の刑期を終え、パスポートの代わりとなる有効な旅行書類（SPLP）を取得した後、本国に送還された。",
    "enriched": "ok",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqYtyGHxRk0IKy-ZAG6vGCTZZFs6W4BxO_q9ZVa-5gPQONumaHnQ2EVj4OiNQDxw4UKHM&fopt=w701-h394-rw-dcAQAK",
-   "summary_ja2": "バーナマ通信によると、本日の声明では、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人が続いたと述べた。「この数字には、商業フェリーで輸送された（現在）144人のインドネシア人が関与した最新の移送プログラムも含まれている」と同紙は述べた。"
+   "body": "In a statement today, it said Filipinos accounted for the highest number at 3,008, followed by Indonesians (1,478), Pakistanis (118), Chinese (109), Vietnamese (18) and 19 others of various nationalities, Bernama reported.\n\n“The figure also includes the latest transfer programme involving 144 Indonesian nationals (today), transported via a commercial ferry,” it said.\n\nThey comprised 107 adult men, 26 adult women, four boys and seven girls.\n\nAll of them were from the Kota Kinabalu, Papar and Sandakan immigration detention depots. They were repatriated after completing their sentences for offences under various laws and after obtaining valid travel documents in lieu of a passport (SPLP).",
+   "body_ja": "バーナマ通信によると、本日の声明では、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人が続いたと述べた。\n\n「この数字には、商業フェリーで輸送された（現在）144人のインドネシア人が関与した最新の移送プログラムも含まれている」と同紙は述べた。\n\n参加者は成人男性107名、成人女性26名、男子4名、女子7名で構成されていた。\n\n彼らは全員、コタキナバル、パパール、サンダカンの入国者収容所の出身者だった。彼らは、さまざまな法律に基づく犯罪の刑期を終え、パスポートの代わりとなる有効な旅行書類（SPLP）を取得した後、本国に送還された。",
+   "summary_ja2": "バーナマ通信によると、本日の声明では、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人が続いたと述べた。「この数字には、商業フェリーで輸送された（現在）144人のインドネシア人が関与した最新の移送プログラムも含まれている」と同紙は述べた。",
+   "summary_ja": "彼らのほとんどはフィリピン人とインドネシア人で構成されています。",
+   "scope": "national"
   },
   {
    "title": "Chinese tourist, undocumented man claim trial over Semporna jet ski crash",
@@ -2932,9 +2957,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "first_seen": "2026-08-10T08:27:43Z",
@@ -3802,14 +3827,14 @@
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.sabahpost.net/2026/02/06/53-pti-ditahan-dalam-ops-kutip-dan-ops-sapu-di-sekitar-kk-dan-tuaran/",
    "image": "https://www.sabahpost.net/wp-content/uploads/2026/02/tahan2-1.jpg",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXWG3c6pSPhRZzdnIr3wrgOpNYCRYVDAvo51yopAZL4F4kGuus_cmm2ukje9jfGbZJ0Q",
    "site_name": "Sabah Post",
    "enriched": "ok",
-   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、2月2日から3日までの2日間、コタキナバルとトゥアラン周辺で動員されたオプス・クティプとオプス・サプを通じて53人の不法移民（PTI）を逮捕した。",
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXWG3c6pSPhRZzdnIr3wrgOpNYCRYVDAvo51yopAZL4F4kGuus_cmm2ukje9jfGbZJ0Q",
+   "enriched_v": 2,
    "body": "KOTA KINABALU: Jabatan Imigresen Malaysia (JIM) Negeri Sabah menahan 53 pendatang tanpa izin (PTI) menerusi Ops Kutip dan Ops Sapu yang digerakkan di sekitar Kota Kinabalu dan Tuaran selama dua hari bermula 2 hingga 3 Februari.\n\nJIM Sabah dalam satu kenyataan memaklumkan operasi berfokus itu digerakkan Unit Operasi, Bahagian Penguatkuasa JIM dengan kekuatan 61 pegawai dan anggota dari Ibu Pejabat Kota Kinabalu bagi memantau lokasi tumpuan warga asing serta penempatan disyaki melanggar undang-undang imigresen.\n\n“Sepanjang operasi dijalankan, pasukan penguat kuasa memeriksa 177 individu bagi tujuan pengesahan dokumen perjalanan dan pas sah.\n\n“Hasil pemeriksaan mendapati 53 warga asing disyaki melakukan kesalahan mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 kerana gagal mengemukakan dokumen perjalanan atau pas yang sah.",
    "body_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、2月2日から3日までの2日間、コタキナバルとトゥアラン周辺で動員されたオプス・クティプとオプス・サプを通じて53人の不法移民（PTI）を逮捕した。\n\nジム・サバ氏は声明で、この集中作戦はコタキナバル本部の61人の役員とメンバーの力を結集してJIM執行部作戦部隊が動員し、外国人の集中場所や移民法違反の疑いのある居住地を監視したと発表した。\n\n「作戦を通じて、執行チームは旅行書類と有効なパスポートを確認する目的で177人を検査した。\n\n「検査の結果、53人の外国人が有効な渡航書類またはパスポートの提示を怠ったとして、1959/63年移民法第6条(1)(c)に基づく犯罪を犯した疑いがあることが判明した。",
-   "enriched_v": 2,
    "summary_ja2": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、2月2日から3日までの2日間、コタキナバルとトゥアラン周辺で動員されたオプス・クティプとオプス・サプを通じて53人の不法移民（PTI）を逮捕した。ジム・サバ氏は声明で、この集中作戦はコタキナバル本部の61人の役員とメンバーの力を結集してJIM執行部作戦部隊が動員し、外国人の集中場所や移民法違反の疑いのある居住地を監視したと発表した。",
+   "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は、2月2日から3日までの2日間、コタキナバルとトゥアラン周辺で動員されたオプス・クティプとオプス・サプを通じて53人の不法移民（PTI）を逮捕した。",
    "scope": "local"
   },
   {
@@ -5221,6 +5246,6 @@
    "scope": "national"
   }
  ],
- "enriched_at": "2026-08-20T13:28:09Z",
- "thumbs_at": "2026-08-20T13:30:18Z"
+ "enriched_at": "2026-08-20T19:11:39Z",
+ "thumbs_at": "2026-08-20T19:13:48Z"
 }
