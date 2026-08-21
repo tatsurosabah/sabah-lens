@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-21T02:08:33Z",
- "count": 200,
+ "updated": "2026-08-21T07:24:42Z",
+ "count": 202,
  "tags": {
-  "入管・摘発": 126,
-  "市民権": 32,
+  "入管・摘発": 128,
+  "市民権": 33,
   "無国籍": 29,
   "子ども": 22,
-  "バジャウ": 14,
+  "バジャウ": 13,
   "政策・政治": 10,
   "人権・NGO": 7,
   "難民": 7,
@@ -15,7 +15,7 @@
   "医療・福祉": 2
  },
  "sources": {
-  "Sabah Media": 35,
+  "Sabah Media": 36,
   "Daily Express Malaysia": 17,
   "NST Online": 15,
   "Borneo Post": 14,
@@ -29,9 +29,9 @@
   "Jesselton Times": 6,
   "Free Malaysia Today": 5,
   "Sabah Post": 4,
+  "Buletin TV3": 4,
   "Astro Awani": 3,
   "MalaysiaGazette": 3,
-  "Buletin TV3": 3,
   "Harian Metro": 3,
   "Portal Berita RTM": 3,
   "tvsabahnews.com": 2,
@@ -57,6 +57,60 @@
   "Malaysia MADANI": 1
  },
  "items": [
+  {
+   "title": "Sabah Immigration repatriates 4,750 undocumented migrants so far this year",
+   "summary": "TAWAU, Aug 21 — The Sabah Immigration Department has repatriated 4,750 illegal immigrants of various nationalities to their respective countries so far this year.In a statement...",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3ptZmhwWE9uMTNoQ1FKZkZ0LW9YTlhscmUtWUxzSEswZnloUHBrb3J4ZEU0NDJ1b05CR3hwek90N0tTbW1HQmQ3d3VVUHNBVkVvVVFYTjh1S192Tm9ObGhBN0J5UzdLLS1vU3RVcXZqT2VCR2hadmp1UHZxY1FxOEdjRWozOEtjTTFVWG5nUldHVVU1Z0Z0NUZNVElCUVNPSlItTWNmZ1o1dHVfNzFHTG9Vd3RGUTY3eDUyUTFfVEE0MjUyd2l3MEJ4RdIB0AFBVV95cUxPVEktSjQtN2xVNC13UEI0TkNGWHBNZUpiMzVkbTBjeG16TDV0VnpvbnFJVnpPVkxxcThrSzkzRXpDbjl1LXo2bVgxcW1mOVRkN255UHMzeUU2elAzako3WG4tRFgyc1NpSVoxNm15LXBfcWpkZE5tck1EVEQ1UjRNZ05EQlZQaElEVjZDM2lCaW8ySnZjcmlaV3ZiSkQ2aUh0SHgxZnEtMWNRS3RxV2NTYzdYd3YzanZDQTZsQnBlbk9iTFh4anZRT2tEZnpqb0tK?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-08-21T01:53:29Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "0d1760673aff",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局は今年これまでに4,750人の不法移民を本国に送還",
+   "summary_ja": "タワウ、8月21日 — サバ州入国管理局は、今年これまでにさまざまな国籍の不法移民4,750人をそれぞれの国に送還したとの声明を発表した。",
+   "first_seen": "2026-08-21T07:24:37Z",
+   "scope": "national",
+   "url_real": "https://www.malaymail.com/news/malaysia/2026/08/21/sabah-immigration-repatriates-4750-undocumented-migrants-so-far-this-year/232129",
+   "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/21/358117.jpg",
+   "site_name": "Malay Mail",
+   "body": "TAWAU, Aug 21 — The Sabah Immigration Department has repatriated 4,750 illegal immigrants of various nationalities to their respective countries so far this year.\n\nIn a statement yesterday, the Sabah Immigration Department said Filipinos accounted for the highest number at 3,008, followed by Indonesians (1,478), Pakistanis (118), Chinese (109), Vietnamese (18) and 19 others of various nationalities.\n\n“The figure also includes the latest transfer programme involving 144 Indonesian nationals (yesterday) who were transported via the route using a commercial ferry,” it said.\n\nThe statement said all the Indonesian detainees, aged between three and 68, comprised 107 adult men, 26 adult women, four boys and seven girls, with the children accompanied by their parents or respective escorts.",
+   "body_ja": "タワウ、8月21日 — サバ州入国管理局は、今年これまでにさまざまな国籍の不法移民4,750人をそれぞれの国に送還した。\n\n昨日の声明でサバ州入国管理局は、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人であると発表した。\n\n「この数字には、商業フェリーを使用してこのルートを経由して移送された（昨日）144人のインドネシア人が参加した最新の移送プログラムも含まれている」と同紙は述べた。\n\n声明によると、3歳から68歳までのインドネシア人全員の拘束者は成人男性107人、成人女性26人、少年4人、少女7人で構成されており、子供には両親またはそれぞれの付き添いが同伴していた。",
+   "enriched": "ok",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRel5kpVz6u-_mywVZobTwvowQc1sBAm0ySAurBvalWm5_Ts7wKQFOUz8klTf1Oqv4mJDA&fopt=w679-h407-rw-dcDTCAr10C",
+   "summary_ja2": "タワウ、8月21日 — サバ州入国管理局は、今年これまでにさまざまな国籍の不法移民4,750人をそれぞれの国に送還した。昨日の声明でサバ州入国管理局は、フィリピン人が3,008人と最も多く、次いでインドネシア人（1,478人）、パキスタン人（118人）、中国人（109人）、ベトナム人（18人）、その他様々な国籍の19人であると発表した。"
+  },
+  {
+   "title": "144 PATI warga Indonesia dihantar pulang ke negara asal",
+   "summary": "Seramai 144 pendatang asing tanpa izin (PATI) warga Indonesia dihantar pulang ke negara asal melalui Pelabuhan Tawau ke Pelabuhan Nunukan, Indonesia menggunakan feri komersial.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRURNYTM0NUIxc3NKWmJmaXdMellFRHRZYWlodFdMUHI4RGFGRzJSVVdIVmY2bWQyMkNpMUNNdWljaFhNanJTOGdUVk15UmdPYnVtOEFRMk5BM1luNE9HWjVEeFpkTC12RE9nQ01wZVoxOHVPbnl5QjMwXzh1dHl2UFVDVW54V3BnYWVZeE1Uek83RGdh?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-08-20T21:30:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "f025fe2fa5eb",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "PATIインドネシア国民144人が母国に送還された",
+   "summary_ja": "合計144人のインドネシア人不法移民（PATI）がタワウ港経由で商業フェリーを使用してインドネシアのヌヌカン港まで出身国に送還された。",
+   "first_seen": "2026-08-21T07:24:37Z",
+   "scope": "local",
+   "url_real": "https://sabahmedia.com/2026/08/21/144-pati-warga-indonesia-dihantar-pulang-ke-negara-asal/",
+   "image": "https://sabahmedia.com/wp-content/uploads/2026/08/FB_IMG_1787266801617.jpg",
+   "site_name": "Sabah Media",
+   "body": "KOTA KINABALU: Seramai 144 pendatang asing tanpa izin (PATI) warga Indonesia dihantar pulang ke negara asal melalui Pelabuhan Tawau ke Pelabuhan Nunukan, Indonesia menggunakan feri komersial.\n\nJabatan Imigresen Malaysia (JIM) Negeri Sabah dalam kenyataan berkata, pemindahan melalui laut itu membabitkan tahanan dari Depot Imigresen Kota Kinabalu, Papar dan Sandakan.\n\nDaripada jumlah itu, 107 adalah lelaki dewasa, 26 wanita dewasa, empat kanak-kanak lelaki dan tujuh kanak-kanak perempuan berusia antara tiga hingga 68 tahun.\n\n“Kanak-kanak yang menyertai program pemindahan berkenaan turut diiringi ibu bapa atau pengiring masing-masing,” menurut kenyataan itu.",
+   "body_ja": "コタキナバル：合計144人の不法移民（PATI）インドネシア人が、商用フェリーを使用してタワウ港経由でインドネシアのヌヌカン港まで出身国に送還された。\n\nサバ州のマレーシア入国管理局（JIM）は声明で、この船による移送にはコタキナバル、パパール、サンダカン入国管理所からの被収容者が関与していたと述べた。\n\nこのうち成人男性107人、成人女性26人、男子4人、女子7人で、年齢は3歳から68歳までだった。\n\n声明によると、「譲渡プログラムに参加した子どもたちには、両親や付き添い者も同伴していた」という。",
+   "enriched": "ok",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRNdqVsQ4ey33LHzidYcJ1httAzFo1JbKqKFvRXJ3WjE9rvnXSbpnbgxBQKxfk0_G7j6I&fopt=w640-h383-rw-dcAZCK57gF",
+   "summary_ja2": "コタキナバル：合計144人の不法移民（PATI）インドネシア人が、商用フェリーを使用してタワウ港経由でインドネシアのヌヌカン港まで出身国に送還された。サバ州のマレーシア入国管理局（JIM）は声明で、この船による移送にはコタキナバル、パパール、サンダカン入国管理所からの被収容者が関与していたと述べた。声明によると、「譲渡プログラムに参加した子どもたちには、両親や付き添い者も同伴していた」という。"
+  },
   {
    "title": "Sabah Immigration repatriates 4,750 illegal immigrants",
    "summary": "",
@@ -981,6 +1035,28 @@
    "summary_ja2": "コタキナバル：サバ州マレーシア移民局（JIM）が実施した外国人抑留者移送プログラムを通じて、フィリピンからの計260人の不法移民（PATI）が母国に送還された。ジム・サバ氏は声明の中で、移送にはコタキナバル入国管理所、パパル入国管理所、サンダカン入国管理所からの被収容者がラハダトゥ港を経由して移送され、商業フェリーサービスを利用してフィリピンのタウィタウィ州ボンガオ港へ出発したと発表した。",
    "summary_ja": "サバ州のマレーシア入国管理局（JIM）が実施した外国人抑留者移送プログラムを通じて、フィリピンから合計260人の不法移民（PATI）が母国に送還された。",
    "scope": "local"
+  },
+  {
+   "title": "MHO saran JPN kaji semula syarat MyKAS untuk individu tanpa negara",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1diaERJWlFyWVZhZlVQUHMxTXVNUXZwQTNtYkZsRXdrWDBHbEYtaGZ1X2R5djc4RUJfOHYyVENLQUJ2Z3VNcXpaODFjTFFRVmFCN080ZnA2QWFtSzVudE82RHo5dGFPQ3FmYlhNY1pjOHBVbDUxbGR3Mk9qcGVRNG4tNmxWVmQtYzhrWk9ERTI4OS0zZDQ0TVNGMWtLZ2VydGdYRA?oc=5",
+   "source": "Buletin TV3",
+   "date": "2026-07-16T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "MyKAS OR IMM13 Sabah",
+   "id": "9a17b2707c8c",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "MHOは日本に対し、無国籍者に対するMyKAS条件の見直しを提案",
+   "summary_ja": "",
+   "first_seen": "2026-08-21T07:24:37Z",
+   "scope": "national",
+   "url_real": "https://www.buletintv3.my/nasional/mho-saran-jpn-kaji-semula-syarat-mykas-untuk-individu-tanpa-negara/",
+   "enriched": "blocked",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEgWj4mvvAESd0w45sj8YZlU79sWMYvh_VlHsjLfOAkvogUD3ib2EUXWsLqdgLNJG95A"
   },
   {
    "title": "Lagi 260 PATI Filipina diusir pulang ke negara asal",
@@ -2675,9 +2751,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -3744,18 +3820,18 @@
     "入管・摘発"
    ],
    "title_ja": "タワウ州ケニンガウのJIM作戦で91人のPATIを逮捕",
-   "summary_ja": "コタキナバル：2月12日と13日にケニンガウ地区とタワウ地区のサバ州でマレーシア入国管理局（JIM）が実施した取締りで、合計91人の不法移民（PATI）が逮捕された。この取締りは公開情報と苦情を受けて実施され、ケニンガウとタワウのJIM取締部の合計35人の職員が関与した。声明によると […]",
    "first_seen": "2026-08-21T02:08:31Z",
-   "scope": "local",
    "url_real": "https://sabahnews.com.my/91-pati-ditangkap-dalam-operasi-jim-di-keningau-tawau/",
    "image": "https://sabahnews.com.my/wp-content/uploads/2026/02/630553362_25692998713725405_3628941984819174036_n.jpg",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl09d0i0BN_mHplRvfz50uibMOAGLw7AYgG-s1NXzvO72OXCFSLtDv8HbXsTztT7M4LA",
    "site_name": "Sabah News - Bebas Bersuara",
-   "body": "KOTA KINABALU: Seramai 91 pendatang asing tanpa izin (PATI) ditangkap dalam operasi penguatkuasaan yang dijalankan oleh Jabatan Imigresen Malaysia (JIM) Negeri Sabah di daerah Keningau dan Tawau pada 12 dan 13 Februari lalu.\n\nOperasi yang dijalankan hasil maklumat dan aduan awam itu melibatkan seramai 35 pegawai daripada Bahagian Penguatkuasaan JIM Keningau dan Tawau.\n\nMenurut kenyataan JIM Sabah, pemeriksaan telah dilakukan ke atas 157 individu di beberapa lokasi berasingan, sebelum 91 daripadanya ditahan kerana disyaki melakukan pelbagai kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963.\n\nMereka disiasat mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 serta Peraturan 39(b) Peraturan-Peraturan Imigresen 1963 kerana berada di Malaysia tanpa dokumen sah.",
-   "body_ja": "コタキナバル：2月12日と13日にサバ州のケニンガウ地区とタワウ地区でマレーシア入国管理局（JIM）が実施した取締りで、合計91人の不法移民（PATI）が逮捕された。\n\nこの作戦は広報と苦情を受けて実施され、ケニンガウとタワウのJIM執行部から合計35人の警察官が参加した。\n\nサバ州JIMの声明によると、1959/63年移民法および1963年移民規則に基づく様々な犯罪の疑いで91人が逮捕される前に、複数の別々の場所で157人に対する検査が行われた。\n\n彼らは、有効な書類を持たずにマレーシアに滞在していたとして、1959/63 年移民法第 6 条(1)(c) および 1963 年移民規則規則 39(b) に従って調査されました。",
    "enriched": "ok",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl09d0i0BN_mHplRvfz50uibMOAGLw7AYgG-s1NXzvO72OXCFSLtDv8HbXsTztT7M4LA",
-   "summary_ja2": "コタキナバル：2月12日と13日にサバ州のケニンガウ地区とタワウ地区でマレーシア入国管理局（JIM）が実施した取締りで、合計91人の不法移民（PATI）が逮捕された。この作戦は広報と苦情を受けて実施され、ケニンガウとタワウのJIM執行部から合計35人の警察官が参加した。"
+   "body": "KOTA KINABALU: Seramai 91 pendatang asing tanpa izin (PATI) ditangkap dalam operasi penguatkuasaan yang dijalankan oleh Jabatan Imigresen Malaysia (JIM) Negeri Sabah di daerah Keningau dan Tawau pada 12 dan 13 Februari lalu.\n\nOperasi yang dijalankan hasil maklumat dan aduan awam itu melibatkan seramai 35 pegawai daripada Bahagian Penguatkuasaan JIM Keningau dan Tawau.\n\nMenurut kenyataan JIM Sabah, pemeriksaan telah dilakukan ke atas 157 individu di beberapa lokasi berasingan, sebelum 91 daripadanya ditahan kerana disyaki melakukan pelbagai kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963.\n\nMereka disiasat mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 serta Peraturan 39(b) Peraturan-Peraturan Imigresen 1963 kerana berada di Malaysia tanpa dokumen sah.",
+   "body_ja": "コタキナバル：2月12日と13日にサバ州のケニンガウ地区とタワウ地区でマレーシア入国管理局（JIM）が実施した取締りで、合計91人の不法移民（PATI）が逮捕された。\n\nこの作戦は広報と苦情を受けて実施され、ケニンガウとタワウのJIM執行部から合計35人の警察官が参加した。\n\nサバ州JIMの声明によると、1959/63年移民法および1963年移民規則に基づく様々な犯罪の疑いで91人が逮捕される前に、複数の別々の場所で157人に対する検査が行われた。\n\n彼らは、有効な書類を持たずにマレーシアに滞在していたとして、1959/63 年移民法第 6 条(1)(c) および 1963 年移民規則規則 39(b) に従って調査されました。",
+   "summary_ja2": "コタキナバル：2月12日と13日にサバ州のケニンガウ地区とタワウ地区でマレーシア入国管理局（JIM）が実施した取締りで、合計91人の不法移民（PATI）が逮捕された。この作戦は広報と苦情を受けて実施され、ケニンガウとタワウのJIM執行部から合計35人の警察官が参加した。",
+   "summary_ja": "コタキナバル：2月12日と13日にケニンガウ地区とタワウ地区のサバ州でマレーシア入国管理局（JIM）が実施した取締りで、合計91人の不法移民（PATI）が逮捕された。この取締りは公開情報と苦情を受けて実施され、ケニンガウとタワウのJIM取締部の合計35人の職員が関与した。声明によると […]",
+   "scope": "local"
   },
   {
    "title": "61 undocumented Filipino migrants detained in Sabah operation",
@@ -5244,35 +5320,8 @@
    "summary_ja2": "サンダカン：サバ州全域で強制執行が続いているため、サンダカン入国管理所には最大収容人数の1,200人を超える1,500人以上の不法移民が収容されている。州移民局のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏は、過密状態が資源に大きな圧力をかけ、安全性への懸念が高まっていると述べた。",
    "summary_ja": "サンダカン：サバ州全域で強制執行が続いているため、サンダカン入国管理所には最大収容人数の1,200人を超える1,500人以上の不法移民が収容されている。",
    "scope": "national"
-  },
-  {
-   "title": "Seen but never welcomed, the Bajau Laut of Semporna continue to lose out in tourism boom",
-   "summary": "SEMPORNA, July 17 — On the sparkling waters off Sabah’s east coast, tourism is thriving as nearly 2,000 mostly Chinese tourists and divers flock to the picturesque islands...",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUNXcm1uWWZZM1Rub2pjLXY0empEcERndEdubFRUb3liZkVpb1pCR2owejlMR3c4bjhSQld6ZDdpVkdEMFNvQnJNdUNtdWkwTDNLREhZdFVxNHFud09mOFR4VHJycVNrb0lVamdCVUJOd1JKQy1aYnN4NWtjVWw4RWlRTXVDWkh3dXRsbjBnanpLNlM4WlhDckE1OFZhdUN1Y0VDNW5KMEJlcmhyQmpJb3lnR09HOHAxbTNjWUN3ZkE3X3VJQ0QyVG9xVm1YZ3hYX05sUy0wWklCeldrQ2fSAeMBQVVfeXFMTjVTZXh2ZEJRNENNcHRKRW5EYmVFank4UUNPclJhcjl2U3UzQnQ2Y2tjY2lTTWIzNWh5VmV0MExERHk3VVdlUWhxa0Q5aEZBVHY4YW1IMkk5azhBRkZqSlZrUGxXQ0YxRWhMU0FqeXlMRS1RWVFZQWxleExwNnNTb1V3WHZQLVpPNGhrb0IwR2tKRzVfMlRSNkdkWjJsMGtRaWJmUTVLYm9CMUdqZTNWSmllWVNNWWRLam5PcFkyaGl1enpFZnp1djJHY1VSMmxTN0FmZ0J5TkxJVV9BYTNnVDJZVWM?oc=5",
-   "source": "Malay Mail",
-   "date": "2025-07-17T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "7b4493a7d10e",
-   "tags": [
-    "バジャウ"
-   ],
-   "title_ja": "センポルナのバジャウ・ラウト族は、見られることはあっても歓迎されることはなく、観光ブームで負け続けている",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://www.malaymail.com/news/malaysia/2025/07/17/seen-but-never-welcomed-the-bajau-laut-of-semporna-continue-to-lose-out-in-tourism-boom/183876",
-   "image": "https://www.malaymail.com/malaymail/uploads/images/2025/07/16/288158.jpg",
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBHAp5h18y7tAxJKQjoVy_T74tKPWHj55OsVI5gtQWtOcOtFW5NY0V3jyRQFNH7YbE6X8&fopt=w640-h384-rw-dcAYCOC74E",
-   "site_name": "Malay Mail",
-   "enriched": "ok",
-   "enriched_v": 2,
-   "body": "SEMPORNA, July 17 — On the sparkling waters off Sabah’s east coast, tourism is thriving as nearly 2,000 mostly Chinese tourists and divers flock to the picturesque islands around Semporna every day for the insta-worthy white sand beaches, water bungalows over turquoise seas and teeming marine life.\n\nBut for the resident Bajau Laut, Semporna’s famed sea nomads, the reality beneath the glittering tourism ads is far less idyllic.\n\nDespite being cultural icons of the Sulu and Sulawesi seas, they are shunned and stateless, living in fragile stilt homes or boats anchored off the islands, tolerated more than accepted.\n\nTheir unique underwater skills and traditions are a potential tourism boon, and opportunities are all around them, but without documents and rights, they can only participate from the very fringes.",
-   "body_ja": "センポルナ、7 月 17 日 — サバ州の東海岸沖の輝く海では、インスタ映えする白砂のビーチ、ターコイズブルーの海に浮かぶ水上バンガロー、そしてたくさんの海洋生物を求めて、毎日 2,000 人近くのほとんどが中国人の観光客とダイバーが美しい島々に集まり、観光業が盛んです。\n\nしかし、センポルナの有名な海洋遊牧民であり、居住者であるバジャウ・ラウトにとって、きらびやかな観光広告の下にある現実は、はるかに牧歌的ではありません。\n\nスールー海とスラウェシ島の文化的象徴であるにもかかわらず、彼らは疎まれ、無国籍で、壊れやすい高床式の家や島の沖に停泊したボートで暮らしており、受け入れられているというよりもむしろ容認されています。\n\n彼らのユニークな水中スキルと伝統は、観光資源としての潜在的な恩恵をもたらしており、そのチャンスはいたるところにありますが、書類や権利がなければ、末端からしか参加することができません。",
-   "summary_ja2": "センポルナ、7 月 17 日 — サバ州の東海岸沖の輝く海では、インスタ映えする白砂のビーチ、ターコイズブルーの海に浮かぶ水上バンガロー、そしてたくさんの海洋生物を求めて、毎日 2,000 人近くのほとんどが中国人の観光客とダイバーが美しい島々に集まり、観光業が盛んです。しかし、センポルナの有名な海洋遊牧民であり、居住者であるバジャウ・ラウトにとって、きらびやかな観光広告の下にある現実は、はるかに牧歌的ではありません。",
-   "summary_ja": "センポルナ、7 月 17 日 — サバ州の東海岸沖の輝く海では、観光業が繁盛しており、主に中国人の観光客やダイバーが 2,000 人近くも絵のように美しい島々に集まります。",
-   "scope": "national"
   }
  ],
- "enriched_at": "2026-08-21T02:08:52Z",
- "thumbs_at": "2026-08-21T02:11:02Z"
+ "enriched_at": "2026-08-21T07:25:08Z",
+ "thumbs_at": "2026-08-21T07:27:18Z"
 }
