@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T18:58:57Z",
+ "updated": "2026-08-23T02:09:30Z",
  "count": 202,
  "tags": {
   "入管・摘発": 128,
@@ -52,9 +52,9 @@
   "mkn.gov.my": 1,
   "Philstar.com": 1,
   "Utusan Malaysia": 1,
-  "Gempak": 1,
+  "gempak.com": 1,
   "The Edge Malaysia": 1,
-  "malaysiamadani.gov.my": 1
+  "Malaysia MADANI": 1
  },
  "items": [
   {
@@ -2342,8 +2342,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2416,11 +2416,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "de8489aec11e",
    "tags": [
-    "入管・摘発",
-    "市民権"
+    "市民権",
+    "入管・摘発"
    ],
    "title_ja": "ミカスのルールを緩めますか？」 — サバ州では移民の失敗やアイデンティティに関する論争が何度もあった",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2539,9 +2539,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2751,9 +2751,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2865,7 +2865,7 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "KUALA LUMPUR: A humanitarian organisation has called on the Home Ministry to extend the MyKAS temporary resident identity card to stateless to address a long-running documentation crisis that poses risks to both the affected individuals and national security.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
@@ -3769,14 +3769,14 @@
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.nabalunews.com/post/29-pati-ditahan-jim-sabah",
    "image": "https://static.wixstatic.com/media/d65831_0167f243bf934f25ad6368ec9500b355~mv2.jpg/v1/fill/w_1280,h_963,al_c/d65831_0167f243bf934f25ad6368ec9500b355~mv2.jpg",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-KhKf5m5ntcHhfMqA7YZ-uPnvgjy7MIIilVEVpwD8DCgiWlEQM8PYi0ktYBzzAp_k6Prk6vgaftbvA",
    "site_name": "Nabalu News",
    "enriched": "ok",
-   "summary_ja": "2026年3月4日RANAU：サバ州のマレーシア入国管理局（JIM）は昨日、この地区周辺で実施された作戦で29人の不法移民（PATI）の逮捕に成功した。 JIMサバ所長のダトゥクSHシッティ・サレハ・ハビブ・ユソフ氏は、関与した外国人全員が1959/63年移民法（法律155）および1963年移民規則に基づく様々な犯罪の疑いで逮捕されたと述べた。",
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-KhKf5m5ntcHhfMqA7YZ-uPnvgjy7MIIilVEVpwD8DCgiWlEQM8PYi0ktYBzzAp_k6Prk6vgaftbvA",
+   "enriched_v": 2,
    "body": "RANAU: Jabatan Imigresen Malaysia (JIM) Sabah berjaya menahan 29 pendatang asing tanpa izin (PATI) dalam operasi yang dijalankan di sekitar daerah ini, semalam.\n\nPengarah JIM Sabah, Datuk SH Sitti Saleha Habib Yusoff berkata, semua warga asing terbabit ditahan kerana disyaki melanggar pelbagai kesalahan di bawah Akta Imigresen 1959/63 (Akta 155) dan Peraturan-Peraturan Imigresen 1963.\n\n“Hasil pemeriksaan terhadap 41 orang, seramai 11 lelaki, lapan wanita dan 10 kanak-kanak warganegara Filipina ditahan selepas gagal mengemukakan dokumen pengenalan diri yang sah.\n\n“Semua individu terbabit ditahan kerana disyaki dengan munasabah melakukan kesalahan mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 (Akta 155) & Seksyen 36 Akta Imigresen 1959/63 (Akta 155),” katanya.",
    "body_ja": "ラナウ：マレーシア入国管理局（JIM）サバ州は昨日、この地区周辺で実施された作戦で29人の不法移民（PATI）を逮捕することに成功した。\n\nサバJIMのダトゥクSHシッティ・サレハ・ハビブ・ユソフ所長は、関与した外国人全員が1959/63年移民法（法律155）および1963年移民規制に基づく様々な犯罪の疑いで逮捕されたと述べた。\n\n「検査の結果、フィリピン国民の男性11人、女性8人、子供10人の計41人が、有効な身分証明書の提示を怠ったとして逮捕された。\n\n「関係者全員は、1959/63年移民法（法律155）第6条（1）（c）および1959/63年移民法（法律155）第36条に従って、犯罪を犯した疑いが合理的にあったため逮捕された」と述べた。",
-   "enriched_v": 2,
    "summary_ja2": "ラナウ：マレーシア入国管理局（JIM）サバ州は昨日、この地区周辺で実施された作戦で29人の不法移民（PATI）を逮捕することに成功した。サバJIMのダトゥクSHシッティ・サレハ・ハビブ・ユソフ所長は、関与した外国人全員が1959/63年移民法（法律155）および1963年移民規制に基づく様々な犯罪の疑いで逮捕されたと述べた。",
+   "summary_ja": "2026年3月4日RANAU：サバ州のマレーシア入国管理局（JIM）は昨日、この地区周辺で実施された作戦で29人の不法移民（PATI）の逮捕に成功した。 JIMサバ所長のダトゥクSHシッティ・サレハ・ハビブ・ユソフ氏は、関与した外国人全員が1959/63年移民法（法律155）および1963年移民規則に基づく様々な犯罪の疑いで逮捕されたと述べた。",
    "scope": "local"
   },
   {
@@ -4633,7 +4633,7 @@
    "title": "\"It's A Bad Image Untuk Sabah\" - Azharina Harap PRN Sabah Bawa Perubahan, Minta Basmi Masalah PATI, Dadah & Kebersihan",
    "summary": "Penyanyi kelahiran Sabah, Azharina tampil menjelaskan kenyataannya yang tular baru-baru ini mengenai tindakan pertama yang akan dilakukan sekiranya memegang…",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObENVSXlQUVJPWDRKM2JMRUxocXpDbmxUQWY2RmdlZ0dwWkNwdXItUi1PZEd1X1FYMTRJZk1MTEdXV2hkTHpuUk1lOEQwbGhqbEdyLWhYWTM2MG44VUdZX3ppYktBM3hCazJOeHhZLXlVaE95NmF3SW9YOF84TVlrYnZRMlUtRXNQM2xRUHdOcFYxN29JaHdDMzY3MlB3T0ZkSmdZMWp1NzJyQVl2N05nSGJnTzY1Zw?oc=5",
-   "source": "Gempak",
+   "source": "gempak.com",
    "date": "2025-11-19T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5096,7 +5096,7 @@
    "title": "Isu kewarganegaraan kanak-kanak Sabah, keselamatan negara tetap diutamakan",
    "summary": "Kerajaan MADANI terus memberi perhatian khusus berhubung isu kewarganegaraan kanak-kanak yang berlaku di Sabah menerusi Mesyuarat Jawatankuasa Khas Status Kewarganegaraan",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUttUzRNNlhURHM1LWphTmxkNHVsS0FCLWUtZVUtNGQyY2tGb2hpN0RtdTZjTFNhRTEzNHFDd3A1d21fd0cyRkV3RC03eGdudncyYlJfSTZadUE3bUVaUHRSX2FTdTgyc2hzakZMdDJmOU9HVzBBNWJfdGE3eVNGOTVGeVM2TENKVjU3amZYR2lTRjdFWWRjWnExVW1vYXlJbW1XeXFrNlRCRVBLYVgzZEJn?oc=5",
-   "source": "malaysiamadani.gov.my",
+   "source": "Malaysia MADANI",
    "date": "2025-08-15T07:00:00Z",
    "lang": "ms",
    "origin": "news",
