@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T02:09:30Z",
+ "updated": "2026-08-23T07:11:19Z",
  "count": 202,
  "tags": {
   "入管・摘発": 128,
@@ -52,7 +52,7 @@
   "mkn.gov.my": 1,
   "Philstar.com": 1,
   "Utusan Malaysia": 1,
-  "gempak.com": 1,
+  "Gempak": 1,
   "The Edge Malaysia": 1,
   "Malaysia MADANI": 1
  },
@@ -2342,8 +2342,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2539,9 +2539,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2751,9 +2751,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2893,7 +2893,7 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "KUALA LUMPUR: Kerajaan digesa melonggarkan syarat permohonan Kad Pengenalan Pemastautin Sementara atau MyKas bagi membolehkan golongan ‘stateless’ (tanpa negara) terutama di Sabah mendapat dokumen pengenalan diri atas dasar kemanusiaan.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3fSAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW_SAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
@@ -4633,7 +4633,7 @@
    "title": "\"It's A Bad Image Untuk Sabah\" - Azharina Harap PRN Sabah Bawa Perubahan, Minta Basmi Masalah PATI, Dadah & Kebersihan",
    "summary": "Penyanyi kelahiran Sabah, Azharina tampil menjelaskan kenyataannya yang tular baru-baru ini mengenai tindakan pertama yang akan dilakukan sekiranya memegang…",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObENVSXlQUVJPWDRKM2JMRUxocXpDbmxUQWY2RmdlZ0dwWkNwdXItUi1PZEd1X1FYMTRJZk1MTEdXV2hkTHpuUk1lOEQwbGhqbEdyLWhYWTM2MG44VUdZX3ppYktBM3hCazJOeHhZLXlVaE95NmF3SW9YOF84TVlrYnZRMlUtRXNQM2xRUHdOcFYxN29JaHdDMzY3MlB3T0ZkSmdZMWp1NzJyQVl2N05nSGJnTzY1Zw?oc=5",
-   "source": "gempak.com",
+   "source": "Gempak",
    "date": "2025-11-19T08:00:00Z",
    "lang": "ms",
    "origin": "news",
