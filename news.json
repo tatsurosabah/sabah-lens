@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T07:38:02Z",
+ "updated": "2026-08-24T13:31:21Z",
  "count": 202,
  "tags": {
   "入管・摘発": 128,
@@ -2106,9 +2106,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
-    "無国籍",
     "子ども",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2414,9 +2414,9 @@
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0xWOUw5ZF8zbEd6V1FQdGFLclUzakNUalNGRUdoNzlTc21XRm5qRUM3TVZuLUNvNEdvLTNTOWYzWTJhMXdBdWZDcXZXM3R1VDNMNnpieUVLbkUtRENkSmcyMmk1TWl3NkxpT1hyVGhwYnZLUmkydFlka2tMcTZLcWxwODdERVN1RFFmOWk5bk1MX0xBVWNUN0ZnNFhLLS1BVWd0aDh5UXVRZFFCVURIZTFLa0l3M1BDcGZheHAtRjRBSEpIb1Y00gHMAUFVX3lxTE40a2dXQzFSN3dYVW5BX1YyMzMxeXYzWENWYkMxbnZ0XzFzaVVxazBhZmhyY05PdVBwLUFCRm5RT3ppNVl6aUpJNGJ3X2FRbG9FTWd6ai11VjRqOTFBcF8tY1dFb19Yb01FWGFQSVNUWERzMlB2YWpWSW5YVlp3NFB4RUtkY2FPZVlKNGpnLVVCMnR5TDJ0bFZLRzNTbk9KWVRSWnhqN3NYODBqenVkenFwZ2c1NUFMTUZCUHZoTy00Q0Z0ZG5PS214eGhsRw?oc=5",
    "source": "Jesselton Times",
    "date": "2026-05-22T07:00:00Z",
-   "lang": "en",
+   "lang": "ms",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "de8489aec11e",
    "tags": [
     "市民権",
