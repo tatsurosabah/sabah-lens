@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T13:29:21Z",
+ "updated": "2026-08-25T19:09:26Z",
  "count": 205,
  "tags": {
   "入管・摘発": 130,
@@ -347,6 +347,33 @@
    "scope": "local"
   },
   {
+   "title": "132 PATI dihantar pulang ke negara asal",
+   "summary": "Seramai 132 pendatang asing tanpa izin (PATI) warga Filipina dan Indonesia dihantar pulang ke negara asal masing-masing menerusi program pemindahan tahanan yang dilaksanakan Jabatan Imigresen Malay…",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHMzJGVjVGaFJDMjV6UjYwMlJnd24zSkI4d3R2dExDUlQyS3NPSmQ2Ym1FN1hqMnVUeUhRczRDcjdoOVpLWlB5WENJd1lhMUdNNl9PZWNiT3pYOGZjMVdSSEtnUGRzX0VMdGh4akN1T1hKQ09COGN0emFUMFpkY3M?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-08-15T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "9ed0668555a1",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "132人のPATIが出身国に送還された",
+   "first_seen": "2026-08-15T01:57:25Z",
+   "url_real": "https://sabahmedia.com/2026/08/15/132-pati-dihantar-pulang-ke-negara-asal/",
+   "image": "https://sabahmedia.com/wp-content/uploads/2026/08/IMM-hantar-pulang.jpeg",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEzQBh3y8rph4Xq2iPSDKFvsi_btkfp6ykInUUrsi_haPvxrkXMARELFjOIpNLrMUrIQ",
+   "site_name": "Sabah Media",
+   "enriched": "ok",
+   "enriched_v": 2,
+   "body": "KOTA KINABALU: Seramai 132 pendatang asing tanpa izin (PATI) warga Filipina dan Indonesia dihantar pulang ke negara asal masing-masing menerusi program pemindahan tahanan yang dilaksanakan Jabatan Imigresen Malaysia (JIM) Negeri Sabah.\n\nDaripada jumlah itu, 115 adalah warga Filipina yang ditempatkan di Depot Imigresen Kota Kinabalu, Papar dan Tawau sebelum dihantar melalui Pelabuhan Lahad Datu ke Pelabuhan Bongao, Tawi-Tawi, Filipina menggunakan feri komersial.\n\nMereka terdiri daripada 59 lelaki dewasa, 21 wanita dewasa, 18 kanak-kanak lelaki dan 17 kanak-kanak perempuan berusia antara enam bulan hingga 57 tahun.\n\nPada hari sama, seramai 17 PATI warga Indonesia dari Depot Imigresen Tawau turut dihantar pulang melalui Pelabuhan Tawau ke Pelabuhan Nunukan, Indonesia menggunakan feri komersial.",
+   "body_ja": "コタキナバル：サバ州マレーシア入国管理局（JIM）が実施した抑留者移送プログラムを通じて、フィリピンとインドネシアの不法移民（PATI）国民計132人がそれぞれの出身国に送還された。\n\nこのうち115人はコタキナバル、パパール、タワウの入国管理所に駐在していたフィリピン人で、その後ラハダトゥ港を経由してフィリピンのタウィタウィ州ボンガオ港に商業フェリーで送られた。\n\n参加者は、生後6か月から57歳までの成人男性59人、成人女性21人、少年18人、少女17人で構成されていた。\n\n同日、タワウ入国管理所から合計17人のインドネシア人PATIも民間フェリーを使用してタワウ港を経由してインドネシアのヌヌカン港に送還された。",
+   "summary_ja2": "コタキナバル：サバ州マレーシア入国管理局（JIM）が実施した抑留者移送プログラムを通じて、フィリピンとインドネシアの不法移民（PATI）国民計132人がそれぞれの出身国に送還された。このうち115人はコタキナバル、パパール、タワウの入国管理所に駐在していたフィリピン人で、その後ラハダトゥ港を経由してフィリピンのタウィタウィ州ボンガオ港に商業フェリーで送られた。",
+   "summary_ja": "マレー入国管理局が実施した抑留者移送プログラムを通じて、フィリピンとインドネシアの不法移民（PATI）国民計132人がそれぞれの出身国に送還された。",
+   "scope": "local"
+  },
+  {
    "title": "Act on NGO involved in MyKAS assistance",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUlfdFFQckRIMFFuaEFkOU9PMmEyZkUweWI4RU1MUDhJYW9sX01tOWdfQnBOS3pqNEs2RW5ncnR6UXNEa1o5elJ4d2JFWUt1WERzUk9GbWRUQkdCLVdSSEdUdmJUNXZMZUZpWXZwU2xrOFRWTWpoRkJiMHRTX1NiaUw5Vmc0WENqZ3ZvMw?oc=5",
@@ -396,33 +423,6 @@
    "summary_ja2": "6月にマレーシアのセンポルナで開催された第31回レガッタ・レパで、伝統的な「レパ」ボートの上で「イガル・イガル」を踊る若いダンサーたち。サバ州の南東海岸沿いで観光業が成長する中、バジャウ族の先住民族コミュニティは、自分たちの文化を伝え、観光業の発展に影響を与えるという、より大きな役割を求めています。(すべての写真：キット・イェン・チャン)  先住民主導の新しいフェスティバルで伝統工芸、ダンス、音楽が披露される  マレーシア、センポルナ ",
    "summary_ja": "先住民主導の新しいフェスティバルで伝統工芸、ダンス、音楽が披露される",
    "scope": "foreign"
-  },
-  {
-   "title": "132 PATI dihantar pulang ke negara asal",
-   "summary": "Seramai 132 pendatang asing tanpa izin (PATI) warga Filipina dan Indonesia dihantar pulang ke negara asal masing-masing menerusi program pemindahan tahanan yang dilaksanakan Jabatan Imigresen Malay…",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHMzJGVjVGaFJDMjV6UjYwMlJnd24zSkI4d3R2dExDUlQyS3NPSmQ2Ym1FN1hqMnVUeUhRczRDcjdoOVpLWlB5WENJd1lhMUdNNl9PZWNiT3pYOGZjMVdSSEtnUGRzX0VMdGh4akN1T1hKQ09COGN0emFUMFpkY3M?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-08-14T22:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "9ed0668555a1",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "132人のPATIが出身国に送還された",
-   "first_seen": "2026-08-15T01:57:25Z",
-   "url_real": "https://sabahmedia.com/2026/08/15/132-pati-dihantar-pulang-ke-negara-asal/",
-   "image": "https://sabahmedia.com/wp-content/uploads/2026/08/IMM-hantar-pulang.jpeg",
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEzQBh3y8rph4Xq2iPSDKFvsi_btkfp6ykInUUrsi_haPvxrkXMARELFjOIpNLrMUrIQ",
-   "site_name": "Sabah Media",
-   "enriched": "ok",
-   "enriched_v": 2,
-   "body": "KOTA KINABALU: Seramai 132 pendatang asing tanpa izin (PATI) warga Filipina dan Indonesia dihantar pulang ke negara asal masing-masing menerusi program pemindahan tahanan yang dilaksanakan Jabatan Imigresen Malaysia (JIM) Negeri Sabah.\n\nDaripada jumlah itu, 115 adalah warga Filipina yang ditempatkan di Depot Imigresen Kota Kinabalu, Papar dan Tawau sebelum dihantar melalui Pelabuhan Lahad Datu ke Pelabuhan Bongao, Tawi-Tawi, Filipina menggunakan feri komersial.\n\nMereka terdiri daripada 59 lelaki dewasa, 21 wanita dewasa, 18 kanak-kanak lelaki dan 17 kanak-kanak perempuan berusia antara enam bulan hingga 57 tahun.\n\nPada hari sama, seramai 17 PATI warga Indonesia dari Depot Imigresen Tawau turut dihantar pulang melalui Pelabuhan Tawau ke Pelabuhan Nunukan, Indonesia menggunakan feri komersial.",
-   "body_ja": "コタキナバル：サバ州マレーシア入国管理局（JIM）が実施した抑留者移送プログラムを通じて、フィリピンとインドネシアの不法移民（PATI）国民計132人がそれぞれの出身国に送還された。\n\nこのうち115人はコタキナバル、パパール、タワウの入国管理所に駐在していたフィリピン人で、その後ラハダトゥ港を経由してフィリピンのタウィタウィ州ボンガオ港に商業フェリーで送られた。\n\n参加者は、生後6か月から57歳までの成人男性59人、成人女性21人、少年18人、少女17人で構成されていた。\n\n同日、タワウ入国管理所から合計17人のインドネシア人PATIも民間フェリーを使用してタワウ港を経由してインドネシアのヌヌカン港に送還された。",
-   "summary_ja2": "コタキナバル：サバ州マレーシア入国管理局（JIM）が実施した抑留者移送プログラムを通じて、フィリピンとインドネシアの不法移民（PATI）国民計132人がそれぞれの出身国に送還された。このうち115人はコタキナバル、パパール、タワウの入国管理所に駐在していたフィリピン人で、その後ラハダトゥ港を経由してフィリピンのタウィタウィ州ボンガオ港に商業フェリーで送られた。",
-   "summary_ja": "マレー入国管理局が実施した抑留者移送プログラムを通じて、フィリピンとインドネシアの不法移民（PATI）国民計132人がそれぞれの出身国に送還された。",
-   "scope": "local"
   },
   {
    "title": "132 PATI warga Filipina dan Indonesia dihantar pulang",
@@ -3820,18 +3820,19 @@
    "tags": [
     "無国籍"
    ],
-   "title_ja": "",
-   "summary_ja": "",
+   "title_ja": "サバ州の無国籍者：ギリギリの生活",
    "first_seen": "2026-08-25T13:29:08Z",
-   "scope": "foreign",
    "url_real": "https://negrosnowdaily.com/stateless-in-sabah-lives-on-the-margin/",
    "image": "https://negrosnowdaily.com/wp-content/uploads/2026/01/patricio.jpg",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n06Ibz9RoAoDBKLy0fRRU5J41Q3wnetwl-ah7K2ZZtvX53BNH9ROg0id9Tfzn7rSVg",
    "site_name": "Negros Now Daily",
-   "body": "A decade ago, I spent a week in Kota Kinabalu, Sabah, delivering lectures to Malaysian farmers on emerging yet practical agricultural technologies. TravelGuides & Travelogues\n\nThe focus of these sessions was clear and hopeful: empowering smallholders to strengthen food security and improve rural livelihoods. We discussed FAITH (Food Always In The Home) gardening as a way to ensure daily household nutrition, the System of Rice Intensification to raise yields while reducing inputs, and rice–fish integration to diversify income and enhance ecological balance.\n\nThe formal lectures were engaging and productive, marked by thoughtful questions and genuine enthusiasm from participants eager to improve their farms and futures.\n\nYet, while the conference halls and training venues reflected progress and innovation, it was my visits beyond the city center—particularly to the coastal suburbs—that left a far deeper and more unsettling impression.",
-   "body_ja": "",
    "enriched": "ok",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n06Ibz9RoAoDBKLy0fRRU5J41Q3wnetwl-ah7K2ZZtvX53BNH9ROg0id9Tfzn7rSVg"
+   "body": "A decade ago, I spent a week in Kota Kinabalu, Sabah, delivering lectures to Malaysian farmers on emerging yet practical agricultural technologies. TravelGuides & Travelogues\n\nThe focus of these sessions was clear and hopeful: empowering smallholders to strengthen food security and improve rural livelihoods. We discussed FAITH (Food Always In The Home) gardening as a way to ensure daily household nutrition, the System of Rice Intensification to raise yields while reducing inputs, and rice–fish integration to diversify income and enhance ecological balance.\n\nThe formal lectures were engaging and productive, marked by thoughtful questions and genuine enthusiasm from participants eager to improve their farms and futures.\n\nYet, while the conference halls and training venues reflected progress and innovation, it was my visits beyond the city center—particularly to the coastal suburbs—that left a far deeper and more unsettling impression.",
+   "summary_ja": "10年前、私はサバ州コタキナバルで1週間を過ごし、マレーシアの農家に新興の実用的な農業技術について講義を行った。",
+   "scope": "foreign",
+   "body_ja": "10年前、私はサバ州コタキナバルで1週間を過ごし、マレーシアの農家に新興の実用的な農業技術について講義を行った。旅行ガイドと旅行記\n\nこれらのセッションの焦点は明確で希望に満ちたもので、小規模自作農に食料安全保障を強化し、農村部の生計を改善する権限を与えることでした。私たちは、毎日の家庭の栄養を確保する方法としての FAITH (Food Always In The Home) ガーデニング、投入量を減らしながら収量を高めるための米強化システム、収入を多様化し生態学的バランスを強化するための米と魚の統合について話し合いました。\n\n正式な講義は魅力的で生産的なもので、農場と将来を改善したいと願う参加者からの思慮深い質問と真の熱意が特徴でした。\n\nしかし、会議場や研修会場は進歩と革新を反映していましたが、より深く、より不安な印象を残したのは、市内中心部を離れた、特に海岸沿いの郊外への私の訪問でした。",
+   "summary_ja2": "10年前、私はサバ州コタキナバルで1週間を過ごし、マレーシアの農家に新興の実用的な農業技術について講義を行った。旅行ガイドと旅行記  これらのセッションの焦点は明確で希望に満ちたもので、小規模自作農に食料安全保障を強化し、農村部の生計を改善する権限を与えることでした。"
   },
   {
    "title": "91 PATI Ditangkap dalam Operasi JIM di Keningau, Tawau",
@@ -4613,7 +4614,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "サバ州ＰＲＮ：パティの問題、基本的な施設は依然として有権者にとっての主要な問題である",
    "first_seen": "2026-08-25T07:26:01Z",
    "url_real": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2025/11/22/prn-sabah-masalah-pati-kemudahan-asas-kekal-isu-utama-pengundi",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/11/02e83661-stock-arial-view-of-city-kota-kinabalu-sabah-fmt-17112025-10.webp",
@@ -4623,8 +4624,10 @@
    "enriched": "ok",
    "enriched_v": 2,
    "body": "Beberapa pengundi ditemui FMT turut melahirkan harapan kerajaan Sabah mampu untuk meningkatkan ekonomi yang manfaatnya dinikmati rakyat dari pelbagai sudut termasuk peningkatan bantuan sosial.\n\nMohammad Nur Azizan, 18, berkata kehadiran PATI yang membina rumah di tapak haram sekitar kediamannya menimbulkan keadaan kurang selesa.\n\nMenurutnya, turut timbul isu sosial seperti pergaduhan dan kebersihan tidak terjaga.\n\n“Kami tidak mahu lagi ada PTI yang boleh masuk sesuka hati.",
-   "summary_ja": "",
-   "scope": "national"
+   "summary_ja": "経済改善については、11月29日のPRN後に新政府が実現できることを期待する有権者からも声が上がった。",
+   "scope": "national",
+   "body_ja": "FMTが面会した一部の有権者は、サバ州政府が社会扶助の増額などさまざまな角度から国民に利益をもたらす経済を改善できるとの期待を表明した。\n\nモハマド・ヌール・アジザンさん（18）は、住居周辺の不法敷地に家を建てた不法移民の存在が不快な状況を生み出したと語った。\n\n同氏によると、喧嘩や不衛生などの社会問題もあるという。\n\n「私たちはもはやPTIが自由に参入することを望んでいません。",
+   "summary_ja2": "FMTが面会した一部の有権者は、サバ州政府が社会扶助の増額などさまざまな角度から国民に利益をもたらす経済を改善できるとの期待を表明した。モハマド・ヌール・アジザンさん（18）は、住居周辺の不法敷地に家を建てた不法移民の存在が不快な状況を生み出したと語った。同氏によると、喧嘩や不衛生などの社会問題もあるという。"
   },
   {
    "title": "Sabah children without documentation can apply for citizenship under joint Home Ministry-state panel, says Saifuddin Nasution",
@@ -5181,7 +5184,7 @@
    "date": "2025-08-14T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah citizenship children",
    "id": "5b02d199e768",
    "tags": [
     "市民権"
@@ -5387,17 +5390,16 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "サンダカン入国審査場は超満員、1,500人以上のPATIが拘束される",
    "first_seen": "2026-08-25T07:26:01Z",
    "url_real": "https://www.astroawani.com/video/awani-borneo-x7ko9t/depot-imigresen-sandakan-sesak-lebih-1500-pati-ditahan-x9njqra",
    "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s2.dmcdn.net/v/Yoqas1eYgKZvsEoic/x480",
    "site_name": "Awani",
    "enriched": "nobody",
    "enriched_v": 2,
-   "summary_ja": "",
-   "scope": "national"
+   "summary_ja": "このエッセンスの本国送還の遅れは、両国大使館側の必要書類の発行の遅れによるものである。",
+   "scope": "national",
+   "summary_ja2": "このエッセンスの本国送還の遅れは、両国大使館側の必要書類の発行の遅れによるものである。"
   }
- ],
- "enriched_at": "2026-08-25T13:29:34Z",
- "thumbs_at": "2026-08-25T13:31:43Z"
+ ]
 }
