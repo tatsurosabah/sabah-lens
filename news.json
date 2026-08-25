@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-25T07:26:06Z",
- "count": 204,
+ "updated": "2026-08-25T13:29:21Z",
+ "count": 205,
  "tags": {
   "入管・摘発": 130,
   "市民権": 33,
-  "無国籍": 29,
+  "無国籍": 30,
   "子ども": 22,
   "バジャウ": 13,
   "政策・政治": 10,
@@ -48,6 +48,7 @@
   "Migrant Times": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
+  "negrosnowdaily.com": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
   "Philstar.com": 1,
@@ -2468,7 +2469,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3673,7 +3674,7 @@
   {
    "title": "NGO condemns stateless child's arrest during Raya programme for the needy in Sabah",
    "summary": "KUALA LUMPUR: A non-governmental organisation has condemned the arrest of a stateless child it claimed occurred during a programme to purchase Hari Raya goods for the needy at a shopping centre in Kota Kinabalu.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGFXd1g4TnlOX3EtMGVGRW4tTDVQQVBJTUlaZEs4UU9mT1p3dW0wdmQybHZYck45RXN3TkRQUEhTVk1sb0E5NUFPU2w3UWtSR2E5ZXpwYWN4NUlkQXVUQ2FWT1ZKSXZFOG8wakg1dU05dU11UVVIVkdjZkhiOVdJYndZWUU0STlFMV9qNGtkTF9xbS1TVUZmVkNGaldaVk1zSXliZkl1Mmc5Vkd2dWE3c1ZNMXBwRTl4Q1dWMExXR1JIa2I4QmNHS1dYWjFHTnct0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBWLWQ2Ny1MMWhlS2xGbGFuUjg2LVBHRXk1Q2x3WmJpWUN6NjU2MTg3OGNNWDZsRFhRcTFLZXFJVWJ5d0lCVm9lb2drOGJYVW5lOG9ETnRqRGFXU29YWHNUZVRyWUlnckQtOWx1ckdfa2RLSDJsSUozZlV6N2pMaFJYMl9URWtucy1rakhXNHR4dk1aQ0lFbEI4UWVPZU45ZzRvYkdvSmRJOXBib3k5SWhOeEdaSERacTFyMktn0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
    "source": "NST Online",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
@@ -3805,6 +3806,32 @@
    "summary_ja2": "コタキナバル：セッション裁判所は、有効な書類を持たずに州に滞在したとして有罪を認めた不法移民（PATI）10人に懲役4か月の判決を下した。彼らは今日、ハーマン・フセイン判事の前で自白を行った。裁判所はまた、刑期を終えた被告全員をマレーシア入国管理局に送り返し、更なる措置を取るよう命じた。",
    "summary_ja": "セッションズ裁判所はここで、有効な書類を持たずに州に滞在したとして有罪を認めた不法移民（PATI）10人に懲役4か月の判決を下した。",
    "scope": "local"
+  },
+  {
+   "title": "Stateless in Sabah: Lives on the Margin",
+   "summary": "A decade ago, I spent a week in Kota Kinabalu, Sabah, delivering lectures to Malaysian farmers on emerging yet practical agricultural technologies.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JUHdVVEhPQ2lmY2lkV01wVm5oVW9JMEgyRWEzSXV0X0RiVms1a0xYY1pSYVI3QnZ2NmNLMDBLWHduNjNzTkpIaE9lZVo1NzE3SG9lUDdPdS1VX21fNk5vam00dW45QlZOdHpZVnY0bDNQcHVn?oc=5",
+   "source": "negrosnowdaily.com",
+   "date": "2026-02-19T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "ff1ad50a41d0",
+   "tags": [
+    "無国籍"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-25T13:29:08Z",
+   "scope": "foreign",
+   "url_real": "https://negrosnowdaily.com/stateless-in-sabah-lives-on-the-margin/",
+   "image": "https://negrosnowdaily.com/wp-content/uploads/2026/01/patricio.jpg",
+   "site_name": "Negros Now Daily",
+   "body": "A decade ago, I spent a week in Kota Kinabalu, Sabah, delivering lectures to Malaysian farmers on emerging yet practical agricultural technologies. TravelGuides & Travelogues\n\nThe focus of these sessions was clear and hopeful: empowering smallholders to strengthen food security and improve rural livelihoods. We discussed FAITH (Food Always In The Home) gardening as a way to ensure daily household nutrition, the System of Rice Intensification to raise yields while reducing inputs, and rice–fish integration to diversify income and enhance ecological balance.\n\nThe formal lectures were engaging and productive, marked by thoughtful questions and genuine enthusiasm from participants eager to improve their farms and futures.\n\nYet, while the conference halls and training venues reflected progress and innovation, it was my visits beyond the city center—particularly to the coastal suburbs—that left a far deeper and more unsettling impression.",
+   "body_ja": "",
+   "enriched": "ok",
+   "enriched_v": 2,
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n06Ibz9RoAoDBKLy0fRRU5J41Q3wnetwl-ah7K2ZZtvX53BNH9ROg0id9Tfzn7rSVg"
   },
   {
    "title": "91 PATI Ditangkap dalam Operasi JIM di Keningau, Tawau",
@@ -4587,18 +4614,17 @@
     "入管・摘発"
    ],
    "title_ja": "",
-   "summary_ja": "",
    "first_seen": "2026-08-25T07:26:01Z",
-   "scope": "national",
    "url_real": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2025/11/22/prn-sabah-masalah-pati-kemudahan-asas-kekal-isu-utama-pengundi",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/11/02e83661-stock-arial-view-of-city-kota-kinabalu-sabah-fmt-17112025-10.webp",
    "image_alt": "Arial view of city - Kota Kinabalu, Sabah",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGNklaTnduA81gteObZrpRnMzZ_Ao1_k5ehFVWDuy4jnSpkuBeVdoIvQqKleXxiRBqgi0&fopt=w701-h394-rw-dcCbCAh0AD",
    "site_name": "Free Malaysia Today | FMT",
-   "body": "Beberapa pengundi ditemui FMT turut melahirkan harapan kerajaan Sabah mampu untuk meningkatkan ekonomi yang manfaatnya dinikmati rakyat dari pelbagai sudut termasuk peningkatan bantuan sosial.\n\nMohammad Nur Azizan, 18, berkata kehadiran PATI yang membina rumah di tapak haram sekitar kediamannya menimbulkan keadaan kurang selesa.\n\nMenurutnya, turut timbul isu sosial seperti pergaduhan dan kebersihan tidak terjaga.\n\n“Kami tidak mahu lagi ada PTI yang boleh masuk sesuka hati.",
-   "body_ja": "",
    "enriched": "ok",
    "enriched_v": 2,
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGNklaTnduA81gteObZrpRnMzZ_Ao1_k5ehFVWDuy4jnSpkuBeVdoIvQqKleXxiRBqgi0&fopt=w701-h394-rw-dcCbCAh0AD"
+   "body": "Beberapa pengundi ditemui FMT turut melahirkan harapan kerajaan Sabah mampu untuk meningkatkan ekonomi yang manfaatnya dinikmati rakyat dari pelbagai sudut termasuk peningkatan bantuan sosial.\n\nMohammad Nur Azizan, 18, berkata kehadiran PATI yang membina rumah di tapak haram sekitar kediamannya menimbulkan keadaan kurang selesa.\n\nMenurutnya, turut timbul isu sosial seperti pergaduhan dan kebersihan tidak terjaga.\n\n“Kami tidak mahu lagi ada PTI yang boleh masuk sesuka hati.",
+   "summary_ja": "",
+   "scope": "national"
   },
   {
    "title": "Sabah children without documentation can apply for citizenship under joint Home Ministry-state panel, says Saifuddin Nasution",
@@ -5155,7 +5181,7 @@
    "date": "2025-08-14T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "5b02d199e768",
    "tags": [
     "市民権"
@@ -5362,16 +5388,16 @@
     "入管・摘発"
    ],
    "title_ja": "",
-   "summary_ja": "",
    "first_seen": "2026-08-25T07:26:01Z",
-   "scope": "national",
    "url_real": "https://www.astroawani.com/video/awani-borneo-x7ko9t/depot-imigresen-sandakan-sesak-lebih-1500-pati-ditahan-x9njqra",
    "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s2.dmcdn.net/v/Yoqas1eYgKZvsEoic/x480",
    "site_name": "Awani",
    "enriched": "nobody",
-   "enriched_v": 2
+   "enriched_v": 2,
+   "summary_ja": "",
+   "scope": "national"
   }
  ],
- "enriched_at": "2026-08-25T07:26:13Z",
- "thumbs_at": "2026-08-25T07:28:24Z"
+ "enriched_at": "2026-08-25T13:29:34Z",
+ "thumbs_at": "2026-08-25T13:31:43Z"
 }
