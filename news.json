@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T19:10:39Z",
+ "updated": "2026-08-25T02:03:52Z",
  "count": 202,
  "tags": {
   "入管・摘発": 128,
@@ -319,6 +319,33 @@
    "scope": "foreign"
   },
   {
+   "title": "Imigresen Sabah pergiat operasi, 164 PATI ditahan dalam tiga hari",
+   "summary": "Jabatan Imigresen Malaysia (JIM) Negeri Sabah mempergiatkan operasi penguatkuasaan di seluruh negeri dengan 164 pendatang asing tanpa izin (PATI) ditahan dalam tempoh tiga hari.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTklvSTA0WDduWEVDeS1BcTZtUlh5Uk5fSmItbnFTY090RXc2a1lvWlBOanAwdktTTjg1SlItc1VvQWJqVmcwRk9rcFdQd2ZvcW9sUHZtdlpkOGIydEZwWDdUaGZvUm9iSmoyLUlNTmxLOGdTWUxoLTljam5tWDFwTThwSXJicFRDdHlhMF9HRWp6cnVEY2FGaTgyZGp6Zy1F?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-08-15T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "337fc6904bfd",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州の入国管理が強化、3日間で不法滞在者164人が逮捕",
+   "first_seen": "2026-08-15T01:57:25Z",
+   "url_real": "https://sabahmedia.com/2026/08/15/imigresen-sabah-pergiat-operasi-164-pati-ditahan-dalam-tiga-hari/",
+   "image": "https://sabahmedia.com/wp-content/uploads/2026/08/Operasi.jpeg",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSN3FgOGEsbGkweyPqthej50jvxiv4rdXvr1NDJAby_poSUGgHvAUVIfPBfHJqUlx83I&fopt=w678-h407-rw-dclbGGTLkE",
+   "site_name": "Sabah Media",
+   "enriched": "ok",
+   "enriched_v": 2,
+   "body": "KOTA KINABALU: Jabatan Imigresen Malaysia (JIM) Negeri Sabah mempergiatkan operasi penguatkuasaan di seluruh negeri dengan 164 pendatang asing tanpa izin (PATI) ditahan dalam tempoh tiga hari.\n\nSebanyak 10 operasi dilaksanakan secara serentak di pelbagai lokasi strategik di seluruh daerah bermula 11 hingga 13 Ogos, membabitkan pemeriksaan terhadap 575 individu.\n\nDaripada 164 PATI yang ditahan, 114 adalah warga Filipina terdiri daripada 58 lelaki dewasa, 36 wanita dewasa, sembilan kanak-kanak lelaki dan 11 kanak-kanak perempuan.\n\nTurut ditahan 48 warga Indonesia membabitkan 22 lelaki dewasa, 16 wanita dewasa, tiga kanak-kanak lelaki dan tujuh kanak-kanak perempuan, selain dua lelaki warga Pakistan.",
+   "body_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は州全域で取り締まりを強化し、3日間で164人の不法移民（PATI）を逮捕した。\n\n8月11日から13日にかけて、地区内のさまざまな戦略的場所で合計10件の作戦が同時に実施され、575人の検査が行われた。\n\n拘束された164人の国内避難民のうち、成人男性58人、成人女性36人、少年9人、少女11人からなる114人がフィリピン国民である。\n\nパキスタン人男性２人に加え、成人男性２２人、成人女性１６人、少年３人、少女７人を含むインドネシア人４８人も拘束された。",
+   "summary_ja2": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は州全域で取り締まりを強化し、3日間で164人の不法移民（PATI）を逮捕した。拘束された164人の国内避難民のうち、成人男性58人、成人女性36人、少年9人、少女11人からなる114人がフィリピン国民である。パキスタン人男性２人に加え、成人男性２２人、成人女性１６人、少年３人、少女７人を含むインドネシア人４８人も拘束された。",
+   "summary_ja": "サバ州のマレーシア移民局（JIM）は州全域で取り締まりを強化し、3日間で不法移民（PATI）164人を逮捕した。",
+   "scope": "local"
+  },
+  {
    "title": "Act on NGO involved in MyKAS assistance",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUlfdFFQckRIMFFuaEFkOU9PMmEyZkUweWI4RU1MUDhJYW9sX01tOWdfQnBOS3pqNEs2RW5ncnR6UXNEa1o5elJ4d2JFWUt1WERzUk9GbWRUQkdCLVdSSEdUdmJUNXZMZUZpWXZwU2xrOFRWTWpoRkJiMHRTX1NiaUw5Vmc0WENqZ3ZvMw?oc=5",
@@ -340,33 +367,6 @@
    "enriched": "blocked",
    "enriched_v": 2,
    "summary_ja": "",
-   "scope": "local"
-  },
-  {
-   "title": "Imigresen Sabah pergiat operasi, 164 PATI ditahan dalam tiga hari",
-   "summary": "Jabatan Imigresen Malaysia (JIM) Negeri Sabah mempergiatkan operasi penguatkuasaan di seluruh negeri dengan 164 pendatang asing tanpa izin (PATI) ditahan dalam tempoh tiga hari.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTklvSTA0WDduWEVDeS1BcTZtUlh5Uk5fSmItbnFTY090RXc2a1lvWlBOanAwdktTTjg1SlItc1VvQWJqVmcwRk9rcFdQd2ZvcW9sUHZtdlpkOGIydEZwWDdUaGZvUm9iSmoyLUlNTmxLOGdTWUxoLTljam5tWDFwTThwSXJicFRDdHlhMF9HRWp6cnVEY2FGaTgyZGp6Zy1F?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-08-14T23:30:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "337fc6904bfd",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州の入国管理が強化、3日間で不法滞在者164人が逮捕",
-   "first_seen": "2026-08-15T01:57:25Z",
-   "url_real": "https://sabahmedia.com/2026/08/15/imigresen-sabah-pergiat-operasi-164-pati-ditahan-dalam-tiga-hari/",
-   "image": "https://sabahmedia.com/wp-content/uploads/2026/08/Operasi.jpeg",
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSN3FgOGEsbGkweyPqthej50jvxiv4rdXvr1NDJAby_poSUGgHvAUVIfPBfHJqUlx83I&fopt=w678-h407-rw-dclbGGTLkE",
-   "site_name": "Sabah Media",
-   "enriched": "ok",
-   "enriched_v": 2,
-   "body": "KOTA KINABALU: Jabatan Imigresen Malaysia (JIM) Negeri Sabah mempergiatkan operasi penguatkuasaan di seluruh negeri dengan 164 pendatang asing tanpa izin (PATI) ditahan dalam tempoh tiga hari.\n\nSebanyak 10 operasi dilaksanakan secara serentak di pelbagai lokasi strategik di seluruh daerah bermula 11 hingga 13 Ogos, membabitkan pemeriksaan terhadap 575 individu.\n\nDaripada 164 PATI yang ditahan, 114 adalah warga Filipina terdiri daripada 58 lelaki dewasa, 36 wanita dewasa, sembilan kanak-kanak lelaki dan 11 kanak-kanak perempuan.\n\nTurut ditahan 48 warga Indonesia membabitkan 22 lelaki dewasa, 16 wanita dewasa, tiga kanak-kanak lelaki dan tujuh kanak-kanak perempuan, selain dua lelaki warga Pakistan.",
-   "body_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は州全域で取り締まりを強化し、3日間で164人の不法移民（PATI）を逮捕した。\n\n8月11日から13日にかけて、地区内のさまざまな戦略的場所で合計10件の作戦が同時に実施され、575人の検査が行われた。\n\n拘束された164人の国内避難民のうち、成人男性58人、成人女性36人、少年9人、少女11人からなる114人がフィリピン国民である。\n\nパキスタン人男性２人に加え、成人男性２２人、成人女性１６人、少年３人、少女７人を含むインドネシア人４８人も拘束された。",
-   "summary_ja2": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は州全域で取り締まりを強化し、3日間で164人の不法移民（PATI）を逮捕した。拘束された164人の国内避難民のうち、成人男性58人、成人女性36人、少年9人、少女11人からなる114人がフィリピン国民である。パキスタン人男性２人に加え、成人男性２２人、成人女性１６人、少年３人、少女７人を含むインドネシア人４８人も拘束された。",
-   "summary_ja": "サバ州のマレーシア移民局（JIM）は州全域で取り締まりを強化し、3日間で不法移民（PATI）164人を逮捕した。",
    "scope": "local"
   },
   {
@@ -2468,7 +2468,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
