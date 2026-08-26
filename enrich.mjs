@@ -15,7 +15,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { spawn } from 'node:child_process';
 
 // 抽出の仕様を変えたら上げる。上げると全記事が取り直しになる。
-const VERSION = 2;
+const VERSION = 3;
 
 const args = process.argv.slice(2);
 const opt = (name, dflt) => { const i = args.indexOf(name); return i >= 0 ? args[i + 1] : dflt; };
@@ -30,12 +30,10 @@ const NAV_MS = 22000;      // 中継ページが記事に飛ぶまでの待ち�
 const SETTLE_MS = 2000;    // 着地後、og メタが入るまで
 const CF_WAIT_MS = 20000;  // Cloudflare の自動チャレンジを待つ上限
 
-// 本文は「冒頭の数段落」までしか保存しない。
-// news.json は GitHub Pages でそのまま公開されるので、各媒体の記事全文の和訳を
-// ネットに置くことになるのを避ける。ニュースは逆ピラミッド型で冒頭に要点が来るため、
-// この範囲でも「何が起きたか」はほぼ読める。続きは原文リンクへ誘導する。
-const BODY_PARAS = 4;
-const BODY_MAX = 1200;
+// 本文は全文を保存する（アプリ内で原文と和訳の両方を読めるようにするため）。
+// news.json は GitHub Pages でそのまま公開される点はユーザー了承済み。
+const BODY_PARAS = 200;
+const BODY_MAX = 12000;
 
 // HeadlessChrome を名乗ると弾く媒体があるので、通常の Chrome を名乗る。
 // これだけで Berita Harian などは通る（Daily Express / Borneo Post は通らない）。

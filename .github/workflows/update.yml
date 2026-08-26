@@ -59,10 +59,12 @@ jobs:
         continue-on-error: true
 
       # 本文と抜粋が付くのは解決の後なので、翻訳はここでもう一度回す。
-      # 本文は長いので1回で終わらないことがあるが、残りは次回に持ち越される。
+      # 本文は長いので1回で終わらないことがあるが、残りは次回に持ち越される
+      # （翻訳エンドポイントが 429 を返し始めたら、その回はそこで打ち切る）。
       - name: 本文と抜粋を日本語にする
         run: python3 fetch_news.py --translate-only
         continue-on-error: true
+        timeout-minutes: 25
 
       - name: 変更があればコミット
         run: |

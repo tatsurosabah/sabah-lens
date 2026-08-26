@@ -133,18 +133,37 @@ img { display: block; }
 }
 .meta-row .live { width: 7px; height: 7px; border-radius: 50%; background: #35d07f; flex: none; }
 
-/* 報道の広がり（州内 / 全国）の切替。
-   タグとは別の軸なので、タグ列に混ぜず独立した帯にしている。 */
-.scope {
-  display: flex; gap: 3px; padding: 3px; margin: 12px 0 2px;
+/* 期間の絞り込みと「重要のみ」。タグとは別の軸なのでタグ列には混ぜない。 */
+.filters { display: flex; gap: 8px; align-items: center; margin: 12px 0 2px; }
+.seg {
+  display: flex; gap: 3px; padding: 3px; flex: 1; min-width: 0;
   background: rgba(255, 255, 255, .06); border-radius: 999px;
 }
-.scope button {
-  flex: 1; border-radius: 999px; padding: 7px 6px; font-size: 12.5px; font-weight: 700;
+.seg button {
+  flex: 1; border-radius: 999px; padding: 7px 4px; font-size: 12.5px; font-weight: 700;
   color: var(--on-dark-sub); white-space: nowrap; transition: background .15s, color .15s;
 }
-.scope button.on { background: #fff; color: var(--ink); }
-.scope button .n { opacity: .5; margin-left: 4px; font-size: 11px; }
+.seg button.on { background: #fff; color: var(--ink); }
+
+.impact-btn {
+  flex: none; display: flex; align-items: center; gap: 5px;
+  padding: 9px 13px; border-radius: 999px; font-size: 12.5px; font-weight: 700;
+  background: rgba(255, 255, 255, .06); color: var(--on-dark-sub);
+  transition: background .15s, color .15s;
+}
+.impact-btn svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linejoin: round; }
+.impact-btn.on { background: #ffb400; color: #2a1c00; }
+.impact-btn.on svg { fill: #2a1c00; }
+
+/* 重要度の目印。カードの隅に小さく出す */
+.imp-badge {
+  position: absolute; left: 10px; bottom: 10px; z-index: 2;
+  display: flex; align-items: center; gap: 4px;
+  background: rgba(255, 180, 0, .95); color: #2a1c00;
+  font-size: 10.5px; font-weight: 800; padding: 3px 8px; border-radius: 999px;
+}
+.imp-badge svg { width: 11px; height: 11px; fill: currentColor; }
+.row .imp-badge { position: static; margin-left: 2px; }
 
 /* ─────────────── ヒーロー ─────────────── */
 
@@ -293,6 +312,14 @@ img { display: block; }
 .no-thumbs .iconbtn .ic-on { display: none; }
 .no-thumbs .iconbtn .ic-off { display: block; }
 
+.more-like {
+  width: 100%; text-align: left; padding: 11px 14px; margin-top: -8px;
+  border-radius: 0 0 var(--radius) var(--radius);
+  background: rgba(255, 255, 255, .07); color: var(--on-dark-sub);
+  font-size: 12.5px; font-weight: 600;
+}
+.more-like:active { background: rgba(255, 255, 255, .12); }
+
 /* ─────────────── 空・読み込み ─────────────── */
 
 .empty { text-align: center; color: var(--on-dark-sub); padding: 60px 20px; }
@@ -364,9 +391,24 @@ img { display: block; }
 .article p {
   margin: 0 0 15px; font-size: 16px; line-height: 1.95; color: #232c44;
 }
+.article .pending {
+  background: #fff6e0; color: #8a5a00; border-radius: 10px;
+  padding: 10px 12px; font-size: 12.5px; line-height: 1.6; margin: 0 0 14px;
+}
 .article .cont {
   font-size: 12.5px; color: var(--faint); text-align: center; margin: 4px 0 0;
 }
+
+/* 日本語訳 ↔ 原文の切替 */
+.langsw {
+  display: inline-flex; gap: 2px; padding: 3px; margin: 0 0 14px;
+  background: #eef1f8; border-radius: 999px;
+}
+.langsw button {
+  border-radius: 999px; padding: 6px 14px; font-size: 12.5px; font-weight: 700;
+  color: var(--sub); transition: background .15s, color .15s;
+}
+.langsw button.on { background: #fff; color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,.12); }
 
 .nobody {
   background: var(--surface-2, #f3f5fa); border-radius: 12px; padding: 16px; margin-bottom: 18px;
@@ -436,7 +478,13 @@ img { display: block; }
 </header>
 
 <main class="wrap">
-  <div class="scope" id="scopeBar"></div>
+  <div class="filters">
+    <div class="seg" id="periodBar"></div>
+    <button class="impact-btn" id="btnImpact" aria-label="重要な記事だけ">
+      <svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z"/></svg>
+      重要
+    </button>
+  </div>
   <div class="meta-row" id="metaRow"></div>
   <div id="heroSlot"></div>
   <div class="feed" id="feed">
@@ -451,7 +499,7 @@ img { display: block; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v5';
+const CACHE_LABEL = 'lens-v7';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
@@ -459,7 +507,9 @@ const DEFAULT_STATE = {
   v: 2, read: {}, star: {}, memo: {},
   unreadOnly: false, starOnly: false,
   thumbs: true,          // サムネイル表示。false で文字だけの一覧になる
-  expandBody: false,     // 記事画面で全文を開いたままにするか
+  importantOnly: false,  // 政策に関わる記事だけに絞る
+  expandBody: false,     // 記事画面で本文を開いたままにするか
+  readOrig: false,       // 本文を原文で読むか（false なら日本語訳）
 };
 let state = load();
 
@@ -535,27 +585,35 @@ const isNew = it => it.first_seen && (Date.now() - Date.parse(it.first_seen)) < 
 /* ─── データ ─── */
 let ALL = [];
 let activeTag = null;
-let activeScope = '';
+let activePeriod = 0;
+let expandedFamilies = false;   // 「同様の報道」を全部開いた状態か
 let query = '';
 
 const $ = s => document.querySelector(s);
 const feedEl = $('#feed'), chipsEl = $('#chips'), heroSlot = $('#heroSlot'), metaRow = $('#metaRow');
 
-/* 報道の広がり。local=サバ州・ボルネオの媒体、national=マレーシア全国紙、
-   foreign=海外。同じ出来事でも州内だけの話か全国に届いた話かで意味が変わる。 */
-const SCOPES = [
-  { key: '', label: 'すべて' },
-  { key: 'local', label: 'サバ州内' },
-  { key: 'national', label: '全国・海外' },
+/* 期間の絞り込み。日数で持つ（0 = すべて） */
+const PERIODS = [
+  { days: 0, label: 'すべて' },
+  { days: 1, label: '1日' },
+  { days: 7, label: '1週間' },
+  { days: 30, label: '1ヶ月' },
 ];
-const scopeOf = it => it.scope || 'national';
-const inScope = (it, key) => !key || (key === 'national'
-  ? scopeOf(it) !== 'local'          // 全国と海外はまとめて「州外に届いた」扱い
-  : scopeOf(it) === key);
+const inPeriod = (it, days) => {
+  if (!days) return true;
+  const t = Date.parse(it.date || '');
+  return !isNaN(t) && (Date.now() - t) <= days * 86400000;
+};
+
+/* 無国籍政策への効き具合。0〜5。3以上を「重要」とする。
+   収集の6割が定型の摘発報道なので、これで制度・司法の話だけを拾える。 */
+const IMPACT_MIN = 3;
+const isImportant = it => (it.impact || 0) >= IMPACT_MIN;
 
 function visible() {
   let list = ALL;
-  if (activeScope) list = list.filter(it => inScope(it, activeScope));
+  if (activePeriod) list = list.filter(it => inPeriod(it, activePeriod));
+  if (state.importantOnly) list = list.filter(isImportant);
   if (activeTag) list = list.filter(it => (it.tags || []).includes(activeTag));
   if (state.unreadOnly) list = list.filter(it => !state.read[it.id]);
   if (state.starOnly) list = list.filter(it => state.star[it.id]);
@@ -585,7 +643,12 @@ function cardHTML(it, i) {
   const starOn = state.star[it.id] ? ' on' : '';
   const readCls = state.read[it.id] ? ' read' : '';
   const tags = tagChips(it, 2);
+  const impTag = isImportant(it)
+    ? '<span class="imp-badge"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z"/></svg>重要</span>'
+    : '';
   const foot = `<div class="foot">${tags}<span>${esc(it.source || '')}</span>` +
+               `<i class="dotsep"></i><span>${esc(ago(it.date))}</span></div>`;
+  const footRow = `<div class="foot">${impTag}${tags}<span>${esc(it.source || '')}</span>` +
                `<i class="dotsep"></i><span>${esc(ago(it.date))}</span></div>`;
 
   const starBtn = cls => `<button class="${cls}${starOn}" data-star="${esc(it.id)}" aria-label="保存">
@@ -597,7 +660,7 @@ function cardHTML(it, i) {
       <div class="row-main">
         <h3>${esc(t)}</h3>
         ${orig ? `<p class="orig">${esc(orig)}</p>` : ''}
-        ${foot}
+        ${footRow}
       </div>
       ${starBtn('star flat')}
     </article>`;
@@ -606,7 +669,11 @@ function cardHTML(it, i) {
   // ── 写真カード
   const src = smallImg(it);
   const srcBadge = `<span class="badge-src">${esc(it.source || '')}</span>`;
-  const newBadge = isNew(it) ? '<span class="newdot">NEW</span>' : '';
+  const impBadge = isImportant(it)
+    ? '<span class="imp-badge"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8L3.5 9.7l5.9-.9z"/></svg>重要</span>'
+    : '';
+  // NEW と重要は同じ隅に出すので、重要を優先する
+  const newBadge = impBadge || (isNew(it) ? '<span class="newdot">NEW</span>' : '');
 
   let shot;
   if (src) {
@@ -652,8 +719,39 @@ const PAGE = 24;
 let shown = PAGE;
 let pageList = [];
 
+/* 同じ媒体が同じ型で書く定型報道（「◯◯人のPATIを送還」など）は、数字だけ違う
+   別記事なのに一覧では同じものが並んでいるように見える。見出しから数字を抜いた形が
+   一致するものを束ね、先頭だけ出して残りは「同様の報道 N件」に畳む。 */
+function familyKey(it) {
+  const t = (it.title || '').toLowerCase()
+    .replace(/\d+/g, '#')
+    .replace(/[^\w#\s]/g, ' ')
+    .split(/\s+/).filter(w => w.length > 2).sort().join(' ');
+  return `${it.source}|${t}`;
+}
+
+function groupFamilies(list) {
+  // 前回の束ね結果が記事に残っていると、展開後もボタンが出続ける
+  for (const it of list) it.__more = [];
+  const out = [], seen = new Map();
+  for (const it of list) {
+    const k = familyKey(it);
+    const head = seen.get(k);
+    if (head) { head.__more.push(it); continue; }
+    seen.set(k, it);
+    out.push(it);
+  }
+  return out;
+}
+
 function renderPage() {
-  feedEl.innerHTML = pageList.slice(0, shown).map(cardHTML).join('');
+  const slice = pageList.slice(0, shown);
+  feedEl.innerHTML = slice.map((it, i) => {
+    const more = (it.__more || []).length;
+    return cardHTML(it, i) + (more
+      ? `<button class="more-like" data-family="${esc(it.id)}">同様の報道をあと ${more} 件みる</button>`
+      : '');
+  }).join('');
 }
 
 /* 下端が近づいたら継ぎ足す。IntersectionObserver を使わないのは、
@@ -696,7 +794,12 @@ function render(resetPage = true) {
     feedEl.innerHTML = `<div class="empty"><div class="big">🔍</div>
       <p>${state.starOnly ? '保存した記事はまだありません' : state.unreadOnly ? '未読はありません。よく追えています' : '該当する記事がありません'}</p></div>`;
   } else {
-    pageList = rest;
+    if (expandedFamilies) {
+      for (const it of rest) it.__more = [];
+      pageList = rest;
+    } else {
+      pageList = groupFamilies(rest);
+    }
     renderPage();
     pump();       // 絞り込みで件数が減り、下端が既に近い場合に備える
   }
@@ -711,17 +814,20 @@ function render(resetPage = true) {
   document.body.classList.toggle('no-thumbs', !state.thumbs);
 }
 
-function renderScope() {
-  $('#scopeBar').innerHTML = SCOPES.map(s => {
-    const n = ALL.filter(it => inScope(it, s.key)).length;
-    return `<button data-scope="${s.key}" class="${activeScope === s.key ? 'on' : ''}">${s.label}<span class="n">${n}</span></button>`;
-  }).join('');
+function renderPeriod() {
+  $('#periodBar').innerHTML = PERIODS.map(p =>
+    `<button data-period="${p.days}" class="${activePeriod === p.days ? 'on' : ''}">${p.label}</button>`
+  ).join('');
+  const n = ALL.filter(it => inPeriod(it, activePeriod) && isImportant(it)).length;
+  $('#btnImpact').classList.toggle('on', !!state.importantOnly);
+  $('#btnImpact').lastChild.textContent = ` 重要 ${n}`;
 }
 
 function renderChips() {
-  // タグの件数は、いま選んでいる「広がり」の中での件数にする。
+  // タグの件数は、いま効いている期間・重要度の中での件数にする。
   // 全体件数のままだと、絞り込んだ結果0件のタグが数字付きで並んで混乱する。
-  const pool = ALL.filter(it => inScope(it, activeScope));
+  const pool = ALL.filter(it => inPeriod(it, activePeriod)
+    && (!state.importantOnly || isImportant(it)));
   const counts = {};
   for (const it of pool) for (const tg of (it.tags || [])) counts[tg] = (counts[tg] || 0) + 1;
   const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
@@ -756,10 +862,15 @@ function openSheet(id) {
     : '';
 
   // 本文は段落ごとに <p> にする。改行を潰すと読めたものではない
-  const bodyHTML = body
-    ? body.split(/\n{2,}/).map(p => p.trim()).filter(Boolean)
-        .map(p => `<p>${esc(p)}</p>`).join('')
+  const paras = t => t
+    ? t.split(/\n{2,}/).map(p => p.trim()).filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('')
     : '';
+  const bodyHTML = paras(body);
+  // 原文。訳と同じ段落構成で入っているので、切り替えて読み比べられる
+  const origHTML = paras(it.body || '');
+  // 本文はあるが訳がまだ、という状態は普通に起きる（翻訳は未訳分を少しずつ処理するため）。
+  // ここで「本文なし」と出すと、原文は取れているのに読めないことになる。
+  const waitingJa = !bodyHTML && !!origHTML;
 
   // 本文が取れなかった記事（Cloudflare で読めない媒体など）は、その旨を出して原文に誘導する
   const noBody = `<div class="nobody">
@@ -791,24 +902,29 @@ function openSheet(id) {
         <p>${esc(sum)}</p>
       </section>` : ''}
 
-      ${bodyHTML ? `
+      ${(bodyHTML || origHTML) ? `
       <button class="expander" id="expandBtn" aria-expanded="${state.expandBody ? 'true' : 'false'}">
-        <span class="lbl">冒頭を日本語で読む</span>
+        <span class="lbl">本文を読む</span>
         <svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
       </button>
       <section class="article${state.expandBody ? ' open' : ''}" id="articleBody">
-        ${bodyHTML}
-        <p class="cont">— ここから先は原文でお読みください</p>
+        ${(bodyHTML && origHTML) ? `<div class="langsw" id="langSw">
+          <button data-lang="ja" class="${state.readOrig ? '' : 'on'}">日本語訳</button>
+          <button data-lang="orig" class="${state.readOrig ? 'on' : ''}">原文</button>
+        </div>` : ''}
+        ${waitingJa ? '<p class="pending">日本語訳はまだ用意できていません（次の更新で付きます）。原文を表示しています。</p>' : ''}
+        ${bodyHTML ? `<div class="btext" id="bodyJa" ${state.readOrig && origHTML ? 'hidden' : ''}>${bodyHTML}</div>` : ''}
+        ${origHTML ? `<div class="btext" id="bodyOrig" ${(bodyHTML && !state.readOrig) ? 'hidden' : ''}>${origHTML}</div>` : ''}
       </section>` : noBody}
 
       <p class="memo-label">メモ</p>
       <textarea class="memo" id="memoBox" placeholder="この記事について気づいたこと">${esc(state.memo[id] || '')}</textarea>
 
       ${bodyHTML ? `<a class="btn ghost-wide" href="${esc(linkOf(it))}" target="_blank" rel="noopener noreferrer">
-        原文（${esc(it.source || '媒体')}）を開く
+        ${esc(it.source || '媒体')}のページを開く
         <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-8 8M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
       </a>` : ''}
-      <p class="disclaimer">要約と冒頭のみの機械翻訳です。正確さが要るときは原文を確認してください。</p>
+      <p class="disclaimer">日本語は機械翻訳です。正確さが要るときは原文をご確認ください。</p>
     </div>`;
 
   sheet.scrollTop = 0;
@@ -824,9 +940,25 @@ function openSheet(id) {
       $('#articleBody').classList.toggle('open', state.expandBody);
       expandBtn.setAttribute('aria-expanded', state.expandBody ? 'true' : 'false');
       expandBtn.querySelector('.lbl').textContent =
-        state.expandBody ? '冒頭を閉じる' : '冒頭を日本語で読む';
+        state.expandBody ? '本文を閉じる' : '本文を読む';
     });
-    if (state.expandBody) expandBtn.querySelector('.lbl').textContent = '冒頭を閉じる';
+    if (state.expandBody) expandBtn.querySelector('.lbl').textContent = '本文を閉じる';
+  }
+
+  // 日本語訳 ↔ 原文。どちらで読むかは覚えておく
+  const langSw = $('#langSw');
+  if (langSw) {
+    langSw.addEventListener('click', e => {
+      const b = e.target.closest('[data-lang]');
+      if (!b) return;
+      state.readOrig = b.dataset.lang === 'orig';
+      save();
+      langSw.querySelectorAll('button').forEach(x =>
+        x.classList.toggle('on', (x.dataset.lang === 'orig') === state.readOrig));
+      const ja = $('#bodyJa'), or = $('#bodyOrig');
+      if (ja) ja.hidden = state.readOrig;
+      if (or) or.hidden = !state.readOrig;
+    });
   }
 
   sheetBg.classList.add('open');
@@ -884,23 +1016,47 @@ document.addEventListener('click', e => {
   const chip = e.target.closest('[data-tag]');
   if (chip) {
     activeTag = chip.dataset.tag || null;
+    expandedFamilies = false;
     renderChips(); render();
     window.scrollTo({ top: 0, behavior: 'smooth' });
     return;
   }
 
-  const sc = e.target.closest('[data-scope]');
-  if (sc) {
-    activeScope = sc.dataset.scope || '';
-    // 広がりを変えるとタグの件数も変わるので、選択中のタグが空になるなら解除する
-    if (activeTag && !ALL.some(it => inScope(it, activeScope) && (it.tags || []).includes(activeTag))) {
-      activeTag = null;
-    }
-    renderScope(); renderChips(); render();
+  const fam = e.target.closest('[data-family]');
+  if (fam) {
+    // 束ねを解いて全件出す（1グループだけ開くより、この量なら全部出す方が素直）
+    expandedFamilies = true;
+    render(false);
+    return;
+  }
+
+  const pd = e.target.closest('[data-period]');
+  if (pd) {
+    activePeriod = Number(pd.dataset.period) || 0;
+    expandedFamilies = false;
+    dropEmptyTag();
+    renderPeriod(); renderChips(); render();
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 });
 
+/* 絞り込みを変えた結果、選択中のタグが0件になるなら解除する */
+function dropEmptyTag() {
+  if (!activeTag) return;
+  const ok = ALL.some(it => inPeriod(it, activePeriod)
+    && (!state.importantOnly || isImportant(it))
+    && (it.tags || []).includes(activeTag));
+  if (!ok) activeTag = null;
+}
+
+$('#btnImpact').addEventListener('click', () => {
+  state.importantOnly = !state.importantOnly;
+  save();
+  dropEmptyTag();
+  renderPeriod(); renderChips(); render();
+  toast(state.importantOnly ? '政策に関わる記事だけ' : 'すべての記事');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 $('#btnThumbs').addEventListener('click', () => {
   state.thumbs = !state.thumbs;
   save(); render();
@@ -942,7 +1098,7 @@ fetch('news.json', { cache: 'no-cache' })
       if (da !== db) return db.localeCompare(da);
       return (b.image ? 1 : 0) - (a.image ? 1 : 0);
     });
-    renderScope();
+    renderPeriod();
     renderChips();
     render();
   })
