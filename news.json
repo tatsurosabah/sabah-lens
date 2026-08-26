@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T13:35:09Z",
+ "updated": "2026-08-26T20:38:17Z",
  "count": 204,
  "tags": {
   "入管・摘発": 129,
@@ -2439,11 +2439,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "74af7615571b",
    "tags": [
-    "人権・NGO",
-    "市民権"
+    "市民権",
+    "人権・NGO"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -2887,7 +2887,7 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "KUALA LUMPUR: Kerajaan digesa melonggarkan syarat permohonan Kad Pengenalan Pemastautin Sementara atau MyKas bagi membolehkan golongan ‘stateless’ (tanpa negara) terutama di Sabah mendapat dokumen pengenalan diri atas dasar kemanusiaan.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3fSAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW_SAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
@@ -3055,9 +3055,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "first_seen": "2026-08-10T08:27:43Z",
