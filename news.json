@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-26T20:38:17Z",
- "count": 204,
+ "updated": "2026-08-27T10:12:56Z",
+ "count": 207,
  "tags": {
-  "入管・摘発": 129,
-  "市民権": 33,
-  "無国籍": 30,
+  "入管・摘発": 131,
+  "市民権": 34,
+  "無国籍": 31,
   "子ども": 22,
   "バジャウ": 13,
-  "政策・政治": 10,
-  "人権・NGO": 7,
+  "政策・政治": 11,
+  "人権・NGO": 8,
   "難民": 7,
   "教育": 3,
   "ロヒンギャ": 2,
@@ -16,12 +16,12 @@
  },
  "sources": {
   "Sabah Media": 36,
-  "Daily Express Malaysia": 17,
+  "Daily Express Malaysia": 18,
   "NST Online": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
   "The Star": 12,
-  "TV Sabah News": 9,
+  "TV Sabah News": 10,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 6,
@@ -46,6 +46,7 @@
   "Newswav": 1,
   "Malaysiakini": 1,
   "Migrant Times": 1,
+  "facebook.com": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
@@ -115,12 +116,12 @@
   {
    "title": "Sabah Immigration repatriates 4,750 illegal immigrants",
    "summary": "TAWAU: The Sabah Immigration Department has repatriated 4,750 illegal immigrants of various nationalities to their respective countries so far this year.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjZhMUNtd3kzQ0VrTVJ6NU9PUHdoYnJnbzFUY01aakZZZG4xTXJmQzhPRjdyRG01dHdKME9lYUtJNlVmX08wZUxoUmRuSTRWVHRkNmJDYWpCNE84eDVlU3owVTVqX29UWVV1MzBPRlBrQ0VwVDFsTGZlaDlqRFU5RklJcTkycU9MSDREX0JxYm5IT2VaTzdjY2tWWmNCYVhYZVVSeGpNeVRLQdIBrwFBVV95cUxOUEU2WUFialQxRkltZjZiOEJLRWxsT25ROXZ6b3FsQUpiZXA4RXN0YzF3UmZiMEV0WTk5OUhyYXdXZ0J6MW81T09lWVRxUFVhX3JXekFyVHJKZ2JPNUs5NGFpUzkwYk9WcEs3d1ViMnMwNlEwTUU1SDhpX0VacVJXRFpITElmUU1TVHpQbXVMRjA1N2llYTluU3B2LVNycGstbllVWjMxS1RFZS15VWxv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWVXNGZiSFQtMkZWSkVQRFpjOHA3ZmI4M2w5T0JWM1lGZjZkWjNVT2FpUGpndmFaNGd6WGwxNVZNcFg4MWhacm1nOThhT0xBT0lrVUNIZ1ZhWmc0bU9tMkVhbi0xMkc2SENDOTIycG45elMyZ2pLdTVBYUhsUnA1ZU9zNXNxa0xuTk9XdVRkVzlnWl9hVDBDNUFoS2pEUG5jSmRVWEVCZFo4VVhqSHA4SHpmWGxiT25kMUxqLdIBrwFBVV95cUxOUEU2WUFialQxRkltZjZiOEJLRWxsT25ROXZ6b3FsQUpiZXA4RXN0YzF3UmZiMEV0WTk5OUhyYXdXZ0J6MW81T09lWVRxUFVhX3JXekFyVHJKZ2JPNUs5NGFpUzkwYk9WcEs3d1ViMnMwNlEwTUU1SDhpX0VacVJXRFpITElmUU1TVHpQbXVMRjA1N2llYTluU3B2LVNycGstbllVWjMxS1RFZS15VWxv?oc=5",
    "source": "NST Online",
    "date": "2026-08-20T14:05:56Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah immigration detention OR deportation",
    "id": "d8c99f87101b",
    "tags": [
     "入管・摘発"
@@ -456,7 +457,7 @@
    "summary": "KOTA KINABALU, 14 Ogos: Seramai 132 pendatang asing tanpa izin (PATI) warga Filipina dan Indonesia dihantar pulang ke negara asal masing-masing menerusi program pemindahan tahanan Jabatan Imigresen Malaysia (JIM) Sabah.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEdyaEE3RE9JZkthc3d4eEhfS0xMc3Q2VVBnMURYSnpvRVFiYlVUSUJ5YVhNWDEwQUJaYm5qWkdzY3Uxb1RrcEt1ZEtnd1d5YlJBSUN5bHVpM1VER0lsVzBQLU1UZllEclp2bVkyN0VrRGgwbDE1R3dDVXp5Y25qckJudk4wTmdMVDNEaVZES29rQlRK?oc=5",
    "source": "Saluran 122",
-   "date": "2026-08-14T08:54:00Z",
+   "date": "2026-08-14T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -1389,6 +1390,31 @@
    "impact": 0
   },
   {
+   "title": "44 Undocumented Immigrants Detained In Sandakan",
+   "summary": "SANDAKAN: June 29, 2026 – A total of 44 undocumented immigrants from the Philippines were detained in an enforcement operation carried out by the Sabah state",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSDJoQXk2R2RJQXNlQ0xJcThjeWQzSVhSaVBFcTNVSFlZMlVjS3ROWHdyWjMzbkVFR0tpSGVOOXVaLWJUYmxFZ3JPSWlBQkI2eTRiLWZmTTNHczJyclRaX1FMeDYzYUpJTXFqVjc1cl9EUUp5QlFianhHMng?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-06-29T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "c085dd057e94",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-27T10:09:16Z",
+   "impact": 0,
+   "url_real": "https://tvsabahnews.com/44-undocumented-immigrants-detained-in-sandakan/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/06/photo_2026-06-29_16-07-42.jpg",
+   "image_alt": "44 undocumented immigrants detained in Sandakan",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "nobody",
+   "enriched_v": 3,
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRoaEsbA_ayLTbIqwSSZUs_SNmjGQMKilZoyVarWkBIJ9DGwt5l_-rcxTvrPuDG5iNIw"
+  },
+  {
    "title": "Sabah Detains Indonesians, Filipinos in Recent Migrant Sweep",
    "summary": "Sabah Immigration said 91 undocumented migrants were arrested after 373 people were screened in Kota Kinabalu, Kudat, Tawau and Ranau on June 24.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2owY2NvczJPMG9BcmpObEplWlJQTC1mUWZ1Y1E0N1RiYk1mNlJ6SW11UjJ3R2hRM3VQcU12YWtIWTNvM2lDX0FJUnRYcGFTMTFnanUtMk1LX1VnZzJHaWg3cHFmZzR5SGt3bUl3VENnTkg0dFlfWFNVdkliQzF3Tk9ZdTI0TjVmSFJPZWVfLUpObFpSRk1hbjlUYUtwS3FnRHRkQkFiQUxJR2c?oc=5",
@@ -1621,6 +1647,32 @@
    "summary_ja2": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は昨日、コタキナバル、クダット、タワウ、ラナウを含む4つの地区で実施された複数の取り締まり活動により、合計91人の不法移民（PATI）を逮捕した。",
    "summary_ja": "コタキナバル：サバ州のマレーシア入国管理局（JIM）は昨日、コタキナバル、クダット、タワウ、ラナウを含む4つの地区で実施された複数の取り締まり活動により、合計91人の不法移民（PATI）を逮捕した。ジム・サバは、オプス・セレラ、オプス・ショッピング、オプス・セルカップ、オプス・サプー、オプス・クティプを含む一連の作戦がコタキナバルで実行されたと報告した。",
    "impact": 0
+  },
+  {
+   "title": "Pertubuhan Kemanusiaan Masyarakat Antarabangsa Malaysia (MHO) menggesa kerajaan segera menyediakan satu bentuk dokumen pengenalan diri khusus kepada golongan stateless di Sabah bagi mengelakkan kelompok itu terus terpinggir hingga berpo",
+   "summary": "Pertubuhan Kemanusiaan Masyarakat Antarabangsa Malaysia (MHO) menggesa kerajaan segera menyediakan satu bentuk dokumen pengenalan diri khusus kepada golongan stateless di Sabah bagi mengelakkan...",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYnEtTWxSLWVuMDhOT0tLN01WQVhoa081UnFXX3loclRfNGJFQWVPS3NWQjd2NUZpSW55Y0dVRXBUS0xmc01MZXc5OWtTbnR0enF5dlNrVGctenlRLWJOaU5JSll3ZWU1dnE1UEdUblk0X1k3WGl6UHRNVzdEamwtU19RZDFPQmliYlFFYXJCYjJSSFVBTEJfcUJuQ3EtREdzV0JfRnR2Skw1QjA3bFVISW1lOElJMEFUbWhnNnpncVI1VWZoMjcyWTUybDFuZFh3RV96RHotU21jZjllaHc?oc=5",
+   "source": "facebook.com",
+   "date": "2026-06-24T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "e7cfc4c5928a",
+   "tags": [
+    "無国籍",
+    "市民権",
+    "政策・政治",
+    "人権・NGO"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-27T10:09:16Z",
+   "impact": 3,
+   "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
+   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=tQycclFVvjIQ7kNvwF2NCMa&_nc_oc=Adorz4fbvs2byE35YAJNO8erSSNET-HQ6r5XXQtsp45ljaczjbMlxLmT0PGcd-0RBM8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=bQHQwsqJ1SbV7wlpFokR1w&_nc_ss=79289&oh=00_AQG4-Pny_rxVOPtY4mb6itYY2QUE_3jaERrsNAneFYSWwQ&oe=6A95CB2F",
+   "image_alt": "Malaysia Gazette",
+   "enriched": "nobody",
+   "enriched_v": 3
   },
   {
    "title": "The 15-day deficit: How Sabah’s shorter birth registration window is fuelling a statelessness crisis",
@@ -1939,7 +1991,7 @@
   {
    "title": "114 PATI ditahan, Tawau catat tangkapan tertinggi",
    "summary": "Tawau: Seramai 114 pendatang asing tanpa izin (PATI) ditahan dalam operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah di tiga daerah, dengan Tawau merekodkan tangkapan tertinggi apabila 61 individu dicekup atas pelbagai kesalahan imigresen, semalam.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNNIBpgFBVV95cUxOWDBrb2tMQ1VRTWlIcldjZVNESTN0eGloSmdjb0ZvRDkxSmZNc2wzai03TUs1RVJfX2s3NEFiUHJEX2xxZGdGcDBMQl91VVFJWWZSWloyd19ocnZnMkJtMXhob2VLN1VlTHRyWndndjRMQTQ1WVNwSXM4cDJ4eWVLcmZDaTBKTmRScDlnUFpUejBTWV9SRTQ1UTgybnYzNGpQQ2pzNXdR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNA?oc=5",
    "source": "Harian Metro",
    "date": "2026-06-12T07:00:00Z",
    "lang": "ms",
@@ -2710,7 +2762,7 @@
   {
    "title": "156 PATI warga Indonesia dihantar pulang",
    "summary": "Tawau: Seramai 156 pendatang asing tanpa izin (PATI) warga Indonesia dihantar pulang ke negara asal menerusi Pelabuhan Tawau, di sini, dalam operasi pemindahan terbaharu Jabatan Imigresen Malaysia (JIM) Sabah, hari ini.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2lraDducHNmUGNSQk5ZdGNydnl3ckZ6ZE5faXBqSF9ZblFiQzVfTmY0ZzNQaHFRTFV4N0tlYXVuUDh3cWNHcjc4M1Awb0lyMFhCSmVhMVBRdHBpRW1jNmhsVDBMbmJmckFHakg2TmVoUEMzRkl1ZnJGSko2NVFlZmg2MWZXTWJPVG5mX0x2OTZXVUE0Q2fSAZsBQVVfeXFMT1J2cWdZc3Y3Yy1jcnp4SEtqMmE0VkNyYzNqdGRvaFRfcWo0czRraGwwX1d4QmtGX2ota0Y3VG05QUVKcUVIbDlEaTFRNzg2aTBtaTNNaUprZVdiMEZ1c3k1M2JraWVMX05OQWtoQnRZTHMxbGREOUMwOVl3SHNidFBrbDM1b2l0aEJ4b2NBa2ViT0FqUnFVTjE1Qms?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2lraDducHNmUGNSQk5ZdGNydnl3ckZ6ZE5faXBqSF9ZblFiQzVfTmY0ZzNQaHFRTFV4N0tlYXVuUDh3cWNHcjc4M1Awb0lyMFhCSmVhMVBRdHBpRW1jNmhsVDBMbmJmckFHakg2TmVoUEMzRkl1ZnJGSko2NVFlZmg2MWZXTWJPVG5mX0x2OTZXVUE0Q2c?oc=5",
    "source": "Harian Metro",
    "date": "2026-05-11T07:00:00Z",
    "lang": "ms",
@@ -3879,6 +3931,28 @@
    "summary_ja2": "センポルナ：ここでの統合作戦中にフィリピンからの不法滞在者61人が拘束された。「作戦はセンポルナの町周辺のほか、不法占拠者の植民地、郊外の集落、村でも実施された。ビクター氏は、この作戦の目的は、規制され、補助金が支給され、非課税の物品の密輸、不法移民の不法入国、外国人による社会訪問パスの悪用を含むその他の犯罪に対する取締りを抑制することであると付け加えた。",
    "summary_ja": "センポルナ：ここでの統合作戦中にフィリピンからの不法滞在者61人が拘束された。",
    "impact": 0
+  },
+  {
+   "title": "Undocumented migrants arrested in KK, Lahad Datu operations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1phb0gzeDRTbDVXVTBoMGpLZTd4Zlk3YncyelhfU1pieGlUR2lrbUxsQzZUQnhTX3dfcF9yaWt3WndwdDdmbk9rQ3V2VnoyelVsZDJvRkZRME12QjdhMDFPLVJEREVpcmczX3VIR3FxdDBKZHpLUDZITUlUUDdUWG54RWZnS3NZUkpVeTV1RV8wRklaemstbjZXaUZkblVTZ0lCa2NR?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-02-13T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "65007de494b9",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-27T10:09:16Z",
+   "impact": 0,
+   "url_real": "https://www.dailyexpress.com.my/news/275890/undocumented-migrants-arrested-in-kk-lahad-datu-operations/",
+   "enriched": "blocked",
+   "enriched_v": 3,
+   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI_n7EI6GI3CwV65mp8CpMAuXx83yA23yXGdQR2oOSxqSetlPSAE1qglQFLaDuB-ODyAj8PIo8TJAafQ"
   },
   {
    "title": "Operasi Bersepadu ESSCOM Tahan 61 PATI di Semporna",
@@ -5396,5 +5470,7 @@
    "summary_ja": "サンダカン：サバ州全域で強制執行が続いているため、サンダカン入国管理所には最大収容人数の1,200人を超える1,500人以上の不法移民が収容されている。",
    "impact": 1
   }
- ]
+ ],
+ "enriched_at": "2026-08-27T10:13:46Z",
+ "thumbs_at": "2026-08-27T10:15:56Z"
 }
