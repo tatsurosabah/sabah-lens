@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-28T11:43:04Z",
- "count": 209,
+ "updated": "2026-08-28T22:38:13Z",
+ "count": 212,
  "tags": {
-  "入管・摘発": 133,
+  "入管・摘発": 136,
   "市民権": 34,
   "無国籍": 31,
   "子ども": 22,
@@ -16,12 +16,12 @@
  },
  "sources": {
   "Sabah Media": 38,
-  "Daily Express Malaysia": 18,
+  "Daily Express Malaysia": 19,
   "NST Online": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
   "The Star": 12,
-  "TV Sabah News": 10,
+  "TV Sabah News": 12,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 6,
@@ -56,7 +56,7 @@
   "Gempak": 1,
   "Utusan Malaysia": 1,
   "The Edge Malaysia": 1,
-  "Malaysia MADANI": 1
+  "malaysiamadani.gov.my": 1
  },
  "items": [
   {
@@ -72,18 +72,19 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
-   "summary_ja": "",
+   "title_ja": "敷地内に2人のPATIを許可した男性にRM10,000の罰金",
    "first_seen": "2026-08-28T11:40:38Z",
-   "impact": 3,
    "url_real": "https://sabahmedia.com/2026/08/28/lelaki-didenda-rm10000-benarkan-dua-pati-di-premis/",
    "image": "https://sabahmedia.com/wp-content/uploads/2025/09/InShot_20250908_065850003-scaled.jpg",
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4HBRE-T-QHqhUPb52gJbBI7Eb8IFDs0jiPnpih37Q46bk--M4rLhc6he-eCh1cuOO4VU&fopt=w688-h401-rw-dcAZAK",
    "site_name": "Sabah Media",
-   "body": "KOTA KINABALU: Seorang lelaki didenda RM10,000 oleh Mahkamah Sesyen di sini kerana membenarkan dua pendatang asing tanpa izin (PATI) masuk atau berada di premis di bawah kawalannya.\n\nYue Weng Fei, 38, mengaku bersalah di hadapan Hakim Hurman Hussain terhadap dua pertuduhan berkenaan pada Khamis.\n\nDia didakwa membenarkan dua lelaki warga Indonesia, masing-masing berusia 48 dan 29 tahun, masuk dan berada di Thong Leep Engineering Work, Kg Durok, Jalan Nabawan, Keningau, kira-kira jam 10.20 pagi pada 5 November 2025.\n\nPertuduhan dibuat mengikut Seksyen 55E(1) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 55E(2) akta sama yang memperuntukkan denda antara RM5,000 hingga RM30,000, penjara tidak melebihi 12 bulan atau kedua-duanya sekali bagi setiap PATI yang dijumpai di premis.\n\nYue didenda RM5,000 atau penjara tiga bulan bagi setiap PATI berkenaan.\n\nSemasa rayuan, Yue yang tidak diwakili peguam memohon denda lebih ringan dengan alasan dia sudah berkahwin dan mempunyai dua anak.\n\nPegawai Pendakwa Imigresen Mohd Sharifuddin Salim memohon mahkamah mengenakan hukuman berbentuk pencegahan.",
-   "body_ja": "",
    "enriched": "ok",
    "enriched_v": 3,
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4HBRE-T-QHqhUPb52gJbBI7Eb8IFDs0jiPnpih37Q46bk--M4rLhc6he-eCh1cuOO4VU&fopt=w688-h401-rw-dcAZAK"
+   "body": "KOTA KINABALU: Seorang lelaki didenda RM10,000 oleh Mahkamah Sesyen di sini kerana membenarkan dua pendatang asing tanpa izin (PATI) masuk atau berada di premis di bawah kawalannya.\n\nYue Weng Fei, 38, mengaku bersalah di hadapan Hakim Hurman Hussain terhadap dua pertuduhan berkenaan pada Khamis.\n\nDia didakwa membenarkan dua lelaki warga Indonesia, masing-masing berusia 48 dan 29 tahun, masuk dan berada di Thong Leep Engineering Work, Kg Durok, Jalan Nabawan, Keningau, kira-kira jam 10.20 pagi pada 5 November 2025.\n\nPertuduhan dibuat mengikut Seksyen 55E(1) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 55E(2) akta sama yang memperuntukkan denda antara RM5,000 hingga RM30,000, penjara tidak melebihi 12 bulan atau kedua-duanya sekali bagi setiap PATI yang dijumpai di premis.\n\nYue didenda RM5,000 atau penjara tiga bulan bagi setiap PATI berkenaan.\n\nSemasa rayuan, Yue yang tidak diwakili peguam memohon denda lebih ringan dengan alasan dia sudah berkahwin dan mempunyai dua anak.\n\nPegawai Pendakwa Imigresen Mohd Sharifuddin Salim memohon mahkamah mengenakan hukuman berbentuk pencegahan.",
+   "summary_ja": "ある男性は、2人の不法滞在者（PATI）を自分の管理下にある敷地内に侵入または滞在させたとして、セッションズ裁判所からRM10,000の罰金を科せられた。",
+   "impact": 3,
+   "body_ja": "コタキナバル：男性は、2人の不法滞在者（PATI）を自分の管理下の敷地に侵入または滞在させたとして、当地のセッションズ裁判所からRM10,000の罰金を科せられた。\n\nユエ・ウェンフェイ被告（38）は木曜日、ハーマン・フセイン判事の前で2つの容疑について有罪を認めた。\n\n彼は、2025年11月5日午前10時20分頃、ケニンガウ州ジャラン・ナバワンのKgデュロックにあるトン・リープ・エンジニアリング・ワークに、それぞれ48歳と29歳のインドネシア人男性2名を立ち入り、滞在させた疑いがある。\n\nこの告発は1959/63年移民法第55E条(1)に従って行われ、敷地内で発見された不法滞在者1人につき1回、RM5,000からRM30,000の罰金、12か月以下の懲役、またはその両方を規定する同法の第55E条(2)に従って処罰される可能性がある。\n\nユエさんは関係するPATIごとにRM5,000の罰金または懲役3か月を言い渡された。\n\n控訴中、ユエさんは弁護士の代理人を付けておらず、結婚していて子供が2人いるという理由で罰金の軽減を求めた。\n\n移民検察官のモフド・シャリフディン・サリム氏は裁判所に対し、予防刑を課すよう要請した。",
+   "summary_ja2": "コタキナバル：男性は、2人の不法滞在者（PATI）を自分の管理下の敷地に侵入または滞在させたとして、当地のセッションズ裁判所からRM10,000の罰金を科せられた。この告発は1959/63年移民法第55E条(1)に従って行われ、敷地内で発見された不法滞在者1人につき1回、RM5,000からRM30,000の罰金、12か月以下の懲役、またはその両方を規定する同法の第55E条(2)に従って処罰される可能性がある。"
   },
   {
    "title": "Tiada pas sah, 41 PATI dipenjara",
@@ -98,18 +99,19 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
-   "summary_ja": "",
+   "title_ja": "有効なパスポートなし、41人のPATIが投獄される",
    "first_seen": "2026-08-28T11:40:38Z",
-   "impact": 0,
    "url_real": "https://sabahmedia.com/2026/08/28/tiada-pas-sah-41-pati-dipenjara/",
    "image": "https://sabahmedia.com/wp-content/uploads/2026/07/IMG-20260723-WA0237.jpg",
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSld5WmG5Mp9Sz16PSwbKZy4WpbLhxzNI7GfWrEkNrhHuhyR0yMWP7R4ONm-U5428UMmcY&fopt=w701-h394-rw-dcHSOEzqEJ",
    "site_name": "Sabah Media",
-   "body": "KOTA KINABALU: Seramai 41 pendatang asing tanpa izin (PATI) dijatuhi hukuman penjara oleh Mahkamah Sesyen di sini kerana memasuki Sabah tanpa pas atau permit yang sah.\n\nMereka terdiri daripada 28 lelaki dan sembilan wanita warga Filipina serta empat lelaki warga Indonesia.\n\nDaripada jumlah itu, 38 dijatuhi hukuman penjara empat bulan dari tarikh tangkap kerana memasuki Sabah secara haram.\n\nTiga lagi, iaitu seorang lelaki dan dua wanita, dipenjara keseluruhan 10 bulan kerana masuk secara haram dan memasuki semula Sabah juga secara haram selepas diusir keluar. Tertuduh lelaki turut dikenakan satu sebatan.\n\nKesemua mereka didakwa mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 yang memperuntukkan denda tidak lebih RM10,000 atau penjara sehingga lima tahun, atau kedua-duanya, dan boleh juga dikenakan sebatan, jika sabit kesalahan.\n\nBagi kesalahan memasuki semula Sabah selepas diusir keluar mengikut Seksyen 36 Akta Imigresen 1959/63, pesalah boleh dikenakan denda tidak lebih RM10,000 atau penjara sehingga lima tahun, atau kedua-duanya, dan boleh juga disebat serta disingkirkan dari Malaysia.\n\nMahkamah turut memerintahkan kesemua mereka dirujuk semula kepada Jabatan Imigresen Malaysia (JIM) selepas selesai menjalani hukuman untuk tindakan selanjutnya.\n\nDalam pada itu, seorang lelaki warga China didenda keseluruhan RM15,000 selepas mengaku bersalah terhadap dua pertuduhan mengikut Seksyen 15(1)(c) dan Seksyen 56(1)(i) Akta Imigresen 1959/63.\n\nBagi pertuduhan pertama, lelaki itu didenda RM10,000 atau penjara enam bulan jika gagal membayar denda selepas mengaku bersalah tinggal di Malaysia melebihi tempoh yang dibenarkan selama 34 hari.\n\nPas Khas lelaki itu hanya sah sehingga 8 Julai 2026, namun dia didapati masih berada di Malaysia pada 11 Ogos lalu.\n\nKesalahan dikesan kira-kira jam 5.30 petang di Kaunter Pemeriksaan Imigresen, Balai Perlepasan Antarabangsa, Lapangan Terbang Antarabangsa Kota Kinabalu.\n\nPertuduhan itu dibuat mengikut Seksyen 15(1)(c) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 15(4) akta sama yang memperuntukkan denda tidak kurang RM10,000 atau penjara sehingga lima tahun atau kedua-duanya sekali.\n\nManakala bagi pertuduhan kedua, dia didenda RM5,000 atau penjara tiga bulan jika gagal membayar denda kerana memiliki tanpa kuasa yang sah Pas Lawatan Sosial bertarikh 4 Ogos 2026 yang tidak teratur.\n\nPertuduhan dibuat mengikut Seksyen 56(1)(i) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 56(1)(aa) akta sama yang memperuntukkan denda tidak lebih RM10,000 atau penjara sehingga lima tahun.\n\nDenda berkenaan telah dibayar dan lelaki itu turut diperintahkan dirujuk semula kepada JIM untuk tindakan selanjutnya.\n\nPendakwaan dikendalikan Timbalan Pendakwa Raya Syarifah Nursyuhada Tuan Mamat dan Pegawai Imigresen Chin Tze Mee di hadapan Hakim Hurman Hussain.",
-   "body_ja": "",
    "enriched": "ok",
    "enriched_v": 3,
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSld5WmG5Mp9Sz16PSwbKZy4WpbLhxzNI7GfWrEkNrhHuhyR0yMWP7R4ONm-U5428UMmcY&fopt=w701-h394-rw-dcHSOEzqEJ"
+   "body": "KOTA KINABALU: Seramai 41 pendatang asing tanpa izin (PATI) dijatuhi hukuman penjara oleh Mahkamah Sesyen di sini kerana memasuki Sabah tanpa pas atau permit yang sah.\n\nMereka terdiri daripada 28 lelaki dan sembilan wanita warga Filipina serta empat lelaki warga Indonesia.\n\nDaripada jumlah itu, 38 dijatuhi hukuman penjara empat bulan dari tarikh tangkap kerana memasuki Sabah secara haram.\n\nTiga lagi, iaitu seorang lelaki dan dua wanita, dipenjara keseluruhan 10 bulan kerana masuk secara haram dan memasuki semula Sabah juga secara haram selepas diusir keluar. Tertuduh lelaki turut dikenakan satu sebatan.\n\nKesemua mereka didakwa mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 yang memperuntukkan denda tidak lebih RM10,000 atau penjara sehingga lima tahun, atau kedua-duanya, dan boleh juga dikenakan sebatan, jika sabit kesalahan.\n\nBagi kesalahan memasuki semula Sabah selepas diusir keluar mengikut Seksyen 36 Akta Imigresen 1959/63, pesalah boleh dikenakan denda tidak lebih RM10,000 atau penjara sehingga lima tahun, atau kedua-duanya, dan boleh juga disebat serta disingkirkan dari Malaysia.\n\nMahkamah turut memerintahkan kesemua mereka dirujuk semula kepada Jabatan Imigresen Malaysia (JIM) selepas selesai menjalani hukuman untuk tindakan selanjutnya.\n\nDalam pada itu, seorang lelaki warga China didenda keseluruhan RM15,000 selepas mengaku bersalah terhadap dua pertuduhan mengikut Seksyen 15(1)(c) dan Seksyen 56(1)(i) Akta Imigresen 1959/63.\n\nBagi pertuduhan pertama, lelaki itu didenda RM10,000 atau penjara enam bulan jika gagal membayar denda selepas mengaku bersalah tinggal di Malaysia melebihi tempoh yang dibenarkan selama 34 hari.\n\nPas Khas lelaki itu hanya sah sehingga 8 Julai 2026, namun dia didapati masih berada di Malaysia pada 11 Ogos lalu.\n\nKesalahan dikesan kira-kira jam 5.30 petang di Kaunter Pemeriksaan Imigresen, Balai Perlepasan Antarabangsa, Lapangan Terbang Antarabangsa Kota Kinabalu.\n\nPertuduhan itu dibuat mengikut Seksyen 15(1)(c) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 15(4) akta sama yang memperuntukkan denda tidak kurang RM10,000 atau penjara sehingga lima tahun atau kedua-duanya sekali.\n\nManakala bagi pertuduhan kedua, dia didenda RM5,000 atau penjara tiga bulan jika gagal membayar denda kerana memiliki tanpa kuasa yang sah Pas Lawatan Sosial bertarikh 4 Ogos 2026 yang tidak teratur.\n\nPertuduhan dibuat mengikut Seksyen 56(1)(i) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 56(1)(aa) akta sama yang memperuntukkan denda tidak lebih RM10,000 atau penjara sehingga lima tahun.\n\nDenda berkenaan telah dibayar dan lelaki itu turut diperintahkan dirujuk semula kepada JIM untuk tindakan selanjutnya.\n\nPendakwaan dikendalikan Timbalan Pendakwa Raya Syarifah Nursyuhada Tuan Mamat dan Pegawai Imigresen Chin Tze Mee di hadapan Hakim Hurman Hussain.",
+   "summary_ja": "合計41人の不法移民（PATI）が、有効なパスポートや許可証なしにサバ州に入国したとして、当地のセッションズ裁判所により実刑判決を受けた。",
+   "impact": 0,
+   "body_ja": "コタキナバル：合計41人の不法移民（PATI）が、有効なパスポートや許可証を持たずにサバ州に入国したとして、当地のセッションズ裁判所により実刑判決を受けた。\n\nメンバーはフィリピンからの男性28名と女性9名、インドネシアからの男性4名で構成されています。\n\nこのうち38人はサバ州に不法入国したとして逮捕日から4か月の懲役刑を言い渡された。\n\n他の3人、すなわち男性1人と女性2人は、不法入国と、追放後にサバ州に不法再入国した罪で合計10か月の懲役刑となった。男性被告には鞭打ちも１回受けた。\n\n全員は1959/63年移民法第6条(1)(c)に基づいて起訴され、同条ではRM10,000以下の罰金もしくは5年以下の懲役、あるいはその両方が規定されており、有罪判決を受けた場合には鞭打ちも可能である。\n\n1959/1963 年移民法第 36 条に従って国外追放された後にサバ州に再入国した場合、違反者は RM10,000 以下の罰金または 5 年以下の懲役、またはその両方を科せられるほか、鞭で打たれてマレーシアから国外追放される場合もあります。\n\n裁判所はまた、さらなる措置のために刑期を終えた全員をマレーシア入国管理局（JIM）に送り返すよう命じた。\n\n一方、中国人男性は、1959/63 年移民法第 15 条(1)(c) および第 56 条(1)(i) に基づく 2 つの容疑で有罪を認め、合計 RM15,000 の罰金を科せられた。\n\n最初の容疑では、男性は許可された34日の期間を超えてマレーシアに滞在した罪を認めた後、罰金を支払わなかった場合、RM10,000の罰金、または6か月の懲役刑を言い渡された。\n\nこの男性のスペシャルパスは2026年7月8日まで有効だが、8月11日になってもまだマレーシアに滞在していることが判明した。\n\n犯行は午後５時半ごろ、コタキナバル国際空港国際線出発ホールの入国審査カウンターで発覚した。\n\nこの告発は、1959/63 年移民法第 15 条(1)(c) に従って行われ、同法第 15 条(4) に従って処罰される可能性があり、RM10,000 以上の罰金または 5 年以下の懲役、またはその両方が規定されています。\n\n2回目の容疑では、有効な権限なく2026年8月4日付の不正なソーシャル・ビジット・パスを所持していたとして、罰金5,000リンギット、または罰金を支払わなかった場合は懲役3か月が科せられた。\n\nこの告発は1959/63年移民法第56条(1)(i)に従って行われ、RM10,000以下の罰金または最長5年の懲役を規定する同法の第56条(1)(aa)に従って処罰される可能性がある。\n\n罰金は支払われ、その男性はさらなる措置のためにJIMに引き戻されるよう命じられた。\n\n訴追はハーマン・フセイン判事の前でシャリファ・ヌルシュハダ・トゥアン・ママト副検察官と入国管理官チン・ツェ・ミーによって行われた。",
+   "summary_ja2": "コタキナバル：合計41人の不法移民（PATI）が、有効なパスポートや許可証を持たずにサバ州に入国したとして、当地のセッションズ裁判所により実刑判決を受けた。1959/1963 年移民法第 36 条に従って国外追放された後にサバ州に再入国した場合、違反者は RM10,000 以下の罰金または 5 年以下の懲役、またはその両方を科せられるほか、鞭で打たれてマレーシアから国外追放される場合もあります。"
   },
   {
    "title": "Sabah Immigration repatriates 4,750 undocumented migrants so far this year",
@@ -648,7 +650,7 @@
    "date": "2026-08-02T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah Rohingya",
+   "query": "Sabah immigration detention OR deportation",
    "id": "d27061006894",
    "tags": [
     "入管・摘発"
@@ -878,7 +880,7 @@
   {
    "title": "Viral detention depot death claims baseless: Sabah Immgiration",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcjgza1AzVW9LQVpOSGQtRVVYYjFpZmRBZVdORVptNC13MFpjamRBODlUc3QtdEVxNktGRVdLWHBpQTFRZWdkRkw2MXYzSVQxR2RBR0ZKaWJnQWJ1UzM1azZDaXEzTE1VQzBadW5WS2dtWENFeWhSMENTcnZ6RUhXYUdjTGgwc3EwbWQ0Z09zOS14YmNKMlpVUHBNYjRqLUQ1ZzVPQVZZR2xUQXVwUjZ4U3F2UnpldFJXN0dTUVI3OEdDYjlJbFBTd3NuUkV4Tmh6a2JCcjZkaEVmYUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3Rfcldpclh5eG5ZNjNzSlRCQkFjTnRzQWVqcXdBdEFDVnF1R1JLR2ctYlVUQkFEOXEyVFJCSldJSGc5VGl4Z0tYQklnZUhIQml2SVM4YVVvZHdMNkZtUzhZZWtIaV9lV0pTM252RnB5ME9yZXA3cTlCWW1FUWl6NlJHdFltUVo4MTNBZGFDdXY5RlE0V3BZMDAwTV8tT3dYWmcyRzNvQmFaUQ?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
@@ -1844,7 +1846,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -2568,7 +2570,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -2993,7 +2995,7 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "KUALA LUMPUR: Kerajaan digesa melonggarkan syarat permohonan Kad Pengenalan Pemastautin Sementara atau MyKas bagi membolehkan golongan ‘stateless’ (tanpa negara) terutama di Sabah mendapat dokumen pengenalan diri atas dasar kemanusiaan.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3fSAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW_SAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
@@ -3504,6 +3506,28 @@
    "impact": 0
   },
   {
+   "title": "Six undocumented migrants detained in Labuan immigration raid",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUzF5Vjk5RW0zSXhFNVdsTEZadGMzdlhoWGpOdXNqVlZJWkw1NmNFMGdFcjNrLTEzUXZMbDcybk82VHJoaWRidkExWXN2QWRtMmFFdnIxZkJZLW01dWxkbFJ2QkMydGdTYkxzTW5JY1dyQU05XzRSak41b01JSDQ0WWRERDhENkkyckxlYVpSSU5aZ1pmMGVyYnhtamdQTXdmTU15V3phUVpkZw?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-04-14T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "acef2a7d0603",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ラブア移民強制捜査で不法移民6人拘束",
+   "summary_ja": "",
+   "first_seen": "2026-08-28T22:37:57Z",
+   "impact": 0,
+   "url_real": "https://www.dailyexpress.com.my/news/279524/six-undocumented-migrants-detained-in-labuan-immigration-raid/",
+   "enriched": "blocked",
+   "enriched_v": 3,
+   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWkKRlB6gC_ck9gCFMfWeoqmfUZFLJePRaLc5B0tZkWfZmm37oeD0es5_iobLXedDZQw"
+  },
+  {
    "title": "Stateless Bajau Laut teen granted bail after proving he was born in Sabah",
    "summary": "KOTA KINABALU: A stateless Bajau Laut teenager charged with illegally entering Sabah was granted bail by the Sessions Court here today after successfully presenting a document proving he was born in Sabah.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORC1wS0ZEaGtPVGVwakNRYTVzWlVRY0N1alJ5c1JJSks5YnhnNXlYZURHYWVzVXpOYmhhaHlZOWVweGQ5Q0RJSG0zWVU2MFIxRXFhUVE1ZmdOTVAzWW1KTGZNRUoyY3BOZXFCdDNpZHRWNUFvdldwQWgxRlE0U3dyRUV4R1oyWWJSMzJpME9Oa21ieDhyeGszZXhHWFoxU0Z1cUFQQ2FEcld4ZUJLZ2hLNkpncTZIc1lh0gG-AUFVX3lxTE5rVk55eWdYc2JqYUU3NElwbzBQQVFxQTM0QzkxWWx2NElLblZEMENjM1VYSGgyNnhIblo3cUxySWZXay1LNW9FVlNlbnFlSlYxeHo1MEVOMXhWXzNiZGlRcmI5Mk9IRzNrc01OakUyTFoxU2VESVJOdmtGRDF3LUluWjBfT1p1dXBRekhWWEpqOWhnTXEwMVNNVGRQMW1xMDhhU05fQmNwZXIyU0pLQUZBUHZweGJDdUNjdVJIbEE?oc=5",
@@ -3586,6 +3610,34 @@
    "summary_ja2": "ラハダトゥ：2026年4月3日 - 本日、地元雇用主2名が、管理下の敷地内に不法移民（PATI）を匿った罪でラハダトゥセッションズ裁判所で起訴された。被告の1人である49歳の女性は、不法移民を敷地内に滞在させた罪で有罪を認めた。サバ州マレーシア入国管理局は声明で、同州における不法移民の活動と闘う取り組みと同様に、不法移民を保護するいかなる団体に対しても厳しい措置が取られ続けると主張した。",
    "summary_ja": "ラハダトゥ：2026年4月3日 – 本日、地元雇用主2名が不法移民保護の罪でラハダトゥセッションズ裁判所で起訴された",
    "impact": 1
+  },
+  {
+   "title": "23 struktur haram persembunyian Pendatang Asing Tanpa Izin (PATI) diroboh",
+   "summary": "KOTA KINABALU: 03 April 2026 – Sebanya 23 struktur haram di kawasan berbukit berhampiran Taman Bukit Sepanggar dan Kampung Bandulan diroboh dalam satu operasi",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlAyT2g5RW9Nc2NWaW15RFp5a0NGT2ZhMC1vTEZkTnNmZ3dEcWMwMndZajJoS01HOWVXOEpCUWt2Q0Fxa01aUDBLWWdkUGVSVnZvbW1nN1MzTEZkcmFGTVRERGxCclVUZHk2Vnl4OFhqSHBEM1Yyc3g3QnpCT01IOWdRdWdGUkRFYnFOWlVSQ3JmY3FTaTZYMVdSVUk?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-04-03T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "8d83f63c808f",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "不法移民（PATI）を隠す違法建造物23棟が取り壊された",
+   "summary_ja": "コタキナバル：2026年4月3日 – タマン・ブキット・セパンガルとカンプン・バンドゥラン近郊の丘陵地帯にある合計23の違法建造物が一度の作戦で取り壊された",
+   "first_seen": "2026-08-28T22:37:57Z",
+   "impact": 0,
+   "url_real": "https://tvsabahnews.com/23-struktur-haram-persembunyian-pendatang-asing-tanpa-izin-pati-diroboh/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/04/IMG_2411.jpeg",
+   "image_alt": "23 struktur haram persembunyian Pendatang Asing Tanpa Izin (PATI) diroboh",
+   "site_name": "TV Sabah | News Portals",
+   "body": "KOTA KINABALU: 03 April 2026 – Sebanya 23 struktur haram di kawasan berbukit berhampiran Taman Bukit Sepanggar dan Kampung Bandulan diroboh dalam satu operasi bersepadu, 1 Februari lalu.\n\nStruktur sementara yang dibina menggunakan kanvas dan batang kayu itu dipercayai dijadikan tempat persembunyian bagi mengelak operasi penguatkuasaan terhadap Pendatang Asing Tanpa Izin (PATI).\n\nPemeriksaan di lokasi turut mendapati kawasan berkenaan tidak mempunyai bekalan air dan elektrik, selain berada dalam keadaan tidak terurus serta berisiko dari segi keselamatan dan kebersihan.\n\nDalam operasi sama, pihak polis menahan seorang lelaki dewasa untuk siasatan lanjut selepas pemeriksaan dokumen dijalankan di lokasi.\n\nOperasi yang bermula jam 1.45 petang itu berakhir sekitar jam 6 petang dalam keadaan terkawal tanpa sebarang kejadian tidak diingini.\n\nOperasi bersepadu itu melibatkan anggota penguat kuasa Dewan Bandaraya Kota Kinabalu (DBKK) bersama Polis Diraja Malaysia (PDRM), termasuk dari Balai Manggatal dan Ibu Pejabat Polis Kontinjen (IPK).\n\nDBKK dalam kenyataan memaklumkan akan terus mempergiat tindakan penguatkuasaan untuk memastikan kawasan bandaraya bebas daripada penempatan haram, di samping memelihara keselamatan, kesejahteraan awam dan kelestarian persekitaran selaras dengan aspirasi Bandaraya Pintar dan Lestari.",
+   "body_ja": "コタキナバル：2026年4月3日 – タマン・ブキット・セパンガルとカンプン・バンドゥラン近郊の丘陵地帯にある合計23の違法建造物が、昨年2月1日に連携した作戦により取り壊された。\n\nキャンバスと棒を使って建てられた仮設構造物は、不法移民（PATI）に対する強制執行を避けるための隠れ場所として使用されていると考えられている。\n\n現地調査の結果、この地域は水道や電気が供給されておらず、管理が行き届いていない状態で安全衛生上危険な状態であることも判明した。\n\n同じ作戦で、警察は現場で書類検査を行った後、さらなる捜査のため成人男性を拘束した。\n\n午後１時４５分に始まった作戦は、何事もなく制御のもと午後６時頃に終了した。\n\nこの統合作戦には、コタキナバル市役所（DBKK）の執行官と、マンガタル署や派遣警察本部（IPK）を含む王立マレーシア警察（PDRM）が参加した。\n\nDBKKは声明で、スマートで持続可能な都市の目標に沿って、安全性、公共の福祉、環境の持続可能性を維持しながら、都市エリアに不法居住者がいないことを保証するための取り締まりを強化し続けると発表した。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPD5Hq9_KD6d8TxlycvhmRxdS38SpeKRwmREaFgPK8-7Eem7wW99IHuk4FnZWIN1unEzQ&fopt=w690-h401-rw-dcibKEpcED",
+   "summary_ja2": "コタキナバル：2026年4月3日 – タマン・ブキット・セパンガルとカンプン・バンドゥラン近郊の丘陵地帯にある合計23の違法建造物が、昨年2月1日に連携した作戦により取り壊された。午後１時４５分に始まった作戦は、何事もなく制御のもと午後６時頃に終了した。"
   },
   {
    "title": "Undocumented teen pleads not guilty to illegal stay in Sabah",
@@ -5170,6 +5222,34 @@
    "impact": 3
   },
   {
+   "title": "66 PATI Ditahan dalam Operasi Imigresen Sekitar Kota Kinabalu",
+   "summary": "KOTA KINABALU: 26 September 2025 – Jabatan Imigresen Malaysia (JIM) Sabah menahan seramai 66 pendatang asing tanpa izin (PATI) dalam siri operasi",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRW5SUGc0SkxfaktjVHJ2UDJNemd6aGREbGplM0otU05jb2VRVkZkZWd2TDJQRGRwUWFnalMtSmtRRUlIbmtZN1RIM255ZGVCQ1cxX3E0Nl8tREdjcmJvX1J0NXI1ei1QZjJQSlBCWEhWNnlPb2dFTkVMblRsQllZZVkxTFRIZVdYa1dMLVFJTQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2025-09-27T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "98e9a17a2103",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "66 PATI、コタキナバル周辺の入国管理で拘束",
+   "summary_ja": "コタキナバル：2025年9月26日 - マレーシア移民局（JIM）・サバ州は一連の作戦で合計66人の不法移民（PATI）を逮捕した。",
+   "first_seen": "2026-08-28T22:37:57Z",
+   "impact": 0,
+   "url_real": "https://tvsabahnews.com/66-pati-ditahan-dalam-operasi-imigresen-sekitar-kota-kinabalu/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2025/09/photo_2025-09-27_15-10-54.jpg",
+   "image_alt": "66 PATI Ditahan dalam Operasi Imigresen Sekitar Kota Kinabalu",
+   "site_name": "TV Sabah | News Portals",
+   "body": "KOTA KINABALU: 26 September 2025 – Jabatan Imigresen Malaysia (JIM) Sabah menahan seramai 66 pendatang asing tanpa izin (PATI) dalam siri operasi penguatkuasaan yang dijalankan di sekitar daerah Kota Kinabalu sejak 21 hingga 26 September lalu.\n\nOperasi yang melibatkan 28 pegawai Bahagian Penguatkuasaan JIM Kota Kinabalu itu dijalankan hasil risikan selama seminggu serta maklumat aduan awam di beberapa lokasi, termasuk Papar, Penampang, Manggatal, Inanam, Sepanggar dan Tuaran.\n\nDaripada 153 individu yang diperiksa, seramai 66 orang warga asing dari Pakistan, Filipina dan Indonesia ditahan kerana tidak memiliki dokumen perjalanan sah, tinggal lebih masa atau melanggar syarat pas.\n\nMereka kini ditahan di Depot Imigresen Papar untuk siasatan lanjut di bawah Seksyen 6(1)(c) dan Seksyen 15(1)(c) Akta Imigresen 1959/63 serta Peraturan 39(b) Peraturan-Peraturan Imigresen 1963.\n\nJIM Sabah menegaskan pihaknya tidak akan berkompromi dengan mana-mana individu yang melindungi atau menggaji PATI, sambil menyeru orang ramai terus menyalurkan maklumat mengenai kehadiran warga asing tanpa izin di kawasan masing-masing.\n\nSumber: Jabatan Imigresen Negeri Sabah",
+   "body_ja": "コタキナバル：2025年9月26日 - マレーシア入国管理局（JIM）サバ州は、9月21日から26日までコタキナバル地区周辺で実施された一連の取り締まり活動で、合計66人の不法移民（PATI）を逮捕した。\n\nコタキナバルJIM執行部の28人の警察官が参加したこの作戦は、パパール、ペナンパン、マンガタル、イナナム、セパンガル、トゥアランを含むいくつかの場所での1週間にわたる諜報活動と公的苦情情報の結果として実行された。\n\n検査を受けた153人のうち、パキスタン、フィリピン、インドネシアからの外国人計66人が、有効な渡航書類の所持、オーバーステイ、パスポート条件違反などの理由で拘束された。\n\n彼らは現在、1959/63 年移民法第 6 条(1)(c) および第 15 条(1)(c)、ならびに 1963 年移民規則規則 39(b) に基づくさらなる捜査のためペーパー入国管理局に拘留されている。\n\nジム・サバ州は、不法移民を保護したり雇用したりするいかなる個人とも妥協しないと主張する一方、それぞれの地域で許可なく外国人の存在に関する情報を流し続けるよう国民に呼びかけている。\n\n出典: サバ州入国管理局",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu9m91RaJE1kJQb3U-_0Rsq9wZGUPFrBdPuOGjD0_OMdDq3NfHtTTnzKQk9OKZYsURth0&fopt=w679-h407-rw-dcgWKQMTUI",
+   "summary_ja2": "コタキナバル：2025年9月26日 - マレーシア入国管理局（JIM）サバ州は、9月21日から26日までコタキナバル地区周辺で実施された一連の取り締まり活動で、合計66人の不法移民（PATI）を逮捕した。コタキナバルJIM執行部の28人の警察官が参加したこの作戦は、パパール、ペナンパン、マンガタル、イナナム、セパンガル、トゥアランを含むいくつかの場所での1週間にわたる諜報活動と公的苦情情報の結果として実行された。"
+  },
+  {
    "title": "43 PATI China Ditahan Dalam Operasi Imigresen Ranau",
    "summary": "RANAU: Jabatan Imigresen Malaysia (JIM) Sabah berjaya menahan seramai 43 pendatang asing tanpa izin (PATI) warganegara China dalam operasi penguatkuasaan yang dijalankan di sekitar Ranau. Menurut kenyataan rasmi dilaman facebook, dalam dua operasi hasil risikan seminggu serta aduan awam, pemeriksaan ke atas 49 individu mendapati 43 lelaki dewasa tidak memiliki dokumen perjalanan sah atau pas...",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRU5wYmY5MXJYTXkwenp0TnZOZ3Bvb2hIdENNVlhZNTR2WlJ3dm9KMlhQa2xBNUJGZjBSSFBUcGVPTjdZTy0zeFMtSnZqaWtmd3JuOXBKSHF6THJUeUxNODJxcGUtemc4Ylc0ckg0M0ZkWlJlY2xmQnowZEJrOV82RXoyNEJfdw?oc=5",
@@ -5275,7 +5355,7 @@
    "title": "Isu kewarganegaraan kanak-kanak Sabah, keselamatan negara tetap diutamakan",
    "summary": "Kerajaan MADANI terus memberi perhatian khusus berhubung isu kewarganegaraan kanak-kanak yang berlaku di Sabah menerusi Mesyuarat Jawatankuasa Khas Status Kewarganegaraan",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUttUzRNNlhURHM1LWphTmxkNHVsS0FCLWUtZVUtNGQyY2tGb2hpN0RtdTZjTFNhRTEzNHFDd3A1d21fd0cyRkV3RC03eGdudncyYlJfSTZadUE3bUVaUHRSX2FTdTgyc2hzakZMdDJmOU9HVzBBNWJfdGE3eVNGOTVGeVM2TENKVjU3amZYR2lTRjdFWWRjWnExVW1vYXlJbW1XeXFrNlRCRVBLYVgzZEJn?oc=5",
-   "source": "Malaysia MADANI",
+   "source": "malaysiamadani.gov.my",
    "date": "2025-08-15T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5525,6 +5605,6 @@
    "impact": 1
   }
  ],
- "enriched_at": "2026-08-28T11:43:15Z",
- "thumbs_at": "2026-08-28T11:45:24Z"
+ "enriched_at": "2026-08-28T22:38:48Z",
+ "thumbs_at": "2026-08-28T22:40:58Z"
 }
