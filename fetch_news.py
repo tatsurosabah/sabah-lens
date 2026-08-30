@@ -211,6 +211,85 @@ ROUTINE_RE = re.compile(
     r"sweep|tangkap|cekup|serbuan|nabbed|round(?:ed)? up|kompaun)", re.I)
 
 
+# ---------------------------------------------------------------- 論点（イシュー）
+#
+# タグは記事の話題を大づかみに分けるものだが、政策を追うにはもう少し細かい単位が要る。
+# 「MyKAS はこの2年でどう動いたか」「送還の数は増えているのか」を時系列で見るための軸。
+
+ISSUE_RULES = [
+    ("身分証・在留資格", r"(mykas|imm13|imm 13|\bpss\b|kad pss|pss card|kad pengenalan|"
+                        r"mypr|surat akuan|temporary pass|pas sementara)"),
+    ("市民権の申請",     r"(permohonan (?:kewarganegaraan|warganegara)|citizenship application|"
+                        r"kewarganegaraan|naturalis|article 15a|perkara 15a|"
+                        r"project ic|projek ic|ops durian burok|\brci\b|"
+                        r"royal commission|suruhanjaya siasatan diraja)"),
+    ("出生登録",         r"(birth (?:certificate|registration)|sijil (?:kelahiran|lahir)|"
+                        r"pendaftaran kelahiran|jabatan pendaftaran negara|\bjpn\b|late registration)"),
+    ("摘発・収容・送還", r"(operasi|serbuan|\braid\b|ditahan|tahanan|depot|detention|"
+                        r"deport|dihantar pulang|repatriat|imigresen|immigration enforcement)"),
+    ("教育アクセス",     r"(alternative learning|pusat pembelajaran|learning cent|sekolah|school|"
+                        r"education|pendidikan|humana|borneo child aid)"),
+    ("医療アクセス",     r"(hospital|klinik|clinic|health|kesihatan|perubatan|vaksin|vaccine|"
+                        r"malnutri|maternal)"),
+    ("難民・UNHCR",      r"(unhcr|refugee|pelarian|asylum|suaka|rohingya|refugee card)"),
+    ("バジャウ・ラウト", r"(bajau laut|sea nomad|sea gypsy|pala'u|palauh|orang laut)"),
+    # "job"/"pekerjaan" だけだと摘発記事にも普通に出るので、雇用関係の語に絞る
+    ("労働・雇用",       r"(majikan|employer|pekerja asing|foreign worker|migrant worker|"
+                        r"permit kerja|work permit|buruh|labour force|gaji|wage|salary|"
+                        r"upah|recruit|penggajian|tenaga kerja)"),
+]
+ISSUE_RULES = [(n, re.compile(p, re.I)) for n, p in ISSUE_RULES]
+
+
+def issues_of(text):
+    return [n for n, rx in ISSUE_RULES if rx.search(text)]
+
+
+# 記事に出てくる「数」を拾う。送還数や申請の滞留数は、記事単体ではなく
+# 推移で見て初めて意味が出る。文脈語で種類を分ける。
+FIGURE_RE = re.compile(
+    r"([\d][\d,\.]{1,12})\s*"
+    r"(?:orang\s+)?"
+    r"(pati|pendatang|warga asing|foreigner|illegal immigrant|undocumented|migrant|"
+    r"individu|individual|people|person|kanak-kanak|children|child|"
+    r"permohonan|application|kes|case|pelajar|student|murid)",
+    re.I)
+
+FIGURE_KIND = [
+    ("送還",   r"(dihantar pulang|deport|repatriat|sent home|pulang ke negara)"),
+    ("拘束",   r"(ditahan|tahanan|detain|arrest|cekup|nabbed)"),
+    ("申請",   r"(permohonan|application|memohon|apply|pending|dalam proses)"),
+    ("在籍",   r"(sekolah|school|belajar|student|murid|enrol)"),
+    ("推計",   r"(dianggarkan|estimated|anggaran|sekitar|about|approximately|dijangka)"),
+]
+FIGURE_KIND = [(n, re.compile(p, re.I)) for n, p in FIGURE_KIND]
+
+
+def figures_of(text):
+    """[{n, kind, raw}] を返す。桁が不自然なものは捨てる"""
+    out, seen = [], set()
+    for m in FIGURE_RE.finditer(text or ""):
+        raw = m.group(0).strip()
+        try:
+            n = int(re.sub(r"[^\d]", "", m.group(1)))
+        except ValueError:
+            continue
+        if n < 5 or n > 5_000_000:
+            continue
+        # 数の前後を見て種類を決める
+        lo, hi = max(0, m.start() - 90), min(len(text), m.end() + 90)
+        ctx = text[lo:hi]
+        kind = next((k for k, rx in FIGURE_KIND if rx.search(ctx)), "")
+        if not kind:
+            continue
+        key = (n, kind)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append({"n": n, "kind": kind, "raw": raw[:40]})
+    return out[:6]
+
+
 # これらのどれかに当たって初めて「制度の話」とみなす。
 # 当局者のコメントや「報告」といった語は摘発報道にも普通に出てくるので、
 # それだけで重要扱いすると定型記事が紛れ込む（実際に紛れ込んだので締めた）。
@@ -624,9 +703,13 @@ def translate_missing(cfg):
         if n % saved_every == 0:
             _write(payload)
 
-    # 重要度は本文が入ってから確定するのでここで付け直す
+    # 重要度・論点・数字は本文が入ってから確定するのでここで付け直す
     for it in items:
         it["impact"] = impact_score(it)
+        blob = " ".join(filter(None, [it.get("title", ""), it.get("summary", ""),
+                                      (it.get("body") or "")[:4000]]))
+        it["issues"] = issues_of(blob)
+        it["figures"] = figures_of(blob)
 
     # 要約は訳文から作り直す（外部APIを使わない抜き出し式）
     for it in items:
@@ -781,6 +864,10 @@ def main():
     kept = dedupe(kept)
     for it in kept:
         it["impact"] = impact_score(it)
+        blob = " ".join(filter(None, [it.get("title", ""), it.get("summary", ""),
+                                      (it.get("body") or "")[:4000]]))
+        it["issues"] = issues_of(blob)
+        it["figures"] = figures_of(blob)
 
     sources = {}
     tag_counts = {}
