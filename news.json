@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-31T14:18:59Z",
- "count": 225,
+ "updated": "2026-08-31T22:59:06Z",
+ "count": 226,
  "tags": {
-  "入管・摘発": 147,
+  "入管・摘発": 148,
   "市民権": 33,
   "無国籍": 32,
   "子ども": 22,
@@ -22,8 +22,8 @@
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
   "The Star": 11,
-  "Malay Mail": 8,
   "sabahnewstoday.net": 8,
+  "malaymail.com": 7,
   "Free Malaysia Today": 6,
   "Berita Harian": 6,
   "Saluran 122": 6,
@@ -35,18 +35,19 @@
   "Harian Metro": 3,
   "Portal Berita RTM": 3,
   "PressReader": 2,
+  "tvsabahnews.com": 2,
   "The Vibes": 2,
   "Nabalu News": 2,
   "Sayang Sabah": 2,
   "Malaysiakini": 2,
-  "Sabah Kini2": 2,
   "Malaysia-China Insight": 1,
   "Nikkei Asia": 1,
-  "tvsabahnews.com": 1,
   "Yahoo": 1,
   "Newswav": 1,
   "facebook.com": 1,
   "Migrant Times": 1,
+  "sabahkini2.org": 1,
+  "sabahkini2.com": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
@@ -56,6 +57,7 @@
   "Gempak": 1,
   "Utusan Malaysia": 1,
   "The Edge Malaysia": 1,
+  "Malay Mail": 1,
   "Malaysia MADANI": 1
  },
  "items": [
@@ -163,7 +165,7 @@
    "title": "Sabah Immigration repatriates 4,750 undocumented migrants so far this year",
    "summary": "TAWAU, Aug 21 — The Sabah Immigration Department has repatriated 4,750 illegal immigrants of various nationalities to their respective countries so far this year.In a statement...",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3ptZmhwWE9uMTNoQ1FKZkZ0LW9YTlhscmUtWUxzSEswZnloUHBrb3J4ZEU0NDJ1b05CR3hwek90N0tTbW1HQmQ3d3VVUHNBVkVvVVFYTjh1S192Tm9ObGhBN0J5UzdLLS1vU3RVcXZqT2VCR2hadmp1UHZxY1FxOEdjRWozOEtjTTFVWG5nUldHVVU1Z0Z0NUZNVElCUVNPSlItTWNmZ1o1dHVfNzFHTG9Vd3RGUTY3eDUyUTFfVEE0MjUyd2l3MEJ4RdIB0AFBVV95cUxPVEktSjQtN2xVNC13UEI0TkNGWHBNZUpiMzVkbTBjeG16TDV0VnpvbnFJVnpPVkxxcThrSzkzRXpDbjl1LXo2bVgxcW1mOVRkN255UHMzeUU2elAzako3WG4tRFgyc1NpSVoxNm15LXBfcWpkZE5tck1EVEQ1UjRNZ05EQlZQaElEVjZDM2lCaW8ySnZjcmlaV3ZiSkQ2aUh0SHgxZnEtMWNRS3RxV2NTYzdYd3YzanZDQTZsQnBlbk9iTFh4anZRT2tEZnpqb0tK?oc=5",
-   "source": "Malay Mail",
+   "source": "malaymail.com",
    "date": "2026-08-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -334,6 +336,31 @@
    "figures": []
   },
   {
+   "title": "Malaysia, Filipina bincang percepat hantar pulang 5,000 PATI di Sabah",
+   "summary": "Digital newsstand featuring 7000+ of the world’s most popular newspapers & magazines. Enjoy unlimited reading on up to 5 devices with 7-day free trial.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1J3c2YzOHdWNlhHSkhjTkhqWF9IY3BCZmZnQXZXQjdnQmowV0RfalF3bWhhcDJMUXZFcGxSODRpVUU5X3ZSYVltWkc0ZVhvdmlFY3h4UENrd0pnek9pelhrT0RWODYwUWgyM0VkZDRyT18wYU91UWJtaEt5RDFja0dvekxGVHlDWG1Rdg?oc=5",
+   "source": "PressReader",
+   "date": "2026-08-19T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "126ce03328ae",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "マレーシアとフィリピン、サバ州の国内避難民5,000人の本国送還の加速について協議",
+   "first_seen": "2026-08-31T05:56:52Z",
+   "url_real": "https://www.pressreader.com/malaysia/berita-harian-malaysia/20260819/281719801419828",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlg0LEfFRZzkokojjnDI6uTqh9rbbAuhVvotxZd7sLDOtOoTDk3LP4xwyVSlfqtVf4Dw",
+   "enriched": "thin",
+   "enriched_v": 3,
+   "summary_ja2": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。",
+   "summary_ja": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。 7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。",
+   "impact": 0,
+   "issues": [],
+   "figures": []
+  },
+  {
    "title": "Malaysia, Filipina bincang percepat penghantaran pulang PATI di Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV01UT2M0aWRiTi16ZGVZb1pGVGRqYWNTdE1HUWJ3dXNXVlh2bXJVYnJvM0d5ZVJDUDlrQjRNNS02U1pkNWZEcUJjZ0wzWnRiWVRpWnR1TXZoTlExVm9kbko3bEt0MUs3WHY2dDlDWmF0WTN4R182QmdSSHdxNHR4R1lmbHJhQ2FraGNKekJpOFJqbng2cDV1Ni1YWU9fc0NnS1BPcWcyaTc?oc=5",
@@ -363,35 +390,10 @@
    "figures": []
   },
   {
-   "title": "Malaysia, Filipina bincang percepat hantar pulang 5,000 PATI di Sabah",
-   "summary": "Digital newsstand featuring 7000+ of the world’s most popular newspapers & magazines. Enjoy unlimited reading on up to 5 devices with 7-day free trial.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1J3c2YzOHdWNlhHSkhjTkhqWF9IY3BCZmZnQXZXQjdnQmowV0RfalF3bWhhcDJMUXZFcGxSODRpVUU5X3ZSYVltWkc0ZVhvdmlFY3h4UENrd0pnek9pelhrT0RWODYwUWgyM0VkZDRyT18wYU91UWJtaEt5RDFja0dvekxGVHlDWG1Rdg?oc=5",
-   "source": "PressReader",
-   "date": "2026-08-18T21:50:57Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "126ce03328ae",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "マレーシアとフィリピン、サバ州の国内避難民5,000人の本国送還の加速について協議",
-   "summary_ja": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。 7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。",
-   "first_seen": "2026-08-31T05:56:52Z",
-   "impact": 0,
-   "issues": [],
-   "figures": [],
-   "url_real": "https://www.pressreader.com/malaysia/berita-harian-malaysia/20260819/281719801419828",
-   "enriched": "thin",
-   "enriched_v": 3,
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlg0LEfFRZzkokojjnDI6uTqh9rbbAuhVvotxZd7sLDOtOoTDk3LP4xwyVSlfqtVf4Dw",
-   "summary_ja2": "世界で最も人気のある 7,000 以上の新聞や雑誌を取り揃えたデジタル ニューススタンド。7 日間の無料トライアルでは、最大 5 台のデバイスで読み放題をお楽しみいただけます。"
-  },
-  {
    "title": "Malaysia, Philippines discuss swift repatriation of 5,000 undocumented migrants detained in Sabah depots",
    "summary": "MANILA, Aug 18 — Malaysia and the Philippines today discussed measures to expedite the repatriation of more than 5,000 undocumented Philippine migrants held at four immigration...",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEYwOU5oVUNLYXI1SE9TYy1wRlYxZTViQ2JlT1g3N3VCd2pUbFQ4aXFwSGcyQlJUa3FoU1RxOWNJRUwzOGd6ejZzSVpHbnM3cVk2Wnc2aUpEY3Npc0xBMzYtUDUyaGlWeWdQclF6TTBjWGduV0xYdlFsU3NldGtiaFNqaXBSd2tuS1k1MXRITk9GbTFQX0gwaDhzbl80a3JFWnY5b0lqSUJkcjlkY1BPR1FRWXlMQUpOZ3NGNFZHRVh3VU4zeTZFSjBTbEhubGhvSUJhZHdiVkMyeFRZaXQteDcwMjJJWmJHMEFvWU15dFREd9IB9wFBVV95cUxOWGlGUUVpaFptS3NMUS1femd3aDFzMWxhVDIzR3JPR01tdFFDdE5DZnp5M2FmNDZXTGZ1NTRwTjM0aUxrdUJqbWZkc0tBQzJGbkIxY2FZQ1pxRGhDLUNKdG9PUnlWOVpGTDdqLXdoY1RwWnhuT0dXcVVBQ24xeUtabnh0aTFNbFo2Qy1uRUFVMExfaEp4UDVuOU1kZ1R4dUxRZlhOZ1dxOVdvbUJEUXpTUVhoWEhuTFhQUnM2SWp3TTIzT01JZ1lVS3R0bXR5V2lCQXpEdWpiSUJfZ1Jqd1FxQjMxTFQxMlhLcnM4MkxOVFJ6QU8yOC1Z?oc=5",
-   "source": "Malay Mail",
+   "source": "malaymail.com",
    "date": "2026-08-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -1219,7 +1221,7 @@
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
-   "source": "Malay Mail",
+   "source": "malaymail.com",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2225,6 +2227,42 @@
    ]
   },
   {
+   "title": "44 Undocumented Immigrants Detained In Sandakan - TV Sabah",
+   "summary": "SANDAKAN: June 29, 2026 – A total of 44 undocumented immigrants from the Philippines were detained in an enforcement operation carried out by the Sabah state",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSDJoQXk2R2RJQXNlQ0xJcThjeWQzSVhSaVBFcTNVSFlZMlVjS3ROWHdyWjMzbkVFR0tpSGVOOXVaLWJUYmxFZ3JPSWlBQkI2eTRiLWZmTTNHczJyclRaX1FMeDYzYUpJTXFqVjc1cl9EUUp5QlFianhHMng?oc=5",
+   "source": "tvsabahnews.com",
+   "date": "2026-06-29T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "3dba569f1184",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サンダカンで不法移民44人拘束 - TV Sabah",
+   "summary_ja": "サンダカン：2026年6月29日 – サバ州による強制捜査でフィリピンからの不法移民計44人が拘束された",
+   "first_seen": "2026-08-31T22:59:04Z",
+   "impact": 0,
+   "issues": [],
+   "figures": [
+    {
+     "n": 44,
+     "kind": "拘束",
+     "raw": "44 Undocumented"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/44-undocumented-immigrants-detained-in-sandakan/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/06/photo_2026-06-29_16-07-42.jpg",
+   "image_alt": "44 undocumented immigrants detained in Sandakan",
+   "site_name": "TV Sabah | News Portals",
+   "body": "SANDAKAN: June 29, 2026 – A total of 44 undocumented immigrants from the Philippines were detained in an enforcement operation carried out by the Sabah state branch of the Malaysian Immigration Department through Ops Sapu in the Sandakan district on 27 June.\n\nAccording to the Immigration Department, checks revealed that the 44 foreign nationals were suspected of committing various offences under the Immigration Act 1959/63 and the Immigration Regulations 1963.\n\nOf those detained, 10 were adult males, 11 adult females, 11 male children and 12 female children – all of whom were Filipino citizens.\n\nPreliminary investigations found that all individuals failed to produce valid travel documents or passes to remain in the country.",
+   "body_ja": "サンダカン：2026年6月29日 – 6月27日にサンダカン地区のオプサプを通じてマレーシア入国管理局サバ州支局が実施した強制捜査で、フィリピンからの不法移民計44人が拘束された。\n\n入国管理局によると、検査の結果、44人の外国人が1959/63年移民法および1963年移民規則に基づく様々な犯罪を犯した疑いがあることが判明した。\n\n拘束された人のうち、成人男性10人、成人女性11人、男子児童11人、女子児童12人で、全員がフィリピン国民であった。\n\n予備調査では、全員が有効な渡航書類や国内に滞在するためのパスを提示していなかったことが判明した。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRoaEsbA_ayLTbIqwSSZUs_SNmjGQMKilZoyVarWkBIJ9DGwt5l_-rcxTvrPuDG5iNIw",
+   "summary_ja2": "サンダカン：2026年6月29日 – 6月27日にサンダカン地区のオプサプを通じてマレーシア入国管理局サバ州支局が実施した強制捜査で、フィリピンからの不法移民計44人が拘束された。拘束された人のうち、成人男性10人、成人女性11人、男子児童11人、女子児童12人で、全員がフィリピン国民であった。予備調査では、全員が有効な渡航書類や国内に滞在するためのパスを提示していなかったことが判明した。"
+  },
+  {
    "title": "91 PATI ditahan dalam operasi bersepadu di empat daerah",
    "summary": "Jabatan Imigresen Malaysia (JIM) Negeri Sabah menahan seramai 91 Pendatang Asing Tanpa Izin (PATI) dalam beberapa operasi penguatkuasaan yang dilaksanakan di Kota Kinabalu, Kudat, Tawau dan Ranau b…",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeE5OSDhnY2dnM20tb2lIQk55cmJ3VlZXRnBLZHZMV0hvWWgzZHpnZ0xxdDBVWDB4X1NCbzhBbnIzSE1DbkVDWHllWk81a09WVFktNDJvMEpTS3prQmJkQ1JiSGlYR1NMUWstZ0JPNlNET0REV25wQU4wektSM0N4MmxZRnJxZFF5STF6WHc2SEtVRXpv?oc=5",
@@ -2321,7 +2359,7 @@
    "title": "JIM Sabah hantar pulang 351 PATI ke Indonesia, Filipina",
    "summary": "Menurut beliau, pada masa sama, seramai 138 warga Filipina dari Depot Imigresen Tawau dipindahkan melalui Pelabuhan Lahad Datu ke Pelabuhan Bongao, Tawi-Tawi menggunakan feri komersial.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjE2TGw5SmhxZDVyd1JsTkdjNVlRbUJZcHZHb05Zbk9YQmtNRGZvWktpd21ZbHdGVG9FRW8tWVFhdHk1UWhCS25mTnkyMXRBTUdFTGJLdjNwMmV0OFUzcFpGanpRUEFITU1NeVFNdlJ3MFlmZU16V1Zzd0VTZ05RSnotMjNvUkNIbjFFd1UyX1hwdms4cW4ya2Nvdw?oc=5",
-   "source": "Sabah Kini2",
+   "source": "sabahkini2.org",
    "date": "2026-06-26T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -2411,7 +2449,7 @@
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
    "summary": "TAWAU: Seramai 351 pendatang asing tanpa izin (PATI) warga Indonesia dan Filipina dihantar pulang ke negara asal menerusi Program Pemindahan Tahanan PATI Siri 7/2026, menjadikan keseluruhan 3,990 PATI sudah diusir dari Sabah setakat enam bulan tahun ini.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnBrY3J6MGdJS1RLS0dsbnJBYzhfenBFRFBBZE5aWG4yeU8zZlhLV3ZrUXJLdm5UREtNUXdranRQTmxKY3JlaDdSSzhuOW40RkdlemI1RXlxcm1NcjF2ZFkxQVlSd2NmLTZRbkFXRjZlX24wWFdxOHNERVJvOGEyM0V0V3pmV1E2OTdGaTFPcUlBeXNEdWFVZ1JOQVZfbUhJMjlCLThmZ1p5X0RZZ3c?oc=5",
    "source": "Berita Harian",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -2555,7 +2593,7 @@
    "title": "The 15-day deficit: How Sabah’s shorter birth registration window is fuelling a statelessness crisis",
    "summary": "KOTA KINABALU, June 30 — Advocates for Non-Discrimination and Access to Knowledge (Anak) Executive Director Anne Baltazar said unequal and complicated birth registration...",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMlZ3akxWSmVKX2xjTEY5R2NzblpNcUFSSmd1WXZ5SXYwTzZLWHQtY3hXay1HVi04ZjRMb19UWVQwMUpEVG1jaHNrRW1CcTJheDN0bnh2OEFOa3RhTy12VzQzSk1NUlh1V19sWm5ZZVZaTEVfNm91Y3d4akRZWE43YXFYRU1IV0ZBcFdRdTZhbEdibHJqWjBoV1h1VFlkQ2laeXZ4TnZiUHJjbGt1OTMyY1E2VkVMVnZ2U3hPN0VvWWp1SU16Vl9pUDNYdWJpRTVHTmVNc1FDZ1hlSzAzNFNETkJ5OGVxQlhGZzVBUtIB8gFBVV95cUxPTEdPUG1SZEdwNUQ0dnJDWTVfQXR3Mnl4eXBBRS16aXBUUW5uMHFfZGdWd1dXSmZqRmo3SFVoTjh6TTM1RUtrdHNEQUFHeF9QQkZITXRTa1dxRkc3d1BTR3l5SUZhZUFUbUxmUUpJTkhfeFFsNWk4WGdRSXhROHlWa1lkRWM1SnJrVnJvNFlsc2Y5MEJCMXZSRXduM1JwR1VaYk1sTHIyWEU3Zm5Sb3k4aEswQzd3QTAyU1FlQW5VWmJHWkhGWFJNbFR1V1g0LXBFWHhIb3BIeTFSaVFnbzFYMVN4M2I4dFJGMFZOWVh0T1h3Zw?oc=5",
-   "source": "Malay Mail",
+   "source": "malaymail.com",
    "date": "2026-06-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -3187,7 +3225,7 @@
    "title": "Sabah study shows stateless children excluded from healthcare, schooling and social protection systems",
    "summary": "KOTA KINABALU — Children in Sabah without citizenship documents or recognised nationality are falling behind across every major area of wellbeing, according to a new...",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaDA1aHNlNWtEb1htVlo2U3QtVTNTS2t3NTh4YTBBSDhKRGVuRG94NW1FbjBiUHZGUTdsVDFraW9TSmpsWHlET3UwRTZRZG5GMjJIYzQ1Ri1ZekpJaXVmNE85WFQzcTRzdDlseHZLb3luRC1kbHl0WGVEdnkzSHdhXzhUNUxjcUFTNFhYdUljSGZCemFZY0lFTlphbjRZY0lPQWdCdm05RjFacGxsT0RkSkwtMnJGWmVKczNETkVhT1ZiaE1ndGRzV2lZWEhrR3RRYjlOSDlMVU1wc2lHZkNFc0l4TjhDamRSLTEtQ2cyZVfSAfYBQVVfeXFMTnVJMko3TU5ZV2RTTXZTNTZuOEZENW9pWEFuRm1CR3N6a0cydGMtMnBwYVlSb0x6TzZLSFg5ZmNLaEVIa2VMS3ZVaDdOWXc0cnZCYnh0UFBsY3VReUswN1NBbWRDZU1SaWlPTGRETEVoaFNFcXpZX0ZGbDM1bjFEQV9zMzNCa3QzYTd1T05lQ1JGSzZNTDY1NGd1R3lmR1l1N3NHZDBOOWtJWFFuZHdlQ21Rdm1FVm5FWXVqSkxDUVFqZnZWV0tHOFAwbUlZQXJKanhOb090LVprZ2tBNFFQdHRaMDVXV2dLcW9DVlhISGNLTU9qZ3Jn?oc=5",
-   "source": "Malay Mail",
+   "source": "malaymail.com",
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -4190,7 +4228,7 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "KUALA LUMPUR: Kerajaan digesa melonggarkan syarat permohonan Kad Pengenalan Pemastautin Sementara atau MyKas bagi membolehkan golongan ‘stateless’ (tanpa negara) terutama di Sabah mendapat dokumen pengenalan diri atas dasar kemanusiaan.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW_SAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3c?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
@@ -5214,7 +5252,7 @@
    "title": "NIKO tiada IC: Imigresen Sabah digesa serbu Sekolah Alternatif digerakkan Mukmin Nantang jadi pelindung PTI di Sabah",
    "summary": "Sebelum ini Mukmin Nantang bersama Borneo Komrad dan Sekolah Alternatif membawa 9 budak tiada dokumen menyamar mahasiswa UMS untuk berdemo. Kali ini budak bernama NIKO pula.  Imigresen Sabah perlu bertindak tegas serbu Sekolah Alternatif  'menternak' PTI",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaDRaUXh2Nkpic3FQNWhGbFdSWW1OSU1ncTkwbG5uUTY1eXVva0wwR1k0dU80U0gza1lnbHZ4SDFPd1c2cjJfN0VhbE9YeHNiZnpLbjlHY0ZKekdSUk9QUzhvR1Nqd0xOWGYzMmFaMFlPR0J5YUY4d3JDY0JhX3B1MWV6NG9pNHUwUVl6amhQRkYyTWhLUnk3ZzVFQndfTk5wMXNUM1NhdTlHUlFLYXdvaUtNVjBJMXpBb2FXc3VaczlhaVNkWjUzMmJaOGRtM1hnWVpGVmZzMWNKdnFWTldBQUdZbnJOdnJuS1d6UQ?oc=5",
-   "source": "Sabah Kini2",
+   "source": "sabahkini2.com",
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5710,8 +5748,18 @@
     "入管・摘発"
    ],
    "title_ja": "14人のPATIが麻薬を含む様々な犯罪で逮捕された",
-   "summary_ja": "サンダカン：2026年2月7日 - 合計14人の不法移民（PATI）が、調整された統合治安作戦で無事拘束された。",
    "first_seen": "2026-08-31T05:56:52Z",
+   "url_real": "https://tvsabahnews.com/14-pati-ditahan-atas-pelbagai-kesalahan-termasuk-dadah/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/02/Untitled-design_20260207_195806_0000.png",
+   "image_alt": "14 PATI ditahan atas pelbagai kesalahan termasuk dadah",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WCxInoUv6oxRopytGIWOaz1fxxJQpKH2dr3bdTYYhxFhbujeZpCPyYT-TC4oxpJMjV_-aU5hOlUR_Q",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "SANDAKAN: 7 Februari 2026 – Seramai 14 orang pendatang asing tanpa izin (PATI) berjaya ditahan dalam operasi keselamatan bersepadu yang dikoordinasikan oleh Eastern Sabah Security Command (ESSCOM) melibatkan pelbagai kesalahan termasuk dadah pada 5 Februari lalu.\n\nDalam operasi itu, seramai 13 lelaki dan wanita dewasa diserahkan kepada Jabatan Imigresen Malaysia (JIM) Sandakan atas kesalahan di bawah Seksyen 15(1)(c) dan 6(1)(c) Akta Imigresen 1959/63. Seorang lagi lelaki ditahan oleh Bahagian Siasatan Jenayah Narkotik Daerah (BSJND), Ibu Pejabat Polis Daerah (IPD) Sandakan selepas didapati positif dadah jenis methamphetamine atau syabu, di bawah Akta Dadah Berbahaya 1952.\n\nOperasi yang melibatkan kerjasama Polis Diraja Malaysia (PDRM), Angkatan Tentera Malaysia (ATM), Agensi Penguatkuasaan Maritim Malaysia (APMM) serta pelbagai jabatan dan agensi persekutuan, negeri dan pihak berkuasa tempatan itu dijalankan di kawasan bandar, penempatan setinggan, pinggir bandar dan kampung yang dikenal pasti sebagai lokasi berisiko.\n\nSelain membanteras PATI, pasukan operasi turut menumpukan penguatkuasaan terhadap penyeludupan barang kawalan, bersubsidi dan tidak bercukai, dan, pemantauan laluan ketirisan berhampiran sempadan daratan dan perairan Sandakan yang sering dieksploitasi oleh kegiatan jenayah.\n\nESSCOM memaklumkan operasi itu bertujuan menjamin keselamatan dan ketenteraman awam di Zon Selamat Sabah Timur (ESS Zone), selain mengekang jenayah rentas sempadan, penyelewengan barangan kawalan serta penyusupan PATI.\n\nKejayaan operasi itu juga selari dengan pelaksanaan Operasi SANGGAH ESSCOM di bawah inisiatif Kerajaan MADANI bagi memperkasa kehadiran dan keberkesanan pasukan keselamatan di Sabah Timur.",
+   "body_ja": "サンダカン：2026年2月7日 - 2月5日、東部サバ州治安司令部（ESSCOM）が調整した麻薬を含むさまざまな犯罪に関わる総合治安作戦で、合計14人の不法移民（PATI）の逮捕に成功した。\n\nこの作戦では、1959/63年移民法第15条(1)(c)および第6条(1)(c)に基づく犯罪で、成人男女計13人がマレーシア入国管理局(JIM)サンダカンに引き渡された。別の男性は、1952 年の危険ドラッグ法に基づき、検査でメタンフェタミンまたはシャブの陽性反応を示した後、サンダカン地区警察本部 (IPD) の地区麻薬犯罪捜査課 (BSJND) によって逮捕されました。\n\n王立マレーシア警察（PDRM）、マレーシア国軍（ATM）、マレーシア海事執行局（APMM）のほか、連邦、州、地方自治体のさまざまな省庁の協力によるこの作戦は、危険な場所として特定された都市部、スラム街、郊外、村落で実施された。\n\n不法移民の取り締まりに加えて、作戦チームは規制対象、補助金対象、非課税の物品の密輸の取り締まり、しばしば犯罪行為に悪用される国境付近やサンダカン水域付近の漏洩経路の監視にも重点を置いた。\n\nESSCOMは、この作戦は国境を越えた犯罪、規制品の横領、PATIの侵入を抑制することに加えて、サバ州東部安全地帯（ESSゾーン）における公共の安全と秩序を確保することを目的としていると発表した。\n\nこの作戦の成功は、サバ州東部における治安部隊の存在と有効性を強化するためのマダニ政府の主導によるサンガ・エスコム作戦の実施とも一致している。",
+   "summary_ja2": "サンダカン：2026年2月7日 - 2月5日、東部サバ州治安司令部（ESSCOM）が調整した麻薬を含むさまざまな犯罪に関わる総合治安作戦で、合計14人の不法移民（PATI）の逮捕に成功した。この作戦では、1959/63年移民法第15条(1)(c)および第6条(1)(c)に基づく犯罪で、成人男女計13人がマレーシア入国管理局(JIM)サンダカンに引き渡された。",
+   "summary_ja": "サンダカン：2026年2月7日 - 合計14人の不法移民（PATI）が、調整された統合治安作戦で無事拘束された。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還"
@@ -5722,17 +5770,7 @@
      "kind": "拘束",
      "raw": "14 PATI"
     }
-   ],
-   "url_real": "https://tvsabahnews.com/14-pati-ditahan-atas-pelbagai-kesalahan-termasuk-dadah/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/02/Untitled-design_20260207_195806_0000.png",
-   "image_alt": "14 PATI ditahan atas pelbagai kesalahan termasuk dadah",
-   "site_name": "TV Sabah | News Portals",
-   "body": "SANDAKAN: 7 Februari 2026 – Seramai 14 orang pendatang asing tanpa izin (PATI) berjaya ditahan dalam operasi keselamatan bersepadu yang dikoordinasikan oleh Eastern Sabah Security Command (ESSCOM) melibatkan pelbagai kesalahan termasuk dadah pada 5 Februari lalu.\n\nDalam operasi itu, seramai 13 lelaki dan wanita dewasa diserahkan kepada Jabatan Imigresen Malaysia (JIM) Sandakan atas kesalahan di bawah Seksyen 15(1)(c) dan 6(1)(c) Akta Imigresen 1959/63. Seorang lagi lelaki ditahan oleh Bahagian Siasatan Jenayah Narkotik Daerah (BSJND), Ibu Pejabat Polis Daerah (IPD) Sandakan selepas didapati positif dadah jenis methamphetamine atau syabu, di bawah Akta Dadah Berbahaya 1952.\n\nOperasi yang melibatkan kerjasama Polis Diraja Malaysia (PDRM), Angkatan Tentera Malaysia (ATM), Agensi Penguatkuasaan Maritim Malaysia (APMM) serta pelbagai jabatan dan agensi persekutuan, negeri dan pihak berkuasa tempatan itu dijalankan di kawasan bandar, penempatan setinggan, pinggir bandar dan kampung yang dikenal pasti sebagai lokasi berisiko.\n\nSelain membanteras PATI, pasukan operasi turut menumpukan penguatkuasaan terhadap penyeludupan barang kawalan, bersubsidi dan tidak bercukai, dan, pemantauan laluan ketirisan berhampiran sempadan daratan dan perairan Sandakan yang sering dieksploitasi oleh kegiatan jenayah.\n\nESSCOM memaklumkan operasi itu bertujuan menjamin keselamatan dan ketenteraman awam di Zon Selamat Sabah Timur (ESS Zone), selain mengekang jenayah rentas sempadan, penyelewengan barangan kawalan serta penyusupan PATI.\n\nKejayaan operasi itu juga selari dengan pelaksanaan Operasi SANGGAH ESSCOM di bawah inisiatif Kerajaan MADANI bagi memperkasa kehadiran dan keberkesanan pasukan keselamatan di Sabah Timur.",
-   "body_ja": "サンダカン：2026年2月7日 - 2月5日、東部サバ州治安司令部（ESSCOM）が調整した麻薬を含むさまざまな犯罪に関わる総合治安作戦で、合計14人の不法移民（PATI）の逮捕に成功した。\n\nこの作戦では、1959/63年移民法第15条(1)(c)および第6条(1)(c)に基づく犯罪で、成人男女計13人がマレーシア入国管理局(JIM)サンダカンに引き渡された。別の男性は、1952 年の危険ドラッグ法に基づき、検査でメタンフェタミンまたはシャブの陽性反応を示した後、サンダカン地区警察本部 (IPD) の地区麻薬犯罪捜査課 (BSJND) によって逮捕されました。\n\n王立マレーシア警察（PDRM）、マレーシア国軍（ATM）、マレーシア海事執行局（APMM）のほか、連邦、州、地方自治体のさまざまな省庁の協力によるこの作戦は、危険な場所として特定された都市部、スラム街、郊外、村落で実施された。\n\n不法移民の取り締まりに加えて、作戦チームは規制対象、補助金対象、非課税の物品の密輸の取り締まり、しばしば犯罪行為に悪用される国境付近やサンダカン水域付近の漏洩経路の監視にも重点を置いた。\n\nESSCOMは、この作戦は国境を越えた犯罪、規制品の横領、PATIの侵入を抑制することに加えて、サバ州東部安全地帯（ESSゾーン）における公共の安全と秩序を確保することを目的としていると発表した。\n\nこの作戦の成功は、サバ州東部における治安部隊の存在と有効性を強化するためのマダニ政府の主導によるサンガ・エスコム作戦の実施とも一致している。",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WCxInoUv6oxRopytGIWOaz1fxxJQpKH2dr3bdTYYhxFhbujeZpCPyYT-TC4oxpJMjV_-aU5hOlUR_Q",
-   "summary_ja2": "サンダカン：2026年2月7日 - 2月5日、東部サバ州治安司令部（ESSCOM）が調整した麻薬を含むさまざまな犯罪に関わる総合治安作戦で、合計14人の不法移民（PATI）の逮捕に成功した。この作戦では、1959/63年移民法第15条(1)(c)および第6条(1)(c)に基づく犯罪で、成人男女計13人がマレーシア入国管理局(JIM)サンダカンに引き渡された。"
+   ]
   },
   {
    "title": "53 PTI Ditahan Dalam Ops Kutip dan Ops Sapu di Sekitar KK dan Tuaran",
@@ -6270,7 +6308,7 @@
    "title": "Registration, not citizenship, key to managing undocumented migrants in Sabah, says LDP",
    "summary": "KOTA KINABALU, Jan 5 — The Liberal Democratic Party said a structured registration system for illegal immigrants in Sabah that will not lead to citizenship needs to be...",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0xPbXJBRWxKdnVaSUYxT3QwUDFlakNjNnUxeTdEVXZERWowT1RDOGQ3SlJILXBrYk03aTBydENlZnhEbmJwVEtKSWNxMjlkT3pkeVhtN1Jidk9Gdi1EeEZ1T08ySjBYMzFWeUFPOW43R0VMUV9IU1NqMkFjdXZfdXkycFhjQkRhcHE3Y1IyME85U1VjeE80djJjOFF2MHNVWksxRno0UjU3MXdpX2c2dUZMX2N1RW12d0N0aDI0Y2RTUnkwbnJoUmVjSnJtVkpWMUdhbEZ3RGdvQdIB3wFBVV95cUxNVzlVc2s5b2ctdkNxal9vSThxTV81WF9UM1JKVlRaWjVNajNfeWFSUEdQUzM1S2JkRExEU0M4Z01vOHZ3WTdRY2taTEl4dmJDTlJvNlFwenR4cHhwbnFrbW52b3dnRVRRdHFJZ1JvYU1CeDRaV1M3SEg2bnZrdmUyeTJ3T1NIMUlJZTBjeXFGVzlHbzhDMVVyUkxyTVgxMkhPTDRjRkNmRm9XMXAxUU9sZHRGc3NBZTdBVjRxZlhwdUdxVGNLWHpEamluTERfOGRENkZfeU1OWDNveDBkZGVZ?oc=5",
-   "source": "Malay Mail",
+   "source": "malaymail.com",
    "date": "2026-01-05T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -6650,15 +6688,15 @@
     "無国籍"
    ],
    "title_ja": "修正案は何千人ものサバ州の無国籍者に利益をもたらすものでなければならない",
-   "summary_ja": "",
    "first_seen": "2026-08-31T05:56:52Z",
-   "impact": 3,
-   "issues": [],
-   "figures": [],
    "url_real": "https://www.dailyexpress.com.my/read/6379/amendments-must-benefit-thousands-sabah-stateless/",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jlWar4DgsaEXrYqh9R2-9OkuOxldAf1Pn8t0_UqILpI4y5PntCK1kXJk7K51sGKpXg",
    "enriched": "blocked",
    "enriched_v": 3,
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jlWar4DgsaEXrYqh9R2-9OkuOxldAf1Pn8t0_UqILpI4y5PntCK1kXJk7K51sGKpXg"
+   "summary_ja": "",
+   "impact": 3,
+   "issues": [],
+   "figures": []
   },
   {
    "title": "JIM Sabah Hantar Pulang 699 PTI Filipina Ke Negara Asal",
@@ -6768,7 +6806,7 @@
    "title": "Sabah children without documentation can apply for citizenship under joint Home Ministry-state panel, says Saifuddin Nasution",
    "summary": "TAWAU, Nov 20 — The Home Ministry has advised Sabah residents facing the problem of children without documentation due to irregular marriages of their parents to come forward to...",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeW9BTjZ6Tkw4ZkZqcGVpNVhtTUY1VHdFSzV5ckFMTmFKTjZ2a2xsZ21HWVFHbE1XVzdGSWNVdDRaZzdTdk1LXzNhREdHTi04QjBPZlM3bXRZUzd1UFUxVHh4a1Q4cDM5YV9RUmZYeXpkXzA4dHBVTnRuczlOQzczZnVIMWs0ODFoZjBiMWRnWno5OVR2Y0VyWk8wNXF2ekFDbXhTVnFYek5aU0NxRGl2LU5ZcmNOSmJPbWttem82Z0N5REN2UmhQSDdNV3pNTHFMUHl1S1Y4dEZqTC1XQl9XME5peG1TUVlJcTNoMHRpTjZDTFFLUlZHVVd2QndrV2hrMlJTQ25DYmlMcUppUVFv0gGUAkFVX3lxTE4wRlgzWWVWUmlpZ2VCUHprVGxVVmVtVjBXWmVtR2JIalJiX3dVOTRJU0l4NWRUay1Uc2xvZ1J0dm9jVHZMWjZ2YnFxSkdmU19LRW1HOGY1TEM2MUR3dVk5TGxBMTBKcUFBWUxaYnAydVhhOTdySXBWLUlHVkt0OE10VGhXaldpdUlQaWMzb0FqWGVpZHRNQXQxNl9oNFV6TEFQVUdSSHFqclpzTDJNbjNIalZIZkQ0UWVSNjEzTEZiRFM2Ti1PMnFwb0NWZ3p2ME1XVE0ySVA5OV9uc3FwZFNENXlJOHJWMUd5V1pKYzJLVXJTRXZWb2t0aDBrMUY3elZoUHphU3pkbzBCZk5aRkFFVG45SA?oc=5",
-   "source": "Malay Mail",
+   "source": "malaymail.com",
    "date": "2025-11-20T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -7002,8 +7040,18 @@
     "入管・摘発"
    ],
    "title_ja": "8 PATI、入国管理業務で拘束される",
-   "summary_ja": "TENOM: 2025 年 11 月 5 日 - マレーシア移民局 (JIM) サバ州は、不法移民 (PATI) の存在と戦う取り組みを継続しています。",
    "first_seen": "2026-08-31T05:56:52Z",
+   "url_real": "https://tvsabahnews.com/8-pati-ditahan-dalam-operasi-imigresen/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2025/11/photo_2025-11-07_10-21-20.jpg",
+   "image_alt": "8 PATI Ditahan Dalam Operasi Imigresen",
+   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRPH4DK0rLEAr0YtNdiZ3lbMufIU8JOwHo8ZBzhYP5p7ziSv_2YpSZXbSLrR9JYMKkg",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "TENOM: 5 November 2025 – Jabatan Imigresen Malaysia (JIM) Sabah meneruskan komitmennya membanteras kehadiran pendatang asing tanpa izin (PATI) melalui beberapa siri operasi penguatkuasaan di daerah Tenom dan Keningau.\n\nOperasi yang dijalankan antara 4 hingga 5 November itu melibatkan 18 pegawai dari Pejabat Imigresen Tenom dan Keningau.\n\nSebanyak 65 individu diperiksa, dan hasilnya lapan orang PATI warganegara Filipina dan Indonesia ditahan selepas didapati tidak memiliki dokumen perjalanan atau pas yang sah.\n\nMenurut JIM Sabah, operasi berkenaan merangkumi beberapa tindakan seperti Ops Kutip, Ops Minyak dan Ops Belanja, yang dijalankan bagi memastikan tiada pelanggaran di bawah Akta Imigresen 1959/63.\n\nSemua individu yang ditahan disiasat di bawah Seksyen 6(1)(c) akta berkenaan.\n\nJIM Sabah menegaskan pihaknya tidak akan berkompromi terhadap mana-mana individu atau majikan yang melindungi serta menggaji PATI.\n\nJabatan itu turut menyeru masyarakat agar menyalurkan maklumat berkaitan kehadiran warga asing tanpa izin di kawasan masing-masing bagi membantu usaha mengekalkan keselamatan dan ketenteraman awam.\n\nSumber: Jabatan Imigresen Negeri Sabah",
+   "body_ja": "テノム: 2025 年 11 月 5 日 – マレーシア移民局 (JIM) サバ州は、テノム地区とケニンガウ地区での一連の取り締まり活動を通じて、不法移民 (PATI) の存在と闘う取り組みを続けています。\n\n11月4日から5日にかけて実施されたこの作戦には、テノム入国管理局とケニンガウ入国管理局の職員18名が参加した。\n\n合計65人が検査された結果、有効な渡航書類やパスポートを所持していないことが判明し、フィリピンとインドネシアからの不法移民8人が逮捕された。\n\nジム・サバ氏によると、この作戦にはオプス・クティプ、オプス・オイル、オプス・ショッピングなどのいくつかの措置が含まれており、これらは1959/63年の移民法に基づく違反がないことを保証するために実施される。\n\n拘留されたすべての個人は、関連法の第 6 条(1)(c) に基づいて調査されます。\n\nJIM Sabah は、PATI を保護し雇用する個人や雇用主に対して妥協はしないと主張しています。\n\n同省はまた、公共の安全と秩序を維持するために、それぞれの地域で外国人の存在に関する情報を許可なく伝えるよう国民に呼び掛けた。\n\n出典: サバ州入国管理局",
+   "summary_ja2": "テノム: 2025 年 11 月 5 日 – マレーシア移民局 (JIM) サバ州は、テノム地区とケニンガウ地区での一連の取り締まり活動を通じて、不法移民 (PATI) の存在と闘う取り組みを続けています。11月4日から5日にかけて実施されたこの作戦には、テノム入国管理局とケニンガウ入国管理局の職員18名が参加した。",
+   "summary_ja": "TENOM: 2025 年 11 月 5 日 - マレーシア移民局 (JIM) サバ州は、不法移民 (PATI) の存在と戦う取り組みを継続しています。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
@@ -7015,17 +7063,7 @@
      "kind": "拘束",
      "raw": "65 individu"
     }
-   ],
-   "url_real": "https://tvsabahnews.com/8-pati-ditahan-dalam-operasi-imigresen/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2025/11/photo_2025-11-07_10-21-20.jpg",
-   "image_alt": "8 PATI Ditahan Dalam Operasi Imigresen",
-   "site_name": "TV Sabah | News Portals",
-   "body": "TENOM: 5 November 2025 – Jabatan Imigresen Malaysia (JIM) Sabah meneruskan komitmennya membanteras kehadiran pendatang asing tanpa izin (PATI) melalui beberapa siri operasi penguatkuasaan di daerah Tenom dan Keningau.\n\nOperasi yang dijalankan antara 4 hingga 5 November itu melibatkan 18 pegawai dari Pejabat Imigresen Tenom dan Keningau.\n\nSebanyak 65 individu diperiksa, dan hasilnya lapan orang PATI warganegara Filipina dan Indonesia ditahan selepas didapati tidak memiliki dokumen perjalanan atau pas yang sah.\n\nMenurut JIM Sabah, operasi berkenaan merangkumi beberapa tindakan seperti Ops Kutip, Ops Minyak dan Ops Belanja, yang dijalankan bagi memastikan tiada pelanggaran di bawah Akta Imigresen 1959/63.\n\nSemua individu yang ditahan disiasat di bawah Seksyen 6(1)(c) akta berkenaan.\n\nJIM Sabah menegaskan pihaknya tidak akan berkompromi terhadap mana-mana individu atau majikan yang melindungi serta menggaji PATI.\n\nJabatan itu turut menyeru masyarakat agar menyalurkan maklumat berkaitan kehadiran warga asing tanpa izin di kawasan masing-masing bagi membantu usaha mengekalkan keselamatan dan ketenteraman awam.\n\nSumber: Jabatan Imigresen Negeri Sabah",
-   "body_ja": "テノム: 2025 年 11 月 5 日 – マレーシア移民局 (JIM) サバ州は、テノム地区とケニンガウ地区での一連の取り締まり活動を通じて、不法移民 (PATI) の存在と闘う取り組みを続けています。\n\n11月4日から5日にかけて実施されたこの作戦には、テノム入国管理局とケニンガウ入国管理局の職員18名が参加した。\n\n合計65人が検査された結果、有効な渡航書類やパスポートを所持していないことが判明し、フィリピンとインドネシアからの不法移民8人が逮捕された。\n\nジム・サバ氏によると、この作戦にはオプス・クティプ、オプス・オイル、オプス・ショッピングなどのいくつかの措置が含まれており、これらは1959/63年の移民法に基づく違反がないことを保証するために実施される。\n\n拘留されたすべての個人は、関連法の第 6 条(1)(c) に基づいて調査されます。\n\nJIM Sabah は、PATI を保護し雇用する個人や雇用主に対して妥協はしないと主張しています。\n\n同省はまた、公共の安全と秩序を維持するために、それぞれの地域で外国人の存在に関する情報を許可なく伝えるよう国民に呼び掛けた。\n\n出典: サバ州入国管理局",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRPH4DK0rLEAr0YtNdiZ3lbMufIU8JOwHo8ZBzhYP5p7ziSv_2YpSZXbSLrR9JYMKkg",
-   "summary_ja2": "テノム: 2025 年 11 月 5 日 – マレーシア移民局 (JIM) サバ州は、テノム地区とケニンガウ地区での一連の取り締まり活動を通じて、不法移民 (PATI) の存在と闘う取り組みを続けています。11月4日から5日にかけて実施されたこの作戦には、テノム入国管理局とケニンガウ入国管理局の職員18名が参加した。"
+   ]
   },
   {
    "title": "Young Voices: The lottery of birth: Sabah’s stateless youth",
@@ -7099,8 +7137,18 @@
     "入管・摘発"
    ],
    "title_ja": "シリーズ18市民権移転プログラムを通じて616人のフィリピン人が帰国",
-   "summary_ja": "サンダカン：2025年10月23日 - サバ州マレーシア移民局（JIM）は、不法外国移民の拘留移管プログラム（PATI）シリーズ18を実施する。",
    "first_seen": "2026-08-31T05:56:52Z",
+   "url_real": "https://tvsabahnews.com/616-warga-filipina-dihantar-pulang-melalui-program-pemindahan-pati-siri-18/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2025/10/photo_2025-10-24_16-29-57.jpg",
+   "image_alt": "616 Warga Filipina Dihantar Pulang Melalui Program Pemindahan PATI Siri 18",
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZvRlA7vpOhpHe-iSX3BgHH1v8u5KIA9erKNTh2UsJbqVpdM_hBpFnIjMLSQVH_l_dKt7yeWwClE8-sw",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "SANDAKAN: 23 Oktober 2025 – Jabatan Imigresen Malaysia (JIM) Negeri Sabah melaksanakan Program Pemindahan Tahanan Pendatang Asing Tanpa Izin (PATI) Siri 18 bagi tahun ini dengan memindahkan seramai 616 warga Filipina ke negara asal melalui pelabuhan Sandakan ke Pelabuhan Zamboanga City, Filipina.\n\nPemindahan itu melibatkan tahanan daripada empat depot iaitu Depot Imigresen Kota Kinabalu, Papar, Sandakan dan Tawau.\n\nDaripada jumlah tersebut, 377 lelaki, 134 wanita, 85 kanak-kanak berumur dua hingga 12 tahun, serta 20 kanak-kanak berumur bawah dua tahun dihantar pulang menggunakan kapal MV Antonia 1.\n\nMenurut kenyataan JIM Sabah, purata umur tahanan yang terlibat adalah antara satu bulan hingga 71 tahun. Kanak-kanak dihantar pulang bersama ibu bapa atau penjaga masing-masing.\n\nSehingga kini, seramai 8,956 warga asing telah dipindahkan ke negara asal masing-masing melalui pengangkutan laut dan udara bagi tahun 2025.\n\nJumlah itu merangkumi 6,835 warga Filipina, 1,751 warga Indonesia, 221 warga Pakistan, 78 warga China, 34 warga Vietnam, 10 warga India, tiga warga Thailanddan 24 warga lain-lain negara.\n\nJIM Sabah memaklumkan bahawa semua tahanan telah menjalani hukuman mengikut undang-undang dan memiliki Travel Document (TD) sah sebelum proses pemindahan dilaksanakan.\n\nProses penghantaran bergantung kepada tindakan segera pihak kedutaan dalam mengeluarkan TD bagi mempercepatkan pemulangan tahanan.\n\nJIM Sabah menasihatkan majikan di negeri ini agar mengambil bahagian dalam program pendataan digital warga asing yang dilaksanakan kerajaan negeri bagi merekod kehadiran pekerja asing, terutama dalam sektor perladangan.\n\nLangkah ini dijangka membantu mengurangkan isu dokumentasi palsu serta lambakan PATI di Sabah.\n\nJIM Sabah turut menegaskan akan mengambil tindakan tegas tanpa kompromi terhadap mana-mana majikan yang melindungi pekerja asing tanpa dokumen sah.\n\nMajikan yang didapati bersalah boleh dikenakan denda sehingga RM50,000, hukuman penjara dan sebatan di bawah Akta Imigresen 1959/63.\n\nSumber: Jabatan Imigresen Malaysia Negeri Sabah",
+   "body_ja": "サンダカン：2025年10月23日 - サバ州マレーシア入国管理局（JIM）は、今年のシリーズ18被拘禁者移送プログラムを実施し、サンダカン港を経由してフィリピンのサンボアンガ市港まで合計616人のフィリピン人を母国へ移送した。\n\nこの移送には、コタキナバル、パパール、サンダカン、タワウ入国管理所の4つの入国管理所からの被拘禁者が関与していた。\n\nこのうち、男性 377 人、女性 134 人、2 歳から 12 歳までの子供 85 人、および 2 歳未満の子供 20 人が、MV アントニア 1 号を使用して帰国しました。\n\nサバ州 JIM の声明によると、関与した拘留者の平均年齢は生後 1 か月から 71 歳の間である。子どもたちは両親または保護者と一緒に帰宅させられます。\n\nこれまでに、2025 年に向けて合計 8,956 人の外国人が海上輸送と航空輸送を通じてそれぞれの出身国に移送されています。\n\nその数には、フィリピン人6,835人、インドネシア人1,751人、パキスタン人221人、中国人78人、ベトナム人34人、インド人10人、タイ人3人、その他の国民24人が含まれている。\n\nジム・サバ氏は、すべての被拘禁者が法律に従って刑期を終えており、移送手続きが行われる前に有効な渡航書類（TD）を所持していると伝えた。\n\n引き渡しプロセスは、拘束者の帰国を早めるためにTDを発行する大使館の即時行動に依存します。\n\nジム・サバ氏は、州内の雇用主に対し、特にプランテーション分野での外国人労働者の存在を記録するために州政府が実施する外国人向けデジタルデータ収集プログラムに参加するようアドバイスしている。\n\nこの措置は、サバ州における虚偽の書類や不法投棄の問題を減らすのに役立つと期待されている。\n\nジム・サバ州はまた、有効な書類を持たずに外国人労働者を保護するいかなる雇用主に対しても、妥協することなく断固たる措置を講じると主張した。\n\n有罪と判断された雇用主は、1959/63 年の移民法に基づき、最高 RM50,000 の罰金、懲役および鞭打ちが科される可能性があります。\n\n出典: サバ州マレーシア入国管理局",
+   "summary_ja2": "サンダカン：2025年10月23日 - サバ州マレーシア入国管理局（JIM）は、今年のシリーズ18被拘禁者移送プログラムを実施し、サンダカン港を経由してフィリピンのサンボアンガ市港まで合計616人のフィリピン人を母国へ移送した。この移送には、コタキナバル、パパール、サンダカン、タワウ入国管理所の4つの入国管理所からの被拘禁者が関与していた。",
+   "summary_ja": "サンダカン：2025年10月23日 - サバ州マレーシア移民局（JIM）は、不法外国移民の拘留移管プログラム（PATI）シリーズ18を実施する。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
@@ -7122,17 +7170,7 @@
      "kind": "送還",
      "raw": "8,956 warga asing"
     }
-   ],
-   "url_real": "https://tvsabahnews.com/616-warga-filipina-dihantar-pulang-melalui-program-pemindahan-pati-siri-18/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2025/10/photo_2025-10-24_16-29-57.jpg",
-   "image_alt": "616 Warga Filipina Dihantar Pulang Melalui Program Pemindahan PATI Siri 18",
-   "site_name": "TV Sabah | News Portals",
-   "body": "SANDAKAN: 23 Oktober 2025 – Jabatan Imigresen Malaysia (JIM) Negeri Sabah melaksanakan Program Pemindahan Tahanan Pendatang Asing Tanpa Izin (PATI) Siri 18 bagi tahun ini dengan memindahkan seramai 616 warga Filipina ke negara asal melalui pelabuhan Sandakan ke Pelabuhan Zamboanga City, Filipina.\n\nPemindahan itu melibatkan tahanan daripada empat depot iaitu Depot Imigresen Kota Kinabalu, Papar, Sandakan dan Tawau.\n\nDaripada jumlah tersebut, 377 lelaki, 134 wanita, 85 kanak-kanak berumur dua hingga 12 tahun, serta 20 kanak-kanak berumur bawah dua tahun dihantar pulang menggunakan kapal MV Antonia 1.\n\nMenurut kenyataan JIM Sabah, purata umur tahanan yang terlibat adalah antara satu bulan hingga 71 tahun. Kanak-kanak dihantar pulang bersama ibu bapa atau penjaga masing-masing.\n\nSehingga kini, seramai 8,956 warga asing telah dipindahkan ke negara asal masing-masing melalui pengangkutan laut dan udara bagi tahun 2025.\n\nJumlah itu merangkumi 6,835 warga Filipina, 1,751 warga Indonesia, 221 warga Pakistan, 78 warga China, 34 warga Vietnam, 10 warga India, tiga warga Thailanddan 24 warga lain-lain negara.\n\nJIM Sabah memaklumkan bahawa semua tahanan telah menjalani hukuman mengikut undang-undang dan memiliki Travel Document (TD) sah sebelum proses pemindahan dilaksanakan.\n\nProses penghantaran bergantung kepada tindakan segera pihak kedutaan dalam mengeluarkan TD bagi mempercepatkan pemulangan tahanan.\n\nJIM Sabah menasihatkan majikan di negeri ini agar mengambil bahagian dalam program pendataan digital warga asing yang dilaksanakan kerajaan negeri bagi merekod kehadiran pekerja asing, terutama dalam sektor perladangan.\n\nLangkah ini dijangka membantu mengurangkan isu dokumentasi palsu serta lambakan PATI di Sabah.\n\nJIM Sabah turut menegaskan akan mengambil tindakan tegas tanpa kompromi terhadap mana-mana majikan yang melindungi pekerja asing tanpa dokumen sah.\n\nMajikan yang didapati bersalah boleh dikenakan denda sehingga RM50,000, hukuman penjara dan sebatan di bawah Akta Imigresen 1959/63.\n\nSumber: Jabatan Imigresen Malaysia Negeri Sabah",
-   "body_ja": "サンダカン：2025年10月23日 - サバ州マレーシア入国管理局（JIM）は、今年のシリーズ18被拘禁者移送プログラムを実施し、サンダカン港を経由してフィリピンのサンボアンガ市港まで合計616人のフィリピン人を母国へ移送した。\n\nこの移送には、コタキナバル、パパール、サンダカン、タワウ入国管理所の4つの入国管理所からの被拘禁者が関与していた。\n\nこのうち、男性 377 人、女性 134 人、2 歳から 12 歳までの子供 85 人、および 2 歳未満の子供 20 人が、MV アントニア 1 号を使用して帰国しました。\n\nサバ州 JIM の声明によると、関与した拘留者の平均年齢は生後 1 か月から 71 歳の間である。子どもたちは両親または保護者と一緒に帰宅させられます。\n\nこれまでに、2025 年に向けて合計 8,956 人の外国人が海上輸送と航空輸送を通じてそれぞれの出身国に移送されています。\n\nその数には、フィリピン人6,835人、インドネシア人1,751人、パキスタン人221人、中国人78人、ベトナム人34人、インド人10人、タイ人3人、その他の国民24人が含まれている。\n\nジム・サバ氏は、すべての被拘禁者が法律に従って刑期を終えており、移送手続きが行われる前に有効な渡航書類（TD）を所持していると伝えた。\n\n引き渡しプロセスは、拘束者の帰国を早めるためにTDを発行する大使館の即時行動に依存します。\n\nジム・サバ氏は、州内の雇用主に対し、特にプランテーション分野での外国人労働者の存在を記録するために州政府が実施する外国人向けデジタルデータ収集プログラムに参加するようアドバイスしている。\n\nこの措置は、サバ州における虚偽の書類や不法投棄の問題を減らすのに役立つと期待されている。\n\nジム・サバ州はまた、有効な書類を持たずに外国人労働者を保護するいかなる雇用主に対しても、妥協することなく断固たる措置を講じると主張した。\n\n有罪と判断された雇用主は、1959/63 年の移民法に基づき、最高 RM50,000 の罰金、懲役および鞭打ちが科される可能性があります。\n\n出典: サバ州マレーシア入国管理局",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZvRlA7vpOhpHe-iSX3BgHH1v8u5KIA9erKNTh2UsJbqVpdM_hBpFnIjMLSQVH_l_dKt7yeWwClE8-sw",
-   "summary_ja2": "サンダカン：2025年10月23日 - サバ州マレーシア入国管理局（JIM）は、今年のシリーズ18被拘禁者移送プログラムを実施し、サンダカン港を経由してフィリピンのサンボアンガ市港まで合計616人のフィリピン人を母国へ移送した。この移送には、コタキナバル、パパール、サンダカン、タワウ入国管理所の4つの入国管理所からの被拘禁者が関与していた。"
+   ]
   },
   {
    "title": "255 PATI warga Indonesia di Sabah dihantar pulang",
@@ -7277,8 +7315,18 @@
     "入管・摘発"
    ],
    "title_ja": "コタキナバル国際空港経由の PATI 転送プログラム",
-   "summary_ja": "コタキナバル: 2025 年 10 月 10 日 – サバ州マレーシア移民局 (JIM) は、合計 93 シリーズの外国移民拘留移送プログラムを実施しました。",
    "first_seen": "2026-08-31T05:56:52Z",
+   "url_real": "https://tvsabahnews.com/program-pemindahan-pati-melalui-lapangan-terbang-antarabangsa-kota-kinabalu/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2025/10/photo_2025-10-10_14-36-30.jpg",
+   "image_alt": "Program Pemindahan PATI Melalui Lapangan Terbang Antarabangsa Kota Kinabalu",
+   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf14tRNe-M_wOO-l-KIFkTE0WWVEE5ugIO6P-DDYBRUOI0yt6NHz7Y5PSzzsmOFX1XP4&fopt=w466-h264-rw-dcmQKOrY0J",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: 10 Oktober 2025– Jabatan Imigresen Malaysia (JIM) Negeri Sabah melaksanakan sebanyak 93 siri Program Pemindahan Tahanan Pendatang Asing ke Negara Asal melalui Lapangan Terbang Antarabangsa Kota Kinabalu (KKIA).\n\nSeramai 393 pendatang asing tanpa izin (PATI) yang telah menjalani hukuman penjara dipindahkan pulang ke negara asal masing-masing selepas melengkapkan dokumen perjalanan dan urusan mahkamah.\n\nMenurut JIM Sabah, kesemua PATI yang terlibat disabitkan kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963, telah disenaraikan dalam sistem Jabatan Imigresen Malaysia mengikut jenis kesalahan yang dilakukan.\n\nDaripada jumlah itu, warganegara Pakistan mencatatkan angka tertinggi dengan 211 orang, diikuti China (68 orang), Filipina (44 orang), Vietnam (25 orang), Indonesia (15 orang), India (10 orang) dan lain-lain negara (10 orang).\n\nJIM Sabah turut mengingatkan semua pengembara yang memasuki negeri ini supaya melapor diri di kaunter ketibaan atau pelepasan untuk mendapatkan pengesahan imigresen.\n\nTindakan tegas akan diambil terhadap mana-mana individu yang gagal berbuat demikian, termasuk denda sehingga RM10,000 atau penjara tidak melebihi lima tahun, atau kedua-duanya sekali.\n\nJabatan itu juga menyeru kerjasama semua pihak termasuk syarikat penerbangan, agensi pelancongan dan kedutaan asing agar lebih proaktif mengingatkan pelancong supaya mematuhi peraturan imigresen yang sedang berkuat kuasa.",
+   "body_ja": "コタキナバル：2025年10月10日 – サバ州マレーシア入国管理局（JIM）は、コタキナバル国際空港（KKIA）を通じて出身国への外国移民の被拘禁者移送プログラムを計93回実施した。\n\n懲役刑を服役した合計393人の不法移民（PATI）が、渡航書類と裁判手続きを完了した後、それぞれの出身国に送還された。\n\nジム・サバ氏によると、関与したすべての不法滞在者は1959/63年の移民法と1963年の移民規則に基づく犯罪で有罪判決を受け、犯した犯罪の種類に応じてマレーシア入国管理局のシステムにリストされている。\n\nこのうちパキスタン国民が２１１人と最も多く、次いで中国（６８人）、フィリピン（４４人）、ベトナム（２５人）、インドネシア（１５人）、インド（１０人）、その他の国（１０人）となった。\n\nジム・サバ州はまた、同州に入国するすべての旅行者に対し、入国確認を取得するために到着カウンターまたは出発カウンターに報告するよう呼び掛けている。\n\nこれを怠った個人に対しては、RM10,000以下の罰金もしくは5年以下の懲役、あるいはその両方を含む厳しい措置が取られます。\n\n同省はまた、航空会社、旅行代理店、外国大使館を含むすべての関係者に対し、観光客に対し現在施行されている入国規制の順守をより積極的に喚起するよう協力を呼び掛けた。",
+   "summary_ja2": "コタキナバル：2025年10月10日 – サバ州マレーシア入国管理局（JIM）は、コタキナバル国際空港（KKIA）を通じて出身国への外国移民の被拘禁者移送プログラムを計93回実施した。ジム・サバ氏によると、関与したすべての不法滞在者は1959/63年の移民法と1963年の移民規則に基づく犯罪で有罪判決を受け、犯した犯罪の種類に応じてマレーシア入国管理局のシステムにリストされている。",
+   "summary_ja": "コタキナバル: 2025 年 10 月 10 日 – サバ州マレーシア移民局 (JIM) は、合計 93 シリーズの外国移民拘留移送プログラムを実施しました。",
    "impact": 3,
    "issues": [
     "摘発・収容・送還"
@@ -7289,17 +7337,7 @@
      "kind": "送還",
      "raw": "393 pendatang"
     }
-   ],
-   "url_real": "https://tvsabahnews.com/program-pemindahan-pati-melalui-lapangan-terbang-antarabangsa-kota-kinabalu/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2025/10/photo_2025-10-10_14-36-30.jpg",
-   "image_alt": "Program Pemindahan PATI Melalui Lapangan Terbang Antarabangsa Kota Kinabalu",
-   "site_name": "TV Sabah | News Portals",
-   "body": "KOTA KINABALU: 10 Oktober 2025– Jabatan Imigresen Malaysia (JIM) Negeri Sabah melaksanakan sebanyak 93 siri Program Pemindahan Tahanan Pendatang Asing ke Negara Asal melalui Lapangan Terbang Antarabangsa Kota Kinabalu (KKIA).\n\nSeramai 393 pendatang asing tanpa izin (PATI) yang telah menjalani hukuman penjara dipindahkan pulang ke negara asal masing-masing selepas melengkapkan dokumen perjalanan dan urusan mahkamah.\n\nMenurut JIM Sabah, kesemua PATI yang terlibat disabitkan kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963, telah disenaraikan dalam sistem Jabatan Imigresen Malaysia mengikut jenis kesalahan yang dilakukan.\n\nDaripada jumlah itu, warganegara Pakistan mencatatkan angka tertinggi dengan 211 orang, diikuti China (68 orang), Filipina (44 orang), Vietnam (25 orang), Indonesia (15 orang), India (10 orang) dan lain-lain negara (10 orang).\n\nJIM Sabah turut mengingatkan semua pengembara yang memasuki negeri ini supaya melapor diri di kaunter ketibaan atau pelepasan untuk mendapatkan pengesahan imigresen.\n\nTindakan tegas akan diambil terhadap mana-mana individu yang gagal berbuat demikian, termasuk denda sehingga RM10,000 atau penjara tidak melebihi lima tahun, atau kedua-duanya sekali.\n\nJabatan itu juga menyeru kerjasama semua pihak termasuk syarikat penerbangan, agensi pelancongan dan kedutaan asing agar lebih proaktif mengingatkan pelancong supaya mematuhi peraturan imigresen yang sedang berkuat kuasa.",
-   "body_ja": "コタキナバル：2025年10月10日 – サバ州マレーシア入国管理局（JIM）は、コタキナバル国際空港（KKIA）を通じて出身国への外国移民の被拘禁者移送プログラムを計93回実施した。\n\n懲役刑を服役した合計393人の不法移民（PATI）が、渡航書類と裁判手続きを完了した後、それぞれの出身国に送還された。\n\nジム・サバ氏によると、関与したすべての不法滞在者は1959/63年の移民法と1963年の移民規則に基づく犯罪で有罪判決を受け、犯した犯罪の種類に応じてマレーシア入国管理局のシステムにリストされている。\n\nこのうちパキスタン国民が２１１人と最も多く、次いで中国（６８人）、フィリピン（４４人）、ベトナム（２５人）、インドネシア（１５人）、インド（１０人）、その他の国（１０人）となった。\n\nジム・サバ州はまた、同州に入国するすべての旅行者に対し、入国確認を取得するために到着カウンターまたは出発カウンターに報告するよう呼び掛けている。\n\nこれを怠った個人に対しては、RM10,000以下の罰金もしくは5年以下の懲役、あるいはその両方を含む厳しい措置が取られます。\n\n同省はまた、航空会社、旅行代理店、外国大使館を含むすべての関係者に対し、観光客に対し現在施行されている入国規制の順守をより積極的に喚起するよう協力を呼び掛けた。",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf14tRNe-M_wOO-l-KIFkTE0WWVEE5ugIO6P-DDYBRUOI0yt6NHz7Y5PSzzsmOFX1XP4&fopt=w466-h264-rw-dcmQKOrY0J",
-   "summary_ja2": "コタキナバル：2025年10月10日 – サバ州マレーシア入国管理局（JIM）は、コタキナバル国際空港（KKIA）を通じて出身国への外国移民の被拘禁者移送プログラムを計93回実施した。ジム・サバ氏によると、関与したすべての不法滞在者は1959/63年の移民法と1963年の移民規則に基づく犯罪で有罪判決を受け、犯した犯罪の種類に応じてマレーシア入国管理局のシステムにリストされている。"
+   ]
   },
   {
    "title": "21 PATI ditahan dalam operasi JIM di Tawau",
@@ -7464,8 +7502,18 @@
     "入管・摘発"
    ],
    "title_ja": "66 PATI、コタキナバル周辺の入国管理で拘束",
-   "summary_ja": "コタキナバル：2025年9月26日 - マレーシア移民局（JIM）・サバ州は一連の作戦で合計66人の不法移民（PATI）を逮捕した。",
    "first_seen": "2026-08-31T05:56:52Z",
+   "url_real": "https://tvsabahnews.com/66-pati-ditahan-dalam-operasi-imigresen-sekitar-kota-kinabalu/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2025/09/photo_2025-09-27_15-10-54.jpg",
+   "image_alt": "66 PATI Ditahan dalam Operasi Imigresen Sekitar Kota Kinabalu",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAVFqMrECr_bWrWbZOKZxSQJwX33dlm9DU7bGcF_SMoeom06Iyd7kg31VyUmv6VqjNw6WLZFMd6tGxxw",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: 26 September 2025 – Jabatan Imigresen Malaysia (JIM) Sabah menahan seramai 66 pendatang asing tanpa izin (PATI) dalam siri operasi penguatkuasaan yang dijalankan di sekitar daerah Kota Kinabalu sejak 21 hingga 26 September lalu.\n\nOperasi yang melibatkan 28 pegawai Bahagian Penguatkuasaan JIM Kota Kinabalu itu dijalankan hasil risikan selama seminggu serta maklumat aduan awam di beberapa lokasi, termasuk Papar, Penampang, Manggatal, Inanam, Sepanggar dan Tuaran.\n\nDaripada 153 individu yang diperiksa, seramai 66 orang warga asing dari Pakistan, Filipina dan Indonesia ditahan kerana tidak memiliki dokumen perjalanan sah, tinggal lebih masa atau melanggar syarat pas.\n\nMereka kini ditahan di Depot Imigresen Papar untuk siasatan lanjut di bawah Seksyen 6(1)(c) dan Seksyen 15(1)(c) Akta Imigresen 1959/63 serta Peraturan 39(b) Peraturan-Peraturan Imigresen 1963.\n\nJIM Sabah menegaskan pihaknya tidak akan berkompromi dengan mana-mana individu yang melindungi atau menggaji PATI, sambil menyeru orang ramai terus menyalurkan maklumat mengenai kehadiran warga asing tanpa izin di kawasan masing-masing.\n\nSumber: Jabatan Imigresen Negeri Sabah",
+   "body_ja": "コタキナバル：2025年9月26日 - マレーシア入国管理局（JIM）サバ州は、9月21日から26日までコタキナバル地区周辺で実施された一連の取り締まり活動で、合計66人の不法移民（PATI）を逮捕した。\n\nコタキナバルJIM執行部の28人の警察官が参加したこの作戦は、パパール、ペナンパン、マンガタル、イナナム、セパンガル、トゥアランを含むいくつかの場所での1週間にわたる諜報活動と公的苦情情報の結果として実行された。\n\n検査を受けた153人のうち、パキスタン、フィリピン、インドネシアからの外国人計66人が、有効な渡航書類の所持、オーバーステイ、パスポート条件違反などの理由で拘束された。\n\n彼らは現在、1959/63 年移民法第 6 条(1)(c) および第 15 条(1)(c)、ならびに 1963 年移民規則規則 39(b) に基づくさらなる捜査のためペーパー入国管理局に拘留されている。\n\nジム・サバ州は、不法移民を保護したり雇用したりするいかなる個人とも妥協しないと主張する一方、それぞれの地域で許可なく外国人の存在に関する情報を流し続けるよう国民に呼びかけている。\n\n出典: サバ州入国管理局",
+   "summary_ja2": "コタキナバル：2025年9月26日 - マレーシア入国管理局（JIM）サバ州は、9月21日から26日までコタキナバル地区周辺で実施された一連の取り締まり活動で、合計66人の不法移民（PATI）を逮捕した。コタキナバルJIM執行部の28人の警察官が参加したこの作戦は、パパール、ペナンパン、マンガタル、イナナム、セパンガル、トゥアランを含むいくつかの場所での1週間にわたる諜報活動と公的苦情情報の結果として実行された。",
+   "summary_ja": "コタキナバル：2025年9月26日 - マレーシア移民局（JIM）・サバ州は一連の作戦で合計66人の不法移民（PATI）を逮捕した。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
@@ -7482,17 +7530,7 @@
      "kind": "推計",
      "raw": "66 pendatang"
     }
-   ],
-   "url_real": "https://tvsabahnews.com/66-pati-ditahan-dalam-operasi-imigresen-sekitar-kota-kinabalu/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2025/09/photo_2025-09-27_15-10-54.jpg",
-   "image_alt": "66 PATI Ditahan dalam Operasi Imigresen Sekitar Kota Kinabalu",
-   "site_name": "TV Sabah | News Portals",
-   "body": "KOTA KINABALU: 26 September 2025 – Jabatan Imigresen Malaysia (JIM) Sabah menahan seramai 66 pendatang asing tanpa izin (PATI) dalam siri operasi penguatkuasaan yang dijalankan di sekitar daerah Kota Kinabalu sejak 21 hingga 26 September lalu.\n\nOperasi yang melibatkan 28 pegawai Bahagian Penguatkuasaan JIM Kota Kinabalu itu dijalankan hasil risikan selama seminggu serta maklumat aduan awam di beberapa lokasi, termasuk Papar, Penampang, Manggatal, Inanam, Sepanggar dan Tuaran.\n\nDaripada 153 individu yang diperiksa, seramai 66 orang warga asing dari Pakistan, Filipina dan Indonesia ditahan kerana tidak memiliki dokumen perjalanan sah, tinggal lebih masa atau melanggar syarat pas.\n\nMereka kini ditahan di Depot Imigresen Papar untuk siasatan lanjut di bawah Seksyen 6(1)(c) dan Seksyen 15(1)(c) Akta Imigresen 1959/63 serta Peraturan 39(b) Peraturan-Peraturan Imigresen 1963.\n\nJIM Sabah menegaskan pihaknya tidak akan berkompromi dengan mana-mana individu yang melindungi atau menggaji PATI, sambil menyeru orang ramai terus menyalurkan maklumat mengenai kehadiran warga asing tanpa izin di kawasan masing-masing.\n\nSumber: Jabatan Imigresen Negeri Sabah",
-   "body_ja": "コタキナバル：2025年9月26日 - マレーシア入国管理局（JIM）サバ州は、9月21日から26日までコタキナバル地区周辺で実施された一連の取り締まり活動で、合計66人の不法移民（PATI）を逮捕した。\n\nコタキナバルJIM執行部の28人の警察官が参加したこの作戦は、パパール、ペナンパン、マンガタル、イナナム、セパンガル、トゥアランを含むいくつかの場所での1週間にわたる諜報活動と公的苦情情報の結果として実行された。\n\n検査を受けた153人のうち、パキスタン、フィリピン、インドネシアからの外国人計66人が、有効な渡航書類の所持、オーバーステイ、パスポート条件違反などの理由で拘束された。\n\n彼らは現在、1959/63 年移民法第 6 条(1)(c) および第 15 条(1)(c)、ならびに 1963 年移民規則規則 39(b) に基づくさらなる捜査のためペーパー入国管理局に拘留されている。\n\nジム・サバ州は、不法移民を保護したり雇用したりするいかなる個人とも妥協しないと主張する一方、それぞれの地域で許可なく外国人の存在に関する情報を流し続けるよう国民に呼びかけている。\n\n出典: サバ州入国管理局",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAVFqMrECr_bWrWbZOKZxSQJwX33dlm9DU7bGcF_SMoeom06Iyd7kg31VyUmv6VqjNw6WLZFMd6tGxxw",
-   "summary_ja2": "コタキナバル：2025年9月26日 - マレーシア入国管理局（JIM）サバ州は、9月21日から26日までコタキナバル地区周辺で実施された一連の取り締まり活動で、合計66人の不法移民（PATI）を逮捕した。コタキナバルJIM執行部の28人の警察官が参加したこの作戦は、パパール、ペナンパン、マンガタル、イナナム、セパンガル、トゥアランを含むいくつかの場所での1週間にわたる諜報活動と公的苦情情報の結果として実行された。"
+   ]
   },
   {
    "title": "43 PATI China Ditahan Dalam Operasi Imigresen Ranau",
@@ -7900,5 +7938,7 @@
     }
    ]
   }
- ]
+ ],
+ "enriched_at": "2026-08-31T22:59:28Z",
+ "thumbs_at": "2026-08-31T23:01:37Z"
 }
