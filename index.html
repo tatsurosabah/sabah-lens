@@ -462,6 +462,12 @@ main { padding-bottom: 66px; }
   background: #fff6e0; color: #8a5a00; border-radius: 10px;
   padding: 10px 12px; font-size: 12.5px; line-height: 1.6; margin: 0 0 14px;
 }
+.article .pending p { margin: 0 0 10px; }
+.tr-btn {
+  background: var(--royal); color: #fff; border-radius: 10px;
+  padding: 9px 15px; font-size: 13px; font-weight: 700;
+}
+.tr-btn:disabled { opacity: .6; }
 .article .cont {
   font-size: 12.5px; color: var(--faint); text-align: center; margin: 4px 0 0;
 }
@@ -587,7 +593,7 @@ main { padding-bottom: 66px; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v8';
+const CACHE_LABEL = 'lens-v9';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
@@ -667,7 +673,7 @@ const bigImg = it => it.image || it.thumb || '';
 
 /* 読む本文。要約 → 全文の順に出す */
 const summaryOf = it => it.summary_ja2 || it.summary_ja || it.summary || '';
-const bodyOf = it => it.body_ja || '';
+const bodyOf = it => it.body_ja || (trCache[it.id] && trCache[it.id].body) || '';
 const isNew = it => it.first_seen && (Date.now() - Date.parse(it.first_seen)) < 36 * 3600 * 1000;
 
 /* ─── データ ─── */
@@ -1009,7 +1015,10 @@ function openSheet(id) {
           <button data-lang="ja" class="${state.readOrig ? '' : 'on'}">日本語訳</button>
           <button data-lang="orig" class="${state.readOrig ? 'on' : ''}">原文</button>
         </div>` : ''}
-        ${waitingJa ? '<p class="pending">日本語訳はまだ用意できていません（次の更新で付きます）。原文を表示しています。</p>' : ''}
+        ${waitingJa ? `<div class="pending">
+          <p>この記事はまだ和訳されていません。原文を表示しています。</p>
+          <button class="tr-btn" id="trBtn" data-id="${esc(id)}">この端末で日本語にする</button>
+        </div>` : ''}
         ${bodyHTML ? `<div class="btext" id="bodyJa" ${state.readOrig && origHTML ? 'hidden' : ''}>${bodyHTML}</div>` : ''}
         ${origHTML ? `<div class="btext" id="bodyOrig" ${(bodyHTML && !state.readOrig) ? 'hidden' : ''}>${origHTML}</div>` : ''}
       </section>` : noBody}
@@ -1040,6 +1049,24 @@ function openSheet(id) {
         state.expandBody ? '本文を閉じる' : '本文を読む';
     });
     if (state.expandBody) expandBtn.querySelector('.lbl').textContent = '本文を閉じる';
+  }
+
+  // その場で翻訳。CI側は 429 で訳せないので、読む人の端末から訳す
+  const trBtn = $('#trBtn');
+  if (trBtn) {
+    trBtn.addEventListener('click', async () => {
+      trBtn.disabled = true;
+      trBtn.textContent = '翻訳中…';
+      try {
+        const ja = await translateBody(it.body);
+        trCache[id] = { body: ja, at: Date.now() };
+        saveTrCache();
+        openSheet(id);              // 訳が入った状態で開き直す
+      } catch (e) {
+        trBtn.disabled = false;
+        trBtn.textContent = '翻訳に失敗しました。もう一度試す';
+      }
+    });
   }
 
   // 日本語訳 ↔ 原文。どちらで読むかは覚えておく
@@ -1190,6 +1217,57 @@ $('#q').addEventListener('input', e => { query = e.target.value.trim(); render()
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && openId) closeSheet(); });
 
 /* ─── 起動 ─── */
+
+/* ─────────────── その場で翻訳 ─────────────── */
+/*
+   本文の和訳は GitHub Actions 側では終わらない。ランナーのIPが翻訳エンドポイントから
+   429 で弾かれ続けるため（実行ログで確認済み）。そこで「記事を開いたときに端末から訳す」
+   方式にした。自分の回線からの数リクエストなので 429 にならず、訳した結果は端末に
+   貯めるので二度目からは即座に出る。
+
+   副次的に、記事全文の和訳を news.json に載せずに済むので、公開URLに出る量も減る。
+*/
+const TR_KEY = 'sabahlens_tr';
+let trCache = {};
+try { trCache = JSON.parse(localStorage.getItem(TR_KEY) || '{}'); } catch (e) {}
+
+function saveTrCache() {
+  // 端末の容量を食い過ぎないよう、古いものから捨てる
+  const ids = Object.keys(trCache);
+  if (ids.length > 300) {
+    for (const id of ids.slice(0, ids.length - 300)) delete trCache[id];
+  }
+  try { localStorage.setItem(TR_KEY, JSON.stringify(trCache)); } catch (e) {}
+}
+
+async function translateChunk(text) {
+  const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ja&dt=t&q='
+    + encodeURIComponent(text);
+  const r = await fetch(url);
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  const j = await r.json();
+  return j[0].map(seg => seg[0]).join('');
+}
+
+/* 段落の切れ目を保ったまま1400字ずつ訳す */
+async function translateBody(text) {
+  const paras = text.split(/\n{2,}/).map(p => p.trim()).filter(Boolean);
+  const chunks = [];
+  let buf = [];
+  let n = 0;
+  for (const p of paras) {
+    if (n + p.length > 1400 && buf.length) { chunks.push(buf.join('\n\n')); buf = []; n = 0; }
+    buf.push(p); n += p.length + 2;
+  }
+  if (buf.length) chunks.push(buf.join('\n\n'));
+
+  const out = [];
+  for (const c of chunks) {
+    out.push(await translateChunk(c));
+    await new Promise(r => setTimeout(r, 250));
+  }
+  return out.join('\n\n');
+}
 
 /* ─────────────── 論点ビュー ─────────────── */
 
