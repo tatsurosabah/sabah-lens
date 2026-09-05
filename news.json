@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T20:56:46Z",
+ "updated": "2026-09-05T04:50:40Z",
  "count": 236,
  "tags": {
   "入管・摘発": 155,
@@ -21,27 +21,26 @@
   "NST Online": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
-  "The Star": 9,
+  "The Star": 10,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Berita Harian": 7,
+  "Free Malaysia Today": 6,
   "Saluran 122": 6,
   "tvsabahnews.com": 5,
   "Jesselton Times": 5,
   "Portal Berita RTM": 4,
+  "Buletin TV3": 4,
   "Sabah Post": 4,
-  "freemalaysiatoday.com": 3,
+  "Astro Awani": 3,
   "MalaysiaGazette": 3,
   "Harian Metro": 3,
-  "Free Malaysia Today": 3,
   "PressReader": 2,
-  "The Vibes": 2,
+  "thevibes.com": 2,
   "Nabalu News": 2,
-  "buletintv3.my": 2,
   "Sayang Sabah": 2,
   "Malaysiakini": 2,
-  "Astro Awani": 2,
-  "Buletin TV3": 2,
+  "sabahkini2.org": 2,
   "dailyexpress.com.my": 2,
   "Bernama": 1,
   "Malaysia-China Insight": 1,
@@ -49,12 +48,8 @@
   "Yahoo": 1,
   "facebook.com": 1,
   "Migrant Times": 1,
-  "sabahkini2.org": 1,
   "THE MALAYSIA PRESS": 1,
   "jesseltontimes.com": 1,
-  "astroawani.com": 1,
-  "thestar.com.my": 1,
-  "sabahkini2.com": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
@@ -372,7 +367,7 @@
    "title": "Sabah repatriates 4,750 undocumented migrants",
    "summary": "Most of them comprise Filipinos and Indonesians.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0FZR2hhZjZ3eWFJN2RxRXhjNlFiY2lYUktyVU1YM3RZZ3JOdWhnTF9MLUxIM3RlX0F4a1hqMlVIakxNUV91Rk9NOTRKSUU1dFNhVVRQbUtWbHNFVGxFUXZnVDZlLTJiTUZweHM1bEtpX1hvcGhqWEFzNlVJbXV0dm1iaHNaWW9QajM1eE1rYWhwQ2JTWld0Mk5tallrZmZQdmlmUHVtNjhhdw?oc=5",
-   "source": "freemalaysiatoday.com",
+   "source": "Free Malaysia Today",
    "date": "2026-08-20T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -541,7 +536,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "MANILA: Malaysia dan Filipina hari ini membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin (PATI) dari Filipina yang berada di empat pusat tahanan di Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -736,7 +731,7 @@
    "date": "2026-08-14T22:37:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -1174,7 +1169,7 @@
    "title": "JIM denies Sabah detention depots overcrowded after claims of Filipino detainee deaths",
    "summary": "The claims state that overcrowding caused the deaths of numerous Filipino detainees as the department insists that all detainees are receiving proper care while...",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzUxQ1B5SkJvYnZmODJFWTJ2TjM0eUFXT1BFMzR5cnl5Sk9WTWpSZXViMDlib0RtZjUyRy1GamJYcVdxZnpvT1JlMkJPeXdoSWtmenpndXNYbkQ5cXVNZDF6N3ItQUJlb3AwWGxkeURlMlhPSkNQZ3I0NVZwS2ZkYVgwZldieHpYTGRGS3E2N25Ddk5pbG9aX2tFcWFGZHV3Wnkycy1mUW52WngyQTBBS2NialdIaDVQM1VCWnhkME9CZVVmM1NYODBqRHM?oc=5",
-   "source": "The Vibes",
+   "source": "thevibes.com",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -1574,7 +1569,7 @@
    "title": "MHO saran JPN kaji semula syarat MyKAS untuk individu tanpa negara",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1diaERJWlFyWVZhZlVQUHMxTXVNUXZwQTNtYkZsRXdrWDBHbEYtaGZ1X2R5djc4RUJfOHYyVENLQUJ2Z3VNcXpaODFjTFFRVmFCN080ZnA2QWFtSzVudE82RHo5dGFPQ3FmYlhNY1pjOHBVbDUxbGR3Mk9qcGVRNG4tNmxWVmQtYzhrWk9ERTI4OS0zZDQ0TVNGMWtLZ2VydGdYRA?oc=5",
-   "source": "buletintv3.my",
+   "source": "Buletin TV3",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3054,7 +3049,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah Rohingya",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -3119,7 +3114,7 @@
    "date": "2026-06-13T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "e48f0a90f072",
    "tags": [
     "市民権"
@@ -3429,12 +3424,12 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
-    "無国籍",
     "子ども",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -3700,7 +3695,7 @@
    "title": "Rakyat Sabah perlu difahamkan isu pelarian melalui lensa kemanusiaan – Mufti Sabah",
    "summary": "Mufti Sabah, Datuk Bungsu Aziz Jaafar berkata warga Sabah perlu difahamkan mengenai isu pelarian yang masuk ke dalam negara dengan pendekatan yang rasional dan berasakan nilai-nilai kemanusiaan. #AgendaAWANI",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGlLVnFoTW5MUG94NHlQYmowY1pjQUNUV1p4aG03Rmt4Zko1S2x4d05KWjJLTEZvTEpQaTg5em9rNkFRNnZfNlFaUFBUUlRfYlFBaHV6Z0ZMaGQ4MFRuQ3FpQXNUV3d6SzNWRWVpQktMbk9wTVlmSk1WakpDZ2hSWVpfYmRQaFVjWm8tYXlxX1pkOVQ1VGZRMUdMTzU2RTc2M210X2lrNnFfbndoLUFxWmNuTGw?oc=5",
-   "source": "astroawani.com",
+   "source": "Astro Awani",
    "date": "2026-05-27T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3887,11 +3882,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
-    "市民権",
-    "人権・NGO"
+    "人権・NGO",
+    "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -3914,7 +3909,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3940,11 +3935,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -3967,7 +3962,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -3997,9 +3992,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -4070,7 +4065,7 @@
   {
    "title": "Immigration rounds up 54 illegal immigrants in Sabah crackdown",
    "summary": "KOTA KINABALU: The Sabah Immigration Department rounded up 54 foreigners for various immigration offences during enforcement operations in Sipitang and Semporna recently.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGU1NGpMYzlPMVhDYU91djV4MF9oSTBsZWk4SEo0N29PZkFyWjBZb0FBMWxSM005ckMxcnZnT1RjTGFiVGxoQUJIc25UMFFscEhpbDA0dDIwTzFDcDc3RUpfRXBVUlYzSU55U3UwSVNfdnVkaHMzQ3VmY1ozWlFLSWhvdmlqZk9zcjRUV0p4V3diM2djZ0xtR0hiT0lYcV9CYWE0UGdaSGxrZnZ5QzQ0YWF6QlNSNG4xWEJqeUZtZlHSAbMBQVVfeXFMUHlad2FOWldKUlNsTHZKclV1MXB2ZzB4NE0ycDQwNGdGV2ZkczRhN1VZS1lFOE1EeXdvMXBHd0JJQXdoaUZKemdnb2JpQzNudHVjalFBZnhtMjdTRTZxTFNaNFNjZzZZckItRE1tSVNXMDhzTl8wX2gtdnZxMVFIYzNrME5qVlQ5TU5ob0lZU0dmMnZTRmZVeHZEdE9Cb19rcjJxY3JnTURHeEZxTHZublc3dmM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzlXeVFYZ1VJLU9OaS1hb0Q1RVFwVWFOa1ZDZi13amdrOFlPajlXME9RRUwzb2prMGhfWG1HYUdiUVd6aVFYVVJsSWVZR1psNVJzMXllQmdySjlkYkJiQ3JFZ2g3TFZjRENFckRkREphR1ZWVzYzeDdtMG55Tko5MVE5WmVlNWwwUHp5c3I2QkwtUnlId1N0Mm12MEI3YWVvOVROcGhZTG13SmVTNkE?oc=5",
    "source": "NST Online",
    "date": "2026-05-15T07:00:00Z",
    "lang": "en",
@@ -4106,7 +4101,7 @@
    "title": "JIM hantar pulang 285 PATI warga Filipina",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclF6YUtDVkhVNXdiQkZDYUE5dHo0X0x2VEJaMjR3aTdjaVREckp3YTZBREluc0M0T2xxcG9BSF80d1Y4UlJHTHdXLUFLTm1zeDRNQUtXa04wSDRpQXVxelJKWlVPQWc4V1IzUXdBVmNJM3lTY1VwUXZMdnFpRmVmaGEtTQ?oc=5",
-   "source": "buletintv3.my",
+   "source": "Buletin TV3",
    "date": "2026-05-14T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4622,7 +4617,7 @@
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "715ca1e86aec",
    "tags": [
     "子ども",
@@ -4655,7 +4650,7 @@
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "63c01c9014e6",
    "tags": [
     "人権・NGO",
@@ -4689,12 +4684,12 @@
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "first_seen": "2026-08-10T08:27:43Z",
@@ -5054,7 +5049,7 @@
    "title": "Refugee crisis in Malaysia reaches critical levels as Sabah faces mounting pressure",
    "summary": "The country is confronting a deepening refugee challenge, with estimates suggesting more than 1 million individuals in Sabah alone",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb3A0ZXl5dk52NWhvLVFPdzZxNG5rdk1GeDhxMmFZTjN1VXVoODVJM09nZ3k5ZDVwVS1hRG1iMUVGY1Rja2F3aFBKdXhjUk93cmN6Znp2anRMWlMwSzN4SkktR1hiS0ZwaDdJb0JFZFY0Zmg0VS1PeE5XMmRwSDlSdDhlOExDSDF4bVZuQjZXMGsyNzBQcXlhekk4UmFtWXgxaEMzX0gwR1czUi1mNHMtb2ZpRWdtOXJDRk4wRWx0NjBxa3NvaU5nZA?oc=5",
-   "source": "The Vibes",
+   "source": "thevibes.com",
    "date": "2026-04-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -5248,12 +5243,12 @@
    "date": "2026-04-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "2a750d42659b",
    "tags": [
-    "無国籍",
+    "バジャウ",
     "子ども",
-    "バジャウ"
+    "無国籍"
    ],
    "title_ja": "バジャウ族の無国籍少年、サバ州生まれを証明し保釈認められた",
    "first_seen": "2026-08-11T13:55:43Z",
@@ -5284,7 +5279,7 @@
    "date": "2026-04-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "d614d38a48fc",
    "tags": [
     "人権・NGO"
@@ -5369,7 +5364,7 @@
    "date": "2026-04-02T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "3305b28ddbe1",
    "tags": [
     "子ども"
@@ -5415,7 +5410,7 @@
    "title": "Four stateless students charged with illegal entry into Sabah",
    "summary": "KOTA KINABALU: Four stateless students, believed to be Palauh or sea nomads, were charged with illegal entry into the state.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2VTUFRnYUNOOFZWOTdLTEpYSkdLVDR1UFdaX3p6eTdDUkhCTzR4MXE1NHlycUR6cGg3RDNZYm9nR2xRdWhrbl94MFZWUmtvMW9SOUtmWlZISDlIUzV2MUZvaHliNVMwc3UwX1dWYmI2T1ZqX09DWjE1T08tYTQ0Vl9xa2hxUmM2Q0VnaHNWaExOY2hTWFMxZ3h3YVc5ODFMLUNMT1piV0hUZ0tWdnA5VA?oc=5",
-   "source": "thestar.com.my",
+   "source": "The Star",
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -5451,11 +5446,11 @@
    "date": "2026-03-31T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "f97cc4562358",
    "tags": [
-    "無国籍",
-    "バジャウ"
+    "バジャウ",
+    "無国籍"
    ],
    "title_ja": "無国籍バジャウ・ラウト4人が起訴、3人が保釈",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -5510,7 +5505,7 @@
    "title": "NIKO tiada IC: Imigresen Sabah digesa serbu Sekolah Alternatif digerakkan Mukmin Nantang jadi pelindung PTI di Sabah",
    "summary": "Sebelum ini Mukmin Nantang bersama Borneo Komrad dan Sekolah Alternatif membawa 9 budak tiada dokumen menyamar mahasiswa UMS untuk berdemo. Kali ini budak bernama NIKO pula.  Imigresen Sabah perlu bertindak tegas serbu Sekolah Alternatif  'menternak' PTI",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaDRaUXh2Nkpic3FQNWhGbFdSWW1OSU1ncTkwbG5uUTY1eXVva0wwR1k0dU80U0gza1lnbHZ4SDFPd1c2cjJfN0VhbE9YeHNiZnpLbjlHY0ZKekdSUk9QUzhvR1Nqd0xOWGYzMmFaMFlPR0J5YUY4d3JDY0JhX3B1MWV6NG9pNHUwUVl6amhQRkYyTWhLUnk3ZzVFQndfTk5wMXNUM1NhdTlHUlFLYXdvaUtNVjBJMXpBb2FXc3VaczlhaVNkWjUzMmJaOGRtM1hnWVpGVmZzMWNKdnFWTldBQUdZbnJOdnJuS1d6UQ?oc=5",
-   "source": "sabahkini2.com",
+   "source": "sabahkini2.org",
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5546,7 +5541,7 @@
   {
    "title": "NGO condemns stateless child's arrest during Raya programme for the needy in Sabah",
    "summary": "KUALA LUMPUR: A non-governmental organisation has condemned the arrest of a stateless child it claimed occurred during a programme to purchase Hari Raya goods for the needy at a shopping centre in Kota Kinabalu.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBWLWQ2Ny1MMWhlS2xGbGFuUjg2LVBHRXk1Q2x3WmJpWUN6NjU2MTg3OGNNWDZsRFhRcTFLZXFJVWJ5d0lCVm9lb2drOGJYVW5lOG9ETnRqRGFXU29YWHNUZVRyWUlnckQtOWx1ckdfa2RLSDJsSUozZlV6N2pMaFJYMl9URWtucy1rakhXNHR4dk1aQ0lFbEI4UWVPZU45ZzRvYkdvSmRJOXBib3k5SWhOeEdaSERacTFyMktn0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGFXd1g4TnlOX3EtMGVGRW4tTDVQQVBJTUlaZEs4UU9mT1p3dW0wdmQybHZYck45RXN3TkRQUEhTVk1sb0E5NUFPU2w3UWtSR2E5ZXpwYWN4NUlkQXVUQ2FWT1ZKSXZFOG8wakg1dU05dU11UVVIVkdjZkhiOVdJYndZWUU0STlFMV9qNGtkTF9xbS1TVUZmVkNGaldaVk1zSXliZkl1Mmc5Vkd2dWE3c1ZNMXBwRTl4Q1dWMExXR1JIa2I4QmNHS1dYWjFHTnct0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
    "source": "NST Online",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
@@ -5587,7 +5582,7 @@
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "29d789c1571f",
    "tags": [
     "入管・摘発",
@@ -5859,7 +5854,7 @@
   {
    "title": "61 undocumented Filipino migrants detained in Sabah operation",
    "summary": "SEMPORNA: Sixty-one undocumented people from the Philippines were detained during an integrated operation here.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmI0RGhxS0UtektHMzJsR3JlSXZKUks0ZzZiZ3U4RzRRa0tDNGFSc3Blb1ZFczJOVjZjMWFmQ2JQNlI4aU4xRzNSd3psWWlnalZERll0X1Y2SzlVWW9YZzVwNjB6VGlyMmdUcVZEOVAyS3lVTEdWd0hBM1Zqbl90M1ZYWmYxa0tHSUNUNDJiLUlQMlA2MjBlVkNiTTZ1T2ZpZmZCbUtKSXFsc0tWay1iNtIBtgFBVV95cUxNZ3I4aUg2NzRzdjU5aXV4ZGlITk5feC1fRDd2UTNVTjRaa0d6a2ViSHBiSWV5T2hDa1JCdngzZ3NfbWU0LU5Ca2t5aVdnVkJTRUc2dWMwNlNicGRJcEZJajVDaDc1bWZGTUxPQmN0c2Y5UzdxM2lOUkllM0o3REpHRGk4YlJ5WVI4VnppTVpScnZTQUN0cURiTGRnRjRDN1N2NW9WajNVejFIZ3R5TTdtTFBhM3dyUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmI0RGhxS0UtektHMzJsR3JlSXZKUks0ZzZiZ3U4RzRRa0tDNGFSc3Blb1ZFczJOVjZjMWFmQ2JQNlI4aU4xRzNSd3psWWlnalZERll0X1Y2SzlVWW9YZzVwNjB6VGlyMmdUcVZEOVAyS3lVTEdWd0hBM1Zqbl90M1ZYWmYxa0tHSUNUNDJiLUlQMlA2MjBlVkNiTTZ1T2ZpZmZCbUtKSXFsc0tWay1iNg?oc=5",
    "source": "NST Online",
    "date": "2026-02-13T08:00:00Z",
    "lang": "en",
@@ -6134,7 +6129,7 @@
    "title": "Bajau Laut people through the eyes of young filmmakers",
    "summary": "Three East Malaysian youths co-direct a documentary exploring everyday life on an island almost forgotten by the outside world.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEYwOU1DLS16RGZHUU14aEtEekR1TW1SSENoX25adnlJMjNjMFNoYTluMVg3ZXVGV1ZiWTdOeGN4VVl3UTEwSkI4NXdIYXlXdWl0ZExHQUN2QTEzYWVBSnhUaTVpaHp3WE44TkEzZ05CWGtpcVo0VmNHenBPWS1MUzRYYU5UaHV6VW1rVHNqdVA0X1lNbm84a1JVZi1zLVZLbGtUcWpkMEJCWlZPakhabmlTZzZ5UQ?oc=5",
-   "source": "freemalaysiatoday.com",
+   "source": "Free Malaysia Today",
    "date": "2026-02-03T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -7817,7 +7812,7 @@
    "date": "2025-10-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "ad90f71bf69e",
    "tags": [
     "入管・摘発",
@@ -7951,7 +7946,7 @@
    "title": "Building hope and belonging for the Bajau Laut",
    "summary": "As the nation celebrates Malaysia Day, Pulau Sebangkat stands as a reminder that some are still fighting for recognition in the country they call home.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTFabnlTRlJQUXZqLWxRN1VFSUZyV1pKT3BUbWN1RmNVSFVoUExtZk9rZV8xY2RSRE9KZURKMDNTLXhhVDMwTWxDSkF6MjdjVmU2QUFYU1Q5TnJrZjNhOW5qM2l4cl9LQjV2YU96eTZBam9jdzdNV2dlY3dEWVYzaHhxZF9BWVk5UjQtb0t5MW5MT2JmNFozR3FjOG50a054UFBJYXV1N0tBaXc?oc=5",
-   "source": "freemalaysiatoday.com",
+   "source": "Free Malaysia Today",
    "date": "2025-09-16T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -8132,7 +8127,7 @@
    "date": "2025-08-14T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "5b02d199e768",
    "tags": [
     "市民権"
