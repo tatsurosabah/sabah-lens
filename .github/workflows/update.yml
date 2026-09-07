@@ -66,14 +66,19 @@ jobs:
         continue-on-error: true
         timeout-minutes: 25
 
+      # 動画は毎回変わるものではないので軽く。APIキー不要（検索ページのJSONを読む）
+      - name: 動画の候補を集める
+        run: python3 gen_videos.py
+        continue-on-error: true
+
       - name: 変更があればコミット
         run: |
-          if git diff --quiet -- news.json; then
+          if git diff --quiet -- news.json videos.json; then
             echo "変更なし"
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
+          git add news.json videos.json
           git commit -m "ニュース更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

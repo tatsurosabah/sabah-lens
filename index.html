@@ -394,6 +394,87 @@ main { padding-bottom: 66px; }
   border-top: 1px solid rgba(255, 255, 255, .08);
 }
 
+/* ─────────────── 資料 ─────────────── */
+
+.lib-tabs {
+  display: flex; gap: 3px; padding: 3px; margin: 14px 0 4px;
+  background: rgba(255, 255, 255, .06); border-radius: 999px;
+}
+.lib-tabs button {
+  flex: 1; border-radius: 999px; padding: 8px 4px; font-size: 13px; font-weight: 700;
+  color: var(--on-dark-sub);
+}
+.lib-tabs button.on { background: #fff; color: var(--ink); }
+
+.lib-lead { padding: 16px 0 10px; }
+.lib-lead h2 { margin: 0 0 8px; font-size: 21px; font-weight: 800; letter-spacing: -.4px; }
+.lib-lead p { margin: 0; font-size: 13px; line-height: 1.8; color: var(--on-dark-sub); }
+.lib-lead b { color: var(--on-dark); }
+
+/* 年表 */
+.tl { list-style: none; margin: 6px 0 0; padding: 0 0 0 14px; border-left: 2px solid rgba(255,255,255,.12); }
+.tl li { position: relative; padding: 0 0 22px 14px; }
+.tl li::before {
+  content: ''; position: absolute; left: -21px; top: 5px;
+  width: 9px; height: 9px; border-radius: 50%; background: var(--icicle);
+  box-shadow: 0 0 0 3px var(--bg);
+}
+.tl-year { font-size: 12.5px; font-weight: 800; color: var(--icicle); margin-bottom: 4px; }
+.tl-kind {
+  display: inline-block; font-size: 10.5px; font-weight: 800; color: #fff;
+  padding: 2px 8px; border-radius: 999px; margin-bottom: 6px;
+}
+.tl-body h3 { margin: 0 0 6px; font-size: 16px; font-weight: 800; line-height: 1.45; }
+.tl-body p { margin: 0; font-size: 14px; line-height: 1.85; color: #cfd6e6; }
+.tl-body b { color: #fff; }
+
+.hard {
+  background: rgba(245, 54, 47, .1); border: 1px solid rgba(245, 54, 47, .25);
+  border-radius: var(--radius); padding: 16px; margin: 6px 0 20px;
+}
+.hard h3 { margin: 0 0 10px; font-size: 15.5px; font-weight: 800; }
+.hard ul { margin: 0; padding-left: 18px; }
+.hard li { font-size: 13.5px; line-height: 1.85; color: #cfd6e6; margin-bottom: 8px; }
+.hard b { color: #fff; }
+
+/* 動画 */
+.vid-group { margin-bottom: 22px; }
+.vid-region {
+  margin: 0 0 10px; font-size: 13px; font-weight: 800; color: var(--icicle);
+  letter-spacing: .5px;
+}
+.vid-region span { color: var(--on-dark-sub); font-weight: 700; margin-left: 5px; }
+.vid { display: flex; gap: 11px; margin-bottom: 13px; align-items: flex-start; }
+.vid-thumb {
+  position: relative; flex: none; width: 136px; aspect-ratio: 16/9;
+  border-radius: 10px; overflow: hidden; background: var(--bg-2);
+}
+.vid-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.vid-dur {
+  position: absolute; right: 4px; bottom: 4px; background: rgba(0,0,0,.8);
+  color: #fff; font-size: 10.5px; font-weight: 700; padding: 1px 5px; border-radius: 4px;
+}
+.vid-meta { min-width: 0; }
+.vid-meta h4 {
+  margin: 0 0 5px; font-size: 13.5px; font-weight: 700; line-height: 1.45;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.vid-meta p { margin: 0; font-size: 11.5px; color: var(--on-dark-sub); line-height: 1.5; }
+
+/* 団体 */
+.org {
+  background: rgba(255, 255, 255, .05); border-radius: var(--radius);
+  padding: 14px 15px; margin-bottom: 11px;
+}
+.org-head { display: flex; align-items: baseline; gap: 8px; margin-bottom: 7px; flex-wrap: wrap; }
+.org-head h3 { margin: 0; font-size: 15.5px; font-weight: 800; }
+.org-kind {
+  font-size: 10.5px; font-weight: 700; padding: 2px 8px; border-radius: 999px;
+  background: rgba(255,255,255,.1); color: var(--on-dark-sub);
+}
+.org p { margin: 0 0 8px; font-size: 13.5px; line-height: 1.75; color: #cfd6e6; }
+.org a { font-size: 12px; color: var(--icicle); word-break: break-all; }
+
 /* ─────────────── 詳細シート ─────────────── */
 
 .sheet-bg {
@@ -566,6 +647,15 @@ main { padding-bottom: 66px; }
   </div>
 </main>
 
+<main class="wrap" id="libraryView" hidden>
+  <div class="lib-tabs" id="libTabs">
+    <button data-lib="timeline" class="on">経緯</button>
+    <button data-lib="videos">動画</button>
+    <button data-lib="orgs">団体</button>
+  </div>
+  <div id="libBody"></div>
+</main>
+
 <main class="wrap" id="issuesView" hidden>
   <div class="issue-lead">
     <h2>論点ごとの動き</h2>
@@ -584,6 +674,10 @@ main { padding-bottom: 66px; }
     <svg viewBox="0 0 24 24"><path d="M4 19V5M4 19h16M8 16V9M12 16v-4M16 16v-8"/></svg>
     論点
   </button>
+  <button data-view="library">
+    <svg viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H10v16H5.5A1.5 1.5 0 0 1 4 18.5zM14 4h4.5A1.5 1.5 0 0 1 20 5.5v13a1.5 1.5 0 0 1-1.5 1.5H14z"/></svg>
+    資料
+  </button>
 </nav>
 
 <div class="sheet-bg" id="sheetBg"></div>
@@ -593,7 +687,7 @@ main { padding-bottom: 66px; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v9';
+const CACHE_LABEL = 'lens-v10';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
@@ -1353,6 +1447,106 @@ function renderIssues() {
   }).join('');
 }
 
+/* ─────────────── 資料（経緯・動画・団体） ─────────────── */
+
+let LIB = { timeline: null, videos: null, orgs: null };
+let libTab = 'timeline';
+
+async function loadLib(name, file) {
+  if (LIB[name]) return LIB[name];
+  try {
+    const r = await fetch(file, { cache: 'no-cache' });
+    LIB[name] = await r.json();
+  } catch (e) { LIB[name] = { items: [], error: true }; }
+  return LIB[name];
+}
+
+/* 太字だけ通す。資料の文中で強調したい語があるため */
+const mdBold = t => esc(t).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+
+const KIND_COLOR = { '歴史': '#4c5878', '転機': '#c62828', '制度': '#1b56c9', '現状': '#8a4b00' };
+
+async function renderTimeline() {
+  const d = await loadLib('timeline', 'timeline.json');
+  if (!d.items) return '<div class="empty"><p>資料を読み込めませんでした</p></div>';
+  return `<div class="lib-lead">
+      <h2>${esc(d.title)}</h2>
+      <p>${mdBold(d.note)}</p>
+    </div>
+    <ol class="tl">${d.items.map(it => `
+      <li>
+        <div class="tl-year">${esc(it.year)}</div>
+        <div class="tl-body">
+          <span class="tl-kind" style="background:${KIND_COLOR[it.kind] || '#444'}">${esc(it.kind)}</span>
+          <h3>${esc(it.title)}</h3>
+          <p>${mdBold(it.body)}</p>
+        </div>
+      </li>`).join('')}</ol>
+    <section class="hard">
+      <h3>なぜ解決が難しいのか</h3>
+      <ul>${d.why_hard.map(x => `<li>${mdBold(x)}</li>`).join('')}</ul>
+    </section>`;
+}
+
+const REGION_ORDER = ['日本', 'アメリカ', '台湾', 'サバ', 'マレーシア', '国際', 'その他'];
+
+async function renderVideos() {
+  const d = await loadLib('videos', 'videos.json');
+  if (!d.items || !d.items.length) return '<div class="empty"><p>動画がまだありません</p></div>';
+  const byRegion = {};
+  for (const v of d.items) (byRegion[v.region] = byRegion[v.region] || []).push(v);
+
+  return `<div class="lib-lead">
+      <h2>動画で見る</h2>
+      <p>YouTube から自動で集めたもの。<b>日本 → アメリカ → 台湾 → サバ → マレーシア</b> の順に並べている。
+         同じ問題でも、どの国のメディアが撮ったかで語り口が変わる。</p>
+    </div>` +
+    REGION_ORDER.filter(r => byRegion[r]).map(r => `
+      <div class="vid-group">
+        <h3 class="vid-region">${esc(r)} <span>${byRegion[r].length}</span></h3>
+        ${byRegion[r].slice(0, 12).map(v => `
+          <a class="vid" href="https://www.youtube.com/watch?v=${esc(v.vid)}" target="_blank" rel="noopener noreferrer">
+            <div class="vid-thumb">
+              <img loading="lazy" decoding="async" referrerpolicy="no-referrer"
+                   src="https://i.ytimg.com/vi/${esc(v.vid)}/mqdefault.jpg" alt="">
+              ${v.dur ? `<span class="vid-dur">${esc(v.dur)}</span>` : ''}
+            </div>
+            <div class="vid-meta">
+              <h4>${esc(v.title)}</h4>
+              <p>${esc(v.channel)}${v.published ? ' · ' + esc(v.published) : ''}${v.views ? ' · ' + esc(v.views) : ''}</p>
+            </div>
+          </a>`).join('')}
+      </div>`).join('');
+}
+
+async function renderOrgs() {
+  const d = await loadLib('orgs', 'orgs.json');
+  if (!d.items) return '<div class="empty"><p>読み込めませんでした</p></div>';
+  return `<div class="lib-lead">
+      <h2>関わっている団体</h2>
+      <p>${esc(d.note)}</p>
+    </div>
+    ${d.items.map(o => `
+      <div class="org">
+        <div class="org-head">
+          <h3>${esc(o.name)}</h3>
+          <span class="org-kind">${esc(o.kind)}</span>
+        </div>
+        <p>${esc(o.what)}</p>
+        ${o.link ? `<a href="${esc(o.link)}" target="_blank" rel="noopener noreferrer">${esc(o.link.replace(/^https?:\/\//, ''))} ↗</a>` : ''}
+      </div>`).join('')}`;
+}
+
+async function renderLibrary() {
+  const body = $('#libBody');
+  body.innerHTML = '<div class="skel" style="height:200px"></div>';
+  document.querySelectorAll('#libTabs button').forEach(b =>
+    b.classList.toggle('on', b.dataset.lib === libTab));
+  body.innerHTML = libTab === 'timeline' ? await renderTimeline()
+    : libTab === 'videos' ? await renderVideos()
+    : await renderOrgs();
+}
+
 /* ─────────────── ビューの切替 ─────────────── */
 
 let view = 'news';
@@ -1360,16 +1554,21 @@ function setView(v) {
   view = v;
   document.querySelectorAll('#tabs button').forEach(b =>
     b.classList.toggle('on', b.dataset.view === v));
-  document.querySelector('main.wrap:not(#issuesView)').hidden = v !== 'news';
+  document.querySelector('main.wrap:not(#issuesView):not(#libraryView)').hidden = v !== 'news';
   document.querySelector('.top').hidden = v !== 'news';
   $('#issuesView').hidden = v !== 'issues';
+  $('#libraryView').hidden = v !== 'library';
   if (v === 'issues') renderIssues();
+  if (v === 'library') renderLibrary();
   window.scrollTo(0, 0);
 }
 
 document.addEventListener('click', e => {
   const tab = e.target.closest('#tabs [data-view]');
   if (tab) { setView(tab.dataset.view); return; }
+
+  const lt = e.target.closest('#libTabs [data-lib]');
+  if (lt) { libTab = lt.dataset.lib; renderLibrary(); window.scrollTo(0, 0); return; }
 
   // 論点からニュース一覧へ。該当する論点の記事だけに絞る
   const io = e.target.closest('[data-issue]');
