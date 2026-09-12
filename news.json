@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-12T15:50:10Z",
- "count": 242,
+ "updated": "2026-09-12T20:49:04Z",
+ "count": 241,
  "tags": {
-  "入管・摘発": 160,
+  "入管・摘発": 159,
   "市民権": 35,
   "無国籍": 32,
   "子ども": 22,
@@ -16,13 +16,14 @@
  },
  "sources": {
   "Sabah Media": 38,
-  "Daily Express Malaysia": 21,
-  "TV Sabah News": 20,
+  "TV Sabah News": 19,
   "NST Online": 16,
-  "tvsabahnews.com": 16,
+  "tvsabahnews.com": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
+  "dailyexpress.com.my": 12,
   "The Star": 11,
+  "Daily Express Malaysia": 10,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 6,
@@ -33,7 +34,8 @@
   "Portal Berita RTM": 4,
   "Sabah Post": 4,
   "Buletin TV3": 3,
-  "Astro Awani": 3,
+  "astroawani.com": 3,
+  "hmetro.com.my": 3,
   "PressReader": 2,
   "sabahmedia.com": 2,
   "The Vibes": 2,
@@ -41,27 +43,25 @@
   "Sayang Sabah": 2,
   "Malaysiakini": 2,
   "sabahkini2.org": 2,
-  "hmetro.com.my": 2,
-  "Bernama": 1,
+  "bernama": 1,
   "Malaysia-China Insight": 1,
+  "Sinar Harian": 1,
   "Nikkei Asia": 1,
-  "AFP Fact Check": 1,
+  "factcheck.afp.com": 1,
   "facebook.com": 1,
-  "migrantimes.com": 1,
+  "Migrant Times": 1,
   "THE MALAYSIA PRESS": 1,
-  "Harian Metro": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
   "Philstar.com": 1,
-  "dailyexpress.com.my": 1,
   "Gempak": 1,
-  "utusan.com.my": 1,
-  "The Edge Malaysia": 1,
+  "Utusan Malaysia": 1,
+  "theedgemalaysia.com": 1,
   "Berita Harian": 1,
-  "Malaysia MADANI": 1
+  "malaysiamadani.gov.my": 1
  },
  "items": [
   {
@@ -75,7 +75,7 @@
    "query": "Sabah stateless",
    "id": "8219c88518f0",
    "tags": [],
-   "title_ja": "",
+   "title_ja": "政治的意志の欠如がサバ州の移民問題を長引かせると元CJマランジャム氏が語る",
    "first_seen": "2026-09-12T11:08:05Z",
    "url_real": "https://www.nst.com.my/news/nation/2026/09/1531277/lack-political-will-prolonging-sabahs-migrant-problem-says-ex-cj",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/D6BC6F8615513016E132D34477987208_data_0.jpg",
@@ -83,13 +83,15 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "KOTA KINABALU: Sabah's long-standing undocumented migrant problem continues because of a lack of political will to implement proposed solutions, says former chief justice Tun Richard Malanjum.\n\nHe said numerous proposals had been put forward over the years - from recalling wrongfully issued identity cards to introducing a distinct Sabah identity card, a kad warga asing and a pas sementara Sabah - only to be abandoned.\n\n\"What has been missing is not a legal mechanism, it is the will to sit down and build one,\" he said.\n\nMalanjum, a Sabahan, was speaking at the launch of a book, \"Citizenship in Crisis: The Ripple Effect of the Undocumented Migrants in Sabah\".\n\nThe book, authored by Sessions Court judge Dr Melissa Chia, is based on court cases, notes of proceedings from the Royal Commission of Inquiry (RCI), archival material from the Sabah Archives and Sabah government, and field interviews.\n\nMalanjum said many foreigners caught up in \"Project IC\" — which refers to long-standing claims over the illegal issuance of Malaysian identity cards to immigrants in Sabah — were never actually made citizens.\n\n\"They stayed and raised families, and now stand before our National Registration Department and our courts, unable to prove who they are,\" he said, adding that this had created a permanent underclass of stateless children.\n\nHe said although the RCI recommended establishing a permanent secretariat to investigate, manage and resolve the problem, it never functioned as intended due to a lack of political will.\n\nMalanjum said the issue was unjust to Sabah, as the entire human, fiscal and social burden was placed on a single state.\n\nHe proposed that if the Federation were to regularise any part of this population, it should bear the burden itself.\n\n\"Those found eligible for a lawful status should not automatically be concentrated in Sabah, but distributed across the states of Malaysia in proportion to capacity, with the funding to match,\" he said.\n\nHe said freedom of movement under Article 9 of the Federal Constitution cuts both ways, while Sabah retains immigration autonomy under Part VII of the Immigration Act.\n\nChia recorded two proposals in her book, including a truth and reconciliation commission based on the South African model and an independent tribunal to determine status case by case.",
-   "summary_ja": "",
+   "summary_ja": "コタキナバル：サバ州の長年にわたる不法移民問題は、提案された解決策を実行する政治的意志の欠如のせいで続いている、と元首席判事のトゥン・リチャード・マランジャム氏は語る。",
    "impact": 3,
    "issues": [
     "身分証・在留資格",
     "市民権の申請"
    ],
-   "figures": []
+   "figures": [],
+   "body_ja": "コタキナバル：サバ州の長年にわたる不法移民問題は、提案された解決策を実行する政治的意志の欠如のせいで続いている、と元首席判事のトゥン・リチャード・マランジャム氏は語る。\n\n同氏は、不正に発行された身分証明書の回収から、サバ州独自の身分証明書、カド・ワルガ・アシング、パス・センタラ・サバ州の導入に至るまで、長年にわたって数多くの提案が提出されてきたが、結局廃案になったと述べた。\n\n「欠けているのは法的メカニズムではなく、腰を据えて法的メカニズムを構築する意志だ」と同氏は述べた。\n\nサバハン族のマランジャムさんは、「危機にある市民権：サバ州の不法移民の波及効果」という本の出版記念講演で講演した。\n\nこの本はセッションズ法廷の判事メリッサ・チア博士が執筆し、裁判例、王立調査委員会（RCI）の議事録、サバ州公文書館とサバ州政府のアーカイブ資料、現地でのインタビューに基づいている。\n\nマランジャム氏は、「プロジェクトIC」（サバ州の移民に対するマレーシア人の身分証明書の違法発行を巡る長年にわたる主張を指す）に巻き込まれた多くの外国人は実際には国民になったことはないと述べた。\n\n「彼らは滞在して家族を育て、今では国民登録局と裁判所の前に立っているが、自分たちが誰であるかを証明することができない」と同氏は述べ、このことが無国籍の子どもたちの永久的なアンダークラスを生み出していると付け加えた。\n\n同氏は、RCIは問題を調査、管理、解決するための常設事務局の設立を勧告したが、政治的意志の欠如により意図したように機能することはなかったと述べた。\n\nマランジャム氏は、人的、財政的、社会的負担全体が単一の州に課せられているため、この問題はサバ州にとって不当だと述べた。\n\n彼は、連盟がこの人口の一部を正規化するのであれば、連盟自身がその負担を負うべきだと提案した。\n\n同氏は、「合法的地位の資格があると判断された者は自動的にサバ州に集中するのではなく、収容能力に応じてマレーシア全州に分散され、それに見合った資金が提供されるべきである」と述べた。\n\n同氏は、連邦憲法第９条に基づく移動の自由は双方向を遮断する一方、サバ州は移民法第７部に基づく移民自治権を保持していると述べた。\n\nチアさんは著書の中で、南アフリカのモデルに基づく真実和解委員会と、ケースバイケースで地位を決定する独立法廷の設置という２つの提案を記録した。",
+   "summary_ja2": "コタキナバル：サバ州の長年にわたる不法移民問題は、提案された解決策を実行する政治的意志の欠如のせいで続いている、と元首席判事のトゥン・リチャード・マランジャム氏は語る。同氏は、不正に発行された身分証明書の回収から、サバ州独自の身分証明書、カド・ワルガ・アシング、パス・センタラ・サバ州の導入に至るまで、長年にわたって数多くの提案が提出されてきたが、結局廃案になったと述べた。"
   },
   {
    "title": "35 pati ditahan dalam Ops Mahir di Cheras",
@@ -173,45 +175,6 @@
      "raw": "289 individu"
     }
    ]
-  },
-  {
-   "title": "133 Undocumented Immigrants Detained In 20 Sabah Immigration Operations - TV Sabah",
-   "summary": "KOTA KINABALU: Sept 7, 2026 – The Sabah Immigration Department detained 133 undocumented immigrants during 20 enforcement operations conducted across the",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYS16SnVFclJvdmpUNHFDN25adkxSeUFpQk1jeHB1TU9GR3VycE5hU0Zmd1lta3FOWFgyT2NYUlk2cHdpYmI3bkNDNmxJWXFQazlRQ3dmdXppbkxVN24wTUcxUERTT25fZG1BR2tuTGNrWDFaREtGWjRaa0NIdHB0SDFzcFBhZ2JCNjMyalRhTWFCUWVEUm9OZXJsMlM?oc=5",
-   "source": "tvsabahnews.com",
-   "date": "2026-09-07T05:02:01Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "33797200bf74",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "",
-   "summary_ja": "",
-   "first_seen": "2026-09-12T15:45:19Z",
-   "impact": 0,
-   "issues": [],
-   "figures": [
-    {
-     "n": 133,
-     "kind": "拘束",
-     "raw": "133 Undocumented"
-    },
-    {
-     "n": 289,
-     "kind": "拘束",
-     "raw": "289 individu"
-    }
-   ],
-   "url_real": "https://tvsabahnews.com/133-undocumented-immigrants-detained-in-20-sabah-immigration-operations/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/09/IMG-20260907-WA0030.jpg",
-   "image_alt": "133 undocumented immigrants detained in 20 Sabah Immigration operations",
-   "site_name": "TV Sabah | News Portals",
-   "body": "KOTA KINABALU: Sept 7, 2026 – The Sabah Immigration Department detained 133 undocumented immigrants during 20 enforcement operations conducted across the state from Aug 27 to Sept 3.\n\nThe operations involved screening 289 individuals at various strategic locations throughout Sabah’s districts.\n\nOf the total detainees, 97 were Filipino nationals comprising 45 adult males, 25 adult females, 18 male children and nine female children.\n\nSabah Immigration also detained 32 Indonesian nationals, consisting of 27 adult males and five adult females.\n\nThe remaining four detainees were Pakistani nationals, all adult males.\n\nThe Sabah Immigration Department said enforcement operations would be continuously intensified at strategic locations across all districts to ensure compliance with immigration laws.\n\nThe public has been reminded not to shelter, employ or assist foreign nationals who violate the country’s legal provisions and are urged to report undocumented immigrant activities through official Sabah Immigration Department channels.\n\nSource: Sabah Immigration Department",
-   "body_ja": "",
-   "enriched": "ok",
-   "enriched_v": 3
   },
   {
    "title": "133 PATI Ditahan Dalam 20 Operasi Imigresen Sabah - TV Sabah",
@@ -543,7 +506,7 @@
    "title": "Sabah Immigration Repatriates 4,750 Illegal Immigrants So Far This Year",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kMExDM3BxaXpsTnVhQ0J1cEpId25KbEhwQlh2N3pvWXRadkVHTERqSHlpcThQeUthTkpRTVp5Zkh6MmZQVUZMNUxIcEktMkRMRnpuVXBrZ1E0TTZOLV9KY0ZFZTA?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-08-20T13:46:00Z",
    "lang": "en",
    "origin": "news",
@@ -804,6 +767,48 @@
    ]
   },
   {
+   "title": "Malaysia-Filipina percepatkan penghantaran pulang lebih 5,000 PATI",
+   "summary": "MANILA - Malaysia dan Filipina pada Selasa membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin dari Filipina...",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPODlMZHRRY3REenlpeTM4SVh0SDk5MU5uUlRCS1I3bW1kOS1BQW1UN1IzMnd0ZU8zM3I2blpXTnI0UVVFQXprS0RfV1FhdEJERmRRa0QxTEpWZ3hzX3BlWjRob3Z2dWc3LXl1T1kwaV9SVW5pWTI5clV2S2dDejBma3J3cjNhYjk3M0xwdlZhbkFYNXFJd3VNUl8zUUhsQlpxV1ZZejBlQzYzNHRxN2RTQmxxV054T1ByZ2REMnRSbTNJSFc4VFk0X0o3OVVjQUR2SEhZ0gFcQVVfeXFMTUtHQUxvSUE2LVFfS3V3aVVYa040NGRrbzREWTFhNFQwSGFsMU5TQXU4djFqUktQZzdmNlBIZnF1YVBHLVdmci0xMjZPeE8yQTlGWHg4azlTTWJhQ0g?oc=5",
+   "source": "Sinar Harian",
+   "date": "2026-08-18T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "ac9005b92b18",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "マレーシア・フィリピン、5,000人以上の国内避難民の送還を加速",
+   "summary_ja": "マニラ - マレーシアとフィリピンは火曜日、フィリピンから5,000人以上の不法移民を本国に送還するプロセスを加速するための措置を協議した。",
+   "first_seen": "2026-09-12T20:48:54Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "教育アクセス"
+   ],
+   "figures": [
+    {
+     "n": 5000,
+     "kind": "拘束",
+     "raw": "5,000 pendatang"
+    },
+    {
+     "n": 1000,
+     "kind": "送還",
+     "raw": "1,000 individu"
+    }
+   ],
+   "url_real": "https://www.sinarharian.com.my/article/792551/berita/nasional/malaysia-filipina-percepatkan-penghantaran-pulang-lebih-5000-pati---mohamad",
+   "image": "https://www.sinarharian.com.my/uploads/images/2026/08/18/3618822.webp",
+   "site_name": "Sinar Harian",
+   "body": "MANILA - Malaysia dan Filipina pada Selasa membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin dari Filipina yang berada di empat pusat tahanan di Sabah.\n\nMenteri Luar, Datuk Seri Mohamad Hasan berkata, saringan Kedutaan Filipina di Kuala Lumpur telah mengenal pasti lebih 1,000 individu daripada jumlah itu yang boleh dihantar pulang.\n\n\"Pusat tahanan ini sudah tidak mampu menampung jumlah tahanan yang begitu ramai,” katanya kepada Bernama selepas Mesyuarat Suruhanjaya Bersama (JCM) Malaysia-Filipina kesembilan di Jabatan Hal Ehwal Luar Filipina di sini pada Selasa.\n\nMohamad berkata, Malaysia mahu kerajaan Filipina mengambil tindakan segera bagi membawa pulang tahanan tersebut ke negara asal manakala proses saringan bagi kumpulan seterusnya akan diteruskan.\n\nSelain itu, Mohamad berkata, kedua-dua negara turut membincangkan isu pendidikan anak warga Filipina di Sabah, dengan Malaysia bersetuju untuk melihat keperluan menyediakan kelas pembelajaran bagi membolehkan mereka meneruskan pendidikan sebelum dihantar pulang.\n\nBagaimanapun, beliau menegaskan sebarang kemudahan pendidikan itu perlu diuruskan oleh kerajaan Filipina bagi memastikannya dikawal selia dengan baik.\n\n\"Kita tidak mahu ada sekolah persendirian ditubuhkan dan kemudiannya tidak dapat dikawal,” katanya.\n\nSementara itu, berhubung isu tuntutan Sabah oleh pihak tertentu di Filipina, Mohamad berkata, perkara itu tidak dibincangkan secara langsung dalam JCM, namun meminta negara itu menghormati undang-undang dan pengiktirafan antarabangsa bahawa Sabah sebahagian daripada Malaysia.\n\n\"Sabah telah diiktiraf oleh Pertubuhan Bangsa-Bangsa Bersatu (PBB) sebagai sebahagian daripada Malaysia. Jadi tidak timbul isu untuk mereka mengatakan Sabah bukan wilayah Malaysia,” katanya.\n\nTerdahulu, Mohamad mempengerusikan JCM bersama-sama Setiausaha Luar Filipina Ma. Theresa P Lazaro. - Bernama",
+   "body_ja": "マニラ-マレーシアとフィリピンは火曜日、サバ州の4つの収容所に収容されているフィリピンからの不法移民5,000人以上の送還プロセスを加速するための措置を協議した。\n\nダトゥク・セリ・モハマド・ハサン外務大臣は、クアラルンプールのフィリピン大使館による検査の結果、その中から帰国の可能性がある1,000人以上の個人が特定されたと述べた。\n\n同氏は火曜日、ここフィリピン外務省で行われた第９回マレーシア・フィリピン合同委員会（ＪＣＭ）会議の後、ベルナマに対し、「この拘置所はもはやこれほど多くの被拘禁者を収容する能力はない」と語った。\n\nモハマド氏は、マレーシアはフィリピン政府に対し、次のグループの審査プロセスが継続される間、被拘禁者を出身国に戻すための即時措置を講じることを望んでいると述べた。\n\nさらに、モハマド氏は、両国はサバ州でのフィリピン人の子供たちの教育問題についても議論し、マレーシアは、彼らが帰国する前に教育を継続できるように学習クラスを提供する必要性を認めることに同意したと述べた。\n\nしかし、教育施設は適切に規制されるようフィリピン政府によって管理されるべきだと同氏は主張した。\n\n「私たちは私立学校が設立された後にそれを管理できなくなることを望んでいません」と彼は言いました。\n\n一方、フィリピンの一部当事者によるサバ州の主張の問題に関して、モハマド氏は、この問題はJCMでは直接議論されなかったが、法律とサバ州がマレーシアの一部であるという国際認識を尊重するよう同国に求めた。\n\n同氏は、「サバ州はマレーシアの一部として国連によって認められている。したがって、サバ州がマレーシアの領土ではないと言うことに問題はない」と述べた。\n\nこれに先立ち、モハマド氏はフィリピンのマー外相とともにJCM議長を務めた。テレサ・P・ラザロ。 - 名前付き",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "マニラ-マレーシアとフィリピンは火曜日、サバ州の4つの収容所に収容されているフィリピンからの不法移民5,000人以上の送還プロセスを加速するための措置を協議した。同氏は火曜日、ここフィリピン外務省で行われた第９回マレーシア・フィリピン合同委員会（ＪＣＭ）会議の後、ベルナマに対し、「この拘置所はもはやこれほど多くの被拘禁者を収容する能力はない」と語った。"
+  },
+  {
    "title": "Malaysia, Philippines discuss swift repatriation of 5,000 undocumented migrants detained in Sabah depots",
    "summary": "MANILA, Aug 18 — Malaysia and the Philippines today discussed measures to expedite the repatriation of more than 5,000 undocumented Philippine migrants held at four immigration...",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEYwOU5oVUNLYXI1SE9TYy1wRlYxZTViQ2JlT1g3N3VCd2pUbFQ4aXFwSGcyQlJUa3FoU1RxOWNJRUwzOGd6ejZzSVpHbnM3cVk2Wnc2aUpEY3Npc0xBMzYtUDUyaGlWeWdQclF6TTBjWGduV0xYdlFsU3NldGtiaFNqaXBSd2tuS1k1MXRITk9GbTFQX0gwaDhzbl80a3JFWnY5b0lqSUJkcjlkY1BPR1FRWXlMQUpOZ3NGNFZHRVh3VU4zeTZFSjBTbEhubGhvSUJhZHdiVkMyeFRZaXQteDcwMjJJWmJHMEFvWU15dFREd9IB9wFBVV95cUxOWGlGUUVpaFptS3NMUS1femd3aDFzMWxhVDIzR3JPR01tdFFDdE5DZnp5M2FmNDZXTGZ1NTRwTjM0aUxrdUJqbWZkc0tBQzJGbkIxY2FZQ1pxRGhDLUNKdG9PUnlWOVpGTDdqLXdoY1RwWnhuT0dXcVVBQ24xeUtabnh0aTFNbFo2Qy1uRUFVMExfaEp4UDVuOU1kZ1R4dUxRZlhOZ1dxOVdvbUJEUXpTUVhoWEhuTFhQUnM2SWp3TTIzT01JZ1lVS3R0bXR5V2lCQXpEdWpiSUJfZ1Jqd1FxQjMxTFQxMlhLcnM4MkxOVFJ6QU8yOC1Z?oc=5",
@@ -993,7 +998,7 @@
    "title": "Act on NGO involved in MyKAS assistance",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUlfdFFQckRIMFFuaEFkOU9PMmEyZkUweWI4RU1MUDhJYW9sX01tOWdfQnBOS3pqNEs2RW5ncnR6UXNEa1o5elJ4d2JFWUt1WERzUk9GbWRUQkdCLVdSSEdUdmJUNXZMZUZpWXZwU2xrOFRWTWpoRkJiMHRTX1NiaUw5Vmc0WENqZ3ZvMw?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -1220,7 +1225,7 @@
    "title": "Decade-old image misrepresented as Filipinos arrested in Sabah migrant crackdown",
    "summary": "Malaysian immigration officials have continued their crackdown on undocumented migrants in the state of Sabah, but a photo of men in a crammed space does not show detained members of the Tausug ethnic...",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jY2pTWGxvZHcxQTZzWVROUXJSSVQ1TXBxMzU5NDJFM29IbmdYX29lV1pOSVM1V0FKX2x5Wm52OHpqOWJqUUc1VGxVaUxqR2s4NWcyQXRhQ1g?oc=5",
-   "source": "AFP Fact Check",
+   "source": "factcheck.afp.com",
    "date": "2026-08-04T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -1561,7 +1566,7 @@
    "title": "Viral detention depot death claims baseless: Sabah Immgiration",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3Rfcldpclh5eG5ZNjNzSlRCQkFjTnRzQWVqcXdBdEFDVnF1R1JLR2ctYlVUQkFEOXEyVFJCSldJSGc5VGl4Z0tYQklnZUhIQml2SVM4YVVvZHdMNkZtUzhZZWtIaV9lV0pTM252RnB5ME9yZXA3cTlCWW1FUWl6NlJHdFltUVo4MTNBZGFDdXY5RlE0V3BZMDAwTV8tT3dYWmcyRzNvQmFaUQ?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2390,7 +2395,7 @@
    "title": "208 PATI ditahan dalam operasi Imigresen Sabah",
    "summary": "Jabatan Imigresen Malaysia Sabah menahan 208 pendatang asing tanpa izin menerusi 26 operasi penguatkuasaan yang dijalankan di seluruh negeri itu. Operasi berkenaan melibatkan pemeriksaan ke atas 1,187 individu bagi membanteras kehadiran PATI dan penyalahgunaan kemudahan imigresen.",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXN0ZkJxMzd0MnJfWk93QklIM0Rxd3pJMVlfTjdlUmVCY3lxRGhzYTdKN09CUGM5WkMtNmFhSlByN0RVSmtwamFsQVN1NzZZUEthLWZCUDIwV2NqdVdYWjJHN3Rqa3pZWHNCbUcxTW82Q2E0QXVSUmdyNS1ER05ibmRlc3FuQQ?oc=5",
-   "source": "Astro Awani",
+   "source": "astroawani.com",
    "date": "2026-07-04T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -2572,7 +2577,7 @@
    "title": "Sabah Detains Indonesians, Filipinos in Recent Migrant Sweep",
    "summary": "Sabah Immigration said 91 undocumented migrants were arrested after 373 people were screened in Kota Kinabalu, Kudat, Tawau and Ranau on June 24.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2owY2NvczJPMG9BcmpObEplWlJQTC1mUWZ1Y1E0N1RiYk1mNlJ6SW11UjJ3R2hRM3VQcU12YWtIWTNvM2lDX0FJUnRYcGFTMTFnanUtMk1LX1VnZzJHaWg3cHFmZzR5SGt3bUl3VENnTkg0dFlfWFNVdkliQzF3Tk9ZdTI0TjVmSFJPZWVfLUpObFpSRk1hbjlUYUtwS3FnRHRkQkFiQUxJR2c?oc=5",
-   "source": "migrantimes.com",
+   "source": "Migrant Times",
    "date": "2026-06-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2963,48 +2968,6 @@
      "raw": "46 individu"
     }
    ]
-  },
-  {
-   "title": "JIM Sabah Tahan 91 PATI Di Empat Daerah - TV Sabah",
-   "summary": "KOTA KINABALU: 25 Jun 2026 – Seramai 91 Pendatang Asing Tanpa Izin (PATI) ditahan dalam beberapa operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sQngzTUZoOWRocnlfN1J6MER3TWdtSzVrT0M4Z2hVQ0NHY3NUSlpObWFqT1NkREtxS2JSOTNoLWhkN0ZzWE9DMXFTX1Q0UGt4b1lhd2V0UktFQi1wNG9hc0FBYjRLb0Q5ZVhEdkZXM2Rndw?oc=5",
-   "source": "tvsabahnews.com",
-   "date": "2026-06-25T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "6d46deb4abb4",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "",
-   "summary_ja": "",
-   "first_seen": "2026-09-12T15:45:19Z",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還"
-   ],
-   "figures": [
-    {
-     "n": 91,
-     "kind": "拘束",
-     "raw": "91 Pendatang"
-    },
-    {
-     "n": 46,
-     "kind": "拘束",
-     "raw": "46 individu"
-    }
-   ],
-   "url_real": "https://tvsabahnews.com/jim-sabah-tahan-91-pati-di-empat-daerah/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/06/photo_2026-06-25_13-04-56.jpg",
-   "image_alt": "JIM Sabah tahan 91 PATI di empat daerah",
-   "site_name": "TV Sabah | News Portals",
-   "body": "KOTA KINABALU: 25 Jun 2026 – Seramai 91 Pendatang Asing Tanpa Izin (PATI) ditahan dalam beberapa operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah yang dilaksanakan di Kota Kinabalu, Kudat, Tawau dan Ranau.\n\nOperasi yang melibatkan pemeriksaan terhadap 373 individu itu membawa kepada penahanan 91 warga asing yang disyaki melakukan pelbagai kesalahan imigresen, termasuk tidak memiliki dokumen perjalanan yang sah dan melanggar syarat pas.\n\nDi Kota Kinabalu, operasi membabitkan Ops Selera, Ops Belanja, Ops Serkap, Ops Sapu dan Ops Kutip merekodkan jumlah tangkapan tertinggi dengan 46 individu ditahan daripada 151 yang diperiksa.\n\nDi Kudat, Ops Sapu yang dijalankan terhadap 46 individu membawa kepada penahanan sembilan warga asing, manakala di Ranau, operasi sama merekodkan 13 tangkapan daripada 17 individu yang diperiksa.\n\nOperasi bersepadu bersama Jabatan Pengangkutan Jalan (JPJ) dan Agensi Antidadah Kebangsaan (AADK) di Tawau, memeriksa 159 individu dan menahan 23 warga asing.\n\nSumber: Jabatan Imigresen Negeri Sabah",
-   "body_ja": "コタキナバル：2026年6月25日 - コタキナバル、クダット、タワウ、ラナウで実施されたマレーシア入国管理局（JIM）サバ州による複数の強制捜査で、合計91人の不法移民（IMM）が逮捕された。\n\nこの作戦では373人の検査が行われ、有効な渡航書類の所持やパスポート条件への違反など、さまざまな入国犯罪を犯した疑いのある外国人91人の逮捕につながった。\n\nコタキナバルでは、セレラ作戦、ベランハ作戦、セルカップ作戦、サプ作戦、クティプ作戦が関与した作戦が最多の逮捕数を記録し、検査を受けた151人中46人が逮捕された。\n\nクダットでは、46人に対するオプス・サプ作戦により9人の外国人が逮捕され、ラナウでは同様の作戦により、検査を受けた17人のうち13人が逮捕された。\n\nタワウでは道路交通局（JPJ）と国家麻薬取締局（AADK）との共同作戦により、159人を検査し、23人の外国人を拘束した。\n\n出典: サバ州入国管理局",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "コタキナバル：2026年6月25日 - コタキナバル、クダット、タワウ、ラナウで実施されたマレーシア入国管理局（JIM）サバ州による複数の強制捜査で、合計91人の不法移民（IMM）が逮捕された。コタキナバルでは、セレラ作戦、ベランハ作戦、セルカップ作戦、サプ作戦、クティプ作戦が関与した作戦が最多の逮捕数を記録し、検査を受けた151人中46人が逮捕された。"
   },
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
@@ -3669,7 +3632,7 @@
    "title": "Minister calls for careful review of IMM13 deportation petition",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEJnYWVyOWpleFdjMmtTZWtmMWJhXy1hQXlNS3VZeUU5UTRXT21hc0xLZlRsenNWb2g0djllSXRhMmp0aVBjM0ROVGxqdjZQNHBnbUhUY1VvNjJtYTJzY2FpSVc0TGxOSlpPMENVZzh5bnZVdEt4cWlUVWZ2R3BNSzdtczlrQzZ2WWVBWjBzMUFDY3I2QUJHWk5zRnVOS1ltYTRDbXJjYXRHLWdw?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-06-11T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -3698,7 +3661,7 @@
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxVZ3Z5cTRUYkQtRGlXaTVia0RmQlhrbzdDekxwMFk2QlYwOG1STHFqZ0g1MnFNV3lycWdhcVBVb0tCcm9wZXlkRVpzaTB4WU9DTVhFMmc0cU9zRUVibUQ5ZWFuMFZVVUtPclh0b05IMnJ1NlM0dVd3aEVZdzA5OWtqYnNwSTA4MFBVSnhNdk1QV2NSR0VlVTZuZ2hmSHd1Vkln?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-06-11T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3995,7 +3958,7 @@
    "title": "Pelarian di Sabah mesti ada keinginan berubah, mekanisme penyelesaian perlu holistik – Mufti Sabah",
    "summary": "Mufti Sabah, Datuk Bungsu Aziz Jaafar berkata pelarian asing yang masuk ke dalam sempadan negara dan menetap di Sabah perlu ada keinginan untuk berubah. Jelasnya, azam untuk menambahbaik nasib diri itu perlu disusuli dengan mekanisme penyelesaian yang holistik. #AgendaAWANI",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcDB5VXUtaFZaNW5aUTlkWF81SXRUNmR2MW1UaVo4blVXOTRXYXNaRW9PM0QzUVRsUWFZUFg3MGFkV0VlUFZhTWk2N2hteWJSSlo4TlZEZVFQWWtnVkJMOEFmb1VtRkdBb2NJb29hRVYtUzYyZUdGRmdjU3FjY0FHd285RUd1bDdfeW9mMGZpcWNBdmstU3hraGNfY2lwOEthSlBwSHVpS2FtWDJsQ2tLUDZrc3FJTkpTZTlwQ0Y5RDJOU1Y0LUJfeg?oc=5",
-   "source": "Astro Awani",
+   "source": "astroawani.com",
    "date": "2026-05-27T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4050,7 +4013,7 @@
    "title": "Rakyat Sabah perlu difahamkan isu pelarian melalui lensa kemanusiaan – Mufti Sabah",
    "summary": "Mufti Sabah, Datuk Bungsu Aziz Jaafar berkata warga Sabah perlu difahamkan mengenai isu pelarian yang masuk ke dalam negara dengan pendekatan yang rasional dan berasakan nilai-nilai kemanusiaan. #AgendaAWANI",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGlLVnFoTW5MUG94NHlQYmowY1pjQUNUV1p4aG03Rmt4Zko1S2x4d05KWjJLTEZvTEpQaTg5em9rNkFRNnZfNlFaUFBUUlRfYlFBaHV6Z0ZMaGQ4MFRuQ3FpQXNUV3d6SzNWRWVpQktMbk9wTVlmSk1WakpDZ2hSWVpfYmRQaFVjWm8tYXlxX1pkOVQ1VGZRMUdMTzU2RTc2M210X2lrNnFfbndoLUFxWmNuTGw?oc=5",
-   "source": "Astro Awani",
+   "source": "astroawani.com",
    "date": "2026-05-27T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4081,7 +4044,7 @@
    "title": "Perlu tindakan segera isu tanpa kewarganegaraan, cadangan MyKAS",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHVvakxOV2p2VURsa2pDbXBuWExkSWlPUUNtS0gxcjJPY0ZqTkN5aE85Zk5XeXpkTnhFSDNTTW45cXFkWkFzdnl1OHR4R080VVREcjd2UnltLTdDWThRdnF1Z2VwbFM5ejlyWDMzdVd2cm0yOHhuUjAwR3BpX21ibUFZWGtPZkYzYkRIS3JodmxJUjZsZG5MNmhvb015TzA2T1JvazJxTHZ2dVE?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-05-26T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4260,7 +4223,7 @@
    "title": "Improve rather than replace MyKAS: Malaysia International Humanitarian Organisation",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDYxbEZIS3lrUHU1MXJVRC0zZTFWZnpVYnhUZEZ5Wl8xQ3lLdDVCNDJfY2NTNHd3cW80ODc1ZVZmUEpHYWxJc0hCamdsYkFHZW5UbU1ac1BJUHdwbUp6SlNQUC13MVJZOFZ2VGF5eGZRVVMwVTVxdkdNLVpPaWJ5ZzFXZFFrT0l6Vl81Q0pWeWZBR1Z4XzJGOHNRbFcxcDMzTGFhNVBaZ09qZGZnNUUxaldsTHJsR2kyT2NmZGZwVFNwWHhBREE?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -4313,7 +4276,7 @@
    "title": "MHO urges Putrajaya to revise MyKas policy",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWld1ZXFTcVdHLXBDZGduWmRqQUpqUHhOemFoNzl0SnV6UGt6RHcyVWRmanF4N3Q2bDIwRWRvQUhlczNuR21iY0VnWmxFeHRyOU9LelRKdWtkNUxuQ0JtU2Z1Q2dMaERtZVVhdTBQU0VxSXNyWUNta1B4R0c0bGdwTWhzRFhPN09YaHpYOVlmUDU?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -4480,7 +4443,7 @@
    "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "Lahad Datu: Jabatan Imigresen (JIM) Sabah memindahkan seramai 285 pendatang asing tanpa izin (PATI) warga Filipina ke negara asal menerusi Program Pemindahan Tahanan Asing di Pelabuhan Lahad Datu di sini, semalam.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9ZdW9sSlFHSXpKOUg5bHFMeU9hdGNyV18tZzd4YldkWDJnMmg2c2xLZ3lhOXl5MnhpUHN4c3gwQmtfay1UdXgxa0VGSVJUZ1Q5cmxxbF9IeTVaSEZqa0gydnRsSlhfakM2VWliczJHSGlHdkV5RFViTnJiWXJNLVIwRTBlT0FkcFRaVE56NmpnUlBsN2REYjhUSWlWUDJaazB4LVk0TXc?oc=5",
-   "source": "Harian Metro",
+   "source": "hmetro.com.my",
    "date": "2026-05-14T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4692,7 +4655,7 @@
    "title": "Ops Sapu nets 21 undocumented foreigners in Kota Kinabalu",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNFQwSDUycXBnZUtQQzN3WUFldm9naFczRkpkdXhaM1hUdkphalNiVk5WQXI4X25YWTZTNFVsSXlqNTJ1WmVHaUw3cmhzQWhta1ZQZVc5OVd0dVpZYWtadjhfYkJHRVl5UW9rVVh2OXZiQmkwOS00dzJ2YXVwem50bThmNXBETy0wY0R6c2YtRUxaSzlEZmtOVTY0aWNHV3JudDV5ZA?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-05-09T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -4811,8 +4774,8 @@
    "query": "Sabah IMM13 OR MyKAS",
    "id": "626eb193d46c",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、文書危機に対処するために無国籍者向けの MyKAS カードを支援",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -5739,7 +5702,7 @@
    "title": "Four Bajau Laut charged with illegal entry into Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYUV2N21UU09Gd082M2UxYmdvd1JHZGh6MW1XbmpGa0FVQVBxaWFib0xBektIWEh4ZjdqeHVYdF9BbUtQMlQ0cGhXMXVoQU0xYkZvQVRab2dsRGNIaEtXVXFqemdSUVVzV1llcldTYnM3QVNGNjZkY0NWcWV0LTVwS3FvY3lMb2tuelUxdkV2Q1RoSmRFcUZyUzdVY2p2c1k?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -5797,7 +5760,7 @@
    "title": "Four stateless Bajau Laut charged, three get bail",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2JaZVE5Z1ZxTDZoWFlJVXptWHJQc3p2U0ZreVBhSUJpZE1pY3d5anJ5djhETUI3QW1zN0YyQ0FCbC1va3JvV0V5YW1Vb1BmenA4aThBV19HUlA3S1QzWlVzMzdQMTlQdVZ5YTBCbTJIazZ4bXJndjhXclJRYWI2dTBuSXdmWm51NnM2amU5SEVkLU5pdnpHcg?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2026-03-31T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -6081,7 +6044,7 @@
    "title": "44 PATI ditahan dalam operasi di Kota Kinabalu",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcHc2UFFVVEhGZWl4MnlFUHVZa2hFNmRaSkFNWVlyQzNldEZFV1owaGJLMnMyN2NtMURwR2R6WlFBeXVBb2RsQ3pMY2l3c3ozXzZ4T1RFbGNESFQ4WW1IX2dTM3E1UXFKVXZMRHFkdzVtTE4weDJBZ2JScw?oc=5",
-   "source": "TV Sabah News",
+   "source": "tvsabahnews.com",
    "date": "2026-02-26T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -7634,7 +7597,7 @@
    "title": "Calon PRN kena tahu tanggungjawab, tanggani isu PATI di Sabah – Azharina",
    "summary": "Calon PRN kena tahu tanggungjawab, tanggani isu PATI di Sabah - Azharina",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1gwdzlXUTl3RXJUVjgzQldlRVBEdzFUOXo2M0hEX1YyZXp6b2trakJpUnlLRFpuUzZKVzNiaG9WbEc5RTlPLXI5azFaSE0xMjR2SW1QQWRrWHpkZ2k2d1hzdFViUDNndnBaZzJHQkYwb1ltbloteXdGNU0zeEhLSm00MW5nME1XV2EwVjBhazRzYlNqd05iQ0I4MTYyM1k5NTRCWnlLbTFZLU5neWFYbWktRTh5c1VR?oc=5",
-   "source": "utusan.com.my",
+   "source": "Utusan Malaysia",
    "date": "2025-11-19T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -7799,7 +7762,7 @@
    "title": "Young Voices: The lottery of birth: Sabah’s stateless youth",
    "summary": "Whenever I return to Kota Kinabalu, I fall back into a rhythm that feels older than me — my mother’s siblings at the dinner table, the smoke of lamb roasting outside, the sea stretching endlessly beyond the garden. Each visit reminds me how rooted I am here. We may share the same waters but not t...",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zbDJiTHpEcjczY01hOEZxOGNuWHJUeDlkdXJYbHdGUW5HQ2VtNkxydUdjSlZVN01BamVqcUhSWllpLUtqczRLZ3Q3ZDdxcWVk?oc=5",
-   "source": "The Edge Malaysia",
+   "source": "theedgemalaysia.com",
    "date": "2025-11-06T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -8335,7 +8298,7 @@
    "title": "Bajau Laut woe should be handled differently",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaERYUW9ELW9KZHMwMHpCM0JicDU0Zmp2UzNzSzlTM21xeVJyRFZaN0l5TkNHTUlYNmVnanR5LVVyLWdUMG95SzdFOFBBMGNpQnB3ellGUlIwem11NW9EV0dDNzE1ZlNJQ2UxR0JtZkEtLXVrTkdQZEw0US1fSXIyOHpiVThlMUNoZTNXODNHclI?oc=5",
-   "source": "Daily Express Malaysia",
+   "source": "dailyexpress.com.my",
    "date": "2025-08-24T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -8414,7 +8377,7 @@
    "title": "Isu kewarganegaraan kanak-kanak Sabah, keselamatan negara tetap diutamakan",
    "summary": "Kerajaan MADANI terus memberi perhatian khusus berhubung isu kewarganegaraan kanak-kanak yang berlaku di Sabah menerusi Mesyuarat Jawatankuasa Khas Status Kewarganegaraan",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUttUzRNNlhURHM1LWphTmxkNHVsS0FCLWUtZVUtNGQyY2tGb2hpN0RtdTZjTFNhRTEzNHFDd3A1d21fd0cyRkV3RC03eGdudncyYlJfSTZadUE3bUVaUHRSX2FTdTgyc2hzakZMdDJmOU9HVzBBNWJfdGE3eVNGOTVGeVM2TENKVjU3amZYR2lTRjdFWWRjWnExVW1vYXlJbW1XeXFrNlRCRVBLYVgzZEJn?oc=5",
-   "source": "Malaysia MADANI",
+   "source": "malaysiamadani.gov.my",
    "date": "2025-08-15T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -8569,5 +8532,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-09-12T15:50:25Z"
+ "enriched_at": "2026-09-12T20:49:21Z"
 }
