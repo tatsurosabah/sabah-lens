@@ -568,6 +568,7 @@ main { padding-bottom: 66px; }
   background: var(--surface-2, #f3f5fa); border-radius: 12px; padding: 16px; margin-bottom: 18px;
 }
 .nobody p { margin: 0 0 12px; font-size: 13.5px; color: var(--sub); line-height: 1.6; }
+.nobody .snip { font-size: 15px; color: var(--ink); line-height: 1.85; }
 
 .ghost-wide {
   display: flex; align-items: center; justify-content: center; gap: 7px;
@@ -687,7 +688,7 @@ main { padding-bottom: 66px; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v10';
+const CACHE_LABEL = 'lens-v11';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
@@ -1069,9 +1070,13 @@ function openSheet(id) {
   // ここで「本文なし」と出すと、原文は取れているのに読めないことになる。
   const waitingJa = !bodyHTML && !!origHTML;
 
-  // 本文が取れなかった記事（Cloudflare で読めない媒体など）は、その旨を出して原文に誘導する
+  // 本文がまったく取れない記事（Cloudflare で読めない媒体）。
+  // それでも og:description だけは取れていることが多いので、せめてそれを日本語で出す。
+  // 何も無いまま「元サイトへどうぞ」と突き放すのが一番よくない。
+  const snippet = it.summary_ja || (trCache[id] && trCache[id].snip) || '';
   const noBody = `<div class="nobody">
-      <p>この媒体は本文を取り込めませんでした。原文でお読みください。</p>
+      ${snippet ? `<p class="snip">${esc(snippet)}</p>` : ''}
+      <p>この媒体はアクセス制限があり、本文全体を取り込めませんでした。</p>
       <a class="btn primary" href="${esc(linkOf(it))}" target="_blank" rel="noopener noreferrer">
         原文を開く
         <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-8 8M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
@@ -1109,10 +1114,7 @@ function openSheet(id) {
           <button data-lang="ja" class="${state.readOrig ? '' : 'on'}">日本語訳</button>
           <button data-lang="orig" class="${state.readOrig ? 'on' : ''}">原文</button>
         </div>` : ''}
-        ${waitingJa ? `<div class="pending">
-          <p>この記事はまだ和訳されていません。原文を表示しています。</p>
-          <button class="tr-btn" id="trBtn" data-id="${esc(id)}">この端末で日本語にする</button>
-        </div>` : ''}
+        ${waitingJa ? '<p class="pending" id="trStatus">日本語に翻訳しています…</p>' : ''}
         ${bodyHTML ? `<div class="btext" id="bodyJa" ${state.readOrig && origHTML ? 'hidden' : ''}>${bodyHTML}</div>` : ''}
         ${origHTML ? `<div class="btext" id="bodyOrig" ${(bodyHTML && !state.readOrig) ? 'hidden' : ''}>${origHTML}</div>` : ''}
       </section>` : noBody}
@@ -1145,22 +1147,32 @@ function openSheet(id) {
     if (state.expandBody) expandBtn.querySelector('.lbl').textContent = '本文を閉じる';
   }
 
-  // その場で翻訳。CI側は 429 で訳せないので、読む人の端末から訳す
-  const trBtn = $('#trBtn');
-  if (trBtn) {
-    trBtn.addEventListener('click', async () => {
-      trBtn.disabled = true;
-      trBtn.textContent = '翻訳中…';
+  // 本文が無く抜粋だけある記事は、その抜粋を訳す
+  if (!it.body && it.summary && !it.summary_ja && !(trCache[id] || {}).snip) {
+    (async () => {
+      try {
+        const ja = await translateChunk(it.summary.slice(0, 1200));
+        trCache[id] = Object.assign(trCache[id] || {}, { snip: ja });
+        saveTrCache();
+        if (openId === id) openSheet(id);
+      } catch (e) {}
+    })();
+  }
+
+  // 未訳なら開いた時点で自動的に訳す。ボタンを押させない。
+  // CI 側は 429 で訳せないので、読む人の端末から訳すしかない（詳細は translateBody のコメント）
+  if (waitingJa && it.body) {
+    (async () => {
       try {
         const ja = await translateBody(it.body);
         trCache[id] = { body: ja, at: Date.now() };
         saveTrCache();
-        openSheet(id);              // 訳が入った状態で開き直す
+        if (openId === id) openSheet(id);       // 開いたままなら訳を入れて描き直す
       } catch (e) {
-        trBtn.disabled = false;
-        trBtn.textContent = '翻訳に失敗しました。もう一度試す';
+        const st = $('#trStatus');
+        if (st) st.textContent = '翻訳できませんでした。原文を表示しています。';
       }
-    });
+    })();
   }
 
   // 日本語訳 ↔ 原文。どちらで読むかは覚えておく
