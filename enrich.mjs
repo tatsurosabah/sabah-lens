@@ -17,6 +17,10 @@ import { spawn } from 'node:child_process';
 // 抽出の仕様を変えたら上げる。上げると全記事が取り直しになる。
 const VERSION = 3;
 
+// Cloudflare を挟む媒体（Daily Express / Borneo Post / MalaysiaGazette）は
+// headless だと30秒待っても抜けられない。通常表示の Chrome なら抜けられることを
+// 実測で確認したので、--headful でそちらに切り替えられるようにした。
+// CI では xvfb-run 経由で使う（画面が無くても通常表示のChromeとして動く）。
 const args = process.argv.slice(2);
 const opt = (name, dflt) => { const i = args.indexOf(name); return i >= 0 ? args[i + 1] : dflt; };
 const FILE = opt('--file', 'news.json');
@@ -24,11 +28,13 @@ const LIMIT = Number(opt('--limit', '0')) || Infinity;
 const CONC = Number(opt('--conc', '5'));
 const RETRY_FAILED = args.includes('--retry-failed');
 const FORCE = args.includes('--force');
+const HEADFUL = args.includes('--headful');
 
 const PORT = 9377;
 const NAV_MS = 22000;      // 中継ページが記事に飛ぶまでの待ち上限
 const SETTLE_MS = 2000;    // 着地後、og メタが入るまで
-const CF_WAIT_MS = 20000;  // Cloudflare の自動チャレンジを待つ上限
+// Cloudflare の自動チャレンジを待つ上限。通常表示なら抜けられるので長めに待つ
+const CF_WAIT_MS = args.includes('--headful') ? 35000 : 20000;
 
 // 本文は全文を保存する（アプリ内で原文と和訳の両方を読めるようにするため）。
 // news.json は GitHub Pages でそのまま公開される点はユーザー了承済み。
@@ -56,12 +62,15 @@ async function startChrome() {
   for (const bin of CHROME_CANDIDATES) {
     try {
       chromeProc = spawn(bin, [
-        '--headless=new', '--disable-gpu', '--no-sandbox', '--no-first-run',
+        ...(HEADFUL ? [] : ['--headless=new', '--disable-gpu']),
+        '--no-sandbox', '--no-first-run',
         '--no-default-browser-check', '--disable-dev-shm-usage',
         '--disable-blink-features=AutomationControlled',
+        // 通常表示のときは画面外に出す。作業の邪魔をしないため
+        ...(HEADFUL ? ['--window-position=-2400,0'] : []),
         '--window-size=1280,900', '--lang=en-US,en',
         `--user-agent=${UA}`,
-        '--user-data-dir=/tmp/sabahlens-chrome',
+        `--user-data-dir=/tmp/sabahlens-chrome${HEADFUL ? '-headful' : ''}`,
         `--remote-debugging-port=${PORT}`, 'about:blank',
       ], { stdio: 'ignore' });
     } catch { continue; }

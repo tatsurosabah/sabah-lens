@@ -49,6 +49,19 @@ jobs:
           CHROME_PATH="$CHROME" node enrich.mjs --conc 6 --limit 220
         continue-on-error: true    # 解決に失敗してもニュース自体は落とさない
 
+      # Cloudflare を挟む媒体（Daily Express / Borneo Post / MalaysiaGazette）は
+      # headless だと30秒待っても抜けられない。通常表示の Chrome なら抜けられるので、
+      # 画面の無いランナーでは xvfb 経由で動かして取り直す。
+      - name: ブロックされた記事を通常表示のChromeで取り直す
+        run: |
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || true)"
+          [ -z "$CHROME" ] && exit 0
+          sudo apt-get install -y -qq xvfb >/dev/null 2>&1 || exit 0
+          CHROME_PATH="$CHROME" xvfb-run -a --server-args="-screen 0 1280x900x24" \
+            node enrich.mjs --headful --retry-failed --conc 3 --limit 60
+        continue-on-error: true
+        timeout-minutes: 20
+
       # Cloudflare を挟む媒体（Daily Express / Borneo Post など）は記事ページを
       # 読めないが、Google ニュース側のサムネイルなら全記事ぶん取れる。
       - name: Google ニュースのサムネイルを取る

@@ -45,9 +45,13 @@ GitHub Actions の ubuntu ランナーには Chrome が入っているのでそ�
 
 - **一度解決した記事には `enriched_v` が付き、二度と触らない。** 日々の実行で実際に
   ブラウザを開くのは新着数件だけ。抽出の仕様を変えたときだけ `VERSION` を上げて取り直す
-- `HeadlessChrome` を名乗ると弾く媒体があるので通常の Chrome の UA を名乗る。
-  これで Berita Harian などは通るが、**Daily Express / Borneo Post は30秒待っても抜けない**
-  （`enriched: "blocked"`）。この2媒体は本文が取れないので、記事画面では原文へ誘導する
+- `HeadlessChrome` を名乗ると弾く媒体があるので通常の Chrome の UA を名乗る
+- **Cloudflare を挟む媒体（Daily Express / Borneo Post / MalaysiaGazette）は
+  headless だと30秒待っても抜けられないが、`--headless` を外せば普通に通る。**
+  `node enrich.mjs --headful` で切り替える。CI は画面が無いので `xvfb-run` 経由。
+  これでブロックが 40件 → 0件、本文取得は 86% になった
+- 読み取りプロキシ `r.jina.ai`（`fetch_body.py`）も用意したが、実測では52件中0件で
+  同じ壁に当たる。単発では通ることがあるので道具としては残してある
 
 ## 絞り込み
 
