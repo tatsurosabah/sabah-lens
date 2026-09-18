@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-18T05:02:35Z",
- "count": 241,
+ "updated": "2026-09-18T11:46:05Z",
+ "count": 237,
  "tags": {
   "入管・摘発": 158,
-  "市民権": 36,
+  "市民権": 33,
   "無国籍": 32,
   "子ども": 23,
-  "バジャウ": 13,
+  "バジャウ": 12,
   "政策・政治": 10,
   "人権・NGO": 7,
   "難民": 7,
@@ -15,13 +15,13 @@
   "医療・福祉": 2
  },
  "sources": {
-  "Sabah Media": 38,
+  "Sabah Media": 37,
   "TV Sabah News": 29,
   "Daily Express Malaysia": 21,
-  "NST Online": 16,
-  "Borneo Post": 14,
+  "NST Online": 15,
   "sabahnews.com.my": 13,
-  "The Star": 11,
+  "Borneo Post": 13,
+  "The Star": 10,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Saluran 122": 6,
@@ -1079,7 +1079,7 @@
    "first_seen": "2026-08-15T07:08:09Z",
    "url_real": "https://www.dailyexpress.com.my/news/286618/act-on-ngo-involved-in-mykas-assistance/",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGVuvnG4xEAl_AslZddyRU4UQXoXzZF7Eow27wR265XNY6eTr2-bXRc43nPHYKD6DsmpU&fopt=w678-h407-rw-dcpXWO7TEG",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "LAHAD DATU: 関連当局および執行機関は、MyKAS 申請の支援を提供し、&ldqu を発行する第三者として行動しているとされる NGO に対して直ちに行動を起こすべきである。",
    "impact": 3,
@@ -1448,7 +1448,7 @@
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/285741/undocumented-teen-arrested-in-tawau-rape-probe/",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2j-g6kSRGs_-WcPuYduHlZ0XTlGl2ZIbqOk9dqGhhF5Enz7VpcCa8qUbERW4tw5mtOK0&fopt=w687-h401-rw-dcKTWKzR0F",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "タワウ：警察は、地元の未成年少女の父親が行方不明届を出した後、法定強姦の疑いで18歳の外国人青年を逮捕した。",
    "impact": 0,
@@ -1668,7 +1668,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/285513/viral-detention-depot-death-claims-baseless-sabah-immgiration/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/07/SHARIFAH-Sitti-Saleha-Habib-Yusof-new-1.jpg",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDvKN5untUUTVQtf055G8GtbyFkO1q_juoEFZPhiERa5M7S0GLXLDjkQA9sfYK_7xfbis&fopt=w676-h409-rw-dcsUKSj6EI",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：サバ州入国管理局長ダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏（写真）は、サバ州入国管理拘置所の過密がヌムの死亡を引き起こしたというソーシャルメディアでのウイルスの主張を否定した。",
    "summary_ja": "コタキナバル：サバ州入国管理局長ダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏（写真）は、サバ州入国管理拘置所の過密がヌムの死亡を引き起こしたというソーシャルメディアでのウイルスの主張を否定した。",
@@ -1808,7 +1808,7 @@
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
    "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=sYXekK581dAQ7kNvwGpTwN7&_nc_oc=AdqHMfDwKzbqTyNFDhpRyb99IOAO-Sf-Uv8ieGGcVpqw6QIyB-VMNlYXdIZ3gxqla18&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=1BdPPDGLHoZPz8VwzPql2A&_nc_ss=79289&oh=00_AQKnflR9aIvJfKWlEP8UfefzqyHmMZqi5n4FtVRyAEMnXg&oe=6AB28AED",
    "image_alt": "343K views · 3.4K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
-   "enriched": "nobody",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash   同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
    "summary_ja": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash \n\n同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
@@ -2391,7 +2391,7 @@
    "image_alt": "IMG_1618",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNyQXqxPb0PxwtWc_0gicTkPdpNKpyirqQ8u8_qo8wsgbx7Tp1ttLzGb5CV4zmVihUHiYg0P-8If6FvA",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：コタキナバル、ケニンガウ、サンダカン、タワウで実施された強制捜査で、サバ州のマレーシア入国管理局（JIM）により合計103人の不法移民（PATI）が逮捕された。この作戦では、渡航書類の不所持など、1959/63年移民法に基づくさまざまな犯罪を犯した疑いで103人の外国人が逮捕されるまでに、合計500人が取り調べられた。",
    "summary_ja": "コタキナバル：コタキナバル、ケニンガウ、サンダカン、タワウで実施された強制捜査で、サバ州のマレーシア入国管理局（JIM）により合計103人の不法移民（PATI）が逮捕された。この作戦では、渡航書類の不所持など、1959/63年移民法に基づくさまざまな犯罪を犯した疑いで103人の外国人が逮捕されるまでに、合計500人が取り調べられた。",
@@ -2410,8 +2410,7 @@
      "kind": "拘束",
      "raw": "500 individu"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "Pengurus didenda RM10,000 ambil PATI bekerja",
@@ -2567,7 +2566,7 @@
    "first_seen": "2026-08-15T18:57:16Z",
    "url_real": "https://www.sayangsabah.com.my/2026/07/208-pati-ditahan-dalam-operasi.html",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFEWTHPCoZ0sguUSUF36nYWLuX3TFHQYIIsMvEJZMstB5y1rKqk2MPmgT5Xg52g57ivcpKY8J12k00Vg",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -2925,7 +2924,7 @@
    "title_ja": "インドネシアとフィリピンのPATI国民351人が国外追放された",
    "first_seen": "2026-08-12T08:00:20Z",
    "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8dA9R0_eihQB7D6SIb-sMIZ56pZG64-2YmDMhO7NpT4M2tjKHvAaGIGZ_sMquHf-SoMS2Rn7rt_LP_A",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -2938,8 +2937,7 @@
      "kind": "送還",
      "raw": "351 PATI"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "JIM Sabah hantar pulang 351 PATI ke Indonesia, Filipina",
@@ -3274,7 +3272,7 @@
    "image_alt": "IMG_0777",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAhCws-c1WVAxcqpfkgC9N4yejMJ5z6QlCPiKS1XhlaldDfO1r1WqsH_vBVmBI6fLVfEhppvh1O9YDGQ",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "ラハド・ダトゥ：昨日、マレーシア入国管理局（JIM）サバ州が実施したPATI捕虜の出身国への送還プログラムを通じて、フィリピンからの合計166人の不法外国人移民（PATI）が出身国に送還された。この移送には、コタキナバル入国管理所とサンダカン入国管理所からラハダトゥ港を経由してボンガオ港に送られた被拘禁者が含まれていた。",
    "summary_ja": "ラハド・ダトゥ：昨日、マレーシア入国管理局（JIM）サバ州が実施したPATI捕虜の出身国への送還プログラムを通じて、フィリピンからの合計166人の不法外国人移民（PATI）が出身国に送還された。この移送には、コタキナバル入国管理所とサンダカン入国管理所からラハダトゥ港を経由してボンガオ港に送られた被拘禁者が含まれていた。",
@@ -3288,8 +3286,7 @@
      "kind": "送還",
      "raw": "166 PATI"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "Imigresen Sabah Pulangkan Lebih 3,000 PATI Ke Negara Asal, Majoriti Warga Filipina",
@@ -3541,7 +3538,7 @@
    ],
    "figures": [],
    "url_real": "https://www.youtube.com/watch?si=UfEjwn6yWvQdZ5t7&v=pbftxPKPDSk&feature=youtu.be",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。"
   },
@@ -3695,7 +3692,7 @@
    "image_alt": "IMG_0482",
    "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNCL2wzzwyeCcyS24H7mK94y3NPExxo0LlDUfgjDo2Bhu9yA1zDhUYW9T2t9tiyLADNmTg9-Bo1T-uVA",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：昨日、同地区周辺の数カ所で実施された取締りで、マレーシア入国管理局（JIM）サバ州により合計86人の不法移民（PATI）が逮捕された。この作戦は、サバ州 JIM 執行部の合計 24 人の警察官が関与した公的告発に基づいて行われました。サバJIMの所長は声明で、作戦期間中合計125人が検査を受けたと述べた。",
    "summary_ja": "コタキナバル：昨日、同地区周辺の数カ所で実施された取締りで、マレーシア入国管理局（JIM）サバ州により合計86人の不法移民（PATI）が逮捕された。この作戦は、サバ州 JIM 執行部の合計 24 人の警察官が関与した公的告発に基づいて行われました。サバJIMの所長は声明で、作戦期間中合計125人が検査を受けたと述べた。",
@@ -3709,8 +3706,7 @@
      "kind": "拘束",
      "raw": "86 PATI"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "114 PATI ditahan, Tawau catat tangkapan tertinggi",
@@ -3833,7 +3829,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282841/minister-calls-for-careful-review-of-imm13-deportation-petition/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/06/IMM_13_22.jpg",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE54Lj0GcOF9dWfI4XNNd3iU6eE2vG9aJYIYO6HWPujAzmiSj8iecYmIY1hvqW3u4YsA",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "タワウ：首相府大臣（サバ州・サラワク問題担当）のダトゥク・ムスタファ・サクムド氏は、サバ州のIMM13文書保有者の国外追放を求める請願は強制されなければならないと述べた。",
    "summary_ja": "タワウ：首相府大臣（サバ州・サラワク問題担当）のダトゥク・ムスタファ・サクムド氏は、サバ州のIMM13文書保有者の国外追放を求める請願は強制されなければならないと述べた。",
@@ -3862,7 +3858,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282868/isu-imm13-petisyen-perlu-dikaji-secara-mendalam-mustapha/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/06/IMM_13_22.jpg",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE54Lj0GcOF9dWfI4XNNd3iU6eE2vG9aJYIYO6HWPujAzmiSj8iecYmIY1hvqW3u4YsA",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "タワウ：サバ州のIMM13文書保有者を国外追放するよう求める請願は、内務省（KDN）やケメントを含む関係者によって徹底的に検討される必要がある。",
    "summary_ja": "タワウ：サバ州のIMM13文書保有者を国外追放するよう求める請願は、内務省（KDN）やケメントを含む関係者によって徹底的に検討される必要がある。",
@@ -4059,7 +4055,7 @@
    "first_seen": "2026-09-03T11:34:14Z",
    "url_real": "https://www.dailyexpress.com.my/news/282501/semakan-kehakiman-dimohon-mengenai-pendatang-asing-tanpa-izin-di-sabah/",
    "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEl_ZQOUMC25TxpYPWeLevh22lZTud4suMrHDdRyrECMHaMK9wkbK7mqEMvtAuXIoeTjBsge3Fd9VrPw",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "コタキナバル：あるサバハン人が、植林の失敗の疑いに関して、マレーシア政府と他の4当事者を相手取って、高等法院に司法審査を申請した。",
    "impact": 3,
@@ -4217,7 +4213,7 @@
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/282196/ldp-calls-for-practical-solutions-to-sabah-stateless-issue/",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmSJlTrPbWRbLdgZO985Q_acHuJEgfmfTY046A4y7EN1kkzljC8O1s-BsHpDbqO_fr04&fopt=w701-h394-rw-dcLVSOrqUH",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "コタキナバル: 自由民主党 (LDP) ダトゥク・チン・スー・ピン大統領 (写真) は、サバ州の長年にわたる取り組みに対し、より建設的で責任あるアプローチを採用するようすべての政党に要請した",
    "impact": 3,
@@ -4276,7 +4272,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282174/perlu-tindakan-segera-isu-tanpa-kewarganegaraan-cadangan-mykas/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/Jafery_Jomion_2.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2rAwDeJTJUuVPbIjgVI38xc4N0bMFk2jJRp4tPT6D1BavH5Y0o3isgygv4Gssr3dWzj_Yx8Oyf2ow0w",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：外国人労働者雇用主協会（ペマバ）サバ州支部は、サバ州の無国籍者問題に対処するために直ちに行動を起こすよう政府に要請し、この提案を支持する。",
    "summary_ja": "コタキナバル：外国人労働者雇用主協会（ペマバ）サバ州支部は、サバ州の無国籍者問題に対処するために直ちに行動を起こすよう政府に要請し、この提案を支持する。",
@@ -4306,7 +4302,7 @@
    "first_seen": "2026-08-09T01:55:15Z",
    "url_real": "https://www.dailyexpress.com.my/news/282132/action-urged-on-stateless-issue-mykas-proposal/",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2rAwDeJTJUuVPbIjgVI38xc4N0bMFk2jJRp4tPT6D1BavH5Y0o3isgygv4Gssr3dWzj_Yx8Oyf2ow0w",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "コタキナバル：外国人労働者雇用者協会（ペマバ）サバ州支部は、MyKAS発行提案を支持し、サバ州の無国籍者に対処するための政府の緊急措置を要請した。",
    "impact": 3,
@@ -4466,7 +4462,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/281911/improve-rather-than-replace-mykas-malaysia-international-humanitarian-organisation/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/MHO_220526.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSazZjp8cq7-fgd9-DFkJSq8JWHUS9Afu4Gn6FUYSftnqcMnXDhZcMCXpanigVSuj_Uhdg&fopt=w736-h375-rw-dcBTGSo5ypkS0C",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：マレーシア国際人道機関（MHO）は連邦政府に対し、グリーン一時滞在（MyKAS）政策を改訂するよう要請し、厳格な要件は以下のとおりであると警告した。",
    "summary_ja": "コタキナバル：マレーシア国際人道機関（MHO）は連邦政府に対し、グリーン一時滞在（MyKAS）政策を改訂するよう要請し、厳格な要件は以下のとおりであると警告した。",
@@ -4531,7 +4527,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/281898/mho-urges-putrajaya-to-revise-mykas-policy/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/WhatsApp_Image_2026-05-21_at_16.59.03.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNoPKA4s9ardBgEd0rpPQC0AZBKf79gTexVXK9Q-vhzZPd0VuM6wleNRdtwpdNY3b6Z9o&fopt=w640-h384-rw-dcAWCShCgI",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：マレーシア国際人道機関（MHO）はプトラジャヤにMyKas政策を改訂するよう促し、厳格な要件により多くの無国籍者がサブに残されていると警告した",
    "summary_ja": "コタキナバル：マレーシア国際人道機関（MHO）はプトラジャヤにMyKas政策を改訂するよう促し、厳格な要件により多くの無国籍者がサブに残されていると警告した",
@@ -4976,7 +4972,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/281147/ops-sapu-nets-21-undocumented-foreigners-in-kota-kinabalu/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/FB_IMG_1778313683664.jpg",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsEt8MN7rLY8-3LNBj6zG42jFB_Dv9cC7g8XFbpctzDppfEQjE7CMP64pvUI5JlZwPP5g&fopt=w640-h383-rw-dcARKMJ7UF",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：マレーシアサバ州入国管理局（IMM）が不法滞在者を対象とした「オプサプ」で実施した共同執行作戦で、合計21人の外国人が拘束された",
    "summary_ja": "コタキナバル：マレーシアサバ州入国管理局（IMM）が不法滞在者を対象とした「オプサプ」で実施した共同執行作戦で、合計21人の外国人が拘束された",
@@ -5071,7 +5067,7 @@
    "first_seen": "2026-08-10T08:27:43Z",
    "url_real": "https://www.dailyexpress.com.my/news/281050/bajau-laut-teen-s-illegal-entry-trial-set-for-2027-his-case-draws-attention-on-stateless-issue-in-sabah/",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcYodZyDO0rzHQPHpdx5uQ_hUbtQM8U-0xYxTszRw9HuORPyIenbvsQ7r0JqYUiAzEzlTf9Dk3CY0jg",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "コタキナバル：不法入国の罪で起訴された18歳のバジャウ・ラウト人は、2027年1月18日から20日まで裁判を受ける予定。",
    "impact": 3,
@@ -5478,7 +5474,7 @@
    "image_alt": "IMG_1594",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsfBinrs322So0a_LmDzNVAP124SG5MqzuHA2v6A23XPEPOsHp9NwdRU_XRctVcm7eIlKSRcrrV8lvg",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "シピタン：昨日、この地区周辺でサバ州マレーシア入国管理局による強制捜査により、合計19人の不法移民（PATI）が逮捕された。この作戦では、警察官8人が4つの施設を捜索し、合計411人を検査した。検査の結果、拘束された不法滞在者は全員、渡航書類やパスポートを提示しなかったインドネシア人とフィリピン人であることが判明した。",
    "summary_ja": "シピタン：昨日、この地区周辺でサバ州マレーシア入国管理局による強制捜査により、合計19人の不法移民（PATI）が逮捕された。この作戦では、警察官8人が4つの施設を捜索し、合計411人を検査した。検査の結果、拘束された不法滞在者は全員、渡航書類やパスポートを提示しなかったインドネシア人とフィリピン人であることが判明した。",
@@ -5497,8 +5493,7 @@
      "kind": "拘束",
      "raw": "411 individu"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "Imigresen Tahan 19 PATI Dalam Operasi di Sipitang",
@@ -5853,7 +5848,7 @@
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.dailyexpress.com.my/news/279524/six-undocumented-migrants-detained-in-labuan-immigration-raid/",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWkKRlB6gC_ck9gCFMfWeoqmfUZFLJePRaLc5B0tZkWfZmm37oeD0es5_iobLXedDZQw",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "ラブアン：諜報活動と公的密告を受けて、入国管理局による特別作戦中にラブアン島で6人の不法移民が拘束された。",
    "impact": 0,
@@ -6075,7 +6070,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/278672/undocumented-teen-pleads-not-guilty-to-illegal-stay-in-sabah/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/04/651347055_1235436488760993_2234406833262546603_n.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKzW6kxrYkyyQ2MfSWmBda_B8k2RzUfdaO1DCwRYrMHUf4V5I099OWgTl9XsM9UAT9ieMjIprBnjnleA",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：サバ州の無国籍問題をめぐり、最近ソーシャルメディアでその拘束が注目を集めた18歳の不法滞在者が、ここT日に特別入国裁判所で起訴された。",
    "summary_ja": "コタキナバル：サバ州の無国籍問題をめぐり、最近ソーシャルメディアでその拘束が注目を集めた18歳の不法滞在者が、ここT日に特別入国裁判所で起訴された。",
@@ -6103,7 +6098,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/278575/four-bajau-laut-charged-with-illegal-entry-into-sabah/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/04/Court_0308.jpg",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jlWar4DgsaEXrYqh9R2-9OkuOxldAf1Pn8t0_UqILpI4y5PntCK1kXJk7K51sGKpXg",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：学生でもある無国籍のバジャウ・ラウト族の若者4人が州への不法入国で別々に起訴され、このうち3人は保釈された。",
    "summary_ja": "コタキナバル：学生でもある無国籍のバジャウ・ラウト族の若者4人が州への不法入国で別々に起訴され、このうち3人は保釈された。",
@@ -6164,7 +6159,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/278544/four-stateless-bajau-laut-charged-three-get-bail/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/03/Court1_2802.jpg",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzHpoRCkmq2PgaJ-zLvLWfO4Dfh_jH8z0uzMjismWvhEePAL-iuGV-IMpqsNbz0pbDDY&fopt=w600-h360-rw-dcJVSMziUI",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：無国籍のバジャウ・ラウト族4人が州への不法入国の罪で別々に起訴され、3人は保釈された。",
    "summary_ja": "コタキナバル：無国籍のバジャウ・ラウト族4人が州への不法入国の罪で別々に起訴され、3人は保釈された。",
@@ -6636,7 +6631,7 @@
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.dailyexpress.com.my/news/275890/undocumented-migrants-arrested-in-kk-lahad-datu-operations/",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI_n7EI6GI3CwV65mp8CpMAuXx83yA23yXGdQR2oOSxqSetlPSAE1qglQFLaDuB-ODyAj8PIo8TJAafQ",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "コタキナバル：木曜日、サバ州入国管理局がコタキナバルとラハダトゥで実施した2つの別々の強制捜査で、不法移民のグループが逮捕された。",
    "impact": 0,
@@ -6706,7 +6701,7 @@
    "image_alt": "IMG_1281",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG_1F7pkTGSkMTaqIqjsOVlI_SpwuiZ_TDEa-IxpzwHyzO4O1LzX-l1ic4FusIyYtTJgHxsHlbYrq0Hw",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：サバ州入国管理局（JIM）は、2月4日から6日までコタキナバル、ラハダトゥ、タワウで実施された複数の取締り活動を通じて、86人の不法移民（PATI）を逮捕した。サバ州JIM局長は、コタキナバル執行部の作戦部隊が実施した作戦で合計56人の不法滞在者が逮捕され、27人が不法滞在者（PATI）を逮捕したと述べた。",
    "summary_ja": "コタキナバル：サバ州入国管理局（JIM）は、2月4日から6日までコタキナバル、ラハダトゥ、タワウで実施された複数の取締り活動を通じて、86人の不法移民（PATI）を逮捕した。サバ州JIM局長は、コタキナバル執行部の作戦部隊が実施した作戦で合計56人の不法滞在者が逮捕され、27人が不法滞在者（PATI）を逮捕したと述べた。",
@@ -6720,8 +6715,7 @@
      "kind": "拘束",
      "raw": "56 PATI"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "14 PATI ditahan atas pelbagai kesalahan termasuk dadah",
@@ -7789,7 +7783,7 @@
    "url_real": "https://www.dailyexpress.com.my/read/6379/amendments-must-benefit-thousands-sabah-stateless/",
    "image": "https://www.dailyexpress.com.my/uploads/features2/2025/11/Amendment_2311.jpg",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jlWar4DgsaEXrYqh9R2-9OkuOxldAf1Pn8t0_UqILpI4y5PntCK1kXJk7K51sGKpXg",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "非差別と知識へのアクセスを求める擁護者（Anak）は、マレーシアの子どもたちの無国籍の危機に対処するための迅速な行動を求めています。",
    "summary_ja": "非差別と知識へのアクセスを求める擁護者（Anak）は、マレーシアの子どもたちの無国籍の危機に対処するための迅速な行動を求めています。",
@@ -8045,7 +8039,7 @@
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.dailyexpress.com.my/news/270420/new-party-parti-perpaduan-rakyat-sabah-to-help-stateless-get-documents/",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxqlTF3OaZZhgfqmgABmqEfLvRBXZ13r4rrH2aV3l2sqKO8POYorVt3cCxUcVJQ5ncfsr9nUNwwoagag",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja": "タワウ：サバ州に本拠を置くもう一つの政党、ペルパドゥアン・ラクヤット・サバ党（PPRS）は木曜日、第17回州選挙で73議席すべてを争うと発表した。",
    "impact": 3,
@@ -8072,7 +8066,7 @@
    "image": "https://sabahnewstoday.net/wp-content/uploads/2025/11/89186199-A738-4208-A1EE-E3CD877B15F2-e1762575227409.jpeg",
    "image_alt": "89186199-A738-4208-A1EE-E3CD877B15F2",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "thin",
+   "enriched": "failed",
    "summary_ja": "サンダカン：最近、サンダカン地区とシピタン地区で3日間に渡って実施された強制捜査により、サバ州マレーシア入国管理局（JIM）により合計12人の不法移民（PATI）が拘束された。本日発表された声明によると、この作戦は2025年11月5日から7日にかけてサンダカン入国管理局とシ州の入国管理官20名が関与して実施された。",
    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk3CAANyGbySDV0WKRONs7FEHMWfbzjiDnbBVEdQ1qEBAEB12Yo59Vzy_09gt1W3imXDTjaCJyWvVHg",
    "enriched_v": 3,
@@ -8087,8 +8081,7 @@
      "kind": "拘束",
      "raw": "12 PATI"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "94 PATI Indonesia dihantar pulang melalui Tawau",
@@ -8694,7 +8687,7 @@
    "image_alt": "6A0D6E0A-D660-4F5E-96F3-F0DF5DBC1465",
    "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3ffpx-HxC-R9Yk5jBRkhUasNQSmSBwBnFKQq1aaWetS9-cUbZoOdR89H1g4QaK-HipBFlDkf-_0f-ag",
    "site_name": "Sabah News Today Portal #1",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "ラナウ：マレーシア入国管理局（JIM）サバ州は、ラナウ周辺で実施された取り締まり作戦で、不法滞在者（PATI）中国人合計43人を逮捕することに成功した。Facebook ページの公式声明によると、週に 2 回の諜報活動と公的告発により、49 人を検査した結果、成人男性 43 人が有効な渡航書類またはパスポートを持っていないことが判明しました。",
    "summary_ja": "ラナウ：マレーシア入国管理局（JIM）サバ州は、ラナウ周辺で実施された取り締まり作戦で、不法滞在者（PATI）中国人合計43人を逮捕することに成功した。 Facebook ページの公式声明によると、週に 2 回の諜報活動と公的告発により、49 人を検査した結果、成人男性 43 人が有効な渡航書類またはパスポートを持っていないことが判明しました。",
@@ -8708,8 +8701,7 @@
      "kind": "拘束",
      "raw": "43 PATI"
     }
-   ],
-   "url_real": "https://sabahnewstoday.net/cgi-sys/suspendedpage.cgi"
+   ]
   },
   {
    "title": "Building hope and belonging for the Bajau Laut",
@@ -8763,7 +8755,7 @@
    "url_real": "https://www.dailyexpress.com.my/read/6220/bajau-laut-woe-should-be-handled-differently/",
    "image": "https://www.dailyexpress.com.my/uploads/features2/2025/08/Bajau_Laut_2408.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqR0FUQ65UYZUTjBr7vOtJdspykjNtENoUaSfdRx_caqmZA6LUUQdVJu1scZ7UbiKafQ",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "バジャウ・ラウト族の人々は、太陽に照らされた肌と深海を映す瞳を持ち、立ち直る力の物語と認められたいという切望を内に秘めています。",
    "summary_ja": "バジャウ・ラウト族の人々は、太陽に照らされた肌と深海を映す瞳を持ち、立ち直る力の物語と認められたいという切望を内に秘めています。",
@@ -8857,138 +8849,7 @@
     "市民権の申請"
    ],
    "figures": []
-  },
-  {
-   "title": "Saifuddin: Bajau Laut not neglected, roadmap in place for integration",
-   "summary": "KOTA KINABALU: Initiatives are already under way to address the situation of the Bajau Laut communities in Sabah, says Home Minister Datuk Seri Saifuddin Nasution Ismail.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHRlc1pBZTNTcHNOYUVyQnhxbm53YkxXVE1GWHVGeTNEWlVHRkE5SVZHcVBieXBQb3lYSlJPbktPUFBUUnoxS2lIT2dnV3I4LXkxUEVDZHp1VDNvdE9CWGJmaWotWl9pS0NDa3dmSUczUm5LM2hxQXZKTlkwM2Q2NkJXUnk1RnV5WS13MVBwRTFjUjM5RVYxX09pWGZwMXRmUXJ0RkdMbGJaS3U4WjN1cw?oc=5",
-   "source": "NST Online",
-   "date": "2025-08-14T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "df54715765b3",
-   "tags": [
-    "バジャウ"
-   ],
-   "title_ja": "サイフディン氏: バジャウ・ラウトは無視されておらず、統合に向けたロードマップは整備されている",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://www.nst.com.my/news/nation/2025/08/1260217/saifuddin-bajau-laut-not-neglected-roadmap-place-integration",
-   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/relocate14z_NSTfield_image_socialmedia.var_1755169541.jpg",
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fUPKNSm7ofXeGnTCR6Gq4uxfyJC8PrESME0hzau-SXL1izW8UdvRIsx5ZkMujJw5Sw",
-   "site_name": "NST Online",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA KINABALU: Initiatives are already under way to address the situation of the Bajau Laut communities in Sabah, says Home Minister Datuk Seri Saifuddin Nasution Ismail.\n\n\"There was also a paper discussed in an earlier meeting on the Pala'u — the Bajau Laut sea gypsies — regarding an initiative to relocate them to a place called Pantai Manis in Semporna. Additionally, there is a plan to train them for work on plantations such as Felda Sahabat in Lahad Datu.\n\n\"All this was presented in a progress report by the Sabah State Government. This is very different from the perception that this group is isolated, neglected, or subjected to severe mistreatment,\" he told the media after jointly chairing meetings with Sabah Chief Minister Datuk Seri Hajiji Noor on citizenship and the management of foreigners in Sabah.\n\nThe two-hour meeting took place at Menara Kinabalu.\n\nSaifuddin said that relocation and vocational training form part of a \"roadmap\" for managing non-citizens, including the Bajau Laut communities. The group, which holds no citizenship in any country, has traditionally lived aboard boats or built homes on stilts in the middle of the sea.\n\nThey have often been negatively perceived due to their association with begging activities, particularly along Sabah's east coast. In recent months, human rights concerns have also arisen following the demolition of their settlements in gazetted areas by the authorities.\n\nMeanwhile, Saifuddin said Sabah had recorded 113,282 foreign nationals in the state's centralised digital system, enabling real-time monitoring, tracking, and management.\n\n\"The system records complete biometric data — photographs, fingerprints, and so on — providing, in essence, the most accurate means of documentation. This digital registration of foreign nationals is unrelated to citizenship matters or the granting of permanent resident status.\n\n\"Citizenship matters fall under the special citizenship committee, which considers applications under specific provisions of the Federal Constitution,\" he said, expressing hope that this initiative could be expanded to sectors such as agriculture, manufacturing, production, mining, and quarrying.\n\nThe Home Ministry, he added, had agreed with the Immigration Department's proposal to impose a moratorium on enforcement against foreign nationals, giving them the opportunity to register under the programme.\n\n\"After discussing various aspects today, we felt it was appropriate to support the Sabah Government's initiative. Accurate and credible data is vital to formulating more comprehensive policies on the presence of foreign nationals in our country,\" he said, adding that the moratorium period would be determined based on the Sabah Government's recommendation.\n\nSaifuddin also said that the Sabah State Government, in collaboration with the Home Ministry, had approved 1,247 citizenship applications under Article 15A of the Federal Constitution to resolve long-standing cases involving minors in special circumstances.\n\nThe applications, reviewed by a joint committee to expedite the process, include cases involving illegitimate children, children in welfare homes, and those born to non-citizen parents.",
-   "body_ja": "コタキナバル：サバ州のバジャウ・ラウト族コミュニティの状況に対処するための取り組みはすでに始まっている、とダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣は述べた。\n\n「パラオ人、バジャウ・ラウト族の海のジプシーに関する以前の会議では、彼らをセンポルナのパンタイ・マニスと呼ばれる場所に移住させる取り組みについて議論された文書もあった。さらに、ラハダトゥのフェルダ・サハバットなどのプランテーションで彼らを訓練する計画もある。\n\n「これらすべてはサバ州政府による進捗報告書に示されています。これは、このグループが孤立し、無視され、あるいは深刻な虐待を受けているという認識とは大きく異なる」とサバ州州首相ダトゥク・セリ・ハジジ・ヌールと市民権とサバ州の外国人の管理に関する会議の共同議長を務めた後、同氏はメディアに語った。\n\n2時間の会合はメナラキナバルで行われた。\n\nサイフディン氏は、移住と職業訓練は、バジャウ・ラウト族のコミュニティを含む非国民を管理するための「ロードマップ」の一部を形成していると述べた。このグループはどの国の市民権も持たず、伝統的に船に乗って暮らしたり、海の真ん中に高床式の家を建てたりしてきた。\n\n彼らは、特にサバ州の東海岸沿いでの物乞い活動との関連性から、しばしば否定的に認識されてきました。ここ数カ月間、官報掲載地域にある彼らの居住地が当局によって取り壊されたことを受けて、人権への懸念も生じている。\n\n一方、サイフディン氏は、サバ州が州の集中デジタルシステムに11万3,282人の外国人を記録し、リアルタイムの監視、追跡、管理を可能にしていると述べた。\n\n「このシステムは、写真や指紋などの完全な生体認証データを記録し、本質的に最も正確な文書化手段を提供します。この外国人のデジタル登録は、市民権の問題や永住権の付与とは無関係です。\n\n同氏は、「市民権の問題は特別市民権委員会の管轄下にあり、連邦憲法の特定の条項に基づく申請を検討する」と述べ、この取り組みが農業、製造業、生産、鉱業、採石業などの分野に拡大される可能性があるとの期待を表明した。\n\n同氏は、内務省は外国人に対する強制執行の一時停止を課し、同プログラムに登録する機会を外国人に与えるという移民局の提案に同意したと付け加えた。\n\n「今日さまざまな側面について議論した結果、サバ州政府の取り組みを支持することが適切であると感じました。我が国における外国人の存在に関するより包括的な政策を策定するには、正確で信頼できるデータが不可欠である」と同氏は述べ、一時停止期間はサバ州政府の勧告に基づいて決定されると付け加えた。\n\nサイフディン氏はまた、サバ州政府は内務省と協力し、特殊な状況下で未成年者が関与する長期にわたる訴訟を解決するため、連邦憲法第15条Aに基づき1,247件の市民権申請を承認したと述べた。\n\n手続きを迅速化するために合同委員会によって審査された申請には、非嫡出子、福祉施設の子ども、非国民の親から生まれた子どもが関与する事件が含まれている。",
-   "summary_ja2": "コタキナバル：サバ州のバジャウ・ラウト族コミュニティの状況に対処するための取り組みはすでに始まっている、とダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣は述べた。これは、このグループが孤立し、無視され、あるいは深刻な虐待を受けているという認識とは大きく異なる」とサバ州州首相ダトゥク・セリ・ハジジ・ヌールと市民権とサバ州の外国人の管理に関する会議の共同議長を務めた後、同氏はメディアに語った。",
-   "summary_ja": "コタキナバル：サバ州のバジャウ・ラウト族コミュニティの状況に対処するための取り組みはすでに始まっている、とダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣は述べた。",
-   "impact": 5,
-   "issues": [
-    "市民権の申請",
-    "バジャウ・ラウト"
-   ],
-   "figures": []
-  },
-  {
-   "title": "Joint federal-state committee set up to fast-track citizenship applications under Article 15A in Sabah",
-   "summary": "KOTA KINABALU: A joint federal–state committee has been set up in Sabah to fast-track citizenship applications for stateless children and other eligible applicants under Article 15A of the Federal Constitution.",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNnVoM1dyYmtnR1haWFVSMjVob1Jtam9RQnMzTjBpeXBWZy1rOUZyZXo4Qjh3RmhaTlVaM0k3eTRjbWlndUJWSkRBTW5kRGN2bGtQc2lsTEJmaUgtRDlqRERNa3lOc2FDd0tMSTY5X1VDNGZBNERrbG1nWTEyeWhfVmtBal81YnNtWkFldmJCLXFRWjNKUDZUSmpraHo4WUJ3YzJtWFJ0aHNyNVlfSndsSVZwendCNzFkd2F1MTBfdXozN3RWY2xDdHFHQlYxWGF1RmR0U3NwUkszVWFqYUZScEl3QVdUTVk?oc=5",
-   "source": "The Star",
-   "date": "2025-08-14T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah stateless",
-   "id": "5b02d199e768",
-   "tags": [
-    "市民権"
-   ],
-   "title_ja": "サバ州で第15A条に基づく市民権申請を迅速に進めるため連邦・州共同委員会が設置",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://www.thestar.com.my/news/nation/2025/08/14/joint-federal-state-committee-set-up-to-fast-track-citizenship-applications-under-article-15a-in-sabah",
-   "image": "https://apicms.thestar.com.my/uploads/images/2025/08/14/3467915.jpg",
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiFDY6jDib9Rduk1XTBghN93XpoRC9ibdRRouilXxpb9wart-kM80EVX5mnVBu2m1vWmk&fopt=w679-h407-rw-dcCbCMaMYF",
-   "site_name": "The Star",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA KINABALU: A joint federal–state committee has been set up in Sabah to fast-track citizenship applications for stateless children and other eligible applicants under Article 15A of the Federal Constitution.\n\nThe committee, co-chaired by Home Minister Datuk Seri Saifuddin Nasution Ismail and Sabah Chief Minister Datuk Seri Hajiji Noor, held its first meeting here on Thursday (Aug 14).",
-   "body_ja": "コタキナバル：連邦憲法第15A条に基づき、無国籍の子供やその他の適格な申請者の市民権申請を迅速に進めるため、連邦・州共同委員会がサバ州に設置された。\n\nダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣とダトゥク・セリ・ハジジ・ヌール・サバ州首相が共同議長を務めるこの委員会は、木曜日（8月14日）にここで初会合を開催した。",
-   "summary_ja2": "コタキナバル：連邦憲法第15A条に基づき、無国籍の子供やその他の適格な申請者の市民権申請を迅速に進めるため、連邦・州共同委員会がサバ州に設置された。ダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣とダトゥク・セリ・ハジジ・ヌール・サバ州首相が共同議長を務めるこの委員会は、木曜日（8月14日）にここで初会合を開催した。",
-   "summary_ja": "コタキナバル：連邦憲法第15A条に基づき、無国籍の子供やその他の適格な申請者の市民権申請を迅速に進めるため、連邦・州共同委員会がサバ州に設置された。",
-   "impact": 3,
-   "issues": [
-    "市民権の申請"
-   ],
-   "figures": []
-  },
-  {
-   "title": "Sabah muktamadkan 1,247 permohonan kewarganegaraan di bawah Perkara 15A",
-   "summary": "Sebanyak 1,247 permohonan kewarganegaraan di bawah Perkara 15A Perlembagaan Persekutuan telah diputuskan dalam Mesyuarat Jawatankuasa Khas Status Kewarganegaraan peringkat induk Negeri Sabah yang b…",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzFDTnVqQk9tdU5WQTc1bTU2Nmctc1J3SS10cWpIZktzWS1BOHVnREo5LTlqMTFvNG1MSUVCYlNnM0dIRmhIaFF0THA5STJjNkYwTXlKU1FWRW9FN1g0QXYtMXRiVl9KUnQtcHVjbDI1aERUTi1VaEV1aDRRWFFCNTFsdGJ2LXN6QnFIQkR1VG5RMWpjeHdIZk10WnZYVEdzekkzcnNiMWo?oc=5",
-   "source": "Sabah Media",
-   "date": "2025-08-14T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
-   "id": "1f9e01f42e4f",
-   "tags": [
-    "市民権"
-   ],
-   "title_ja": "サバ州は第 15A 条に基づき 1,247 件の市民権申請を完了",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://sabahmedia.com/2025/08/14/sabah-muktamadkan-1247-permohonan-kewarganegaraan-di-bawah-perkara-15a/",
-   "image": "https://sabahmedia.com/wp-content/uploads/2025/08/Picsart_25-08-14_16-32-00-902-scaled.png",
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6VOkeuoqOyEr_nIN32R7hRjJNpysyAv3N2tNbRt9IWblVk0GmTchA5GM6xX_imebn5Q",
-   "site_name": "Sabah Media",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "Kota Kinabalu : Sebanyak 1,247 permohonan kewarganegaraan di bawah Perkara 15A Perlembagaan Persekutuan telah diputuskan dalam Mesyuarat Jawatankuasa Khas Status Kewarganegaraan peringkat induk Negeri Sabah yang berlangsung di Menara Kinabalu di sini pada Khamis.\n\nMesyuarat itu dipengerusikan bersama Menteri Dalam Negeri, Datuk Seri Saifuddin Nasution Ismail dan Ketua Menteri Sabah, Datuk Seri Hajiji Noor.\n\nSaifuddin dalam sidang media berkata, perkara 15A merangkumi permohonan warganegara bagi anak tidak sah taraf, kanak-kanak di pusat jagaan, serta anak kepada ibu bapa yang bukan warganegara.\n\n“Jawatankuasa ini diwujudkan bagi mempercepatkan proses membuat keputusan terhadap permohonan tersebut, dan hari ini kita telah memuktamadkan keputusan untuk 1,247 permohonan yang dibawa ke mesyuarat,” katanya.\n\nBeliau berkata demikian dalam sidang selepas mempengerusikan Mesyuarat Jawatankuasa Induk Pengurusan Warga Asing di Sabah (JKPWAS-Induk) 2025 di sini.\n\nSaifuddin berkata, jawatankuasa berkenaan berfungsi sama seperti mekanisme yang telah dilaksanakan antara Kementerian Dalam Negeri (KDN) dan Kerajaan Negeri Sarawak.\n\nKatanya, mesyuarat yang dijalankan itu merupakan mesyuarat pertama bagi Sabah.\n\nMenurutnya, keputusan tersebut akan diperakukan sebelum tindakan lanjut diambil mengikut peruntukan undang-undang sedia ada. – SABAH MEDIA",
-   "body_ja": "コタキナバル：連邦憲法第15A条に基づく合計1,247件の市民権申請が、木曜日にここメナラキナバルで開催されたサバ州マスターレベル市民権ステータス特別委員会で決定された。\n\nこの会議はダトゥク・セリ・サイフディン・ナスティオン・イスマイル内務大臣とサバ州州首相ダトゥク・セリ・ハジジ・ヌールが共同議長を務めた。\n\nサイフディン氏は記者会見で、項目15Aには非嫡出の子供、保育園の子供、非市民の親の子供に対する市民権申請が含まれていると述べた。\n\n同氏は、「この委員会は申請に関する意思決定プロセスを迅速化するために設立され、本日、会議に持ち込まれた1,247件の申請について最終的な決定を下した」と述べた。\n\n同氏は、当地サバ州外国人管理マスター委員会（JKPWAS-Induk）の2025年会議の議長を務めた後の会議でこう語った。\n\nサイフディン氏は、この委員会は内務省（KDN）とサラワク州政府の間で実施されているメカニズムと同じように機能すると述べた。\n\n同氏は、開催された会議はサバ州にとって初めての会議であると述べた。\n\n同氏によると、現行法の規定に従ってさらなる措置が講じられる前に、この決定が認定される予定だという。 – サバメディア",
-   "summary_ja2": "コタキナバル：連邦憲法第15A条に基づく合計1,247件の市民権申請が、木曜日にここメナラキナバルで開催されたサバ州マスターレベル市民権ステータス特別委員会で決定された。同氏は、「この委員会は申請に関する意思決定プロセスを迅速化するために設立され、本日、会議に持ち込まれた1,247件の申請について最終的な決定を下した」と述べた。同氏は、開催された会議はサバ州にとって初めての会議であると述べた。",
-   "summary_ja": "連邦憲法第 15A 条に基づく合計 1,247 件の市民権申請が、サバ州親レベルの市民権ステータス特別委員会会議で決定されました。",
-   "impact": 3,
-   "issues": [
-    "市民権の申請"
-   ],
-   "figures": [
-    {
-     "n": 1247,
-     "kind": "申請",
-     "raw": "1,247 permohonan"
-    }
-   ]
-  },
-  {
-   "title": "Committee to review 1,247 Sabah citizenship applications",
-   "summary": "KOTA KINABALU (Aug 14): A total of 1,247 citizenship applications from Sabah will be evaluated by the newly established Sabah State-Level Special Committee on Citizenship Status, jointly chaired by Federal Home Affairs Minister Datuk Seri Saifuddin Nasution Ismail and Sabah Chief Minister Datuk Seri Hajiji Noor. Saifuddin revealed this after chairing the committee’s inaugural meetingRead More",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFJKeVdZTlY4ODhUS0xESkd3Z2M3bHhab29xTTVodnhaYzNhbXpySHZTZzltZGdxNnF0clhRaDFBMGhUQ0dfTGM1TVBRRzE5U3ppdEFuWmxzMFQ4Mk0yc2VtZW1QUUlzM1R4MFUyOEpPTjBlSjhTT2xxTEpheW1FOTJLU2pCNnF1bjk1NHdsMW9Da2NweEx5SXdyRC1BUQ?oc=5",
-   "source": "Borneo Post",
-   "date": "2025-08-14T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah citizenship children",
-   "id": "03997da04d74",
-   "tags": [
-    "市民権"
-   ],
-   "title_ja": "サバ州市民権申請1,247件を審査する委員会",
-   "first_seen": "2026-08-20T02:00:27Z",
-   "url_real": "https://www.theborneopost.com/2025/08/14/committee-to-review-1247-sabah-citizenship-applications/",
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnRZzXa0Y1petT8NP-loPvV7JofUEhx1EieRxULSWlxnzxmB32e9HQ4PU6C9Fvnbntm0iaBp_KUXZy6w",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja": "コタキナバル（8月14日）：サバ州からの合計1,247件の市民権申請は、ダトゥク・セリ・サイフディン・ナスティオン・イスマイル連邦内務大臣とダトゥク・セリ・ハジジ・ヌール・サバ州首相が共同委員長を務める、新設されたサバ州レベルの市民権ステータス特別委員会によって評価される。サイフディン氏は委員会の初会合の議長を務めた後にこれを明らかにした続きを読む",
-   "impact": 3,
-   "issues": [
-    "市民権の申請"
-   ],
-   "figures": [],
-   "image": "https://www.theborneopost.com/newsimages/2025/08/cm-saifuddin.jpg",
-   "site_name": "Borneo Post Online",
-   "body": "KOTA KINABALU (Aug 14): A total of 1,247 citizenship applications from Sabah will be evaluated by the newly established Sabah State-Level Special Committee on Citizenship Status, jointly chaired by Federal Home Affairs Minister Datuk Seri Saifuddin Nasution Ismail and Sabah Chief Minister Datuk Seri Hajiji Noor.\n\nSaifuddin revealed this after chairing the committee’s inaugural meeting at Menara Kinabalu today.\n\nHe said the applications, made under Article 15A of the Federal Constitution, were among more than 2,000 submissions recorded from 2021 to 2024.\n\n“This committee has been established to thoroughly review and recommend decisions on each citizenship application. These include applications involving children born out of wedlock, those under institutional care, and children born to non-citizen parents, among others,” he explained.\n\nHe added that the committee was formed to expedite decisions on the 1,247 cases currently under its consideration, following a similar mechanism already in place between the Home Ministry and the Sarawak Government.\n\nDuring the meeting, Saifuddin and Hajiji also co-chaired the Central Committee on Foreign Nationals Management, which aims to digitalise data collection efforts.",
-   "body_ja": "コタキナバル（8月14日）：サバ州からの合計1,247件の市民権申請は、ダトゥク・セリ・サイフディン・ナスティオン・イスマイル連邦内務大臣とダトゥク・セリ・ハジジ・ヌール・サバ州首相が共同委員長を務める、新設されたサバ州レベルの市民権ステータス特別委員会によって評価される。\n\nサイフディン氏は本日、メナラキナバルでの委員会の設立総会の議長を務めた後、これを明らかにした。\n\n同氏は、連邦憲法第15A条に基づいて行われた申請は、2021年から2024年までに記録された2,000件以上の申請の中に含まれると述べた。\n\n「この委員会は、各市民権申請について徹底的に検討し、決定を勧告するために設立されました。これらの申請には、婚外で生まれた子供、施設養護下にある子供、非市民の親から生まれた子供などが含まれる申請が含まれます」と彼は説明した。\n\n同氏は、この委員会は内務省とサラワク州政府との間ですでに導入されている同様のメカニズムに従い、現在検討中の1,247件の事件に関する決定を迅速化するために設立されたと付け加えた。\n\n会議中、サイフディン氏とハジジ氏は、データ収集の取り組みをデジタル化することを目的とした外国人管理中央委員会の共同委員長も務めた。",
-   "summary_ja2": "コタキナバル（8月14日）：サバ州からの合計1,247件の市民権申請は、ダトゥク・セリ・サイフディン・ナスティオン・イスマイル連邦内務大臣とダトゥク・セリ・ハジジ・ヌール・サバ州首相が共同委員長を務める、新設されたサバ州レベルの市民権ステータス特別委員会によって評価される。同氏は、連邦憲法第15A条に基づいて行われた申請は、2021年から2024年までに記録された2,000件以上の申請の中に含まれると述べた。"
   }
  ],
- "enriched_at": "2026-09-18T05:07:51Z"
+ "enriched_at": "2026-09-18T11:51:40Z"
 }
