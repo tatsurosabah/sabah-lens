@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-24T21:42:42Z",
+ "updated": "2026-09-25T05:14:39Z",
  "count": 251,
  "tags": {
-  "入管・摘発": 168,
+  "入管・摘発": 167,
   "市民権": 33,
   "無国籍": 32,
   "子ども": 22,
@@ -16,8 +16,8 @@
  },
  "sources": {
   "Sabah Media": 38,
-  "TV Sabah News": 34,
-  "Daily Express Malaysia": 23,
+  "TV Sabah News": 33,
+  "Daily Express Malaysia": 24,
   "NST Online": 15,
   "The Star": 13,
   "sabahnews.com.my": 13,
@@ -52,7 +52,7 @@
   "sabahkini2.org": 1,
   "YouTube": 1,
   "sabahkini2.com": 1,
-  "South China Morning Post": 1,
+  "scmp.com": 1,
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
   "MindaNews": 1,
@@ -455,6 +455,27 @@
    ]
   },
   {
+   "title": "Sabah sends 709 undocumented Filipinos back home",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVlEzZ0dkUC1PMHN0NTRhVE9BZ2pEamt0N3JHUEZ0TkVGaUlkaXZKdmhVUk5Md05PV1Vlc09GMWtibEY4ZDhIOHUyV09LbXpuMGxDYmh3U3IxM2xCalppSW5ZYkNjVjRwWUV2N09YTHhNQlpWMkZNU0lLOUltaWxNaEhqd1ozWHMyUFBrWEFsN29mbER3eVZ3?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-09-12T14:22:29Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "788698003448",
+   "tags": [],
+   "title_ja": "サバ州、不法入国フィリピン人709人を帰国",
+   "summary_ja": "",
+   "first_seen": "2026-09-25T05:14:37Z",
+   "impact": 1,
+   "issues": [],
+   "figures": [],
+   "url_real": "https://www.dailyexpress.com.my/news/255263/sabah-sends-709-undocumented-filipinos-back-home",
+   "enriched": "blocked",
+   "enriched_v": 3
+  },
+  {
    "title": "Lack of political will prolonging Sabah's migrant problem, says ex-CJ Malanjum",
    "summary": "KOTA KINABALU: Sabah's long-standing undocumented migrant problem continues because of a lack of political will to implement proposed solutions, says former chief justice Tun Richard Malanjum.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWdOTmVhc1pveEx3WXJOUER2M183Q2RoWjh1N2NKR1NCTl9zMWVJNmlhcXVZZ2NrWDdVemFkdWNNeDliNnNwMU4xMEx1QURUYXlicjUxdkg3U2xIQ0VnUHZfZWp6dnZlTUp3SDRlUkhXbENPUWVBU0pUczhTdHZZZTNqaWY1VFJvOG14d2VlaWtWZ2NsN3d0NzAyVWRYbUdNNFVSNGFzWEtLNGRDY0RjbWZEXzFzQQ?oc=5",
@@ -562,43 +583,6 @@
      "raw": "140 pendatang"
     }
    ]
-  },
-  {
-   "title": "140 PATI Dipindahkan Pulang",
-   "summary": "KEDAH: 10 September 2026 — Seramai 140 pendatang asing tanpa izin (PATI) pelbagai warganegara dipindahkan dan dihantar pulang ke negara asal melalui Lapangan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5adEZmQUxSV2VmMlFzTVk3LVVjV2lyR0RzUW1VVEppclRfcjdVR0gtc2c3eDZjU2pnMzZLVWZfN1lLR0pGM1VCdU9PZ0xUc2RRMGwzYTFSMUlPMEZOLXVZTGNB?oc=5",
-   "source": "TV Sabah News",
-   "date": "2026-09-10T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "140002a71201",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "140 パティが家に引っ越しました",
-   "summary_ja": "ケダ州: 2026 年 9 月 10 日 — さまざまな国籍の合計 140 人の不法滞在者 (PATI) がラパンガン経由で移送され、出身国に送還された",
-   "first_seen": "2026-09-24T21:42:41Z",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還"
-   ],
-   "figures": [
-    {
-     "n": 140,
-     "kind": "送還",
-     "raw": "140 pendatang"
-    }
-   ],
-   "url_real": "https://tvsabahnews.com/140-pati-dipindahkan-pulang/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/09/B01D1140-E7CD-4265-8731-CA8A5FA39EE5_52A5EB55-8E74-4647-A791-32DADAA441E6.jpeg",
-   "image_alt": "140 PATI dipindahkan pulang",
-   "site_name": "TV Sabah | News Portals",
-   "body": "KEDAH: 10 September 2026 — Seramai 140 pendatang asing tanpa izin (PATI) pelbagai warganegara dipindahkan dan dihantar pulang ke negara asal melalui Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA) Terminal 1 dan Terminal 2 kelmarin.\n\nJabatan Imigresen Malaysia (JIM) Negeri Kedah dalam kenyataan, kesemua mereka sebelum ini ditahan di Depot Imigresen Belantik, Sik, Kedah.\n\nMereka terdiri dari 117 lelaki, 21 wanita dan dua kanak-kanak lelaki yang merupakan warganegara Myanmar, Bangladesh, India, Pakistan, Indonesia, China, Vietnam, Kemboja dan Kenya.\n\nKesemua mereka melakukan kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963, dan telah selesai menjalani hukuman sebelum proses pemindahan dilaksanakan.\n\nMereka turut dikenakan tindakan senarai hitam dalam sistem JIM untuk menghalang cubaan memasuki semula Malaysia pada masa akan datang.\n\nKos tiket penerbangan untuk proses penghantaran pulang itu ditanggung oleh tahanan, ahli keluarga dan kedutaan negara masing-masing.\n\nMenurut JIM Negeri Kedah, program pemindahan itu merupakan sebahagian daripada tindakan penguatkuasaan berterusan untuk membanteras kehadiran dan aktiviti PATI di negara ini.\n\nJIM Negeri Kedah menegaskan tindakan penguatkuasaan, pengesanan, penahanan, pendakwaan dan penghantaran pulang PATI akan terus dipergiat demi memastikan keselamatan, ketenteraman awam serta kedaulatan negara terus terpelihara.\n\nSumber: Jabatan Imigresen Negeri Kedah",
-   "body_ja": "クダ州：2026年9月10日 — 昨日、さまざまな国籍の合計140人の不法移民（PATI）がクアラルンプール国際空港（KLIA）の第1ターミナルと第2ターミナルを通じて出身国に送還された。\n\nケダ州のマレーシア入国管理局（JIM）は声明で、全員が以前にケダ州シクのベランティック入国管理所で拘束されていたと述べた。\n\n彼らは、ミャンマー、バングラデシュ、インド、パキスタン、インドネシア、中国、ベトナム、カンボジア、ケニアの国民である男性117人、女性21人、少年2人で構成されています。\n\n彼ら全員は1959/63年の移民法および1963年の移民規則に基づいて犯罪を犯しており、移送手続きが行われる前に刑期を終えていた。\n\n彼らはまた、将来マレーシアに再入国する試みを防ぐために、JIM システムのブラックリストに登録されました。\n\n送還手続きに必要な航空券の費用は、被拘禁者、その家族、およびそれぞれの国の大使館が負担します。\n\nケダ州JIMによると、この移送プログラムは、国内における不法移民の存在と活動と闘うために進行中の執行活動の一環である。\n\nジム・ネグリ・ケダ氏は、安全、治安、国家主権の維持を確保するために、不法移民の取り締まり、摘発、逮捕、訴追、本国送還が今後も強化されると主張する。\n\n出典: ケダ州入国管理局",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "クダ州：2026年9月10日 — 昨日、さまざまな国籍の合計140人の不法移民（PATI）がクアラルンプール国際空港（KLIA）の第1ターミナルと第2ターミナルを通じて出身国に送還された。彼らは、ミャンマー、バングラデシュ、インド、パキスタン、インドネシア、中国、ベトナム、カンボジア、ケニアの国民である男性117人、女性21人、少年2人で構成されています。"
   },
   {
    "title": "133 Undocumented Immigrants Detained In 20 Sabah Immigration Operations",
@@ -2236,7 +2220,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=b32Zst6HkDAQ7kNvwFkn8HY&_nc_oc=AdrhOEiwUsU3l7YDlA7hOmeVBlzcJTZTG-ipF9W1-_6T4rNuI0DNySMJlqMixOuC3Fc&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=4_qdRU3x41dNdBzbB7kDTw&_nc_ss=79289&oh=00_AQKgvTgQgbnLkLh7NBViSR4HffrUKhcFH9RL7iPJEKXEWA&oe=6ABB54ED",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=Zv--T75qBQUQ7kNvwHbIU8i&_nc_oc=Adrgs8o3JesDXL04ljao3OE4slCdImlK-4EAVTCPKnG_iGQ6_WoXmKnEP9qEFP52kkc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=N2HArHWZVDm6CioA1TE6rw&_nc_ss=79289&oh=00_AQIBvV4Xba7H0wLa5_MktodoIKO2xwL7I43TXVnFY6KfFQ&oe=6ABBC56D",
    "image_alt": "346K views · 3.4K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -3823,7 +3807,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -5608,7 +5592,7 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "KUALA LUMPUR: Kerajaan digesa melonggarkan syarat permohonan Kad Pengenalan Pemastautin Sementara atau MyKas bagi membolehkan golongan ‘stateless’ (tanpa negara) terutama di Sabah mendapat dokumen pengenalan diri atas dasar kemanusiaan.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW8?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
@@ -6422,7 +6406,7 @@
   {
    "title": "Stateless Bajau Laut teen granted bail after proving he was born in Sabah",
    "summary": "KOTA KINABALU: A stateless Bajau Laut teenager charged with illegally entering Sabah was granted bail by the Sessions Court here today after successfully presenting a document proving he was born in Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORC1wS0ZEaGtPVGVwakNRYTVzWlVRY0N1alJ5c1JJSks5YnhnNXlYZURHYWVzVXpOYmhhaHlZOWVweGQ5Q0RJSG0zWVU2MFIxRXFhUVE1ZmdOTVAzWW1KTGZNRUoyY3BOZXFCdDNpZHRWNUFvdldwQWgxRlE0U3dyRUV4R1oyWWJSMzJpME9Oa21ieDhyeGszZXhHWFoxU0Z1cUFQQ2FEcld4ZUJLZ2hLNkpncTZIc1lh?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbERWWm80YmRFTEhleDNjZUJBSy1ldUw4TGVtdGJiTXp1Q3ZCN3JucmNHNHBySWpWOUhDQ2VhRVY2czMwdWtTalVSU214OXR5Y2k5SndaSGZUZDZQWFRXcmM3dnlxMS1TRmI1c2pFUjl5UHFCRENzQXdwZ0w1LVdRNnNwcnhiYlQ0eW1remJoV1dnMUZreFdOWGhQTjk2aXUyUVhGOV9MYzJiUUpvckRabXB0aGd5SlZpYVAxdS1zYTFlNEN6c2VsNFZrSQ?oc=5",
    "source": "NST Online",
    "date": "2026-04-06T07:00:00Z",
    "lang": "en",
@@ -6785,7 +6769,7 @@
    "title": "Arrest of stateless teen in Malaysia highlights Sabah’s citizenship crisis",
    "summary": "Rights groups say stateless people in the country are often treated as undocumented migrants without basic protections.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTRGNFVDUTlLVnVzcHAxZXlsRU5sSWZzcXllUFNXeWc3Rmt2bmdHaXdlMkxQbXV1aHItZUdpcW8wazhNM2Ftc2lZd053bk14eTVqOU5tRktLQWl2WEE1T1g0QVltRzRaOXRWQlUtbjhMMTZTM2RxOEgwWVIzM285bjNiVXhONzU3RnNnYV8wdE9jRUN1a3JOVmVhT25jN0RRUWtXaEJOSEozak4zWDlud0x6aTh5SDZqOFpudlBxRkFHVHo4Nkp1T0ZfVF_SAcwBQVVfeXFMT2NpTmZ0eGpDdEtULTU4UC1MZS1wd2VtekNZdjNfZmFIVFI0QzdTTV9jbklxV2NpOFVKUkpXZi0tWnNtdDZzbE9YZGxWUTZWQndsRUY2aDBJME5uTjJqRTgwRmVDN0YwWHVTZENHYzRWT0ZaZE5BMEQ4SW5wWVI1ZkpyMmstY2dSMmxXdkQzc0U0MHRkSVh0bW1PRFB3SHk4NXkyM0w2cDg4QVhaOFNRMmlZV2RFYzZPQVJzb3pmTm01MWI1TDNpSDV1T2Fq?oc=5",
-   "source": "South China Morning Post",
+   "source": "scmp.com",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -9359,5 +9343,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-09-24T21:45:01Z"
+ "enriched_at": "2026-09-25T05:17:32Z"
 }
