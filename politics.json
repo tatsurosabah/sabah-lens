@@ -1,0 +1,86 @@
+{
+  "title": "マレーシアとSabah政治の変遷",
+  "note": "上段の連邦政治とSabah州政治を、同じ時間軸で比較する。各主体をタップすると概要と、**政権・与党／協力勢力／主要野党**の内訳が開く。小さなタグは必ずしも構成党だけを示すものではない。",
+  "eras": [
+    {
+      "years": "1881–1941",
+      "title": "植民地統治",
+      "shift": "領域と統治制度の形成",
+      "federal": { "name": "英領マラヤ", "summary": "海峡植民地、マレー連合州、非連合州が異なる制度で統治され、のちの連邦制の骨格が形成された。", "groups": [{ "label": "統治単位", "tone": "government", "parties": ["海峡植民地", "マレー諸州"] }] },
+      "sabah": { "name": "英領北ボルネオ", "summary": "1881年の勅許を受けた英国北ボルネオ会社が、現在のSabahにあたる地域を統治した。", "groups": [{ "label": "統治主体", "tone": "government", "parties": ["BNBCC"] }, { "label": "地域社会", "tone": "context", "parties": ["在地社会"] }] },
+      "lens": "現在の国境より先に、スール海を越える交易・親族・移動のネットワークが存在した。"
+    },
+    {
+      "years": "1942–1945",
+      "title": "日本軍占領期",
+      "shift": "占領・抵抗・戦災",
+      "federal": { "name": "日本軍政（マラヤ）", "summary": "日本軍はマラヤを占領し、英国植民地統治を中断させた。占領は民族間関係と戦後政治にも影響を残した。", "groups": [{ "label": "占領統治", "tone": "government", "parties": ["日本軍占領当局"] }, { "label": "抵抗勢力", "tone": "opposition", "parties": ["抗日抵抗組織"] }] },
+      "sabah": { "name": "日本軍政（北ボルネオ）", "summary": "北ボルネオは1942～45年に日本軍占領下となった。1943年のキナバル・ゲリラ蜂起、Sandakan捕虜収容所と死の行進を経験した。", "groups": [{ "label": "占領統治", "tone": "government", "parties": ["日本軍占領当局"] }, { "label": "抵抗勢力", "tone": "opposition", "parties": ["キナバル・ゲリラ"] }] },
+      "lens": "戦争は統治の断絶だけでなく、住民の抵抗、強制労働、捕虜の死、都市の破壊を伴った。"
+    },
+    {
+      "years": "1946–1963",
+      "title": "脱植民地化",
+      "shift": "独立とMalaysia結成",
+      "federal": { "name": "Alliance", "summary": "UMNO・MCA・MICの民族横断的な選挙連合が1955年選挙に勝利し、1957年のマラヤ独立を主導した。", "groups": [{ "label": "与党構成", "tone": "government", "parties": ["UMNO", "MCA", "MIC"] }, { "label": "主要野党", "tone": "opposition", "parties": ["PAS", "Socialist Front"] }] },
+      "sabah": { "name": "Sabah Alliance", "summary": "Malaysia形成に向け、KDM系、ムスリム・ブミプトラ系、華人系の政党が連合を形成した。", "groups": [{ "label": "連合構成", "tone": "government", "parties": ["UNKO / UPKO", "USNO", "SCA"] }] },
+      "lens": "MA63と政府間委員会報告は、Sabahを連邦形成の当事者として理解する基礎になる。"
+    },
+    {
+      "years": "1963–1976",
+      "title": "新連邦の定着",
+      "shift": "中央集権化と州権",
+      "federal": { "name": "Alliance → BN", "summary": "1969年危機と新経済政策を経て、Allianceはより広いBarisan Nasionalへ再編された。", "groups": [{ "label": "与党構成", "tone": "government", "parties": ["UMNO", "MCA", "MIC", "地域政党"] }, { "label": "主要野党", "tone": "opposition", "parties": ["DAP", "PAS"] }] },
+      "sabah": { "name": "Alliance / USNO", "summary": "初期連立の後、Mustapha Harun率いるUSNOが1967年から州政府を主導した。", "groups": [{ "label": "州政権", "tone": "government", "parties": ["USNO", "SCA"] }, { "label": "主要野党・次の与党", "tone": "opposition", "parties": ["UPKO（～1967）", "BERJAYA（1975～）"] }] },
+      "lens": "民族・宗教・開発が政治資源として制度化され、州自治と連邦の力関係が争点になった。"
+    },
+    {
+      "years": "1976–1985",
+      "title": "BERJAYA期",
+      "shift": "石油・Labuan・開発",
+      "federal": { "name": "BN", "summary": "UMNOを中心とする包括連合が連邦政治を安定的に支配し、1981年にはMahathir政権が始まった。", "groups": [{ "label": "連邦与党", "tone": "government", "parties": ["UMNO中心", "包括連合"] }, { "label": "主要野党", "tone": "opposition", "parties": ["DAP", "PAS"] }] },
+      "sabah": { "name": "BERJAYA", "summary": "1976年にUSNOを破って政権交代。開発、石油協定、Labuanの連邦直轄地化が重要な転換となった。", "groups": [{ "label": "州与党", "tone": "government", "parties": ["BERJAYA"] }, { "label": "主要野党・次の与党", "tone": "opposition", "parties": ["USNO", "PBS（1985～）"] }] },
+      "lens": "州資源を誰が決め、開発利益をどう配分するかという問いが現在のMA63論争につながる。"
+    },
+    {
+      "years": "1985–1994",
+      "title": "PBS期",
+      "shift": "KDM政治と連邦対立",
+      "federal": { "name": "BN", "summary": "Mahathir政権下でBN優位が続く一方、UMNO分裂や野党協力が起きた。", "groups": [{ "label": "連邦与党", "tone": "government", "parties": ["UMNO", "MCA", "MIC"] }, { "label": "主要野党", "tone": "opposition", "parties": ["DAP", "PAS", "Semangat 46"] }] },
+      "sabah": { "name": "PBS", "summary": "Joseph Pairin Kitingan率いるPBSがBERJAYAを破り、KDMを軸に多民族州政府を形成した。", "groups": [{ "label": "州与党", "tone": "government", "parties": ["PBS"] }, { "label": "主要野党", "tone": "opposition", "parties": ["USNO", "BN / UMNO"] }] },
+      "lens": "Sabah地域主義と、連邦与党への接続がもたらす資源・安定とのせめぎ合いが鮮明になった。"
+    },
+    {
+      "years": "1994–2018",
+      "title": "Sabah BN期",
+      "shift": "UMNO進出と長期政権",
+      "federal": { "name": "BN", "summary": "Reformasi、2008年の3分の2割れ、2013年の得票率逆転を経て、一党優位体制が徐々に揺らいだ。", "groups": [{ "label": "連邦与党", "tone": "government", "parties": ["UMNO", "MCA", "MIC", "東マレーシア諸党"] }, { "label": "主要野党", "tone": "opposition", "parties": ["Pakatan系", "PAS"] }] },
+      "sabah": { "name": "BN Sabah", "summary": "1994年選挙後の離党でBNが州政府を形成。Musa Aman長期政権の下で人口・移民・身分証問題が政治の中心となった。", "groups": [{ "label": "州与党構成", "tone": "government", "parties": ["UMNO", "PBS", "UPKO", "PBRS"] }, { "label": "主要野党", "tone": "opposition", "parties": ["SAPP", "DAP / PKR", "Warisan（2016～）"] }] },
+      "lens": "Project ICへの疑念と、書類を得られない住民の救済問題が同時に存在する。"
+    },
+    {
+      "years": "2018–2022",
+      "title": "政権交代の連鎖",
+      "shift": "流動化と再編",
+      "federal": { "name": "PH → PN / BN", "summary": "2018年に初の連邦政権交代。2020年のSheraton Move後、Muhyiddin、Ismail Sabriへ首相が交代した。", "groups": [{ "label": "2018–20 与党", "tone": "government", "parties": ["PH"] }, { "label": "2020–22 与党", "tone": "ally", "parties": ["PN", "BN", "GPS"] }] },
+      "sabah": { "name": "Warisan → GRS", "summary": "2018年にWarisan Plus政権が成立し、2020年州選ではGRSが勝利してHajiji Noorが州首相となった。", "groups": [{ "label": "2018–20 州与党", "tone": "government", "parties": ["Warisan Plus"] }, { "label": "2020– 州与党", "tone": "ally", "parties": ["GRS", "BN"] }, { "label": "主要野党", "tone": "opposition", "parties": ["Warisan"] }] },
+      "lens": "政党間移動が政府を変える経験を経て、Sabahの議席は連邦政権形成の決定票として重みを増した。"
+    },
+    {
+      "years": "2022–2026",
+      "title": "Unity Government",
+      "shift": "MA63・40％・地域政党",
+      "federal": { "name": "Anwar政権", "summary": "2022年総選挙後、Anwar Ibrahimを首相とするPH・BN・GPS・GRS中心の連立が成立した。", "groups": [{ "label": "連邦与党", "tone": "government", "parties": ["PH", "BN", "GPS", "GRS"] }, { "label": "主要野党", "tone": "opposition", "parties": ["PN"] }] },
+      "sabah": { "name": "GRS政権", "summary": "Hajiji Noor率いるGRS主導州政府が続き、MA63履行と歳入40％返還が中心争点となっている。", "groups": [{ "label": "州与党中核", "tone": "government", "parties": ["GRS"] }, { "label": "協力勢力", "tone": "ally", "parties": ["UPKO", "BN / PH"] }, { "label": "主要野党", "tone": "opposition", "parties": ["Warisan"] }] },
+      "lens": "半島の与野党だけでなく、Sabah・Sarawakの地域連合が連邦の安定と交渉を左右している。"
+    }
+  ],
+  "sources": [
+    { "label": "IDEスクエア：2022年総選挙と政党連携", "url": "https://www.ide.go.jp/Japanese/IDEsquare/Analysis/2023/ISQ202310_001.html" },
+    { "label": "Sabah選挙管理委員会：1963年以降の州政府", "url": "https://ppn.spr.gov.my/sabah/?page_id=327" },
+    { "label": "Sabah州政府：People & History", "url": "https://dr-www.sabah.gov.my/people-history" },
+    { "label": "DBKK：Jesselton／Apiと日本軍占領期", "url": "https://dbkk.sabah.gov.my/profil-dbkk" },
+    { "label": "Australian War Memorial：North Borneo 1945", "url": "https://www.awm.gov.au/collection/PL1929" },
+    { "label": "Sabah移民問題RCI報告", "url": "https://repositori.parlimen.gov.my/handle/123456789/3506" }
+  ]
+}

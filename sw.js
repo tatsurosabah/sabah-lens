@@ -1,7 +1,7 @@
 // Sabah Lens の Service Worker。
 // index.html / sw.js を変えたら CACHE の版番号を必ず上げる（上げないと更新が反映されない）。
-const CACHE = 'sabah-lens-v11';
-const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
+const CACHE = 'sabah-lens-v12';
+const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './politics.json'];
 
 // 記事写真は各媒体のサーバーから来る。毎回落とすと重いので別枠でキャッシュし、
 // 上限を決めて古いものから捨てる。
