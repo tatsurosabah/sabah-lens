@@ -130,6 +130,29 @@ def classify(channel, title=""):
     return "その他", 9
 
 
+MALAY_RE = re.compile(
+    r"(tanpa kewarganegaraan|kanak-kanak|dokumentari|\bpati\b|pelarian|"
+    r"warga|ditahan|imigresen|dipindahkan)", re.I)
+CHINESE_RE = re.compile(r"[无國国籍兒儿童馬马來来西亞亚沙巴]")
+OTHER_LANGUAGE_RE = re.compile(
+    r"(\bmga\b|\bpinoy\b|\bpilipino|kabataang|nanganganib|eskwela|"
+    r"kalagayan|\bbambini\b|\bbambine\b)", re.I)
+
+
+def classify_language(region, channel, title, query):
+    """表示用の大まかな言語。既存の地域分類と検索語も補助信号にする。"""
+    blob = f"{channel} {title} {query}"
+    if region == "台湾" or CHINESE_RE.search(blob):
+        return "zh"
+    if region == "日本" or KANA_RE.search(blob):
+        return "ja"
+    if MALAY_RE.search(blob):
+        return "ms"
+    if OTHER_LANGUAGE_RE.search(blob):
+        return "other"
+    return "en"
+
+
 def search(q):
     url = ("https://www.youtube.com/results?search_query="
            + urllib.parse.quote(q) + "&sp=" + VIDEO_ONLY)
@@ -165,6 +188,7 @@ def search(q):
             "published": runs_text(v.get("publishedTimeText")),
             "views": runs_text(v.get("viewCountText")),
             "region": label,
+            "language": classify_language(label, channel, title, q),
             "pri": pri,
             "q": q,
         })

@@ -445,25 +445,29 @@ main { padding-bottom: 66px; }
 .pol-ally { background: #e4bd58; }
 .pol-opp { background: #ff7770; }
 .pol-context { background: #8f99ad; }
-.pol-era {
-  overflow: hidden; margin-bottom: 15px; border: 1px solid rgba(255,255,255,.1);
-  border-radius: var(--radius); background: rgba(255,255,255,.045);
+.pol-map-scroll {
+  overflow-x: auto; margin: 0 -14px 4px; padding: 0 14px 12px;
+  scroll-snap-type: x proximity; scrollbar-color: var(--icicle) transparent;
+  -webkit-overflow-scrolling: touch;
 }
+.pol-map { display: flex; width: max-content; border: 1px solid rgba(255,255,255,.12); border-radius: var(--radius); overflow: hidden; }
+.pol-era {
+  flex: 0 0 min(78vw, 268px); display: grid; grid-template-rows: 108px 235px 235px auto;
+  overflow: hidden; margin: 0; border-right: 1px solid rgba(255,255,255,.12);
+  border-radius: 0; background: rgba(255,255,255,.045); scroll-snap-align: start;
+}
+.pol-era:last-child { border-right: 0; }
 .pol-era-head { padding: 14px 15px 12px; border-bottom: 1px solid rgba(255,255,255,.08); }
 .pol-era-head small { display: block; margin-bottom: 4px; color: var(--icicle); font-size: 11px; font-weight: 800; letter-spacing: .04em; }
 .pol-era-head h3 { margin: 0 0 3px; font-size: 18px; line-height: 1.3; }
 .pol-era-head p { margin: 0; color: var(--on-dark-sub); font-size: 11.5px; }
-.pol-pair { display: grid; grid-template-columns: 1fr 1fr; }
-.pol-side { min-width: 0; }
-.pol-side + .pol-side { border-left: 1px solid rgba(255,255,255,.08); }
-.pol-side summary { position: relative; display: block; padding: 13px 14px 9px; cursor: pointer; list-style: none; }
-.pol-side summary::-webkit-details-marker { display: none; }
-.pol-side summary span { display: block; margin-bottom: 4px; color: var(--on-dark-sub); font-size: 9.5px; font-weight: 800; letter-spacing: .12em; }
-.pol-side summary b { display: block; padding-right: 18px; font-size: 14px; line-height: 1.35; }
-.pol-side summary::after { content: '+'; position: absolute; top: 19px; right: 13px; color: var(--icicle); font-size: 16px; }
-.pol-side[open] summary::after { content: '−'; }
-.pol-summary { margin: 0; padding: 0 14px 11px; color: #cfd6e6; font-size: 11.5px; line-height: 1.65; }
-.pol-groups { padding: 0 14px 14px; }
+.pol-pair { display: contents; }
+.pol-side { min-width: 0; padding: 13px 14px; overflow: hidden; }
+.pol-side + .pol-side { border-top: 1px solid rgba(255,255,255,.08); }
+.pol-side-label { display: block; margin-bottom: 7px; color: var(--on-dark-sub); font-size: 9px; font-weight: 800; letter-spacing: .12em; }
+.pol-player { display: block; width: 100%; margin-bottom: 9px; padding: 8px 9px; border: 1px solid rgba(255,255,255,.28); border-radius: 7px; background: rgba(255,255,255,.08); color: #fff; text-align: left; font-size: 13px; font-weight: 800; line-height: 1.35; }
+.pol-player:active { background: rgba(255,255,255,.18); }
+.pol-groups { padding: 0; }
 .pol-group { margin-top: 9px; padding-left: 8px; border-left: 3px solid #8f99ad; }
 .pol-group.government { border-color: #77ccff; }
 .pol-group.ally { border-color: #e4bd58; }
@@ -475,26 +479,34 @@ main { padding-bottom: 66px; }
 .party-sheet-kind { display: inline-block; margin-bottom: 8px; padding: 4px 9px; border-radius: 999px; background: #e9efff; color: var(--royal); font-size: 10.5px; font-weight: 800; }
 .party-sheet-full { margin: 0 0 14px; color: var(--sub); font-size: 13px; line-height: 1.5; }
 .party-sheet-copy { margin: 0; color: #232c44; font-size: 15px; line-height: 1.85; }
-.pol-lens { margin: 0; padding: 12px 15px; border-top: 1px solid rgba(255,255,255,.08); color: #dce4f2; font-size: 12px; line-height: 1.75; }
+.pol-lens { margin: 0; padding: 12px 15px; border-top: 1px solid rgba(255,255,255,.08); color: #dce4f2; font-size: 11.5px; line-height: 1.65; }
 .pol-lens b { color: var(--icicle); }
 .pol-sources { margin: 18px 0 24px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,.12); }
 .pol-sources h3 { margin: 0 0 10px; font-size: 14px; }
 .pol-sources a { display: block; padding: 9px 0; border-bottom: 1px solid rgba(255,255,255,.07); color: var(--icicle); font-size: 12px; line-height: 1.5; }
-@media (max-width: 480px) {
-  .pol-pair { grid-template-columns: 1fr; }
-  .pol-side + .pol-side { border-left: 0; border-top: 1px solid rgba(255,255,255,.08); }
-}
+.pol-swipe-note { margin: -4px 0 16px; color: var(--on-dark-sub); text-align: right; font-size: 10px; }
 
 /* 動画 */
-.vid-group { margin-bottom: 22px; }
-.vid-region {
-  margin: 0 0 10px; font-size: 13px; font-weight: 800; color: var(--icicle);
-  letter-spacing: .5px;
-}
-.vid-region span { color: var(--on-dark-sub); font-weight: 700; margin-left: 5px; }
-.vid { display: flex; gap: 11px; margin-bottom: 13px; align-items: flex-start; }
+.vid-controls { margin: 2px 0 15px; padding: 12px; border-radius: var(--radius); background: rgba(255,255,255,.055); }
+.vid-control-row { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 7px; scrollbar-width: none; }
+.vid-control-row::-webkit-scrollbar { display: none; }
+.vid-control-row:last-child { padding-bottom: 0; }
+.vid-control-row button { flex: 0 0 auto; padding: 7px 10px; border: 1px solid rgba(255,255,255,.13); border-radius: 999px; color: var(--on-dark-sub); font-size: 11px; font-weight: 700; }
+.vid-control-row button.on { border-color: var(--icicle); background: rgba(119,204,255,.16); color: var(--icicle); }
+.vid-sort { display: flex; align-items: center; gap: 9px; margin-top: 4px; color: var(--on-dark-sub); font-size: 11px; }
+.vid-sort select { flex: 1; min-width: 0; padding: 8px 10px; border: 1px solid rgba(255,255,255,.15); border-radius: 9px; background: var(--bg-2); color: var(--on-dark); font: inherit; font-weight: 700; }
+.vid-count { margin: 0 0 9px; color: var(--on-dark-sub); font-size: 11px; }
+.vid-row { position: relative; overflow: hidden; margin-bottom: 11px; border-radius: 11px; background: rgba(255,255,255,.08); }
+.vid-actions { position: absolute; inset: 0 auto 0 0; display: flex; width: 164px; }
+.vid-action { width: 82px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; color: #fff; font-size: 18px; font-weight: 800; }
+.vid-action span { font-size: 9px; white-space: nowrap; }
+.vid-action.watched { background: #2574a9; }
+.vid-action.must { background: #b87908; }
+.vid { position: relative; z-index: 1; display: flex; gap: 11px; min-height: 88px; padding: 8px; align-items: flex-start; background: var(--bg); cursor: pointer; touch-action: pan-y; transition: transform .18s ease, opacity .18s ease; }
+.vid.swiping { transition: none; }
+.vid.viewed { opacity: .58; }
 .vid-thumb {
-  position: relative; flex: none; width: 136px; aspect-ratio: 16/9;
+  position: relative; flex: none; width: 132px; aspect-ratio: 16/9;
   border-radius: 10px; overflow: hidden; background: var(--bg-2);
 }
 .vid-thumb img { width: 100%; height: 100%; object-fit: cover; }
@@ -502,12 +514,17 @@ main { padding-bottom: 66px; }
   position: absolute; right: 4px; bottom: 4px; background: rgba(0,0,0,.8);
   color: #fff; font-size: 10.5px; font-weight: 700; padding: 1px 5px; border-radius: 4px;
 }
-.vid-meta { min-width: 0; }
+.vid-meta { min-width: 0; flex: 1; }
 .vid-meta h4 {
   margin: 0 0 5px; font-size: 13.5px; font-weight: 700; line-height: 1.45;
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
 }
 .vid-meta p { margin: 0; font-size: 11.5px; color: var(--on-dark-sub); line-height: 1.5; }
+.vid-badges { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 7px; }
+.vid-badges span { padding: 3px 6px; border-radius: 999px; background: rgba(255,255,255,.07); color: var(--on-dark-sub); font-size: 9px; }
+.vid-badges .must { background: rgba(228,189,88,.17); color: #f4ce69; }
+.vid-star { flex: none; width: 28px; height: 28px; color: var(--on-dark-sub); font-size: 20px; }
+.vid-star.on { color: #f4ce69; }
 
 /* 団体 */
 .org {
@@ -652,6 +669,8 @@ main { padding-bottom: 66px; }
   box-shadow: 0 10px 30px rgba(0, 0, 0, .35);
 }
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
+.toast.show { pointer-events: auto; }
+.toast button { margin-left: 10px; color: var(--royal); font-weight: 800; text-decoration: underline; }
 </style>
 </head>
 <body>
@@ -737,7 +756,7 @@ main { padding-bottom: 66px; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v13';
+const CACHE_LABEL = 'lens-v14';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
@@ -748,6 +767,11 @@ const DEFAULT_STATE = {
   importantOnly: false,  // 政策に関わる記事だけに絞る
   expandBody: false,     // 記事画面で本文を開いたままにするか
   readOrig: false,       // 本文を原文で読むか（false なら日本語訳）
+  videoRead: {},         // 視聴済みの動画
+  videoMust: {},         // 必ず確認したい動画
+  videoStatus: 'unwatched',
+  videoLang: 'en',       // 動画は英語を初期表示
+  videoSort: 'newest',
 };
 let state = load();
 
@@ -1266,12 +1290,18 @@ sheetBg.addEventListener('click', closeSheet);
 
 /* ─── 操作 ─── */
 
-function toast(msg) {
+function toast(msg, undo) {
   const el = $('#toast');
   el.textContent = msg;
+  if (undo) {
+    const b = document.createElement('button');
+    b.type = 'button'; b.textContent = '元に戻す';
+    b.addEventListener('click', () => { undo(); el.classList.remove('show'); });
+    el.appendChild(b);
+  }
   el.classList.add('show');
   clearTimeout(el._t);
-  el._t = setTimeout(() => el.classList.remove('show'), 1600);
+  el._t = setTimeout(() => el.classList.remove('show'), undo ? 2400 : 1600);
 }
 
 function toggleStar(id) {
@@ -1552,14 +1582,14 @@ async function renderTimeline() {
 async function renderPolitics() {
   const d = await loadLib('politics', 'politics.json');
   if (!d.eras) return '<div class="empty"><p>政治史を読み込めませんでした</p></div>';
-  const side = (label, x) => `<details class="pol-side">
-    <summary><span>${label}</span><b>${esc(x.name)}</b></summary>
-    <p class="pol-summary">${esc(x.summary || '')}</p>
+  const side = (label, x) => `<section class="pol-side">
+    <span class="pol-side-label">${label}</span>
+    <button type="button" class="pol-player" data-pol-player="${esc(x.name)}">${esc(x.name)}</button>
     <div class="pol-groups">${x.groups.map(g => `<div class="pol-group ${esc(g.tone)}">
       <label>${esc(g.label)}</label>
       <div class="pol-tags">${g.parties.map(p => `<button type="button" data-pol-party="${esc(p)}">${esc(p)}</button>`).join('')}</div>
     </div>`).join('')}</div>
-  </details>`;
+  </section>`;
   return `<div class="lib-lead">
       <h2>${esc(d.title)}</h2>
       <p>${mdBold(d.note)}</p>
@@ -1569,14 +1599,36 @@ async function renderPolitics() {
       <span><i class="pol-ally"></i>協力勢力・次の与党</span>
       <span><i class="pol-opp"></i>野党・抵抗勢力</span>
     </div>
-    ${d.eras.map(e => `<article class="pol-era">
-      <header class="pol-era-head"><small>${esc(e.years)}</small><h3>${esc(e.title)}</h3><p>${esc(e.shift)}</p></header>
-      <div class="pol-pair">${side('FEDERAL / 連邦', e.federal)}${side('SABAH / 州', e.sabah)}</div>
-      <p class="pol-lens"><b>読む鍵：</b>${esc(e.lens)}</p>
-    </article>`).join('')}
+    <div class="pol-map-scroll"><div class="pol-map">
+      ${d.eras.map(e => `<article class="pol-era">
+        <header class="pol-era-head"><small>${esc(e.years)}</small><h3>${esc(e.title)}</h3><p>${esc(e.shift)}</p></header>
+        <div class="pol-pair">${side('FEDERAL / 連邦', e.federal)}${side('SABAH / 州', e.sabah)}</div>
+        <p class="pol-lens"><b>読む鍵：</b>${esc(e.lens)}</p>
+      </article>`).join('')}
+    </div></div><p class="pol-swipe-note">← 時系列に沿って横へスワイプ →</p>
     <div class="pol-sources"><h3>主な出典</h3>${d.sources.map(s =>
       `<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.label)} ↗</a>`
     ).join('')}</div>`;
+}
+
+function openPlayerSheet(name) {
+  const d = LIB.politics || {};
+  let found = null, scope = '';
+  for (const e of (d.eras || [])) {
+    if (e.federal.name === name) { found = e.federal; scope = `連邦政治 · ${e.years}`; break; }
+    if (e.sabah.name === name) { found = e.sabah; scope = `Sabah州政治 · ${e.years}`; break; }
+  }
+  if (!found) return;
+  openId = `player:${name}`;
+  sheet.innerHTML = `<div class="grab"></div>
+    <div class="sheet-head"><button class="iconbtn dark" id="sheetClose" aria-label="閉じる">
+      <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+    <div class="sheet-body" style="padding-top:58px">
+      <span class="party-sheet-kind">${esc(scope)}</span>
+      <h2>${esc(name)}</h2><p class="party-sheet-copy">${esc(found.summary || '')}</p>
+    </div>`;
+  sheet.scrollTop = 0; sheetBg.classList.add('open'); sheet.classList.add('open');
+  document.body.style.overflow = 'hidden'; $('#sheetClose').addEventListener('click', closeSheet);
 }
 
 function openPartySheet(name) {
@@ -1604,24 +1656,81 @@ function openPartySheet(name) {
   $('#sheetClose').addEventListener('click', closeSheet);
 }
 
-const REGION_ORDER = ['日本', 'アメリカ', '台湾', 'サバ', 'マレーシア', '国際', 'その他'];
+const VIDEO_LANG_LABEL = { en: '英語', ms: 'マレー語', zh: '中国語', ja: '日本語', other: 'その他' };
+
+function videoLanguage(v) {
+  if (v.language) return v.language;
+  if (v.region === '日本') return 'ja';
+  if (v.region === '台湾') return 'zh';
+  const text = `${v.title || ''} ${v.channel || ''} ${v.q || ''}`.toLowerCase();
+  if (/(tanpa kewarganegaraan|kanak-kanak|dokumentari|\bpati\b|pelarian|warga|ditahan)/.test(text)
+      && !/(stateless|undocumented|refugee|documentary)/.test(text)) return 'ms';
+  if (/[无國國籍兒童馬來西亞沙巴]/.test(text)) return 'zh';
+  if (/[ぁ-んァ-ヶ]/.test(text)) return 'ja';
+  if (/(\bmga\b|\bpinoy\b|\bpilipino|kabataang|nanganganib|eskwela|kalagayan|\bbambini\b|\bbambine\b)/.test(text)) return 'other';
+  return 'en';
+}
+
+function videoAgeDays(text) {
+  const s = String(text || '').toLowerCase();
+  const m = s.match(/(\d+)\s*(minute|hour|day|week|month|year|mo|m|h|d|w|y)/);
+  if (!m) return Number.MAX_SAFE_INTEGER;
+  const n = Number(m[1]), u = m[2];
+  if (u === 'minute' || u === 'm') return n / 1440;
+  if (u === 'hour' || u === 'h') return n / 24;
+  if (u === 'day' || u === 'd') return n;
+  if (u === 'week' || u === 'w') return n * 7;
+  if (u === 'month' || u === 'mo') return n * 30;
+  return n * 365;
+}
+
+function videoViews(text) {
+  const m = String(text || '').replace(/,/g, '').match(/([\d.]+)\s*([kmb])?/i);
+  if (!m) return 0;
+  return Number(m[1]) * ({ k: 1e3, m: 1e6, b: 1e9 }[(m[2] || '').toLowerCase()] || 1);
+}
+
+function videoList(items) {
+  let list = items.filter(v => state.videoLang === 'all' || videoLanguage(v) === state.videoLang);
+  if (state.videoStatus === 'unwatched') list = list.filter(v => !state.videoRead[v.vid]);
+  if (state.videoStatus === 'watched') list = list.filter(v => state.videoRead[v.vid]);
+  if (state.videoStatus === 'must') list = list.filter(v => state.videoMust[v.vid]);
+  list = list.slice();
+  if (state.videoSort === 'newest') list.sort((a, b) => videoAgeDays(a.published) - videoAgeDays(b.published));
+  if (state.videoSort === 'oldest') list.sort((a, b) => videoAgeDays(b.published) - videoAgeDays(a.published));
+  if (state.videoSort === 'views') list.sort((a, b) => videoViews(b.views) - videoViews(a.views));
+  return list;
+}
 
 async function renderVideos() {
   const d = await loadLib('videos', 'videos.json');
   if (!d.items || !d.items.length) return '<div class="empty"><p>動画がまだありません</p></div>';
-  const byRegion = {};
-  for (const v of d.items) (byRegion[v.region] = byRegion[v.region] || []).push(v);
+  const list = videoList(d.items);
+  const status = [['unwatched','未視聴'],['watched','視聴済み'],['must','必ず確認'],['all','すべて']];
+  const langs = [['en','English'],['ms','Malay'],['zh','中文'],['ja','日本語'],['other','その他'],['all','すべて']];
 
   return `<div class="lib-lead">
       <h2>動画で見る</h2>
-      <p>YouTube から自動で集めたもの。<b>日本 → アメリカ → 台湾 → サバ → マレーシア</b> の順に並べている。
-         同じ問題でも、どの国のメディアが撮ったかで語り口が変わる。</p>
-    </div>` +
-    REGION_ORDER.filter(r => byRegion[r]).map(r => `
-      <div class="vid-group">
-        <h3 class="vid-region">${esc(r)} <span>${byRegion[r].length}</span></h3>
-        ${byRegion[r].slice(0, 12).map(v => `
-          <a class="vid" href="https://www.youtube.com/watch?v=${esc(v.vid)}" target="_blank" rel="noopener noreferrer">
+      <p>YouTubeから自動収集。右へスワイプすると、<b>視聴済み／未視聴</b>と<b>必ず確認</b>を操作できる。</p>
+    </div>
+    <div class="vid-controls">
+      <div class="vid-control-row">${status.map(([k,l]) => `<button data-video-status="${k}" class="${state.videoStatus === k ? 'on' : ''}">${l}</button>`).join('')}</div>
+      <div class="vid-control-row">${langs.map(([k,l]) => `<button data-video-lang="${k}" class="${state.videoLang === k ? 'on' : ''}">${l}</button>`).join('')}</div>
+      <label class="vid-sort"><span>並び順</span><select data-video-sort>
+        <option value="newest" ${state.videoSort === 'newest' ? 'selected' : ''}>公開日：新しい順</option>
+        <option value="oldest" ${state.videoSort === 'oldest' ? 'selected' : ''}>公開日：古い順</option>
+        <option value="views" ${state.videoSort === 'views' ? 'selected' : ''}>再生数が多い順</option>
+        <option value="recommended" ${state.videoSort === 'recommended' ? 'selected' : ''}>収集時のおすすめ順</option>
+      </select></label>
+    </div>
+    <p class="vid-count">${list.length}件 · ${state.videoLang === 'all' ? '全言語' : VIDEO_LANG_LABEL[state.videoLang]} · ${status.find(x => x[0] === state.videoStatus)?.[1] || 'すべて'}</p>
+    <div class="vid-list">${list.map(v => `
+      <div class="vid-row" data-video-row="${esc(v.vid)}">
+        <div class="vid-actions">
+          <button class="vid-action watched" data-video-action="watched" data-video-id="${esc(v.vid)}">✓<span>${state.videoRead[v.vid] ? '未視聴に戻す' : '視聴済み'}</span></button>
+          <button class="vid-action must" data-video-action="must" data-video-id="${esc(v.vid)}">★<span>${state.videoMust[v.vid] ? '必ず確認を解除' : '必ず確認'}</span></button>
+        </div>
+        <article class="vid ${state.videoRead[v.vid] ? 'viewed' : ''}" data-video-open="${esc(v.vid)}">
             <div class="vid-thumb">
               <img loading="lazy" decoding="async" referrerpolicy="no-referrer"
                    src="https://i.ytimg.com/vi/${esc(v.vid)}/mqdefault.jpg" alt="">
@@ -1630,10 +1739,74 @@ async function renderVideos() {
             <div class="vid-meta">
               <h4>${esc(v.title)}</h4>
               <p>${esc(v.channel)}${v.published ? ' · ' + esc(v.published) : ''}${v.views ? ' · ' + esc(v.views) : ''}</p>
+              <div class="vid-badges"><span>${esc(VIDEO_LANG_LABEL[videoLanguage(v)] || videoLanguage(v))}</span><span>${esc(v.region || 'その他')}</span>${state.videoMust[v.vid] ? '<span class="must">★ 必ず確認</span>' : ''}</div>
             </div>
-          </a>`).join('')}
-      </div>`).join('');
+            <button type="button" class="vid-star ${state.videoMust[v.vid] ? 'on' : ''}" data-video-must="${esc(v.vid)}" aria-label="必ず確認">${state.videoMust[v.vid] ? '★' : '☆'}</button>
+        </article>
+      </div>`).join('')}</div>
+    ${list.length ? '' : '<div class="empty"><p>この条件の動画はありません</p></div>'}`;
 }
+
+function videoById(id) {
+  return (((LIB.videos || {}).items) || []).find(v => v.vid === id);
+}
+
+function toggleVideoViewed(id) {
+  const before = !!state.videoRead[id];
+  if (before) delete state.videoRead[id]; else state.videoRead[id] = 1;
+  save(); renderLibrary();
+  toast(before ? '未視聴に戻しました' : '視聴済みにしました', () => {
+    if (before) state.videoRead[id] = 1; else delete state.videoRead[id];
+    save(); renderLibrary();
+  });
+}
+
+function toggleVideoMust(id) {
+  const before = !!state.videoMust[id];
+  if (before) delete state.videoMust[id]; else state.videoMust[id] = 1;
+  save(); renderLibrary();
+  toast(before ? '必ず確認から外しました' : '★ 必ず確認に追加しました', () => {
+    if (before) state.videoMust[id] = 1; else delete state.videoMust[id];
+    save(); renderLibrary();
+  });
+}
+
+let videoSwipe = null, videoOpenCard = null, videoSuppressUntil = 0;
+function closeVideoSwipe() {
+  if (!videoOpenCard) return;
+  videoOpenCard.style.transform = '';
+  videoOpenCard.classList.remove('swipe-open');
+  videoOpenCard = null;
+}
+document.addEventListener('pointerdown', e => {
+  if (!e.isPrimary || e.button !== 0 || e.target.closest('button,select,a')) return;
+  const card = e.target.closest('.vid');
+  if (!card) return;
+  if (videoOpenCard && videoOpenCard !== card) closeVideoSwipe();
+  videoSwipe = { card, id: card.dataset.videoOpen, x: e.clientX, y: e.clientY, dx: 0, horizontal: false };
+});
+document.addEventListener('pointermove', e => {
+  if (!videoSwipe || !e.isPrimary) return;
+  const dx = e.clientX - videoSwipe.x, dy = e.clientY - videoSwipe.y;
+  if (!videoSwipe.horizontal && Math.abs(dy) > Math.abs(dx) + 8) { videoSwipe = null; return; }
+  if (dx <= 8) return;
+  videoSwipe.horizontal = true; videoSwipe.dx = dx; e.preventDefault();
+  videoSwipe.card.classList.add('swiping');
+  videoSwipe.card.style.transform = `translateX(${Math.min(dx, 164)}px)`;
+});
+function finishVideoSwipe() {
+  if (!videoSwipe) return;
+  const s = videoSwipe; videoSwipe = null; s.card.classList.remove('swiping');
+  if (!s.horizontal || s.dx < 24) { s.card.style.transform = ''; return; }
+  videoSuppressUntil = Date.now() + 500;
+  s.card.style.transform = `translateX(${s.dx >= 116 ? 164 : 82}px)`;
+  s.card.classList.add('swipe-open'); videoOpenCard = s.card;
+}
+document.addEventListener('pointerup', finishVideoSwipe);
+document.addEventListener('pointercancel', () => {
+  if (videoSwipe) { videoSwipe.card.classList.remove('swiping'); videoSwipe.card.style.transform = ''; }
+  videoSwipe = null;
+});
 
 async function renderOrgs() {
   const d = await loadLib('orgs', 'orgs.json');
@@ -1684,6 +1857,37 @@ document.addEventListener('click', e => {
   const party = e.target.closest('[data-pol-party]');
   if (party) { openPartySheet(party.dataset.polParty); return; }
 
+  const player = e.target.closest('[data-pol-player]');
+  if (player) { openPlayerSheet(player.dataset.polPlayer); return; }
+
+  const videoAction = e.target.closest('[data-video-action]');
+  if (videoAction) {
+    videoOpenCard = null;
+    if (videoAction.dataset.videoAction === 'watched') toggleVideoViewed(videoAction.dataset.videoId);
+    else toggleVideoMust(videoAction.dataset.videoId);
+    return;
+  }
+
+  const videoMust = e.target.closest('[data-video-must]');
+  if (videoMust) { e.stopPropagation(); toggleVideoMust(videoMust.dataset.videoMust); return; }
+
+  const videoStatus = e.target.closest('[data-video-status]');
+  if (videoStatus) { state.videoStatus = videoStatus.dataset.videoStatus; save(); renderLibrary(); return; }
+
+  const videoLang = e.target.closest('[data-video-lang]');
+  if (videoLang) { state.videoLang = videoLang.dataset.videoLang; save(); renderLibrary(); return; }
+
+  const videoOpen = e.target.closest('[data-video-open]');
+  if (videoOpen) {
+    if (Date.now() < videoSuppressUntil) return;
+    if (videoOpen === videoOpenCard) { closeVideoSwipe(); return; }
+    const item = videoById(videoOpen.dataset.videoOpen);
+    if (!item) return;
+    window.open(`https://www.youtube.com/watch?v=${encodeURIComponent(item.vid)}`, '_blank', 'noopener');
+    if (!state.videoRead[item.vid]) { state.videoRead[item.vid] = 1; save(); renderLibrary(); }
+    return;
+  }
+
   const tab = e.target.closest('#tabs [data-view]');
   if (tab) { setView(tab.dataset.view); return; }
 
@@ -1700,6 +1904,11 @@ document.addEventListener('click', e => {
     setView('news');
     renderPeriod(); renderChips(); render();
   }
+});
+
+document.addEventListener('change', e => {
+  if (!e.target.matches('[data-video-sort]')) return;
+  state.videoSort = e.target.value; save(); renderLibrary();
 });
 
 /* 起動 */
