@@ -399,9 +399,11 @@ main { padding-bottom: 66px; }
 .lib-tabs {
   display: flex; gap: 3px; padding: 3px; margin: 14px 0 4px;
   background: rgba(255, 255, 255, .06); border-radius: 999px;
+  overflow-x: auto; scrollbar-width: none;
 }
+.lib-tabs::-webkit-scrollbar { display: none; }
 .lib-tabs button {
-  flex: 1; border-radius: 999px; padding: 8px 4px; font-size: 13px; font-weight: 700;
+  flex: 1 0 58px; border-radius: 999px; padding: 8px 4px; font-size: 12.5px; font-weight: 700;
   color: var(--on-dark-sub);
 }
 .lib-tabs button.on { background: #fff; color: var(--ink); }
@@ -481,10 +483,56 @@ main { padding-bottom: 66px; }
 .party-sheet-copy { margin: 0; color: #232c44; font-size: 15px; line-height: 1.85; }
 .pol-lens { margin: 0; padding: 12px 15px; border-top: 1px solid rgba(255,255,255,.08); color: #dce4f2; font-size: 11.5px; line-height: 1.65; }
 .pol-lens b { color: var(--icicle); }
+.pol-focus { margin: 26px 0 4px; }
+.pol-focus-head { margin-bottom: 14px; }
+.pol-focus-head span { display: block; margin-bottom: 5px; color: var(--icicle); font-size: 10px; font-weight: 800; letter-spacing: .12em; }
+.pol-focus-head h3 { margin: 0 0 7px; font-size: 20px; }
+.pol-focus-head p { margin: 0; color: var(--on-dark-sub); font-size: 12.5px; line-height: 1.7; }
+.pol-state-tl { margin-left: 7px; padding-left: 18px; border-left: 1px solid rgba(119,204,255,.3); }
+.pol-state-event { position: relative; margin: 0 0 12px; padding: 13px 14px; border: 1px solid rgba(255,255,255,.09); border-radius: 12px; background: rgba(255,255,255,.045); }
+.pol-state-event::before { content: ''; position: absolute; left: -24px; top: 18px; width: 9px; height: 9px; border-radius: 50%; background: var(--icicle); box-shadow: 0 0 0 4px var(--bg); }
+.pol-state-event small { display: block; margin-bottom: 4px; color: var(--icicle); font-size: 10.5px; font-weight: 800; }
+.pol-state-event h4 { margin: 0 0 3px; font-size: 15px; }
+.pol-state-event em { display: block; margin-bottom: 8px; color: var(--on-dark-sub); font-size: 11px; font-style: normal; }
+.pol-state-event p { margin: 0; color: #d7dfed; font-size: 12.5px; line-height: 1.75; }
+.pol-axes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 9px; margin-top: 18px; }
+.pol-axis { padding: 13px; border-radius: 12px; background: linear-gradient(145deg, rgba(25,70,112,.45), rgba(255,255,255,.045)); }
+.pol-axis h4 { margin: 0 0 7px; color: #fff; font-size: 13.5px; line-height: 1.45; }
+.pol-axis p { margin: 0; color: #d1d9e8; font-size: 11.5px; line-height: 1.7; }
 .pol-sources { margin: 18px 0 24px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,.12); }
 .pol-sources h3 { margin: 0 0 10px; font-size: 14px; }
 .pol-sources a { display: block; padding: 9px 0; border-bottom: 1px solid rgba(255,255,255,.07); color: var(--icicle); font-size: 12px; line-height: 1.5; }
 .pol-swipe-note { margin: -4px 0 16px; color: var(--on-dark-sub); text-align: right; font-size: 10px; }
+
+/* 文化：無国籍を中心に、生活世界からSabahを読む */
+.culture-core { position: relative; overflow: hidden; margin: 4px 0 18px; padding: 20px 18px; border: 1px solid rgba(119,204,255,.22); border-radius: 17px; background: linear-gradient(145deg, #14345d, #171c35 64%, #3a275c); }
+.culture-core::after { content: ''; position: absolute; right: -42px; bottom: -58px; width: 150px; height: 150px; border-radius: 50%; background: rgba(119,204,255,.12); filter: blur(2px); }
+.culture-core small { position: relative; z-index: 1; display: block; margin-bottom: 8px; color: var(--icicle); font-size: 10px; font-weight: 800; letter-spacing: .14em; }
+.culture-core h3 { position: relative; z-index: 1; margin: 0 0 10px; max-width: 290px; font-size: 21px; line-height: 1.4; }
+.culture-core p { position: relative; z-index: 1; margin: 0; color: #d9e4f5; font-size: 13px; line-height: 1.85; }
+.culture-list { display: grid; gap: 10px; }
+.culture-theme { border: 1px solid rgba(255,255,255,.1); border-radius: 14px; background: rgba(255,255,255,.045); overflow: hidden; }
+.culture-theme summary { position: relative; display: block; padding: 15px 42px 14px 15px; cursor: pointer; list-style: none; }
+.culture-theme summary::-webkit-details-marker { display: none; }
+.culture-theme summary::after { content: '＋'; position: absolute; right: 15px; top: 50%; color: var(--icicle); font-size: 20px; font-weight: 400; transform: translateY(-50%); }
+.culture-theme[open] summary::after { content: '−'; }
+.culture-theme summary small { display: block; margin-bottom: 4px; color: var(--icicle); font-size: 9.5px; font-weight: 800; letter-spacing: .09em; }
+.culture-theme summary h3 { margin: 0; font-size: 16px; line-height: 1.45; }
+.culture-content { padding: 0 15px 16px; }
+.culture-content p { margin: 0 0 11px; color: #d4dceb; font-size: 13px; line-height: 1.8; }
+.culture-lens { padding: 12px; border-left: 3px solid var(--icicle); border-radius: 0 9px 9px 0; background: rgba(119,204,255,.08); }
+.culture-lens b { color: var(--icicle); }
+.culture-terms { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 12px; }
+.culture-terms span { padding: 4px 7px; border: 1px solid rgba(255,255,255,.12); border-radius: 999px; color: var(--on-dark-sub); font-size: 9.5px; }
+.culture-principles { margin: 20px 0; padding: 16px; border-radius: 14px; background: rgba(255,255,255,.06); }
+.culture-principles h3 { margin: 0 0 10px; font-size: 15px; }
+.culture-principles ol { margin: 0; padding-left: 20px; }
+.culture-principles li { margin-bottom: 8px; color: #d3dbe9; font-size: 12.5px; line-height: 1.7; }
+.culture-principles li:last-child { margin-bottom: 0; }
+
+@media (max-width: 390px) {
+  .pol-axes { grid-template-columns: 1fr; }
+}
 
 /* 動画 */
 .vid-controls { margin: 2px 0 15px; padding: 12px; border-radius: var(--radius); background: rgba(255,255,255,.055); }
@@ -719,6 +767,7 @@ main { padding-bottom: 66px; }
   <div class="lib-tabs" id="libTabs">
     <button data-lib="timeline" class="on">経緯</button>
     <button data-lib="politics">政治史</button>
+    <button data-lib="culture">文化</button>
     <button data-lib="videos">動画</button>
     <button data-lib="orgs">団体</button>
   </div>
@@ -756,7 +805,7 @@ main { padding-bottom: 66px; }
 <script>
 'use strict';
 
-const CACHE_LABEL = 'lens-v14';
+const CACHE_LABEL = 'lens-v15';
 const STATE_KEY = 'sabahlens_state';
 
 /* ─── 端末内の状態。サーバーには一切送らない ─── */
@@ -1538,9 +1587,9 @@ function renderIssues() {
   }).join('');
 }
 
-/* ─────────────── 資料（経緯・動画・団体） ─────────────── */
+/* ─────────────── 資料（経緯・政治史・文化・動画・団体） ─────────────── */
 
-let LIB = { timeline: null, politics: null, videos: null, orgs: null };
+let LIB = { timeline: null, politics: null, culture: null, videos: null, orgs: null };
 let libTab = 'timeline';
 
 async function loadLib(name, file) {
@@ -1590,6 +1639,23 @@ async function renderPolitics() {
       <div class="pol-tags">${g.parties.map(p => `<button type="button" data-pol-party="${esc(p)}">${esc(p)}</button>`).join('')}</div>
     </div>`).join('')}</div>
   </section>`;
+  const focus = d.sabah_focus;
+  const focusHtml = !focus ? '' : `<section class="pol-focus">
+    <header class="pol-focus-head">
+      <span>SABAH STATE POLITICS</span>
+      <h3>${esc(focus.title)}</h3>
+      <p>${esc(focus.note)}</p>
+    </header>
+    <div class="pol-state-tl">${focus.turning_points.map(x => `<article class="pol-state-event">
+      <small>${esc(x.years)}</small>
+      <h4>${esc(x.title)}</h4>
+      <em>${esc(x.leaders)}</em>
+      <p>${esc(x.body)}</p>
+    </article>`).join('')}</div>
+    <div class="pol-axes">${focus.axes.map(x => `<article class="pol-axis">
+      <h4>${esc(x.title)}</h4><p>${esc(x.body)}</p>
+    </article>`).join('')}</div>
+  </section>`;
   return `<div class="lib-lead">
       <h2>${esc(d.title)}</h2>
       <p>${mdBold(d.note)}</p>
@@ -1606,6 +1672,36 @@ async function renderPolitics() {
         <p class="pol-lens"><b>読む鍵：</b>${esc(e.lens)}</p>
       </article>`).join('')}
     </div></div><p class="pol-swipe-note">← 時系列に沿って横へスワイプ →</p>
+    ${focusHtml}
+    <div class="pol-sources"><h3>主な出典</h3>${d.sources.map(s =>
+      `<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.label)} ↗</a>`
+    ).join('')}</div>`;
+}
+
+async function renderCulture() {
+  const d = await loadLib('culture', 'culture.json');
+  if (!d.themes) return '<div class="empty"><p>文化資料を読み込めませんでした</p></div>';
+  return `<div class="lib-lead">
+      <h2>${esc(d.title)}</h2>
+      <p>${mdBold(d.note)}</p>
+    </div>
+    <section class="culture-core">
+      <small>${esc(d.core.kicker)}</small>
+      <h3>${esc(d.core.title)}</h3>
+      <p>${esc(d.core.body)}</p>
+    </section>
+    <div class="culture-list">${d.themes.map((x, i) => `<details class="culture-theme" ${i === 0 ? 'open' : ''}>
+      <summary><small>${esc(x.eyebrow)}</small><h3>${esc(x.title)}</h3></summary>
+      <div class="culture-content">
+        <p>${esc(x.summary)}</p>
+        <p class="culture-lens"><b>無国籍との接点：</b>${esc(x.stateless_lens)}</p>
+        <div class="culture-terms">${x.terms.map(t => `<span>${esc(t)}</span>`).join('')}</div>
+      </div>
+    </details>`).join('')}</div>
+    <section class="culture-principles">
+      <h3>このアプリで守る5つの見方</h3>
+      <ol>${d.principles.map(x => `<li>${esc(x)}</li>`).join('')}</ol>
+    </section>
     <div class="pol-sources"><h3>主な出典</h3>${d.sources.map(s =>
       `<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.label)} ↗</a>`
     ).join('')}</div>`;
@@ -1833,6 +1929,7 @@ async function renderLibrary() {
     b.classList.toggle('on', b.dataset.lib === libTab));
   body.innerHTML = libTab === 'timeline' ? await renderTimeline()
     : libTab === 'politics' ? await renderPolitics()
+    : libTab === 'culture' ? await renderCulture()
     : libTab === 'videos' ? await renderVideos()
     : await renderOrgs();
 }

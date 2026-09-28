@@ -1,0 +1,82 @@
+{
+  "title": "Sabah文化を、無国籍から読み直す",
+  "note": "Sabahに単一の文化はない。山地・内陸・西海岸・東海岸・島嶼部で、民族、言語、宗教、生業、移動の歴史が重なっている。ここでは文化を『観光的な伝統』としてではなく、**土地・海・家族・言語・法的身分がどう結びつくか**という視点で整理する。",
+  "core": {
+    "kicker": "SABAH LENS の中心",
+    "title": "文化的な所属と、法的な所属は同じではない",
+    "body": "何世代もSabahで暮らし、地域の言語・親族関係・生業に根づいていても、出生登録や国籍書類がなければ、国家はその人を正式な構成員として扱わない。無国籍問題は『外国人か地元民か』の二択ではなく、生活世界と法制度のずれとして見る必要がある。"
+  },
+  "themes": [
+    {
+      "id": "plural",
+      "eyebrow": "多様性",
+      "title": "一つではない『Sabah文化』",
+      "summary": "州政府はSabahに33の先住民族集団、50を超える言語、約80の民族方言があると説明している。Kadazan-Dusun、Murut、Bajauだけでなく、Rungus、Iranun、Bisaya、Lun Dayeh、Suluk、Ida'an、Bugis、華人など多様な社会が重なっている。",
+      "stateless_lens": "行政上の民族分類は、本人が生きる複合的なアイデンティティを完全には表さない。民族の自己認識と国籍の有無も別の軸である。",
+      "terms": ["Kadazan-Dusun", "Murut", "Bajau / Sama", "Rungus", "Suluk", "Hakka", "Sino-Native"]
+    },
+    {
+      "id": "land",
+      "eyebrow": "土地・川・山",
+      "title": "adatと土地は、文化の土台",
+      "summary": "内陸や山地では、稲作、川、森林、集落、祖先との関係が生活と文化を形づくってきた。Sabahの先住慣習地権（Native Customary Rights）は州法にも位置づけられるが、慣習的な境界と行政的な登記が一致しないことがある。",
+      "stateless_lens": "土地への長い結びつきがあっても、身分証や登記がなければ、居住・相続・行政手続きで不利になりうる。『その土地の人であること』と『国家が証明できること』のずれが表れる。",
+      "terms": ["adat", "Native Customary Rights", "kampung", "padi", "Kinabalu"]
+    },
+    {
+      "id": "kdm",
+      "eyebrow": "Kadazan-Dusun / KDM",
+      "title": "稲作、Kaamatan、そして政治的な総称",
+      "summary": "Kadazan-Dusunは多数の地域集団と言語変種を束ねる名称でもある。Kaamatanは収穫への感謝を核に、Huminodun、Bambarayon、Bobolian／Bobohizanなどの世界観、Sumazau、歌、食、衣装を通じて地域ごとの差異も可視化する。",
+      "stateless_lens": "KDMというまとまりは文化だけでなく政治的代表にも使われてきた。一方で、遠隔地や複雑な家族関係の中で出生登録からこぼれる先住民もおり、『native』であることだけで書類が自動的に得られるわけではない。",
+      "terms": ["Kaamatan", "Huminodun", "Bambarayon", "Bobolian / Bobohizan", "Sumazau"]
+    },
+    {
+      "id": "murut",
+      "eyebrow": "Murut",
+      "title": "内陸の多様な共同体",
+      "summary": "Murutは単一の村落文化ではなく、多数の下位集団を含む。内陸の川沿いや高地で、焼畑・稲作、狩猟、漁労、ロングハウスなどを基盤にしてきた。過去の首狩りだけで語ると、現代の生活や集団内部の差を見失う。",
+      "stateless_lens": "地理的隔絶、行政窓口への距離、過去の出生登録の不足は、先住民の書類問題にもつながる。無国籍を移民だけの問題として扱わないために重要な視点である。",
+      "terms": ["longhouse", "hill paddy", "river", "interior"]
+    },
+    {
+      "id": "bajau",
+      "eyebrow": "Bajau / Sama",
+      "title": "西海岸と東海岸を同じ像で括らない",
+      "summary": "西海岸のBajauは農業や馬文化で知られ、東海岸のSama-Bajau諸集団には漁撈・潜水・海上移動の強い伝統がある。Bajau、Sama、Bajau Lautを同じ生活様式の集団として扱うのは正確ではない。",
+      "stateless_lens": "『Bajau Laut＝無国籍』でも『Bajau＝移民』でもない。民族・生活様式・国籍・在留資格は分けて考え、本人の自己認識を尊重する必要がある。",
+      "terms": ["West Coast Bajau", "Sama", "Bajau Laut", "Semporna", "Kota Belud"]
+    },
+    {
+      "id": "sea",
+      "eyebrow": "スール海",
+      "title": "国境より古い海の生活圏",
+      "summary": "Sabah東海岸、スール諸島、ミンダナオ、インドネシア側の島々は、交易、漁撈、婚姻、避難によって長く結ばれてきた。近代国家の国境は、その後から海上の生活圏を区切った。",
+      "stateless_lens": "海上生活、国境を越える親族関係、紛争避難、出生登録への距離が重なると、どの国にも所属を証明しにくくなる。Bajau Lautの問題は文化をロマン化せず、登録・教育・住居・移動の権利として見る。",
+      "terms": ["Sulu Sea", "maritime mobility", "Sama Dilaut", "border", "birth registration"]
+    },
+    {
+      "id": "mixed",
+      "eyebrow": "混合するSabah",
+      "title": "華人社会、Sino-Native、宗教と言語",
+      "summary": "Sabahの華人社会ではHakka系が大きな位置を占め、農業、商業、町の形成に関わってきた。先住民との婚姻から生まれたSino-Native／Sino-Kadazanなどの複合的な自己認識もあり、家庭では複数の言語・宗教・祭礼が共存する。",
+      "stateless_lens": "家族の文化的な混合は日常的でも、国籍法は親の国籍、婚姻登録、出生地、申請時期などを厳密に区別する。家族が社会的に受け入れられていても、子どもの法的地位が不安定になることがある。",
+      "terms": ["Hakka", "Sino-Native", "intermarriage", "Malay", "English", "local languages"]
+    }
+  ],
+  "principles": [
+    "民族名から国籍や在留資格を推測しない。",
+    "『不法移民』『無国籍』『書類なし』『難民』を同義語として扱わない。",
+    "Bajau Lautを『海の民』として美化するだけでなく、本人の権利と現在の生活条件を見る。",
+    "文化を固定された衣装・踊り・祭りに限定せず、土地、家族、言語、仕事、移動、信仰まで含める。",
+    "当事者の自己認識と呼称を優先し、地域・世代・家庭による違いを残す。"
+  ],
+  "sources": [
+    { "label": "Sabah州政府：People & History", "url": "https://sabah.gov.my/people-history" },
+    { "label": "Sabah Cultural Board", "url": "https://culture.sabah.gov.my/" },
+    { "label": "Sabah Tourism Board：Kaamatan, A Celebration of Culture", "url": "https://sabahtourism.com/article/kaamatan-a-celebration-of-culture/" },
+    { "label": "SUHAKAM：National Inquiry into the Land Rights of Indigenous Peoples", "url": "https://suhakam.org.my/wp-content/uploads/2023/11/NI.pdf" },
+    { "label": "UNICEF：Children Out of School — The Sabah Context", "url": "https://www.unicef.org/malaysia/media/921/file/Out%20of%20School%20children%20%20%28OOSCI%29%20Accessible%20version.pdf" },
+    { "label": "UNICEF：Sabah Child Wellbeing Index", "url": "https://www.unicef.org/malaysia/reports/sabah-child-wellbeing-index" }
+  ]
+}

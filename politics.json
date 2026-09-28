@@ -67,14 +67,82 @@
       "lens": "政党間移動が政府を変える経験を経て、Sabahの議席は連邦政権形成の決定票として重みを増した。"
     },
     {
-      "years": "2022–2026",
+      "years": "2022–2025",
       "title": "Unity Government",
       "shift": "MA63・40％・地域政党",
       "federal": { "name": "Anwar政権", "summary": "2022年総選挙後、Anwar Ibrahimを首相とするPH・BN・GPS・GRS中心の連立が成立した。", "groups": [{ "label": "連邦与党", "tone": "government", "parties": ["PH", "BN", "GPS", "GRS"] }, { "label": "主要野党", "tone": "opposition", "parties": ["PN"] }] },
-      "sabah": { "name": "GRS政権", "summary": "Hajiji Noor率いるGRS主導州政府が続き、MA63履行と歳入40％返還が中心争点となっている。", "groups": [{ "label": "州与党中核", "tone": "government", "parties": ["GRS"] }, { "label": "協力勢力", "tone": "ally", "parties": ["UPKO", "BN / PH"] }, { "label": "主要野党", "tone": "opposition", "parties": ["Warisan"] }] },
-      "lens": "半島の与野党だけでなく、Sabah・Sarawakの地域連合が連邦の安定と交渉を左右している。"
+      "sabah": { "name": "GRS政権", "summary": "Hajiji Noor率いるGRS主導州政府が続き、2023年の政局危機を乗り越えた。MA63履行と歳入40％返還が中心争点になった。", "groups": [{ "label": "州与党中核", "tone": "government", "parties": ["GRS"] }, { "label": "協力勢力", "tone": "ally", "parties": ["UPKO", "BN / PH"] }, { "label": "主要野党", "tone": "opposition", "parties": ["Warisan"] }] },
+      "lens": "半島の与野党だけでなく、Sabah・Sarawakの地域連合が連邦の安定と交渉を左右する。"
+    },
+    {
+      "years": "2025–現在",
+      "title": "第17回Sabah州選後",
+      "shift": "地域主義と再びの連立",
+      "federal": { "name": "Anwar政権", "summary": "連邦ではPHを核とするUnity Governmentが続き、Sabahの40％歳入権とMA63履行が連邦・州間交渉の焦点となっている。", "groups": [{ "label": "連邦与党", "tone": "government", "parties": ["PH", "BN", "GPS", "GRS"] }, { "label": "主要野党", "tone": "opposition", "parties": ["PN"] }] },
+      "sabah": { "name": "第2次Hajiji政権", "summary": "2025年州選でGRSは73議席中29、Warisanは25を獲得し、どちらも単独過半数に届かなかった。Hajiji Noorが再任され、GRSを軸にUPKO・PH・BNの代表も入る州政府が発足した。", "groups": [{ "label": "州政府中核", "tone": "government", "parties": ["GRS"] }, { "label": "閣僚参加・協力", "tone": "ally", "parties": ["UPKO", "BN / PH"] }, { "label": "最大野党", "tone": "opposition", "parties": ["Warisan"] }] },
+      "lens": "地域政党支持が強まっても、過半数形成には連邦系政党や小党との協力が必要になる。書類を持たない住民は、この連立交渉を左右する選挙そのものに参加できない。"
     }
   ],
+  "sabah_focus": {
+    "title": "Sabah州政治を深掘り",
+    "note": "連邦政治の『地方版』ではなく、Sabah独自の政権交代、州権、人口政治、開発格差から読む。",
+    "turning_points": [
+      {
+        "years": "1963–1967",
+        "title": "建国期の多民族連立",
+        "leaders": "Fuad Stephens → Peter Lo",
+        "body": "Sabah AllianceはKDM系、ムスリム・ブミプトラ系、華人系の政党を束ねた。Malaysia参加条件、宗教、言語、移民権限など、現在まで続く州権の論点がこの時期に形づくられた。"
+      },
+      {
+        "years": "1967–1976",
+        "title": "USNOとMustapha Harun",
+        "leaders": "Mustapha Harun",
+        "body": "USNOが州政府を主導し、連邦との結びつき、開発、宗教・民族政治が強まった。州内の代表を誰が担うかをめぐる対立から、のちのBERJAYAが生まれた。"
+      },
+      {
+        "years": "1976–1985",
+        "title": "BERJAYA、Double Six、資源政治",
+        "leaders": "Fuad Stephens → Harris Salleh",
+        "body": "BERJAYAがUSNOを破った直後、Double Six事故でFuad Stephensらが死亡し、Harris Sallehが州首相となった。石油収入、Labuanの連邦直轄地化、開発政策が州と連邦の関係を規定した。"
+      },
+      {
+        "years": "1985–1994",
+        "title": "PBSとSabah地域主義",
+        "leaders": "Joseph Pairin Kitingan",
+        "body": "PBSはKDMを重要基盤としつつ多民族政権を形成した。連邦BNとの協力と対立を行き来し、Sabahの自治と連邦資源へのアクセスの緊張が最も明確になった。"
+      },
+      {
+        "years": "1994–2018",
+        "title": "離党で成立したSabah BN体制",
+        "leaders": "Sakaran Dandaiほか → Musa Aman",
+        "body": "1994年州選後の議員移動でBNが政権を獲得した。州首相輪番制を経てUMNO中心の長期政権となり、Project IC、移民、選挙人名簿への不信が政治の根底に残った。"
+      },
+      {
+        "years": "2018–現在",
+        "title": "WarisanからGRSへ",
+        "leaders": "Shafie Apdal → Hajiji Noor",
+        "body": "2018年にWarisan主導政権、2020年にGRS主導政権へ交代。2025年州選ではGRS29、Warisan25で議会は再び分散し、地域主義の伸長と連立依存が同時に表れた。"
+      }
+    ],
+    "axes": [
+      {
+        "title": "州権：MA63と40％歳入",
+        "body": "SabahはMalaysiaの一州であると同時に、MA63を通じて連邦形成に参加した当事者として権限回復を求める。連邦がSabahから得る純歳入の増加分に基づく40％特別交付金は、現在の代表的争点である。"
+      },
+      {
+        "title": "移民権限と国籍権限は別",
+        "body": "Sabahには特別な入域管理権限がある一方、国籍の決定は連邦憲法と連邦機関の管轄である。州政府だけで無国籍問題を解決できず、連邦だけでも現地の登録・教育・福祉実務を動かしにくい。"
+      },
+      {
+        "title": "Project ICが残した不信",
+        "body": "外国出身者への身分証付与疑惑はRCIの対象となった。『不正に書類を得た人』への疑念と、『本来資格があるのに書類を得られない人』の救済が混同され、制度改革を難しくしている。"
+      },
+      {
+        "title": "開発政治と地理",
+        "body": "道路、水道、電力、学校、診療所へのアクセスは選挙の主要争点である。都市、内陸、プランテーション、島嶼部で国家との距離が異なり、同じ政策でも影響は均一ではない。"
+      }
+    ]
+  },
   "profiles": {
     "海峡植民地": { "full": "Straits Settlements", "kind": "英国植民地", "summary": "Penang、Malacca、Singaporeなどを英国が直接統治した植民地単位。マレー半島の植民地行政と港市経済の中心となった。" },
     "マレー諸州": { "full": "Federated and Unfederated Malay States", "kind": "保護領・諸王国", "summary": "各地のスルタンを残しながら英国の影響下に置かれた諸州。州ごとに統治形態が異なった。" },
@@ -116,7 +184,10 @@
     "Warisan Plus": { "full": "Warisan-led Coalition", "kind": "Sabah州与党連合", "summary": "Warisanを中心にPH系勢力などが協力した2018年の州政権枠組み。" },
     "GRS": { "full": "Gabungan Rakyat Sabah", "kind": "Sabah政党連合", "summary": "Sabahの地域政党を中心とする連合。2020年以降、Hajiji Noor州政府の中核。" },
     "Warisan": { "full": "Parti Warisan", "kind": "Sabah地域政党", "summary": "Shafie Apdalが率いる多民族地域政党。2018～20年に州政府を率い、現在は主要州野党。" },
-    "BN / PH": { "full": "Barisan Nasional / Pakatan Harapan", "kind": "連邦系勢力", "summary": "Sabahでも候補を擁立する全国政党連合。州政治では協力と競争が併存する。" }
+    "BN / PH": { "full": "Barisan Nasional / Pakatan Harapan", "kind": "連邦系勢力", "summary": "Sabahでも候補を擁立する全国政党連合。2025年州選後はいずれもGRS主導州政府に代表を送った。" },
+    "STAR": { "full": "Parti Solidariti Tanah Airku", "kind": "Sabah地域政党", "summary": "Jeffrey Kitinganが率いる地域政党。州権・MA63を強く掲げ、2025年州選ではGRSと別に戦った。" },
+    "KDM": { "full": "Parti Kesejahteraan Demokratik Masyarakat", "kind": "Sabah地域政党", "summary": "Peter Anthonyが創設した地域政党。KDM地域を主要な支持基盤の一つとする。" },
+    "無所属": { "full": "Independent candidates", "kind": "無所属議員", "summary": "政党公認を受けずに当選した議員。議会が分散した場合、政権形成や法案採決で影響力を持つことがある。" }
   },
   "sources": [
     { "label": "IDEスクエア：2022年総選挙と政党連携", "url": "https://www.ide.go.jp/Japanese/IDEsquare/Analysis/2023/ISQ202310_001.html" },
@@ -124,6 +195,10 @@
     { "label": "Sabah州政府：People & History", "url": "https://dr-www.sabah.gov.my/people-history" },
     { "label": "DBKK：Jesselton／Apiと日本軍占領期", "url": "https://dbkk.sabah.gov.my/profil-dbkk" },
     { "label": "Australian War Memorial：North Borneo 1945", "url": "https://www.awm.gov.au/collection/PL1929" },
-    { "label": "Sabah移民問題RCI報告", "url": "https://repositori.parlimen.gov.my/handle/123456789/3506" }
+    { "label": "Sabah移民問題RCI報告", "url": "https://repositori.parlimen.gov.my/handle/123456789/3506" },
+    { "label": "Sabah州政府：2025年州選後の新内閣", "url": "https://skn.sabah.gov.my/sumber/siaran/terkini/444-kabinet-sabah-baharu-rasmi-dibentuk-tiga-timbalan-ketua-menteri-angkat-sumpah" },
+    { "label": "Sabah州議会：Hajiji Noor州首相再任", "url": "https://dun.sabah.gov.my/2025/11/30/pengerusi-gabungan-rakyat-sabah-grs-mengangkat-sumpah-sebagai-ketua-menteri-sabah-ke-17/" },
+    { "label": "マレーシア司法府：Sabah 40％歳入権判決", "url": "https://www.kehakiman.gov.my/sites/default/files/2024-10/AG%20v%20SLS%20%2817.10.2024%29.pdf" },
+    { "label": "ISEAS：2025 Sabah State Election", "url": "https://www.iseas.edu.sg/wp-content/uploads/2026/03/TRS10_26.pdf" }
   ]
 }

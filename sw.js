@@ -1,7 +1,7 @@
 // Sabah Lens の Service Worker。
 // index.html / sw.js を変えたら CACHE の版番号を必ず上げる（上げないと更新が反映されない）。
-const CACHE = 'sabah-lens-v14';
-const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './politics.json'];
+const CACHE = 'sabah-lens-v15';
+const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './politics.json', './culture.json'];
 
 // 記事写真は各媒体のサーバーから来る。毎回落とすと重いので別枠でキャッシュし、
 // 上限を決めて古いものから捨てる。
@@ -52,7 +52,7 @@ self.addEventListener('fetch', e => {
   if (url.origin !== location.origin) return;
 
   // ニュース本体は必ず新しいものを優先。落ちたときだけキャッシュに戻る
-  if (/(news|videos|timeline|orgs)\.json$/.test(url.pathname)) {
+  if (/(news|videos|timeline|politics|culture|orgs)\.json$/.test(url.pathname)) {
     e.respondWith(
       fetch(req).then(res => {
         const copy = res.clone();
