@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-06T06:44:12Z",
- "count": 261,
+ "updated": "2026-10-06T18:33:09Z",
+ "count": 265,
  "tags": {
-  "入管・摘発": 175,
-  "市民権": 34,
+  "入管・摘発": 178,
+  "市民権": 35,
   "無国籍": 33,
   "子ども": 22,
   "バジャウ": 14,
@@ -16,56 +16,84 @@
  },
  "sources": {
   "Sabah Media": 42,
-  "TV Sabah News": 34,
+  "TV Sabah News": 37,
+  "Daily Express Malaysia": 23,
   "NST Online": 17,
-  "sabahnews.com.my": 14,
   "The Star": 13,
   "Borneo Post": 13,
-  "Daily Express Malaysia": 12,
-  "dailyexpress.com.my": 11,
+  "sabahnews.com.my": 11,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
   "Berita Harian": 6,
   "Saluran 122": 6,
+  "Jesselton Times": 6,
   "tvsabahnews.com": 5,
   "MalaysiaGazette": 5,
   "Harian Metro": 5,
-  "Jesselton Times": 5,
+  "Astro Awani": 4,
   "Sabah Post": 4,
   "THE MALAYSIA PRESS": 3,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
-  "Astro Awani": 3,
-  "sabahkini2.com": 2,
+  "Buletin TV3": 3,
+  "Sabah News": 3,
+  "Portal Berita RTM": 3,
+  "Sabah Kini2": 2,
   "PressReader": 2,
   "The Vibes": 2,
-  "berita.rtm.gov.my": 2,
-  "Buletin TV3": 2,
   "Malaysiakini": 2,
-  "Portal Berita RTM": 2,
   "Bernama": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
   "Nikkei Asia": 1,
   "AFP Fact Check": 1,
   "facebook.com": 1,
+  "berita.rtm.gov.my": 1,
   "Migrant Times": 1,
   "sabahkini2.org": 1,
-  "jesseltontimes.com": 1,
-  "youtu.be": 1,
-  "buletintv3.my": 1,
-  "scmp.com": 1,
+  "YouTube": 1,
+  "South China Morning Post": 1,
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
   "MindaNews": 1,
-  "mkn.gov.my": 1,
+  "Majlis Keselamatan Negara (MKN)": 1,
   "Philstar.com": 1,
   "Gempak": 1,
   "Utusan Malaysia": 1,
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Permohonan kewarganegaraan di Sabah, Sarawak ambil masa bertahun-tahun – Jeffrey",
+   "summary": "Ahli Parlimen Keningau, Datuk Seri Jeffrey Kitingan mempersoalkan proses pemberian kewarganegaraan kepada pemain warisan bola sepak yang didakwa berlaku dengan cepat, namun permohonan kewarganegaraan di Sabah dan Sarawak, terpaksa menunggu bertahun-tahun sebelum diproses atau diluluskan. #AWANInews",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNclJiVzFoTE1yWVR0UTZFRGE3SGVTZ3NraW1iRkg0Z0RzU3h0TzVIS2t5dUltVVlldmJNZjdoY0EycXpfQ1lGQkdhQTFoczlBWHd4MHpYSEEwbVdqSjJ4N0R5M01EZ3RibTVfbkFtRGd6OW1wWjVNc3BCeUNxMnVZOXRSQTV4SERQMkxFSS13N09YNXB5NUdUaEs3cnpZVXpnS2lPajRtZkRoVVgzMlFzUw?oc=5",
+   "source": "Astro Awani",
+   "date": "2026-10-06T09:53:06Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah tanpa kewarganegaraan",
+   "id": "4cd240d1fd4a",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "サラワク州サバ州での市民権申請には何年もかかる - ジェフリー",
+   "summary_ja": "ケニンガウ州の国会議員、ダトゥク・セリ・ジェフリー・キティンガンは、サッカーの伝統的選手に市民権を付与するプロセスは迅速に行われたとされるが、サバ州とサラワク州の市民権申請は処理または承認されるまでに何年も待たなければならなかったと疑問を呈した。 #AWANIニュース",
+   "first_seen": "2026-10-06T18:33:01Z",
+   "impact": 3,
+   "issues": [
+    "市民権の申請"
+   ],
+   "figures": [],
+   "url_real": "https://www.astroawani.com/video/permohonan-kewarganegaraan-di-sabah-sarawak-ambil-masa-bertahun-tahun--jeffrey",
+   "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s2.dmcdn.net/v/fYR4A1gnCJy4CXjhC",
+   "site_name": "Awani",
+   "body": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) All Rights Reserved.\n\nDapatkan cerita gosip artis & berita hiburan terkini, serta program tempatan\n\nDapatkan berita hari ini dan berita terkini Malaysia, Dunia, Sukan, Hiburan, Teknologi, Gaya Hidup, Automotif, Politik, Foto, Video dan Siaran Langsung TV\n\nAstro’s Chinese channel programme updates, events, celebrity trends, entertainment\n\nMandarin news and infotainment platform that takes you to the leading topics\n\nCatch the latest news and updates on local and global sporting events\n\nIndian entertainment, events hub highlighting Indian top shows and news\n\nFeaturing Entertainment, Lifestyle and Kaw!, Malay video section and more\n\nChoose and pay for what you watch with our prepaid service, NJOI.\n\nEnjoy Malaysia`s best radio, videos, podcasts, prizes and more! Get SYOK, everything got!",
+   "body_ja": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。\n\n最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます\n\nマレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。\n\nAstro の中国語チャンネルの番組最新情報、イベント、有名人のトレンド、エンターテイメント\n\n主要なトピックを紹介する中国語のニュースとインフォテインメント プラットフォーム\n\n地元および世界のスポーツ イベントに関する最新ニュースや最新情報を入手します。\n\nインドの人気番組やニュースを紹介するインドのエンターテイメント、イベントのハブ\n\nエンターテイメント、ライフスタイル、Kaw!、マレー語ビデオセクションなどを特集\n\nプリペイド サービス NJOI を使用して、視聴するものを選択して支払います。\n\nマレーシア最高のラジオ、ビデオ、ポッドキャスト、賞品などをお楽しみください。 Get SHOCK、すべてが手に入る！",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます  マレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。"
+  },
   {
    "title": "Specific laws needed to address refugee issues, says Sabah MP",
    "summary": "Wilfred Madius Tangau says refugee management now hinges on government directives and wide discretionary powers, which could lead to mismanagement, abuse of power, and a lack of coordination.",
@@ -135,6 +163,44 @@
      "raw": "82 PATI"
     }
    ]
+  },
+  {
+   "title": "82 PATI Ditahan Dalam Operasi Imigresen Di Sabah",
+   "summary": "Oleh: Nurul Fazliana Norman",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJTVE4cW8xSVRwUk1uNkd3ZW12VzJyakdaNWk3VnJqc1ZjUTh6SjZMaG10dlMwMmlULTI1V21sLUdSSFFmRGxOdFBiNDd6dTV1N043UDBfY3k4QVcwTk5CQmZ3dU5tNjB1WndTemtFSnAzd3lubFIyR2FpdFhsQQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-10-03T01:39:23Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "0cd6fd538a3f",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州の入国管理中に外国人82人を逮捕",
+   "summary_ja": "著者: ヌルル・ファズリアナ・ノーマン",
+   "first_seen": "2026-10-06T18:33:01Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 82,
+     "kind": "拘束",
+     "raw": "82 PATI"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/82-pati-ditahan-dalam-operasi-imigresen-di-sabah/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/10/47088c9e-0f78-48c8-8ecd-6e6efcdbfaeb.jpeg",
+   "image_alt": "82 PATI ditahan dalam operasi Imigresen di Sabah",
+   "site_name": "TV Sabah | News Portals",
+   "body": "KOTA KINABALU: 3 Oktober 2026 – Jabatan Imigresen Malaysia (JIM) Negeri Sabah menahan 82 Pendatang Asing Tanpa Izin (PATI) dalam 12 operasi penguatkuasaan di beberapa daerah di negeri itu dari 26 September hingga 1 Oktober lalu.\n\nOperasi di Kota Kinabalu, Tawau, Sandakan, Lahad Datu dan Keningau itu melibatkan pemeriksaan terhadap 288 individu. Tujuannya untuk membanteras kehadiran PATI dan penyalahgunaan kemudahan imigresen.\n\nJumlah tangkapan itu merangkumi 43 warganegara Filipina, iaitu 21 lelaki dewasa, 14 perempuan dewasa, tiga kanak-kanak lelaki dan lima kanak-kanak perempuan.\n\nSeramai 15 warganegara Indonesia turut ditahan, iaitu 11 lelaki dewasa, tiga perempuan dewasa dan seorang kanak-kanak perempuan. Sementara itu, 24 lelaki dewasa warganegara Pakistan juga ditahan.\n\nJIM Sabah memaklumkan operasi penguatkuasaan akan terus dipergiatkan di lokasi strategik di seluruh daerah untuk memastikan pematuhan terhadap undang-undang imigresen.\n\nOrang ramai diingatkan supaya tidak melindungi, menggaji atau membantu warga asing yang melanggar undang-undang. Maklumat berkaitan kegiatan PATI boleh disalurkan melalui SISPAA atau Sistem Pertanyaan Online (SPO) JIM.",
+   "body_ja": "コタキナバル：2026年10月3日 - サバ州移民局（JIM）は、9月26日から10月1日にかけて州内のいくつかの地区で12回の強制捜査で82人の不法移民（PATI）を逮捕した。\n\nコタキナバル、タワウ、サンダカン、ラハダトゥ、ケニンガウでの手術では288人の検査が行われた。目的は、不法滞在者の存在と入国管理施設の乱用を根絶することです。\n\n逮捕者には、成人男性21人、成人女性14人、少年3人、少女5人の計43人のフィリピン人が含まれていた。\n\n成人男性11人、成人女性3人、少女1人の計15人のインドネシア国民も逮捕された。一方、パキスタン国籍の成人男性２４人も逮捕された。\n\nジム・サバ氏は、移民法の順守を確保するために、地区内の戦略的な場所で執行活動が引き続き強化されると発表した。\n\n国民は、法を犯した外国人を保護したり、雇用したり、援助したりしないよう注意を喚起されます。 PATI 活動に関連する情報は、SISPAA または JIM のオンライン照会システム (SPO) を通じて伝達できます。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "コタキナバル：2026年10月3日 - サバ州移民局（JIM）は、9月26日から10月1日にかけて州内のいくつかの地区で12回の強制捜査で82人の不法移民（PATI）を逮捕した。逮捕者には、成人男性21人、成人女性14人、少年3人、少女5人の計43人のフィリピン人が含まれていた。成人男性11人、成人女性3人、少女1人の計15人のインドネシア国民も逮捕された。"
   },
   {
    "title": "82 PATI ditahan dalam 12 operasi imigresen Sabah",
@@ -211,7 +277,7 @@
    "title": "JIM Sabah hantar pulang 87 PTI warga Indonesia",
    "summary": "Menurutnya, pemindahan turut membabitkan lima lelaki dewasa warganegara Pakistan yang dihantar ke Karachi dan Lahore dengan transit di Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA).",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFdleEQ0RVZuTWNucl9XcUtVR2dCd2lvZEFVLVVoejFLNUwxZUc5VkUyRWZfaFNTYkhKOEU4LXhZUC15M0JXLU1HeDZLa195QjNxWUg3QkZXY0Q0TWN5aFBnNFA0ZWoyTzVMNmRFVVhpaDhHM3NtdWh3XzdMV1RjdVJULUNJc0R5dDg2eTFtczk?oc=5",
-   "source": "sabahkini2.com",
+   "source": "Sabah Kini2",
    "date": "2026-09-30T09:59:29Z",
    "lang": "ms",
    "origin": "news",
@@ -277,6 +343,58 @@
     "労働・雇用"
    ],
    "figures": []
+  },
+  {
+   "title": "156 PATI ditahan dalam operasi empat hari di Sabah",
+   "summary": "Seramai 156 pendatang asing tanpa izin (PATI) ditahan hasil kira-kira 15 operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah di lima daerah dalam tempoh empat hari.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW03am5SbUlZaXlSNmF5eDBFZkdLa0t0SlpJcjhYRG82cnNOSlBiVF9HRHJPQTRCMlAybVRlcTg0ZG9LNkMyejkzajlUU01xWV9ra1ZLVXQtYVIzWXJCREVjSmtYTVhvTkNvWGMxWklJbExfWFc1LWRqVDk3UTk1ZkRPRzNMaUVTVV9obWR3?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-09-26T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "3e9d9a21c7e9",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州での4日間の作戦で不法滞在者156人が逮捕された",
+   "first_seen": "2026-09-25T21:46:06Z",
+   "url_real": "https://sabahmedia.com/2026/09/26/156-pati-ditahan-dalam-operasi-empat-hari-di-sabah/",
+   "image": "https://sabahmedia.com/wp-content/uploads/2026/09/imm.jpg",
+   "site_name": "Sabah Media",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: Seramai 156 pendatang asing tanpa izin (PATI) ditahan hasil kira-kira 15 operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah di lima daerah dalam tempoh empat hari.\n\nOperasi bermula 22 hingga 25 September itu dijalankan di pelbagai lokasi strategik di Kota Kinabalu, Tawau, Semporna, Kudat dan Ranau dalam usaha membanteras kehadiran PATI serta mengekang penyalahgunaan kemudahan imigresen.\n\nJIM Sabah dalam kenyataan berkata, seramai 322 individu diperiksa sepanjang operasi berkenaan sebelum 156 daripadanya ditangkap dan ditahan.\n\nDaripada jumlah itu, 140 adalah warga Filipina, terdiri daripada 40 lelaki dewasa, 40 perempuan dewasa, 38 kanak-kanak lelaki dan 22 kanak-kanak perempuan.\n\nTurut ditahan 11 warga Indonesia membabitkan empat lelaki dewasa, tiga perempuan dewasa, dua kanak-kanak lelaki dan dua kanak-kanak perempuan, selain lima lelaki dewasa warga Pakistan.\n\nJIM Sabah berkata, pihaknya akan terus mempergiatkan operasi penguatkuasaan secara berterusan di lokasi strategik di seluruh daerah bagi memastikan pematuhan terhadap undang-undang imigresen serta membanteras kehadiran PATI.\n\nOrang ramai turut diingatkan agar tidak melindungi, menggaji atau membantu warga asing yang melanggar peruntukan undang-undang negara.\n\nSebarang kegiatan PATI boleh dilaporkan melalui saluran rasmi JIM Sabah menerusi portal Sistem Pengurusan Aduan Awam (SISPAA) atau Sistem Pertanyaan Online (SPO).",
+   "body_ja": "コタキナバル：マレーシア入国管理局（JIM）サバ州の5つの地区での約15回の取締りの結果、4日間以内に合計156人の不法移民（PATI）が逮捕された。\n\n9月22日から25日にかけての作戦は、不法滞在者の存在と闘い、入国管理施設の乱用を抑制する目的で、コタキナバル、タワウ、センポルナ、クダット、ラナウのさまざまな戦略的場所で実施された。\n\nジム・サバ氏は声明で、作戦中に合計322人が検査を受け、そのうち156人が逮捕・拘留されたと述べた。\n\nそのうち140人はフィリピン人で、内訳は成人男性40人、成人女性40人、少年38人、少女22人である。\n\nパキスタン人の成人５人に加え、成人男性４人、成人女性３人、少年２人、少女２人を含むインドネシア人１１人も逮捕された。\n\nジム・サバ氏は、移民法の順守を確保し、不法滞在者の存在と闘うために、地区内の戦略的な場所で継続的に執行活動を強化し続けると述べた。\n\nまた、国民は、国の法律の規定に違反する外国人を保護、雇用、援助しないよう注意喚起されています。\n\nPATI の活動は、公共苦情管理システム (SISPAA) またはオンライン照会システム (SPO) ポータルを通じて、JIM Sabah の公式チャンネルを通じて報告できます。",
+   "summary_ja2": "コタキナバル：マレーシア入国管理局（JIM）サバ州の5つの地区での約15回の取締りの結果、4日間以内に合計156人の不法移民（PATI）が逮捕された。9月22日から25日にかけての作戦は、不法滞在者の存在と闘い、入国管理施設の乱用を抑制する目的で、コタキナバル、タワウ、センポルナ、クダット、ラナウのさまざまな戦略的場所で実施された。",
+   "summary_ja": "マレーシア入国管理局（JIM）サバ州の5つの地区で4日間に渡って約15回の取締りを行った結果、合計156人の不法移民（PATI）が逮捕された。",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 156,
+     "kind": "拘束",
+     "raw": "156 PATI"
+    },
+    {
+     "n": 322,
+     "kind": "拘束",
+     "raw": "322 individu"
+    },
+    {
+     "n": 38,
+     "kind": "拘束",
+     "raw": "38 kanak-kanak"
+    },
+    {
+     "n": 22,
+     "kind": "拘束",
+     "raw": "22 kanak-kanak"
+    }
+   ]
   },
   {
    "title": "Operasi penguatkuasaan Imigresen Sabah tahan 156 PATI",
@@ -349,58 +467,6 @@
      "n": 156,
      "kind": "拘束",
      "raw": "156 PATI"
-    }
-   ]
-  },
-  {
-   "title": "156 PATI ditahan dalam operasi empat hari di Sabah",
-   "summary": "Seramai 156 pendatang asing tanpa izin (PATI) ditahan hasil kira-kira 15 operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah di lima daerah dalam tempoh empat hari.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW03am5SbUlZaXlSNmF5eDBFZkdLa0t0SlpJcjhYRG82cnNOSlBiVF9HRHJPQTRCMlAybVRlcTg0ZG9LNkMyejkzajlUU01xWV9ra1ZLVXQtYVIzWXJCREVjSmtYTVhvTkNvWGMxWklJbExfWFc1LWRqVDk3UTk1ZkRPRzNMaUVTVV9obWR3?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-09-25T20:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "3e9d9a21c7e9",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州での4日間の作戦で不法滞在者156人が逮捕された",
-   "first_seen": "2026-09-25T21:46:06Z",
-   "url_real": "https://sabahmedia.com/2026/09/26/156-pati-ditahan-dalam-operasi-empat-hari-di-sabah/",
-   "image": "https://sabahmedia.com/wp-content/uploads/2026/09/imm.jpg",
-   "site_name": "Sabah Media",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA KINABALU: Seramai 156 pendatang asing tanpa izin (PATI) ditahan hasil kira-kira 15 operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah di lima daerah dalam tempoh empat hari.\n\nOperasi bermula 22 hingga 25 September itu dijalankan di pelbagai lokasi strategik di Kota Kinabalu, Tawau, Semporna, Kudat dan Ranau dalam usaha membanteras kehadiran PATI serta mengekang penyalahgunaan kemudahan imigresen.\n\nJIM Sabah dalam kenyataan berkata, seramai 322 individu diperiksa sepanjang operasi berkenaan sebelum 156 daripadanya ditangkap dan ditahan.\n\nDaripada jumlah itu, 140 adalah warga Filipina, terdiri daripada 40 lelaki dewasa, 40 perempuan dewasa, 38 kanak-kanak lelaki dan 22 kanak-kanak perempuan.\n\nTurut ditahan 11 warga Indonesia membabitkan empat lelaki dewasa, tiga perempuan dewasa, dua kanak-kanak lelaki dan dua kanak-kanak perempuan, selain lima lelaki dewasa warga Pakistan.\n\nJIM Sabah berkata, pihaknya akan terus mempergiatkan operasi penguatkuasaan secara berterusan di lokasi strategik di seluruh daerah bagi memastikan pematuhan terhadap undang-undang imigresen serta membanteras kehadiran PATI.\n\nOrang ramai turut diingatkan agar tidak melindungi, menggaji atau membantu warga asing yang melanggar peruntukan undang-undang negara.\n\nSebarang kegiatan PATI boleh dilaporkan melalui saluran rasmi JIM Sabah menerusi portal Sistem Pengurusan Aduan Awam (SISPAA) atau Sistem Pertanyaan Online (SPO).",
-   "body_ja": "コタキナバル：マレーシア入国管理局（JIM）サバ州の5つの地区での約15回の取締りの結果、4日間以内に合計156人の不法移民（PATI）が逮捕された。\n\n9月22日から25日にかけての作戦は、不法滞在者の存在と闘い、入国管理施設の乱用を抑制する目的で、コタキナバル、タワウ、センポルナ、クダット、ラナウのさまざまな戦略的場所で実施された。\n\nジム・サバ氏は声明で、作戦中に合計322人が検査を受け、そのうち156人が逮捕・拘留されたと述べた。\n\nそのうち140人はフィリピン人で、内訳は成人男性40人、成人女性40人、少年38人、少女22人である。\n\nパキスタン人の成人５人に加え、成人男性４人、成人女性３人、少年２人、少女２人を含むインドネシア人１１人も逮捕された。\n\nジム・サバ氏は、移民法の順守を確保し、不法滞在者の存在と闘うために、地区内の戦略的な場所で継続的に執行活動を強化し続けると述べた。\n\nまた、国民は、国の法律の規定に違反する外国人を保護、雇用、援助しないよう注意喚起されています。\n\nPATI の活動は、公共苦情管理システム (SISPAA) またはオンライン照会システム (SPO) ポータルを通じて、JIM Sabah の公式チャンネルを通じて報告できます。",
-   "summary_ja2": "コタキナバル：マレーシア入国管理局（JIM）サバ州の5つの地区での約15回の取締りの結果、4日間以内に合計156人の不法移民（PATI）が逮捕された。9月22日から25日にかけての作戦は、不法滞在者の存在と闘い、入国管理施設の乱用を抑制する目的で、コタキナバル、タワウ、センポルナ、クダット、ラナウのさまざまな戦略的場所で実施された。",
-   "summary_ja": "マレーシア入国管理局（JIM）サバ州の5つの地区で4日間に渡って約15回の取締りを行った結果、合計156人の不法移民（PATI）が逮捕された。",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還",
-    "労働・雇用"
-   ],
-   "figures": [
-    {
-     "n": 156,
-     "kind": "拘束",
-     "raw": "156 PATI"
-    },
-    {
-     "n": 322,
-     "kind": "拘束",
-     "raw": "322 individu"
-    },
-    {
-     "n": 38,
-     "kind": "拘束",
-     "raw": "38 kanak-kanak"
-    },
-    {
-     "n": 22,
-     "kind": "拘束",
-     "raw": "22 kanak-kanak"
     }
    ]
   },
@@ -757,7 +823,7 @@
    "title": "Sabah sends 709 undocumented Filipinos back home",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVlEzZ0dkUC1PMHN0NTRhVE9BZ2pEamt0N3JHUEZ0TkVGaUlkaXZKdmhVUk5Md05PV1Vlc09GMWtibEY4ZDhIOHUyV09LbXpuMGxDYmh3U3IxM2xCalppSW5ZYkNjVjRwWUV2N09YTHhNQlpWMkZNU0lLOUltaWxNaEhqd1ozWHMyUFBrWEFsN29mbER3eVZ3?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-09-12T14:22:29Z",
    "lang": "en",
    "origin": "news",
@@ -885,6 +951,43 @@
      "raw": "140 pendatang"
     }
    ]
+  },
+  {
+   "title": "140 PATI Dipindahkan Pulang",
+   "summary": "KEDAH: 10 September 2026 — Seramai 140 pendatang asing tanpa izin (PATI) pelbagai warganegara dipindahkan dan dihantar pulang ke negara asal melalui Lapangan",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5adEZmQUxSV2VmMlFzTVk3LVVjV2lyR0RzUW1VVEppclRfcjdVR0gtc2c3eDZjU2pnMzZLVWZfN1lLR0pGM1VCdU9PZ0xUc2RRMGwzYTFSMUlPMEZOLXVZTGNB?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-09-10T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "140002a71201",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "140 パティが家に引っ越しました",
+   "summary_ja": "ケダ州: 2026 年 9 月 10 日 — さまざまな国籍の合計 140 人の不法移民 (PATI) がラパンガン経由で移送され、出身国に送還された",
+   "first_seen": "2026-10-06T18:33:01Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 140,
+     "kind": "送還",
+     "raw": "140 pendatang"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/140-pati-dipindahkan-pulang/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/09/B01D1140-E7CD-4265-8731-CA8A5FA39EE5_52A5EB55-8E74-4647-A791-32DADAA441E6.jpeg",
+   "image_alt": "140 PATI dipindahkan pulang",
+   "site_name": "TV Sabah | News Portals",
+   "body": "KEDAH: 10 September 2026 — Seramai 140 pendatang asing tanpa izin (PATI) pelbagai warganegara dipindahkan dan dihantar pulang ke negara asal melalui Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA) Terminal 1 dan Terminal 2 kelmarin.\n\nJabatan Imigresen Malaysia (JIM) Negeri Kedah dalam kenyataan, kesemua mereka sebelum ini ditahan di Depot Imigresen Belantik, Sik, Kedah.\n\nMereka terdiri dari 117 lelaki, 21 wanita dan dua kanak-kanak lelaki yang merupakan warganegara Myanmar, Bangladesh, India, Pakistan, Indonesia, China, Vietnam, Kemboja dan Kenya.\n\nKesemua mereka melakukan kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963, dan telah selesai menjalani hukuman sebelum proses pemindahan dilaksanakan.\n\nMereka turut dikenakan tindakan senarai hitam dalam sistem JIM untuk menghalang cubaan memasuki semula Malaysia pada masa akan datang.\n\nKos tiket penerbangan untuk proses penghantaran pulang itu ditanggung oleh tahanan, ahli keluarga dan kedutaan negara masing-masing.\n\nMenurut JIM Negeri Kedah, program pemindahan itu merupakan sebahagian daripada tindakan penguatkuasaan berterusan untuk membanteras kehadiran dan aktiviti PATI di negara ini.\n\nJIM Negeri Kedah menegaskan tindakan penguatkuasaan, pengesanan, penahanan, pendakwaan dan penghantaran pulang PATI akan terus dipergiat demi memastikan keselamatan, ketenteraman awam serta kedaulatan negara terus terpelihara.\n\nSumber: Jabatan Imigresen Negeri Kedah",
+   "body_ja": "クダ州：2026年9月10日 — 昨日、さまざまな国籍の合計140人の不法移民（PATI）がクアラルンプール国際空港（KLIA）の第1ターミナルと第2ターミナルを通じて出身国に送還された。\n\nケダ州のマレーシア入国管理局（JIM）は声明で、全員が以前にケダ州シクのベランティック入国管理所で拘束されていたと述べた。\n\n彼らは、ミャンマー、バングラデシュ、インド、パキスタン、インドネシア、中国、ベトナム、カンボジア、ケニアの国民である男性117人、女性21人、少年2人で構成されています。\n\n彼ら全員は1959/63年の移民法および1963年の移民規則に基づいて犯罪を犯しており、移送手続きが行われる前に刑期を終えていた。\n\n彼らはまた、将来マレーシアに再入国する試みを防ぐために、JIM システムのブラックリストに登録されました。\n\n送還手続きに必要な航空券の費用は、被拘禁者、その家族、およびそれぞれの国の大使館が負担します。\n\nケダ州JIMによると、この移送プログラムは、国内における不法移民の存在と活動と闘うために進行中の執行活動の一環である。\n\nジム・ネグリ・ケダ氏は、安全、治安、国家主権の維持を確保するために、不法移民の取り締まり、摘発、逮捕、訴追、本国送還が今後も強化されると主張する。\n\n出典: ケダ州入国管理局",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "クダ州：2026年9月10日 — 昨日、さまざまな国籍の合計140人の不法移民（PATI）がクアラルンプール国際空港（KLIA）の第1ターミナルと第2ターミナルを通じて出身国に送還された。彼らは、ミャンマー、バングラデシュ、インド、パキスタン、インドネシア、中国、ベトナム、カンボジア、ケニアの国民である男性117人、女性21人、少年2人で構成されています。"
   },
   {
    "title": "133 Undocumented Immigrants Detained In 20 Sabah Immigration Operations",
@@ -1931,6 +2034,43 @@
    ]
   },
   {
+   "title": "10 PATI Ditahan Dalam Operasi Todak",
+   "summary": "KOTA KINABALU: 7 Ogos 2025 – Seramai 10 pendatang asing tanpa izin (PATI) warga Filipina ditahan dalam Operasi Todak yang dilaksanakan di sekitar SAFMA, Pasar",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdmVPLTRVSW9LcWtUdnNKc0VmeHA0WVFscEtVbkJtOVp0dmVJVTFySzVNaDBsSXlvd1JSX2kwVmVwb1RMbWRmcXdkTEVXMkZ4d282Z0ZqYVFoRk56azVvaDdlckVPVXp1Q0RZcQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-08-07T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "d103d698c7db",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "10 PATI、トダック作戦で逮捕",
+   "summary_ja": "コタキナバル：2025年8月7日 – パサールのSAFMA周辺で実施されたトダック作戦で、フィリピンの不法移民（PATI）計10人が逮捕された。",
+   "first_seen": "2026-10-06T18:33:01Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 10,
+     "kind": "拘束",
+     "raw": "10 PATI"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/10-pati-ditahan-dalam-operasi-todak/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/08/IMG_0637.jpeg",
+   "image_alt": "10 PATI Ditahan dalam Operasi Todak",
+   "site_name": "TV Sabah | News Portals",
+   "body": "KOTA KINABALU: 7 Ogos 2025 – Seramai 10 pendatang asing tanpa izin (PATI) warga Filipina ditahan dalam Operasi Todak yang dilaksanakan di sekitar SAFMA, Pasar Besar Kota Kinabalu dan perairan berhampiran.\n\nOperasi bersepadu itu diselaraskan oleh Dewan Bandaraya Kota Kinabalu (DBKK) dengan kerjasama Polis Diraja Malaysia (PDRM), Jabatan Imigresen Malaysia (JIM), Agensi Penguatkuasaan Maritim Malaysia (APMM), Jabatan Laut Malaysia Wilayah Sabah dan Sabah Fish Marketing Sdn Bhd (SAFMA).\n\nDi bahagian darat, JIM memeriksa 521 Orang Yang Diperiksa (OYDP) sebelum menahan kesemua 10 PATI yang kemudiannya dihantar ke Depot Imigresen Kota Kinabalu untuk tindakan lanjut.\n\nDBKK turut mengkompaun dua penjaja kerana menjalankan perniagaan tanpa lesen sah di kawasan SAFMA dan Pasar Besar Kota Kinabalu, selain menyita sebuah motosikal dan beberapa peralatan perniagaan.\n\nDi kawasan perairan pula, Jabatan Laut Malaysia Wilayah Sabah dengan kerjasama APMM memeriksa empat bot, dengan lesen asal sebuah bot ditahan berikutan dokumen pengenalan pelaut warga asing yang telah tamat tempoh.\n\nAPMM turut menggerakkan dua aset maritim membabitkan 14 anggota untuk memeriksa sebuah Vesel Nelayan Tempatan (VNT), dan hasil pemeriksaan, tujuh kru diperiksa sebelum diserahkan kepada JIM bagi tindakan lanjut.\n\nMenurut DBKK, operasi penguatkuasaan bersepadu akan terus dipergiat secara berkala untuk memastikan Kota Kinabalu kekal sebagai bandar raya yang bersih, selamat, teratur dan berdaya huni.",
+   "body_ja": "コタキナバル：2025年8月7日 - SAFMA、コタキナバル市場および近隣海域周辺で実施されたソード作戦で、フィリピンからの合計10人の不法滞在者（PATI）が逮捕された。\n\nこの統合的な運営は、コタキナバル市役所（DBKK）がマレーシア王立警察（PDRM）、マレーシア入国管理局（JIM）、マレーシア海事執行局（APMM）、サバ地域海洋局、サバ・フィッシュ・マーケティング社（SAFMA）と協力して調整した。\n\n地上では、JIM は 521 人の検査対象者 (OYDP) を検査した後、10 人の PATI 全員を逮捕し、その後さらなる措置のためにコタキナバル入国管理局に送られた。\n\nDBKK はまた、SAFMA 地域とコタキナバル市場で有効なライセンスを持たずに営業を行った行商人 2 名を取り締まり、オートバイと一部の業務用機器を押収した。\n\n一方、同海域では、サバ州マレーシア海事局がAPMMと協力して4隻の船舶を検査したが、1隻の船舶は外国人船員の身分証明書の有効期限が切れていたため、本来の免許が保持されていた。\n\nAPMMはまた、地元漁船（VNT）を検査するために14人の隊員が参加する2つの海事資産を動員し、検査の結果、さらなる措置のためにJIMに引き渡される前に7人の乗組員が検査を受けた。\n\nDBKK によると、コタキナバルが清潔で安全、秩序があり、住みやすい都市であり続けることを保証するために、今後も統合的な取り締まり活動が定期的に強化されていくとのこと。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "コタキナバル：2025年8月7日 - SAFMA、コタキナバル市場および近隣海域周辺で実施されたソード作戦で、フィリピンからの合計10人の不法滞在者（PATI）が逮捕された。この統合的な運営は、コタキナバル市役所（DBKK）がマレーシア王立警察（PDRM）、マレーシア入国管理局（JIM）、マレーシア海事執行局（APMM）、サバ地域海洋局、サバ・フィッシュ・マーケティング社（SAFMA）と協力して調整した。"
+  },
+  {
    "title": "10 PATI Ditahan Dalam Operasi Todak - TV Sabah",
    "summary": "KOTA KINABALU: 7 Ogos 2025 – Seramai 10 pendatang asing tanpa izin (PATI) warga Filipina ditahan dalam Operasi Todak yang dilaksanakan di sekitar SAFMA, Pasar",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdmVPLTRVSW9LcWtUdnNKc0VmeHA0WVFscEtVbkJtOVp0dmVJVTFySzVNaDBsSXlvd1JSX2kwVmVwb1RMbWRmcXdkTEVXMkZ4d282Z0ZqYVFoRk56azVvaDdlckVPVXp1Q0RZcQ?oc=5",
@@ -2368,7 +2508,7 @@
    "title": "Viral detention depot death claims baseless: Sabah Immgiration",
    "summary": "Kota Kinabalu: Sabah Immigration Director Datuk Sh Sitti Saleha Habib Yussof (pic) denied viral social media claims that overcrowding at Sabah Immigration Detention Depots had caused the deaths of num",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3Rfcldpclh5eG5ZNjNzSlRCQkFjTnRzQWVqcXdBdEFDVnF1R1JLR2ctYlVUQkFEOXEyVFJCSldJSGc5VGl4Z0tYQklnZUhIQml2SVM4YVVvZHdMNkZtUzhZZWtIaV9lV0pTM252RnB5ME9yZXA3cTlCWW1FUWl6NlJHdFltUVo4MTNBZGFDdXY5RlE0V3BZMDAwTV8tT3dYWmcyRzNvQmFaUQ?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2522,7 +2662,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=8wRD8LhP_EEQ7kNvwGyQ4Bq&_nc_oc=AdqHGcFA5mVnCOdQNMoXf59DOSVu58dN4dSEcibiFSC8KHuirnYMoSXAd5PvCnh1k3Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=_h89h5o59Q3XwxNF8IJwJA&_nc_ss=79289&oh=00_AQMktcavbZBJbrKcjXWA2SqN86fbBfyRd2dxIIOBIFl6fQ&oe=6ACA0DAD",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=8wRD8LhP_EEQ7kNvwGwcHov&_nc_oc=AdpLch98NUJc9qSsP2Hok4MtztMdXaVqDm-RxtGSNagOiTNTlf_8Avk3cped8lL6Iwg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=84p3cGM04kyfcAKOn86myQ&_nc_ss=79289&oh=00_AQPfC-XW11mFLMqXH7l1AB95YrR3qajesxDCpFYHe489RQ&oe=6ACB26ED",
    "image_alt": "356K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -4102,7 +4242,7 @@
    "title": "Kemarahan Awam Berhubung Isu Rohingya Petanda Malaya Kini Mula Merasai Apa yang Sabah Tanggung Berdekad-dekad ?",
    "summary": "(Gambar -Atama Katama, Presiden Pertubuhan MOPOT) Oleh: MOPOT – Pembela Tanah Adat Sabah KOTA KINABALU: MOPOT – Pembela Tanah Adat Sabah menyatakan dengan tegas hari ini bahawa rakyat Malaysia Barat kini mula merasai kegagalan tadbir urus demografi Persekutuan.  Rakyat Sabah, khususnya Anak Negeri Sabah, telah merasainya lebih awal, lebih dalam, dan dengan luka yang jauh...",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnEzc250c0xaVXpUcDR4RnYxM1lPQm94cGlkQ3pCV0EtMFNJalp0MU9tbDQyMnVzY1p6ajBaUlFuOHJhVFVaYzRscHdPSDc1aUNvRmV4QUE1OEp2TVJCVzEwZFdYdmdMd1JDYVEtbHgxbGtZWFptNjlfR3pzbWpnWTA4TXRPZ0w1aFItZGZwMll2cFpEV2NBSU1TQkM3RWJIamhJYnVSNXR1eWRodXR3cHdldUZtbnR2WDF6N3hJbzl2NG5LQmFyc2lFQUJXUFpYZDR3Z1pvZDRFUVN6aW1WZlhn0gHnAUFVX3lxTE1Yb2dQQV9ucTlwMnBxZlJqYXpKck9VQXRUTnB0cElIT0Fra2FqLS1jcTdZQlVZb2FQZk5IS3d6aElCUHMwUGRQYVdsZC1EOGpxdkZVNW5FekVWcE1EQzRmcXJXODRlZGRCSkdnYXNaS2J0UGJ3Rmh1MXBuc2RLREJRNm81Mm4xenZZMWNscnpjdGt5M3R4anE2ZmZ0YzVHUXdrM1NoUG9uVHpaUXBBYUFvQ1ViUVJxZkxrUE5MWmxEWXJDQ1F2aEd1R3VpRFJ3WEFONjIzR3RsNllrTnJveEFaeE56UzVKWQ?oc=5",
-   "source": "jesseltontimes.com",
+   "source": "Jesselton Times",
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4264,7 +4404,7 @@
    "title": "IMM13: SABAH DAN SKANDAL 50 TAHUN YANG MASIH TAK SELESAI",
    "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BVTZ5QnBMLVRYOGtzNF9CaC1OYXEtSGpONWk5MEVvVmE5NE53aUtQbERPV1pKeks4cG1qaF9yQm1RdF9zcFIxM2Z3aHhEcXJxRnk3OWczeWNGTXFE?oc=5",
-   "source": "youtu.be",
+   "source": "YouTube",
    "date": "2026-06-17T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4283,41 +4423,6 @@
    "impact": 3,
    "issues": [
     "身分証・在留資格"
-   ],
-   "figures": []
-  },
-  {
-   "title": "Born here, but unrecognised: The fight for citizenship in Sabah",
-   "summary": "KOTA BELUD: Every time \"Hafiz\" — not his real name — attends to matters related to his citizenship application, he is forced to relive the painful memory of being abandoned by his mother.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVno2S2pRN1pKS0NEdThDRGZzMVR6am0yM28xdzQtZnJjTnk4SW9lR1hUbGt5UkxLb0tObF9ndlZYdkZ0WDJlSlNhMDhHaFBlV0xibUdiNmRLb1RDdHh4MV9xdm5NZC1XbXUzZEtUTUxQd3ZGdlhua25LbWVQVkg2bzV0bHQ2eGpkMW5MbncxbDNDM0lYQmFVbkJ4N1Q5UmQ2?oc=5",
-   "source": "NST Online",
-   "date": "2026-06-13T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah stateless",
-   "id": "e48f0a90f072",
-   "tags": [
-    "市民権"
-   ],
-   "title_ja": "ここで生まれたが認識されていない: サバ州での市民権をめぐる戦い",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://www.nst.com.my/news/regional/2026/06/1462885/born-here-unrecognised-fight-citizenship-sabah",
-   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/9D20860110F9522AB54A1483CE7B34E5_data_1.jpg",
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVmjSOxltR4aJ-tdzXBiDFOwcjnkBD3W-alPyASIiz_Z6pLu0-O-paEausCKora9N4hQ",
-   "site_name": "NST Online",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA BELUD: Every time \"Hafiz\" — not his real name — attends to matters related to his citizenship application, he is forced to relive the painful memory of being abandoned by his mother.\n\nBorn at home and never registered, the 23-year-old from Kota Belud grew up without a birth certificate, leaving him undocumented for most of his life.\n\nAlthough he had long wanted to resolve his status, various complications delayed the process until last year, when he finally began applying for a birth certificate using documents belonging to his maternal uncle.\n\n\"Every time I go through the process, I have to explain my past to the officials,\" he said.\n\nThe process often leaves him emotionally drained.\n\nDespite lacking official documents, Hafiz completed primary and secondary school with the support of teachers and members of his village community. Today, he works at a restaurant in Kota Kinabalu owned by a fellow villager.\n\nYet his undocumented status continues to shape his daily life.\n\nWithout identification documents, he receives his salary in cash because he cannot open a bank account. He is also unable to apply for a driving licence.\n\n\"I am lucky that the authorities never ask to check my documents,\" said the soft-spoken Dusun youth when met during a mobile court programme in Kota Belud.\n\nFor many undocumented people, life is defined not by what they have, but by what they lack: recognition.\n\nWithout official papers, they move through society like shadows, unable to prove they belong.\n\nAnne Baltazar, co-founder of Advocates for Non-discrimination and Access to Knowledge (Anak), said this sense of invisibility is among the most painful realities faced by stateless and undocumented individuals.\n\n\"If you know a stateless person, they always say, 'I feel like I live like a shadow' because they don't have documents to prove they are citizens.\n\n\"They would say, 'When I am not a citizen, it is like I don't exist,'\" she said, adding that such circumstances often lead to emotional distress, including depression.\n\nThe problem is more widespread than many realise and is not confined to migrant communities.\n\nIndigenous communities in Sabah, including those whose histories predate modern borders, are also affected.\n\nAnne cited recent outreach efforts in Sabah's interior, including in Tenom, where hundreds of people — mostly from the Lundayeh community — were found without proper documentation.\n\nMany were elderly and unable to prove their citizenship because their parents had never possessed official documents.\n\n\"These are our original people. Their lives were never defined by borders. Borders came later,\" she said.\n\nChildren born into complex family situations — such as those with a Malaysian father and a foreign mother whose marriage was never legally registered — can also fall through administrative gaps.\n\nWithout birth certificates or identity cards, access to education, healthcare and employment becomes uncertain, while fear and insecurity continue to shape daily life.\n\nAnne said undocumented status is often misunderstood as a criminal issue when it is essentially an administrative one.\n\n\"Not having documents is not supposed to be a crime. A crime is when someone harms others. This is just about papers, but because it is placed under security, it becomes framed as something criminal,\" she said.\n\nLengthy application processes add another layer of hardship, with some citizenship claims taking more than a decade to resolve.\n\nTo address the issue, Anak has been advocating universal birth registration, regardless of a child's status, to ensure basic identification and official records from the start of life.\n\n\"By having a birth certificate — green for citizens and red for non-citizens or those of unknown status — an individual at least has some form of proof and basic information about themselves,\" she said.\n\nThis story was produced in conjunction with a six-month Progressive Journalism Fellowship for journalists exploring issues of race, religion and inequality in Malaysia.",
-   "body_ja": "コタ・ベルード: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。\n\nコタ・ベルド出身の23歳の彼は、自宅で生まれ、一度も登録をしていなかったが、出生証明書を持たずに育ち、生涯のほとんどを不法滞在で過ごした。\n\n彼は長い間この立場を解消したいと思っていたが、さまざまな複雑な問題により手続きが遅れ、昨年ようやく母方の叔父の書類を使って出生証明書の申請を始めた。\n\n「手続きを行うたびに、当局者に自分の過去を説明しなければならない」と彼は語った。\n\nその過程で彼は感情的に疲弊してしまうことがよくあります。\n\n公的書類が不足していたにもかかわらず、ハフィズさんは教師や村のコミュニティの人々の支援を受けて小学校と中学校を卒業した。現在、彼はコタキナバルにある村民が経営するレストランで働いています。\n\nしかし、彼の不法滞在が彼の日常生活を形作り続けている。\n\n本人確認書類がないと銀行口座を開設できないため、給与を現金で受け取ることになる。彼は運転免許証を申請することもできません。\n\nコタベルドでの移動法廷プログラム中に会ったとき、「当局が私の書類の確認を求めないのは幸運だ」と、穏やかな口調でドゥスンの若者は語った。\n\n多くの不法滞在者にとって、人生は彼らが持っているものではなく、欠けているもの、つまり認識によって定義されます。\n\n公的書類がなければ、彼らは自分たちが所属していることを証明できないまま、影のように社会を移動します。\n\n「非差別と知識へのアクセスのための擁護団体」（Anak）の共同創設者、アン・バルタザール氏は、この不可視感覚は、無国籍かつ不法滞在者が直面する最も苦痛な現実の一つであると述べた。\n\n「無国籍者を知っていると、彼らはいつも『自分が影のように生きているような気がする』と言います。なぜなら、彼らは自分たちが国民であることを証明する書類を持っていないからです。\n\n「彼らは『私が国民ではないのなら、私は存在していないのと同じだ』と言うでしょう」と彼女は言い、そのような状況はうつ病を含む精神的苦痛につながることが多いと付け加えた。\n\nこの問題は多くの人が思っているよりも広範囲に広がっており、移民コミュニティに限定されません。\n\nサバ州の先住民族コミュニティ（その歴史が現代の国境よりも古いものを含む）も影響を受けています。\n\nアン氏は、テノムを含むサバ州内陸部での最近の支援活動に言及し、そこでは数百人（主にルンダイエ・コミュニティ出身）が適切な文書を持たずに発見されたと述べた。\n\n多くは高齢者で、両親が公的書類を所有したことがなかったため、市民権を証明できなかった。\n\n「彼らは私たちの本来の人々です。彼らの生活は国境によって定義されることはありませんでした。国境は後から来たのです」と彼女は語った。\n\nマレーシア人の父親と法的に婚姻届を提出されていない外国人の母親を持つなど、複雑な家族状況のもとに生まれた子どもたちも、行政上のギャップに陥る可能性がある。\n\n出生証明書や身分証明書がないと、教育、医療、雇用へのアクセスが不確実になり、恐怖と不安が日常生活を形作り続けます。\n\nアン氏は、不法滞在は本質的には行政的な問題であるにもかかわらず、刑事問題として誤解されることが多いと述べた。\n\n「書類を持っていないことが犯罪であるはずはない。誰かが他人に危害を加えた場合が犯罪だ。これは単なる書類の話だが、それがセキュリティ下に置かれているため、何か犯罪的なものとして組み立てられてしまう」と彼女は語った。\n\n申請手続きに時間がかかるとさらに困難が増し、市民権の請求によっては解決までに 10 年以上かかる場合もあります。\n\nこの問題に対処するために、アナク氏は、子どものステータスに関係なく、人生の始まりから基本的な身分証明書と公式記録を確保するための普遍的な出生登録を提唱している。\n\n「国民は緑、非国民や身分不明の人は赤の出生証明書を持つことで、個人は少なくとも何らかの形の証拠と自分自身に関する基本情報を得ることができる」と彼女は言う。\n\nこの記事は、マレーシアの人種、宗教、不平等の問題を調査するジャーナリストを対象とした 6 か月間にわたるプログレッシブ ジャーナリズム フェローシップと連携して制作されました。",
-   "summary_ja2": "コタ・ベルード: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。彼は長い間この立場を解消したいと思っていたが、さまざまな複雑な問題により手続きが遅れ、昨年ようやく母方の叔父の書類を使って出生証明書の申請を始めた。なぜなら、彼らは自分たちが国民であることを証明する書類を持っていないからです。",
-   "summary_ja": "コタ・ベルド: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。",
-   "impact": 3,
-   "issues": [
-    "市民権の申請",
-    "出生登録",
-    "教育アクセス",
-    "医療アクセス",
-    "労働・雇用"
    ],
    "figures": []
   },
@@ -4383,6 +4488,41 @@
      "raw": "64 individu"
     }
    ]
+  },
+  {
+   "title": "Born here, but unrecognised: The fight for citizenship in Sabah",
+   "summary": "KOTA BELUD: Every time \"Hafiz\" — not his real name — attends to matters related to his citizenship application, he is forced to relive the painful memory of being abandoned by his mother.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVno2S2pRN1pKS0NEdThDRGZzMVR6am0yM28xdzQtZnJjTnk4SW9lR1hUbGt5UkxLb0tObF9ndlZYdkZ0WDJlSlNhMDhHaFBlV0xibUdiNmRLb1RDdHh4MV9xdm5NZC1XbXUzZEtUTUxQd3ZGdlhua25LbWVQVkg2bzV0bHQ2eGpkMW5MbncxbDNDM0lYQmFVbkJ4N1Q5UmQ2?oc=5",
+   "source": "NST Online",
+   "date": "2026-06-13T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "e48f0a90f072",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "ここで生まれたが認識されていない: サバ州での市民権をめぐる戦い",
+   "first_seen": "2026-08-09T01:55:15Z",
+   "url_real": "https://www.nst.com.my/news/regional/2026/06/1462885/born-here-unrecognised-fight-citizenship-sabah",
+   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/9D20860110F9522AB54A1483CE7B34E5_data_1.jpg",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVmjSOxltR4aJ-tdzXBiDFOwcjnkBD3W-alPyASIiz_Z6pLu0-O-paEausCKora9N4hQ",
+   "site_name": "NST Online",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA BELUD: Every time \"Hafiz\" — not his real name — attends to matters related to his citizenship application, he is forced to relive the painful memory of being abandoned by his mother.\n\nBorn at home and never registered, the 23-year-old from Kota Belud grew up without a birth certificate, leaving him undocumented for most of his life.\n\nAlthough he had long wanted to resolve his status, various complications delayed the process until last year, when he finally began applying for a birth certificate using documents belonging to his maternal uncle.\n\n\"Every time I go through the process, I have to explain my past to the officials,\" he said.\n\nThe process often leaves him emotionally drained.\n\nDespite lacking official documents, Hafiz completed primary and secondary school with the support of teachers and members of his village community. Today, he works at a restaurant in Kota Kinabalu owned by a fellow villager.\n\nYet his undocumented status continues to shape his daily life.\n\nWithout identification documents, he receives his salary in cash because he cannot open a bank account. He is also unable to apply for a driving licence.\n\n\"I am lucky that the authorities never ask to check my documents,\" said the soft-spoken Dusun youth when met during a mobile court programme in Kota Belud.\n\nFor many undocumented people, life is defined not by what they have, but by what they lack: recognition.\n\nWithout official papers, they move through society like shadows, unable to prove they belong.\n\nAnne Baltazar, co-founder of Advocates for Non-discrimination and Access to Knowledge (Anak), said this sense of invisibility is among the most painful realities faced by stateless and undocumented individuals.\n\n\"If you know a stateless person, they always say, 'I feel like I live like a shadow' because they don't have documents to prove they are citizens.\n\n\"They would say, 'When I am not a citizen, it is like I don't exist,'\" she said, adding that such circumstances often lead to emotional distress, including depression.\n\nThe problem is more widespread than many realise and is not confined to migrant communities.\n\nIndigenous communities in Sabah, including those whose histories predate modern borders, are also affected.\n\nAnne cited recent outreach efforts in Sabah's interior, including in Tenom, where hundreds of people — mostly from the Lundayeh community — were found without proper documentation.\n\nMany were elderly and unable to prove their citizenship because their parents had never possessed official documents.\n\n\"These are our original people. Their lives were never defined by borders. Borders came later,\" she said.\n\nChildren born into complex family situations — such as those with a Malaysian father and a foreign mother whose marriage was never legally registered — can also fall through administrative gaps.\n\nWithout birth certificates or identity cards, access to education, healthcare and employment becomes uncertain, while fear and insecurity continue to shape daily life.\n\nAnne said undocumented status is often misunderstood as a criminal issue when it is essentially an administrative one.\n\n\"Not having documents is not supposed to be a crime. A crime is when someone harms others. This is just about papers, but because it is placed under security, it becomes framed as something criminal,\" she said.\n\nLengthy application processes add another layer of hardship, with some citizenship claims taking more than a decade to resolve.\n\nTo address the issue, Anak has been advocating universal birth registration, regardless of a child's status, to ensure basic identification and official records from the start of life.\n\n\"By having a birth certificate — green for citizens and red for non-citizens or those of unknown status — an individual at least has some form of proof and basic information about themselves,\" she said.\n\nThis story was produced in conjunction with a six-month Progressive Journalism Fellowship for journalists exploring issues of race, religion and inequality in Malaysia.",
+   "body_ja": "コタ・ベルード: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。\n\nコタ・ベルド出身の23歳の彼は、自宅で生まれ、一度も登録をしていなかったが、出生証明書を持たずに育ち、生涯のほとんどを不法滞在で過ごした。\n\n彼は長い間この立場を解消したいと思っていたが、さまざまな複雑な問題により手続きが遅れ、昨年ようやく母方の叔父の書類を使って出生証明書の申請を始めた。\n\n「手続きを行うたびに、当局者に自分の過去を説明しなければならない」と彼は語った。\n\nその過程で彼は感情的に疲弊してしまうことがよくあります。\n\n公的書類が不足していたにもかかわらず、ハフィズさんは教師や村のコミュニティの人々の支援を受けて小学校と中学校を卒業した。現在、彼はコタキナバルにある村民が経営するレストランで働いています。\n\nしかし、彼の不法滞在が彼の日常生活を形作り続けている。\n\n本人確認書類がないと銀行口座を開設できないため、給与を現金で受け取ることになる。彼は運転免許証を申請することもできません。\n\nコタベルドでの移動法廷プログラム中に会ったとき、「当局が私の書類の確認を求めないのは幸運だ」と、穏やかな口調でドゥスンの若者は語った。\n\n多くの不法滞在者にとって、人生は彼らが持っているものではなく、欠けているもの、つまり認識によって定義されます。\n\n公的書類がなければ、彼らは自分たちが所属していることを証明できないまま、影のように社会を移動します。\n\n「非差別と知識へのアクセスのための擁護団体」（Anak）の共同創設者、アン・バルタザール氏は、この不可視感覚は、無国籍かつ不法滞在者が直面する最も苦痛な現実の一つであると述べた。\n\n「無国籍者を知っていると、彼らはいつも『自分が影のように生きているような気がする』と言います。なぜなら、彼らは自分たちが国民であることを証明する書類を持っていないからです。\n\n「彼らは『私が国民ではないのなら、私は存在していないのと同じだ』と言うでしょう」と彼女は言い、そのような状況はうつ病を含む精神的苦痛につながることが多いと付け加えた。\n\nこの問題は多くの人が思っているよりも広範囲に広がっており、移民コミュニティに限定されません。\n\nサバ州の先住民族コミュニティ（その歴史が現代の国境よりも古いものを含む）も影響を受けています。\n\nアン氏は、テノムを含むサバ州内陸部での最近の支援活動に言及し、そこでは数百人（主にルンダイエ・コミュニティ出身）が適切な文書を持たずに発見されたと述べた。\n\n多くは高齢者で、両親が公的書類を所有したことがなかったため、市民権を証明できなかった。\n\n「彼らは私たちの本来の人々です。彼らの生活は国境によって定義されることはありませんでした。国境は後から来たのです」と彼女は語った。\n\nマレーシア人の父親と法的に婚姻届を提出されていない外国人の母親を持つなど、複雑な家族状況のもとに生まれた子どもたちも、行政上のギャップに陥る可能性がある。\n\n出生証明書や身分証明書がないと、教育、医療、雇用へのアクセスが不確実になり、恐怖と不安が日常生活を形作り続けます。\n\nアン氏は、不法滞在は本質的には行政的な問題であるにもかかわらず、刑事問題として誤解されることが多いと述べた。\n\n「書類を持っていないことが犯罪であるはずはない。誰かが他人に危害を加えた場合が犯罪だ。これは単なる書類の話だが、それがセキュリティ下に置かれているため、何か犯罪的なものとして組み立てられてしまう」と彼女は語った。\n\n申請手続きに時間がかかるとさらに困難が増し、市民権の請求によっては解決までに 10 年以上かかる場合もあります。\n\nこの問題に対処するために、アナク氏は、子どものステータスに関係なく、人生の始まりから基本的な身分証明書と公式記録を確保するための普遍的な出生登録を提唱している。\n\n「国民は緑、非国民や身分不明の人は赤の出生証明書を持つことで、個人は少なくとも何らかの形の証拠と自分自身に関する基本情報を得ることができる」と彼女は言う。\n\nこの記事は、マレーシアの人種、宗教、不平等の問題を調査するジャーナリストを対象とした 6 か月間にわたるプログレッシブ ジャーナリズム フェローシップと連携して制作されました。",
+   "summary_ja2": "コタ・ベルード: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。彼は長い間この立場を解消したいと思っていたが、さまざまな複雑な問題により手続きが遅れ、昨年ようやく母方の叔父の書類を使って出生証明書の申請を始めた。なぜなら、彼らは自分たちが国民であることを証明する書類を持っていないからです。",
+   "summary_ja": "コタ・ベルド: 「ハフィズ」（本名ではない）は、市民権申請に関連する問題に取り組むたびに、母親に捨てられたというつらい記憶を追体験させられる。",
+   "impact": 3,
+   "issues": [
+    "市民権の申請",
+    "出生登録",
+    "教育アクセス",
+    "医療アクセス",
+    "労働・雇用"
+   ],
+   "figures": []
   },
   {
    "title": "SABAH MUST NOT BECOME ANOTHER CASE OF “TOO LITTLE, TOO LATE” — THE FAILURE TO IMPLEMENT THE RCI RECOMMENDATIONS HAS ALLOWED THE PTI PROBLEM TO PERSIST",
@@ -4455,7 +4595,7 @@
   {
    "title": "114 PATI ditahan, Tawau catat tangkapan tertinggi",
    "summary": "Tawau: Seramai 114 pendatang asing tanpa izin (PATI) ditahan dalam operasi penguatkuasaan Jabatan Imigresen Malaysia (JIM) Sabah di tiga daerah, dengan Tawau merekodkan tangkapan tertinggi apabila 61 individu dicekup atas pelbagai kesalahan imigresen, semalam.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNNIBpgFBVV95cUxOWDBrb2tMQ1VRTWlIcldjZVNESTN0eGloSmdjb0ZvRDkxSmZNc2wzai03TUs1RVJfX2s3NEFiUHJEX2xxZGdGcDBMQl91VVFJWWZSWloyd19ocnZnMkJtMXhob2VLN1VlTHRyWndndjRMQTQ1WVNwSXM4cDJ4eWVLcmZDaTBKTmRScDlnUFpUejBTWV9SRTQ1UTgybnYzNGpQQ2pzNXdR?oc=5",
    "source": "Harian Metro",
    "date": "2026-06-12T07:00:00Z",
    "lang": "ms",
@@ -4557,7 +4697,7 @@
    "title": "Minister calls for careful review of IMM13 deportation petition",
    "summary": "TAWAU: Minister in the Prime Minister&rsquo;s Department (Sabah and Sarawak Affairs) Datuk Mustapha Sakmud said the petition calling for the deportation of IMM13 document holders in Sabah must be stud",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEJnYWVyOWpleFdjMmtTZWtmMWJhXy1hQXlNS3VZeUU5UTRXT21hc0xLZlRsenNWb2g0djllSXRhMmp0aVBjM0ROVGxqdjZQNHBnbUhUY1VvNjJtYTJzY2FpSVc0TGxOSlpPMENVZzh5bnZVdEt4cWlUVWZ2R3BNSzdtczlrQzZ2WWVBWjBzMUFDY3I2QUJHWk5zRnVOS1ltYTRDbXJjYXRHLWdw?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-06-11T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -4588,7 +4728,7 @@
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
    "summary": "TAWAU: Petisyen yang mendesak supaya pemegang dokumen IMM13 di Sabah dihalau keluar dari negara ini perlu dikaji secara mendalam oleh pihak berkaitan termasuk Kementerian Dalam Negeri (KDN) dan Kement",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxVZ3Z5cTRUYkQtRGlXaTVia0RmQlhrbzdDekxwMFk2QlYwOG1STHFqZ0g1MnFNV3lycWdhcVBVb0tCcm9wZXlkRVpzaTB4WU9DTVhFMmc0cU9zRUVibUQ5ZWFuMFZVVUtPclh0b05IMnJ1NlM0dVd3aEVZdzA5OWtqYnNwSTA4MFBVSnhNdk1QV2NSR0VlVTZuZ2hmSHd1Vkln?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-06-11T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5001,7 +5141,7 @@
    "title": "Perlu tindakan segera isu tanpa kewarganegaraan, cadangan MyKAS",
    "summary": "Kota Kinabalu: Persatuan Majikan Pekerja Asing (Pemaba) Cawangan Sabah menggesa kerajaan mengambil tindakan segera bagi menangani isu penduduk tanpa kewarganegaraan di Sabah, menyokong cadangan pengel",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHVvakxOV2p2VURsa2pDbXBuWExkSWlPUUNtS0gxcjJPY0ZqTkN5aE85Zk5XeXpkTnhFSDNTTW45cXFkWkFzdnl1OHR4R080VVREcjd2UnltLTdDWThRdnF1Z2VwbFM5ejlyWDMzdVd2cm0yOHhuUjAwR3BpX21ibUFZWGtPZkYzYkRIS3JodmxJUjZsZG5MNmhvb015TzA2T1JvazJxTHZ2dVE?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-05-26T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5032,7 +5172,7 @@
    "title": "Action urged on stateless issue, MyKAS proposal",
    "summary": "Kota Kinabalu: The Foreign Workers Employers Association (Pemaba) Sabah branch urged urgent government action to address Sabah&rsquo;s stateless population, backing proposals for the issuance of MyKAS",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSEZ2LUZjU2pLVS0wQ1lyLUIzdExtbEp5ZW11LWJLNFV0YUJtTm1CTjExZkdtR1BNYWNVcVdxR2pxRWhSU2pLV0ZBTGxBcWIwRmktcTZOVjlpOFAxeVhKTU10V0ZxZE85WWNRQjZ0MTV5M0FIRVJwWXNlVVFaQUxyMkJJUnlVT2w5bjc4elBIN3lNUFdoWXc?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-05-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -5196,7 +5336,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -5220,7 +5360,7 @@
    "title": "MHO urges Putrajaya to review MyKas policy in Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnNLQzNhUmtWTjlBWnNwM0U4OTdlS1hnaExkcUg0S21RY0ZLTnozLUllU1gwWXJGODhrN1hZc2wzbm1HRWYtNGFOYU03UzQwNUlMYzFvU3Nvbk5CcWlEZ3RpVzZzQnFJZHdKbC1iaGVpckVLeGRjVFZvczUzUEp4RFNxMDBDd0VIZWtvRkNTUW84TEdubEJOWXY2cDdfMGkxam5taA?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-05-22T01:28:06Z",
    "lang": "en",
    "origin": "news",
@@ -5282,7 +5422,7 @@
    "title": "MHO urges Putrajaya to revise MyKas policy",
    "summary": "Kota Kinabalu: The Malaysia International Humanitarian Organisation (MHO) has urged Putrajaya to revise the MyKas policy, warning that strict requirements are leaving many stateless individuals in Sab",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWld1ZXFTcVdHLXBDZGduWmRqQUpqUHhOemFoNzl0SnV6UGt6RHcyVWRmanF4N3Q2bDIwRWRvQUhlczNuR21iY0VnWmxFeHRyOU9LelRKdWtkNUxuQ0JtU2Z1Q2dMaERtZVVhdTBQU0VxSXNyWUNta1B4R0c0bGdwTWhzRFhPN09YaHpYOVlmUDU?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -5313,7 +5453,7 @@
    "title": "MHO Gesa Pembaharuan Dasar MyKAS, Isu ‘Stateless’ Sabah Semakin Membimbangkan",
    "summary": "KOTA KINABALU: Malaysia International Humanitarian Organisation (MHO) menggesa kerajaan Persekutuan menyemak semula dasar MyKAS kerana syarat sedia ada didakwa terlalu ketat sehingga menyebabkan ramai individu tanpa kewarganegaraan di Sabah terus tidak memiliki dokumen pengenalan sah. Penyelaras MHO Sabah, Jerry Jaimeh berkata mekanisme MyKAS tidak perlu digantikan, sebaliknya perlu ditambah baik ",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcE9kbkFoMkpobzhVdExfby1uZjBMdXpmd1lNLWVEc3RUM1NHdkk2dllvNElPQXNuZEltRE96bHp5QXFsZ0VjcEdnUFBJNERUR05lcTljc2JVSG81U21JZ25WNkxRS1ZHa21ZazE0VGl0eDJmRzdiUmdjdE9GNVc3RGhQSDRWb3hPOVZTRVhxRUJpZEltOHh0bjU2T0xhQ1NtUGc?oc=5",
-   "source": "sabahnews.com.my",
+   "source": "Sabah News",
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5429,7 +5569,7 @@
    "title": "JIM hantar pulang 285 PATI warga Filipina",
    "summary": "Oleh: Juwan Riduan LAHAD DATU: Jabatan Imigresen (JIM) Sabah memindahkan seramai 285 pendatang asing tanpa izin (PATI) warga Filipina ke negara asal menerusi Program Pemindahan Tahanan Asing di Pelabuhan Lahad Datu di sini, semalam. Semua PATI ter...",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclF6YUtDVkhVNXdiQkZDYUE5dHo0X0x2VEJaMjR3aTdjaVREckp3YTZBREluc0M0T2xxcG9BSF80d1Y4UlJHTHdXLUFLTm1zeDRNQUtXa04wSDRpQXVxelJKWlVPQWc4V1IzUXdBVmNJM3lTY1VwUXZMdnFpRmVmaGEtTQ?oc=5",
-   "source": "buletintv3.my",
+   "source": "Buletin TV3",
    "date": "2026-05-14T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -6127,7 +6267,7 @@
   },
   {
    "title": "Sabah leader backs MyKAS move for stateless people | New Straits Times",
-   "summary": "",
+   "summary": "KOTA KINABALU: The government initiative to provide MyKAS for stateless or undocumented people is a wise and positive step, says Gabungan Rakyat Sabah Backbenchers Club chairman Datuk Masiung Banah.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWE3TDd3cUZGRW9GZnZFbk5fWERINjJZdDB1b1hhWV9qdENaTVFrcHdMWFZuNUdJWnF2QlNOdXpNRUxsdVhSYURVT0J6aWxTR2x3b0RuVUxVUFNfNjMyNk1POTBGMkdudU1oRE1pSGtlMnBQdWdRTGFNdHBtY2dPOVMtZk1XeEpQem84M3B2ZF9KY0RKRWk4WW5tQnFsa0x5?oc=5",
    "source": "NST Online",
    "date": "2026-04-27T07:23:16Z",
@@ -6140,13 +6280,21 @@
     "無国籍"
    ],
    "title_ja": "サバ州の指導者、無国籍者のためのMyKASの動きを支持 |ニュー・ストレーツ・タイムズ",
-   "summary_ja": "",
    "first_seen": "2026-10-06T06:44:10Z",
+   "summary_ja": "コタキナバル：無国籍者や不法滞在者にMyKASを提供するという政府の取り組みは賢明で前向きな一歩だとペルーサハーン・ラクヤット・サバ・バックベンチャーズ・クラブ会長のダトゥク・マシウン・バナ氏は語る。",
    "impact": 3,
    "issues": [
     "身分証・在留資格"
    ],
-   "figures": []
+   "figures": [],
+   "url_real": "https://www.nst.com.my/news/regional/2026/04/1427313/sabah-leader-backs-mykas-move-stateless-people",
+   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/90DF312E529CB2E09D9B3A28CE79718F_data_1.jpg",
+   "site_name": "NST Online",
+   "body": "KOTA KINABALU: The government initiative to provide MyKAS for stateless or undocumented people is a wise and positive step, says Gabungan Rakyat Sabah Backbenchers Club chairman Datuk Masiung Banah.\n\nHe said proper documentation would allow them to work lawfully and contribute to Sabah's economy.\n\n\"We welcome this move because instead of allowing them to work without legal documents, giving them proper documentation enables them to work legally.\n\n\"We should not deceive ourselves, across sectors like plantations and manufacturing, our local workforce tends to be less responsive or slower to take up such opportunities.\n\n\"However, these individuals already possess the necessary skills and are ready to take on projects,\" he said when debating the policy speech during the state legislative assembly sitting here.\n\nThe Kuamut assemblyman said improved economic conditions would also benefit their families and could help reduce both minor and serious crimes driven by economic hardship.\n\n\"We all share responsibility. That is why I support this initiative on behalf of our side (native people).\n\n\"Through the government's proposal and decision, it could potentially reduce crime rates, while also allowing them to contribute economically and be taxed like us,\" he added.\n\nAccording to the National Registration Department, MyKAS is an identity document issued to temporary residents born in Malaysia whose citizenship status cannot be determined.\n\nMyKAS holders do not gain citizenship privileges and must meet strict conditions before applying for MyPR (Permanent Resident status) and subsequently MyKad (citizenship), depending on their period of residence and eligibility.\n\nThe status is reviewed every five years, and holders must continue efforts to trace their origins as required under the Federal Constitution.",
+   "body_ja": "コタキナバル：無国籍者や不法滞在者にMyKASを提供するという政府の取り組みは賢明で前向きな一歩だと、ガブンガン・ラクヤット・サバ・バックベンチャーズ・クラブ会長のダトゥク・マシウン・バナ氏は言う。\n\n同氏は、適切な文書があれば合法的に働くことができ、サバ州の経済に貢献できるだろうと述べた。\n\n「法的文書なしで働くことを許可するのではなく、適切な文書を与えることで合法的に働けるようになるため、私たちはこの動きを歓迎します。\n\n「私たちは自分自身を欺いてはなりません。プランテーションや製造業などの分野にわたって、地元の労働力はそのような機会への反応が鈍かったり、そのような機会に取り組むのが遅い傾向があります。\n\n「しかし、これらの人々はすでに必要なスキルを備えており、プロジェクトを引き受ける準備ができています」と、ここに座っている州議会で政策演説を議論する際に彼は述べた。\n\nクアムット議員は、経済状況の改善は彼らの家族にも利益をもたらし、経済的困難に起因する軽微な犯罪と重大な犯罪の両方を減らすのに役立つ可能性があると述べた。\n\n「私たちは皆、責任を共有しています。だからこそ、私は私たち（先住民）を代表してこの取り組みを支持します。」\n\n「政府の提案と決定により、犯罪率を潜在的に削減できると同時に、彼らが経済的に貢献し、私たちと同じように税金を徴収できるようになる可能性がある」と同氏は付け加えた。\n\n国民登録局によると、MyKAS はマレーシア生まれで国籍が不明な一時滞在者に発行される身分証明書です。\n\nMyKAS 保有者は市民権の特権を取得せず、居住期間と資格に応じて、MyPR (永住権) を申請し、その後 MyKad (市民権) を申請する前に厳しい条件を満たさなければなりません。\n\nこのステータスは 5 年ごとに見直され、保有者は連邦憲法の要求に応じて自分の出自を追跡する努力を継続する必要があります。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "コタキナバル：無国籍者や不法滞在者にMyKASを提供するという政府の取り組みは賢明で前向きな一歩だと、ガブンガン・ラクヤット・サバ・バックベンチャーズ・クラブ会長のダトゥク・マシウン・バナ氏は言う。」  「政府の提案と決定により、犯罪率を潜在的に削減できると同時に、彼らが経済的に貢献し、私たちと同じように税金を徴収できるようになる可能性がある」と同氏は付け加えた。"
   },
   {
    "title": "Sabah leader backs MyKAS move for stateless people",
@@ -6341,7 +6489,7 @@
    "title": "Imigresen Tahan 19 PATI Dalam Operasi di Sipitang",
    "summary": "SIPITANG: Seramai 19 pendatang asing tanpa izin (PATI) ditahan dalam satu operasi penguatkuasaan yang dilaksanakan oleh Jabatan Imigresen Malaysia (JIM) Negeri Sabah di sekitar kawasan tanggungjawab Pejabat Imigresen Daerah Sipitang, semalam. Operasi yang dijalankan di empat premis itu melibatkan seramai lapan pegawai imigresen. Hasil pemeriksaan ke atas 41 individu, seramai 19 warga asing berjaya",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXpQZlpmMlQxSEMySVpZdDM4Tk9IMEl4XzdnTGE3MXFFMVVVV1NvUFNyMlBKQ084cEt1LUVFdlNoVi1CVWhFRTN2Y3d3YUt3bXFPdVozTlZEaDhjZ1ZmWDJ1VjZTTWdPNzhaNDdrMWpETDluMkU1MFgwQzNsM3QxRg?oc=5",
-   "source": "sabahnews.com.my",
+   "source": "Sabah News",
    "date": "2026-04-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -6930,11 +7078,11 @@
    "title": "Four Bajau Laut charged with illegal entry into Sabah",
    "summary": "Kota Kinabalu: Four stateless Bajau Laut youths who are also students were charged separately with illegal entry into the State, of whom three were released on bail.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYUV2N21UU09Gd082M2UxYmdvd1JHZGh6MW1XbmpGa0FVQVBxaWFib0xBektIWEh4ZjdqeHVYdF9BbUtQMlQ0cGhXMXVoQU0xYkZvQVRab2dsRGNIaEtXVXFqemdSUVVzV1llcldTYnM3QVNGNjZkY0NWcWV0LTVwS3FvY3lMb2tuelUxdkV2Q1RoSmRFcUZyUzdVY2p2c1k?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "6c59922f9c78",
    "tags": [
     "バジャウ"
@@ -6992,7 +7140,7 @@
    "title": "Four stateless Bajau Laut charged, three get bail",
    "summary": "Kota Kinabalu: Four stateless Bajau Laut were charged separately with illegal entry into the State, with three released on bail.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2JaZVE5Z1ZxTDZoWFlJVXptWHJQc3p2U0ZreVBhSUJpZE1pY3d5anJ5djhETUI3QW1zN0YyQ0FCbC1va3JvV0V5YW1Vb1BmenA4aThBV19HUlA3S1QzWlVzMzdQMTlQdVZ5YTBCbTJIazZ4bXJndjhXclJRYWI2dTBuSXdmWm51NnM2amU5SEVkLU5pdnpHcg?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2026-03-31T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -7059,7 +7207,7 @@
    "title": "NIKO tiada IC: Imigresen Sabah digesa serbu Sekolah Alternatif digerakkan Mukmin Nantang jadi pelindung PTI di Sabah",
    "summary": "Sebelum ini Mukmin Nantang bersama Borneo Komrad dan Sekolah Alternatif membawa 9 budak tiada dokumen menyamar mahasiswa UMS untuk berdemo. Kali ini budak bernama NIKO pula.  Imigresen Sabah perlu bertindak tegas serbu Sekolah Alternatif  'menternak' PTI",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaDRaUXh2Nkpic3FQNWhGbFdSWW1OSU1ncTkwbG5uUTY1eXVva0wwR1k0dU80U0gza1lnbHZ4SDFPd1c2cjJfN0VhbE9YeHNiZnpLbjlHY0ZKekdSUk9QUzhvR1Nqd0xOWGYzMmFaMFlPR0J5YUY4d3JDY0JhX3B1MWV6NG9pNHUwUVl6amhQRkYyTWhLUnk3ZzVFQndfTk5wMXNUM1NhdTlHUlFLYXdvaUtNVjBJMXpBb2FXc3VaczlhaVNkWjUzMmJaOGRtM1hnWVpGVmZzMWNKdnFWTldBQUdZbnJOdnJuS1d6UQ?oc=5",
-   "source": "sabahkini2.com",
+   "source": "Sabah Kini2",
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -7132,7 +7280,7 @@
    "title": "Arrest of stateless teen in Malaysia highlights Sabah’s citizenship crisis",
    "summary": "Rights groups say stateless people in the country are often treated as undocumented migrants without basic protections.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTRGNFVDUTlLVnVzcHAxZXlsRU5sSWZzcXllUFNXeWc3Rmt2bmdHaXdlMkxQbXV1aHItZUdpcW8wazhNM2Ftc2lZd053bk14eTVqOU5tRktLQWl2WEE1T1g0QVltRzRaOXRWQlUtbjhMMTZTM2RxOEgwWVIzM285bjNiVXhONzU3RnNnYV8wdE9jRUN1a3JOVmVhT25jN0RRUWtXaEJOSEozak4zWDlud0x6aTh5SDZqOFpudlBxRkFHVHo4Nkp1T0ZfVF_SAcwBQVVfeXFMT2NpTmZ0eGpDdEtULTU4UC1MZS1wd2VtekNZdjNfZmFIVFI0QzdTTV9jbklxV2NpOFVKUkpXZi0tWnNtdDZzbE9YZGxWUTZWQndsRUY2aDBJME5uTjJqRTgwRmVDN0YwWHVTZENHYzRWT0ZaZE5BMEQ4SW5wWVI1ZkpyMmstY2dSMmxXdkQzc0U0MHRkSVh0bW1PRFB3SHk4NXkyM0w2cDg4QVhaOFNRMmlZV2RFYzZPQVJzb3pmTm01MWI1TDNpSDV1T2Fq?oc=5",
-   "source": "scmp.com",
+   "source": "South China Morning Post",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -7245,7 +7393,7 @@
    "title": "29 PATI ditahan dalam operasi imigresen di Ranau",
    "summary": "RANAU, 4 Mac – Seramai 29 pendatang asing tanpa izin PATI ditangkap dalam operasi penguatkuasaan yang dijalankan di tiga lokasi berasingan sekitar daerah ini pada Selasa kerana disyaki melanggar…",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVk41aG9HTXV0X3Rfd011NEZPbTAydmJMUjU3dURpU1ZoREszWVAwWjF2VTNyRWNQZVBZVDh1blU4OF9pQ0tsMUVJaTdWNjJhUkY4RkRBMzBtT2dERWNIcUdSeHI4bk82N3R3QS1VU3dCZXhscDg0anJrMVN1M0tMdHBmaXhGU2lPTG1yZ0JHbFJGZ2E1U2EybEp2MUFqTWcyZXlHQmY4Vkg2WVoyZllYQUNVYS0?oc=5",
-   "source": "berita.rtm.gov.my",
+   "source": "Portal Berita RTM",
    "date": "2026-03-04T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -7949,7 +8097,7 @@
    "title": "77 PATI DITAHAN DALAM OPERASI IMIGRESEN DI KOTA KINABALU, KENINGAU",
    "summary": "Laman Web MKN 77 PATI DITAHAN DALAM OPERASI IMIGRESEN DI KOTA KINABALU, KENINGAU KOTA KINABALU: Jabatan Imigresen Malaysia (JIM) Sabah terus memperhebat penguatkuasaan apabila 77 pendatang asing tanpa izin (PATI) ditahan dalam beberapa",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUNGby1BYThILWw1aV9CLXR4OUZyYkg4MnZuT1ZNRVExNlVZTElSWHFzaW9OOVZlci1NNk9Ga1NGd0RKVG5OZ1VycGl0WEc5SVFnUUkwU1RtLXhwSEVrdnA4THNCTVNUYXpHbjByQU10ZHNLSFF5c1BzQTEyTURQMTVtWjFDWlR6WlU2cFUtVGJFYjh4aFpleGE3OTVHZWxkYndudFdjX3V4aDQ?oc=5",
-   "source": "mkn.gov.my",
+   "source": "Majlis Keselamatan Negara (MKN)",
    "date": "2026-01-28T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -9011,7 +9159,7 @@
    "title": "New party Parti Perpaduan Rakyat Sabah to help stateless get documents",
    "summary": "TAWAU: Another Sabah-based party &ndash; Parti Perpaduan Rakyat Sabah (PPRS) &ndash; announced Thursday it will contest all 73 seats in the 17th State Election.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1FoRld5VWs4Tm9Fc1ZDRDF6WnN2MmlNenV6dGxNNy0tS2ZMUlR1WmFxTDZxOXE5WUU4cDUzQ0o0b2VlY0pMVVVnM1BQbGlPQ3g1czhKdGZWOVB6SFA5em1VVzY1ak9qaWltaTFXejNiRmhVSkI1UWNrTUo4TzhPM3VOMjVTX3Q1SURLbHZiYTA3bEljY2gwZHFwc2FHRDBjeDR1bUtBYWt4TWVIVk1tQzg5dlp1dw?oc=5",
-   "source": "dailyexpress.com.my",
+   "source": "Daily Express Malaysia",
    "date": "2025-11-14T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -9510,7 +9658,7 @@
    "title": "Syurga Tercemar: Pelancong Dedah Realiti Sampah, Anak Tanpa Warganegara di Semporna",
    "summary": "Oleh: Ahmad Fazlan Shah bin Abd Rahman & Sharifudin bin Abdul Rahim SEMPORNA, 6 Oktober – Seorang pelancong dari Semenanjung, Nik Saleha, meluahkan rasa kecewa apabila mendapati perairan sekitar Semporna dicemari sampah plastik meskipun kawasan itu terkenal dengan keindahan lautnya. “Mula-mula memang kagum, lautnya cantik. Tapi bila pandang ke bawah, nampak plastik terapung. “Dari luar […]",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd21rdUVNaWxMa3RsMU9SVGppTkdoYk1KVzhhSHVGTnZzUVNNVWtfMmlwVmFzZktGUEtwM1hoUV8yNUJUZFhxT3lMd19KUUFqaEZOMWJGcEFOaUtuWEEtOFQ0di05MG1ZNG9rbEMwQ2dicnFQTVQzQVl0Y3djNWY2bElzWFY1S1l0b2ZSdDJ3T214MjEtWENuQk4wTFB3NzhtNjQtTFdCb1NTc0U?oc=5",
-   "source": "sabahnews.com.my",
+   "source": "Sabah News",
    "date": "2025-10-06T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -9724,5 +9872,6 @@
    ],
    "figures": []
   }
- ]
+ ],
+ "enriched_at": "2026-10-06T18:36:11Z"
 }
