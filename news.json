@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-12T15:56:12Z",
- "count": 275,
+ "updated": "2026-10-13T00:55:07Z",
+ "count": 273,
  "tags": {
-  "入管・摘発": 183,
+  "入管・摘発": 181,
   "市民権": 36,
   "無国籍": 33,
   "子ども": 22,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 44,
-  "TV Sabah News": 39,
+  "TV Sabah News": 37,
   "Daily Express Malaysia": 23,
   "NST Online": 16,
   "The Star": 13,
@@ -88,6 +88,8 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "KOTA KINABALU: Oct 11, 2026 — A total of 84 undocumented migrants were detained by the Malaysian Immigration Department (JIM) Sabah in 15 enforcement operations across five districts in the state from Oct 5 to 8.\n\nSabah JIM director Datuk Sh Sitti Saleha Habib Yussof led the operations, which were carried out in Tawau, Semporna, Sandakan, Keningau and Kudat to curb the presence of undocumented migrants and check the misuse of immigration facilities.\n\nAccording to JIM Sabah, 293 individuals were screened during the operations, with 84 detained on suspicion of violating immigration laws.\n\nOf those arrested, 51 were Filipinos — 22 adult men, 23 adult women, three boys and three girls.\n\nAlso detained were 28 Indonesians, comprising 14 adult men and 14 adult women, as well as three Pakistani men, one Indian man and one Vietnamese woman.\n\nJIM Sabah said enforcement operations would continue continuously at strategic locations throughout the state to ensure compliance with immigration laws.\n\nThe public was also reminded not to harbour, employ or assist foreigners who violate the country’s laws.\n\nAny information on undocumented migrant activities can be channelled through the Public Complaints Management System (SISPAA) at https://spab.gov.my or the Online Inquiry System (SPO) at https://eapp.imi.gov.my.\n\nSource: Sabah Immigration Department",
+   "body_ja": "コタキナバル：2026年10月11日 — 10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州で州内の5つの地区にわたる15回の強制捜査により、合計84人の不法移民が拘束された。\n\nサバJIM所長のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏が作戦を指揮し、不法移民の存在を抑制し、入国管理施設の悪用をチェックするためにタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施された。\n\nジム・サバ氏によると、作戦中に293人が検査を受け、84人が移民法違反の疑いで拘束された。\n\n逮捕者のうち51人はフィリピン人で、成人男性22人、成人女性23人、少年3人、少女3人だった。\n\nまた、成人男性１４人、成人女性１４人からなるインドネシア人２８人、パキスタン人男性３人、インド人男性１人、ベトナム人女性１人も拘束された。\n\nジム・サバ氏は、移民法の順守を確保するため、州内の戦略的な場所で強制執行が継続的に継続されると述べた。\n\nまた国民は、国の法律に違反する外国人を収容したり、雇用したり、援助したりしないよう注意を喚起された。\n\n不法移民活動に関するあらゆる情報は、公的苦情管理システム (SISPAA) (https://spab.gov.my) またはオンライン照会システム (SPO) (https://eapp.imi.gov.my) を通じて伝達できます。\n\n出典: サバ州入国管理局",
+   "summary_ja2": "コタキナバル：2026年10月11日 — 10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州で州内の5つの地区にわたる15回の強制捜査により、合計84人の不法移民が拘束された。サバJIM所長のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏が作戦を指揮し、不法移民の存在を抑制し、入国管理施設の悪用をチェックするためにタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施された。",
    "summary_ja": "著者: ヌルル・ファズリアナ・ノーマン",
    "impact": 0,
    "issues": [],
@@ -102,9 +104,7 @@
      "kind": "拘束",
      "raw": "293 individu"
     }
-   ],
-   "body_ja": "コタキナバル：2026年10月11日 — 10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州で州内の5つの地区にわたる15回の強制捜査により、合計84人の不法移民が拘束された。\n\nサバJIM所長のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏が作戦を指揮し、不法移民の存在を抑制し、入国管理施設の悪用をチェックするためにタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施された。\n\nジム・サバ氏によると、作戦中に293人が検査を受け、84人が移民法違反の疑いで拘束された。\n\n逮捕者のうち51人はフィリピン人で、成人男性22人、成人女性23人、少年3人、少女3人だった。\n\nまた、成人男性１４人、成人女性１４人からなるインドネシア人２８人、パキスタン人男性３人、インド人男性１人、ベトナム人女性１人も拘束された。\n\nジム・サバ氏は、移民法の順守を確保するため、州内の戦略的な場所で強制執行が継続的に継続されると述べた。\n\nまた国民は、国の法律に違反する外国人を収容したり、雇用したり、援助したりしないよう注意を喚起された。\n\n不法移民活動に関するあらゆる情報は、公的苦情管理システム (SISPAA) (https://spab.gov.my) またはオンライン照会システム (SPO) (https://eapp.imi.gov.my) を通じて伝達できます。\n\n出典: サバ州入国管理局",
-   "summary_ja2": "コタキナバル：2026年10月11日 — 10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州で州内の5つの地区にわたる15回の強制捜査により、合計84人の不法移民が拘束された。サバJIM所長のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏が作戦を指揮し、不法移民の存在を抑制し、入国管理施設の悪用をチェックするためにタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施された。"
+   ]
   },
   {
    "title": "84 PATI Ditahan Dalam 15 Operasi Imigresen Di Sabah",
@@ -127,6 +127,8 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "TAWAU: Seramai 84 pendatang asing tanpa izin (PATI) ditahan Jabatan Imigresen Malaysia (JIM) Sabah dalam kira-kira 15 operasi penguatkuasaan di lima daerah, dari 5 hingga 8 Oktober lalu.\n\nPengarah JIM Sabah, Datuk Sitti Saleha Habib Yussof, berkata operasi berkenaan dilaksanakan di Tawau, Semporna, Sandakan, Keningau dan Kudat bagi membanteras kehadiran PATI serta mengekang penyalahgunaan kemudahan imigresen.\n\nBeliau berkata, seramai 293 individu diperiksa sepanjang tempoh operasi itu, dengan 84 daripadanya ditahan kerana disyaki melanggar peruntukan undang-undang imigresen.\n\nDaripada jumlah tangkapan, katanya, warga Filipina mencatatkan jumlah tertinggi iaitu 51 orang, diikuti warga Indonesia (28), Pakistan (tiga), India (seorang) dan Vietnam (seorang).\n\n“Tangkapan warga Filipina membabitkan 22 lelaki dewasa, 23 wanita dewasa, tiga kanak-kanak lelaki dan tiga kanak-kanak perempuan.\n\n“Warga Indonesia yang ditahan pula terdiri daripada 14 lelaki dewasa dan 14 wanita dewasa, manakala tiga lelaki warga Pakistan, seorang lelaki warga India dan seorang wanita warga Vietnam turut ditahan,” katanya dalam kenyataan hari ini.\n\nSitti Saleha berkata, JIM Sabah akan meneruskan operasi penguatkuasaan secara berterusan di lokasi strategik seluruh negeri bagi memastikan pematuhan terhadap undang-undang imigresen.\n\nBeliau turut mengingatkan orang ramai supaya tidak melindungi, menggaji atau membantu warga asing yang melanggar undang-undang negara.\n\n“Orang ramai yang mempunyai maklumat berkaitan kegiatan PATI boleh menyalurkannya melalui Sistem Pengurusan Aduan Awam (SISPAA) di https://spab.gov.my atau Sistem Pertanyaan Online (SPO) JIM di https://eapp.imi.gov.my,” katanya",
+   "body_ja": "タワウ：昨年10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州の5地区で約15回の取締りにより、合計84人の不法移民（PATI）が逮捕された。\n\nJIMサバ所長のダトゥク・シッティ・サレハ・ハビブ・ユソフ氏は、この作戦は不法滞在者の存在と闘い、移民施設の乱用を抑制するためにタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施されたと述べた。\n\n同氏は、作戦中に合計293人が検査され、このうち84人が移民法の規定に違反した疑いで拘束されたと述べた。\n\n同氏によると、逮捕者数のうち、フィリピン人が51人と最も多く、次いでインドネシア人（28人）、パキスタン人（3人）、インド人（1人）、ベトナム人（1人）となった。\n\n「フィリピン人の逮捕には成人男性22人、成人女性23人、少年3人、少女3人が関与していた。\n\n同氏は本日の声明で、「逮捕されたインドネシア国民は成人男性14名、成人女性14名で構成され、パキスタン人男性3人、インド人男性1人、ベトナム人女性1人も逮捕された」と述べた。\n\nシッティ・サレハ氏は、ジム・サバ州は移民法の遵守を徹底するため、州内の戦略的な場所で継続的に執行活動を継続すると述べた。\n\n同氏はまた、国の法律に違反する外国人を保護、雇用、援助しないよう国民に注意を喚起した。\n\n「PATI活動に関連する情報を持っている人は、公的苦情管理システム(SISPAA)(https://spab.gov.my)またはJIMのオンライン照会システム(SPO)(https://eapp.imi.gov.my)を通じて情報を伝達することができます」と同氏は述べた。",
+   "summary_ja2": "タワウ：昨年10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州の5地区で約15回の取締りにより、合計84人の不法移民（PATI）が逮捕された。同氏によると、逮捕者数のうち、フィリピン人が51人と最も多く、次いでインドネシア人（28人）、パキスタン人（3人）、インド人（1人）、ベトナム人（1人）となった。",
    "summary_ja": "タワウ：昨年10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州の5地区で約15回の取締りにより、合計84人の不法移民（PATI）が逮捕された。 JIMサバ所長のダトゥク・シッティ・サレハ・ハビブ・ユソフ氏は、この作戦は不法移民の存在と闘い、施設の乱用を抑制するためにタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施されたと述べた。",
    "impact": 0,
    "issues": [
@@ -144,9 +146,7 @@
      "kind": "拘束",
      "raw": "293 individu"
     }
-   ],
-   "body_ja": "タワウ：昨年10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州の5地区で約15回の取締りにより、合計84人の不法移民（PATI）が逮捕された。\n\nJIMサバ所長のダトゥク・シッティ・サレハ・ハビブ・ユソフ氏は、この作戦は不法滞在者の存在と闘い、移民施設の乱用を抑制するためにタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施されたと述べた。\n\n同氏は、作戦中に合計293人が検査され、このうち84人が移民法の規定に違反した疑いで拘束されたと述べた。\n\n同氏によると、逮捕者数のうち、フィリピン人が51人と最も多く、次いでインドネシア人（28人）、パキスタン人（3人）、インド人（1人）、ベトナム人（1人）となった。\n\n「フィリピン人の逮捕には成人男性22人、成人女性23人、少年3人、少女3人が関与していた。\n\n同氏は本日の声明で、「逮捕されたインドネシア国民は成人男性14名、成人女性14名で構成され、パキスタン人男性3人、インド人男性1人、ベトナム人女性1人も逮捕された」と述べた。\n\nシッティ・サレハ氏は、ジム・サバ州は移民法の遵守を徹底するため、州内の戦略的な場所で継続的に執行活動を継続すると述べた。\n\n同氏はまた、国の法律に違反する外国人を保護、雇用、援助しないよう国民に注意を喚起した。\n\n「PATI活動に関連する情報を持っている人は、公的苦情管理システム(SISPAA)(https://spab.gov.my)またはJIMのオンライン照会システム(SPO)(https://eapp.imi.gov.my)を通じて情報を伝達することができます」と同氏は述べた。",
-   "summary_ja2": "タワウ：昨年10月5日から8日にかけて、マレーシア入国管理局（JIM）サバ州の5地区で約15回の取締りにより、合計84人の不法移民（PATI）が逮捕された。同氏によると、逮捕者数のうち、フィリピン人が51人と最も多く、次いでインドネシア人（28人）、パキスタン人（3人）、インド人（1人）、ベトナム人（1人）となった。"
+   ]
   },
   {
    "title": "Budget 2027: New immigration quarters planned for Perak, Sabah",
@@ -169,14 +169,14 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "PUTRAJAYA, Oct 11 — The construction of new quarters at the Langkap Immigration Detention Depot in Perak and Papar, Sabah, under Budget 2027 will improve the welfare and operational readiness of Immigration Department (JIM) personnel in carrying out enforcement duties.\n\nImmigration director-general Datuk Zakaria Shaaban said more conducive residential facilities would not only enhance the well-being of officers and their families, but also help them focus fully on their responsibilities in law enforcement and immigration detainee management.\n\nHe said personnel welfare was not merely about providing facilities, but also formed the foundation of an enforcement organisation’s readiness and effectiveness.\n\n“The department views the announcement under Budget 2027 not merely as an increase in physical facilities, but as a responsibility to translate the government’s commitment into improved performance and service delivery.\n\n“In this regard, the department will extend its full cooperation and commitment in coordinating the implementation of the initiatives to ensure that the intended benefits are realised to the fullest,” he said in a statement yesterday.\n\nZakaria said the Immigration Department also welcomed the announcement on the construction of the Keningau Immigration Office in Sabah, which is expected to strengthen the department’s capacity to provide more systematic, comfortable and efficient services to the local community.\n\nHe said infrastructure development was important to ensure a more organised, comfortable and efficient service environment, in line with the public’s needs and expectations for quality public services.\n\n“Both initiatives represent strategic investments in strengthening the organisation’s capacity and capabilities, while giving balanced attention to the well-being of personnel and the need to provide services to the public,” he said.\n\nWhen tabling Budget 2027 in the Dewan Rakyat yesterday, Prime Minister Datuk Seri Anwar Ibrahim said Armed Forces Family Housing would be built in Skudai, Johor, along with new quarters at the Langkap Immigration Detention Depot in Perak and Papar, Sabah. The projects would benefit nearly 900 personnel at a cost of more than RM500 million. — Bernama",
+   "body_ja": "プトラジャヤ、10月11日 — 2027年予算に基づく、サバ州ペラ州とパパール市のランカップ移民拘留所の新しい居住区の建設により、執行業務を遂行する際の入国管理局（JIM）職員の福利厚生と業務即応性が向上する。\n\n入国管理局長ダトゥク・ザカリア・シャーバン氏は、より快適な居住施設は警察官とその家族の幸福を増進するだけでなく、警察や入国管理における彼らの責任に十分に集中できるようになるだろうと述べた。\n\n同氏は、人事福利厚生は単に施設を提供するだけでなく、執行組織の即応性と有効性の基礎を形成するものでもあると述べた。\n\n「同省は、2027年予算に基づく発表を単なる物理的施設の増加としてではなく、政府のコミットメントをパフォーマンスとサービス提供の向上につなげる責任であるとみなしている。\n\n同氏は昨日の声明で、「この点で、同省は意図した利益が最大限に実現されるよう、イニシアチブの実施の調整に全面的に協力し、全力を尽くしていく」と述べた。\n\nザカリア氏は、入国管理局もサバ州のケニンガウ入国管理局の建設に関する発表を歓迎しており、これにより地元社会により体系的で快適かつ効率的なサービスを提供する同局の能力が強化されることが期待されると述べた。\n\n同氏は、質の高い公共サービスに対する国民のニーズと期待に沿って、より組織的で快適かつ効率的なサービス環境を確保するにはインフラ開発が重要であると述べた。\n\n「どちらの取り組みも、職員の幸福と国民へのサービス提供の必要性にバランスのとれた注意を払いながら、組織の能力と可能性を強化するための戦略的投資を表している」と同氏は述べた。\n\n昨日、ドゥワン・ラクヤットで2027年度予算案を提出した際、ダトゥク・セリ・アンワル・イブラヒム首相は、ジョホール州スクダイに軍家族住宅が建設されるほか、サバ州ペラ州とパパール市のランカップ入国管理所に新たな宿舎が建設されると述べた。このプロジェクトは 5 億リンギ以上の費用をかけて 900 人近くの職員に利益をもたらすでしょう。 — ベルナマ",
+   "summary_ja2": "プトラジャヤ、10月11日 — 2027年予算に基づく、サバ州ペラ州とパパール市のランカップ移民拘留所の新しい居住区の建設により、執行業務を遂行する際の入国管理局（JIM）職員の福利厚生と業務即応性が向上する。ザカリア氏は、入国管理局もサバ州のケニンガウ入国管理局の建設に関する発表を歓迎しており、これにより地元社会により体系的で快適かつ効率的なサービスを提供する同局の能力が強化されることが期待されると述べた。",
    "summary_ja": "プトラジャヤ、10月11日 — 2027年予算に基づいて、サバ州ペラ州とパパールにあるランカップ移民拘留所に新しい居住区が建設され、福祉と...",
    "impact": 0,
    "issues": [
     "摘発・収容・送還"
    ],
-   "figures": [],
-   "body_ja": "プトラジャヤ、10月11日 — 2027年予算に基づく、サバ州ペラ州とパパール市のランカップ移民拘留所の新しい居住区の建設により、執行業務を遂行する際の入国管理局（JIM）職員の福利厚生と業務即応性が向上する。\n\n入国管理局長ダトゥク・ザカリア・シャーバン氏は、より快適な居住施設は警察官とその家族の幸福を増進するだけでなく、警察や入国管理における彼らの責任に十分に集中できるようになるだろうと述べた。\n\n同氏は、人事福利厚生は単に施設を提供するだけでなく、執行組織の即応性と有効性の基礎を形成するものでもあると述べた。\n\n「同省は、2027年予算に基づく発表を単なる物理的施設の増加としてではなく、政府のコミットメントをパフォーマンスとサービス提供の向上につなげる責任であるとみなしている。\n\n同氏は昨日の声明で、「この点で、同省は意図した利益が最大限に実現されるよう、イニシアチブの実施の調整に全面的に協力し、全力を尽くしていく」と述べた。\n\nザカリア氏は、入国管理局もサバ州のケニンガウ入国管理局の建設に関する発表を歓迎しており、これにより地元社会により体系的で快適かつ効率的なサービスを提供する同局の能力が強化されることが期待されると述べた。\n\n同氏は、質の高い公共サービスに対する国民のニーズと期待に沿って、より組織的で快適かつ効率的なサービス環境を確保するにはインフラ開発が重要であると述べた。\n\n「どちらの取り組みも、職員の幸福と国民へのサービス提供の必要性にバランスのとれた注意を払いながら、組織の能力と可能性を強化するための戦略的投資を表している」と同氏は述べた。\n\n昨日、ドゥワン・ラクヤットで2027年度予算案を提出した際、ダトゥク・セリ・アンワル・イブラヒム首相は、ジョホール州スクダイに軍家族住宅が建設されるほか、サバ州ペラ州とパパール市のランカップ入国管理所に新たな宿舎が建設されると述べた。このプロジェクトは 5 億リンギ以上の費用をかけて 900 人近くの職員に利益をもたらすでしょう。 — ベルナマ",
-   "summary_ja2": "プトラジャヤ、10月11日 — 2027年予算に基づく、サバ州ペラ州とパパール市のランカップ移民拘留所の新しい居住区の建設により、執行業務を遂行する際の入国管理局（JIM）職員の福利厚生と業務即応性が向上する。ザカリア氏は、入国管理局もサバ州のケニンガウ入国管理局の建設に関する発表を歓迎しており、これにより地元社会により体系的で快適かつ効率的なサービスを提供する同局の能力が強化されることが期待されると述べた。"
+   "figures": []
   },
   {
    "title": "Pengarah JIM Sabah ketuai operasi, 84 PATI ditahan",
@@ -199,6 +199,8 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "KOTA KINABALU: Seramai 84 pendatang asing tanpa izin (PATI) ditahan dalam kira-kira 15 operasi penguatkuasaan yang dijalankan Jabatan Imigresen Malaysia (JIM) Negeri Sabah di lima daerah antara 5 hingga 8 Oktober lalu.\n\nOperasi yang dijalankan di Tawau, Semporna, Sandakan, Keningau dan Kudat itu melibatkan pemeriksaan terhadap 293 individu.\n\nMenurut JIM Sabah, operasi berkenaan diketuai Pengarahnya, Datuk Sh Sitti Saleha Habib Yussof, bagi membanteras kehadiran PATI serta mengekang penyalahgunaan kemudahan imigresen.\n\nDaripada jumlah yang ditahan, 51 orang merupakan warga Filipina, terdiri daripada 22 lelaki dewasa, 23 wanita dewasa, tiga kanak-kanak lelaki dan tiga kanak-kanak perempuan.\n\nTurut ditahan ialah 28 warga Indonesia, masing-masing 14 lelaki dan 14 wanita dewasa.\n\nSelain itu, tiga lelaki warga Pakistan, seorang lelaki warga India dan seorang wanita warga Vietnam turut ditahan.\n\nJIM Sabah memaklumkan bahawa operasi penguatkuasaan akan terus dipergiatkan di lokasi strategik di seluruh negeri bagi memastikan pematuhan terhadap undang-undang imigresen.\n\nOrang ramai turut diingatkan supaya tidak melindungi, menggaji atau membantu warga asing yang melanggar undang-undang negara.\n\nSebarang kegiatan berkaitan PATI boleh dilaporkan kepada JIM Sabah melalui saluran rasmi Sistem Pengurusan Aduan.",
+   "body_ja": "コタキナバル：10月5日から8日までの間にサバ州移民局（JIM）が5つの地区で実施した約15件の強制捜査により、合計84人の不法移民（PATI）が逮捕された。\n\nタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施された手術では、293人の検査が行われた。\n\nジム・サバ氏によると、この作戦は不法滞在者の存在と闘い、移民施設の乱用を抑制するために、所長のダトゥク・シュ・シティ・サレハ・ハビブ・ユソフ氏が主導したという。\n\n逮捕者の総数のうち、成人男性22人、成人女性23人、少年3人、少女3人の計51人がフィリピン国民である。\n\nまた、インドネシア国民28人、男性14人、成人女性14人も逮捕された。\n\nさらに、パキスタン人男性３人、インド人男性１人、ベトナム人女性１人も逮捕された。\n\nジム・サバ州知事は、移民法の順守を確実にするため、州内の戦略的な場所で執行活動が引き続き強化されると発表した。\n\nまた国民は、国の法律に違反する外国人を保護、雇用、援助しないよう注意喚起されています。\n\nPATI に関連する活動は、苦情管理システムの公式チャンネルを通じて JIM Sabah に報告できます。",
+   "summary_ja2": "コタキナバル：10月5日から8日までの間にサバ州移民局（JIM）が5つの地区で実施した約15件の強制捜査により、合計84人の不法移民（PATI）が逮捕された。また、インドネシア国民28人、男性14人、成人女性14人も逮捕された。さらに、パキスタン人男性３人、インド人男性１人、ベトナム人女性１人も逮捕された。",
    "summary_ja": "10月5日から8日までサバ州の5つの地区でマレーシア入国管理局（JIM）が実施した約15回の取締りで、合計84人の不法移民（PATI）が逮捕された。",
    "impact": 0,
    "issues": [
@@ -211,9 +213,7 @@
      "kind": "拘束",
      "raw": "84 PATI"
     }
-   ],
-   "body_ja": "コタキナバル：10月5日から8日までの間にサバ州移民局（JIM）が5つの地区で実施した約15件の強制捜査により、合計84人の不法移民（PATI）が逮捕された。\n\nタワウ、センポルナ、サンダカン、ケニンガウ、クダットで実施された手術では、293人の検査が行われた。\n\nジム・サバ氏によると、この作戦は不法滞在者の存在と闘い、移民施設の乱用を抑制するために、所長のダトゥク・シュ・シティ・サレハ・ハビブ・ユソフ氏が主導したという。\n\n逮捕者の総数のうち、成人男性22人、成人女性23人、少年3人、少女3人の計51人がフィリピン国民である。\n\nまた、インドネシア国民28人、男性14人、成人女性14人も逮捕された。\n\nさらに、パキスタン人男性３人、インド人男性１人、ベトナム人女性１人も逮捕された。\n\nジム・サバ州知事は、移民法の順守を確実にするため、州内の戦略的な場所で執行活動が引き続き強化されると発表した。\n\nまた国民は、国の法律に違反する外国人を保護、雇用、援助しないよう注意喚起されています。\n\nPATI に関連する活動は、苦情管理システムの公式チャンネルを通じて JIM Sabah に報告できます。",
-   "summary_ja2": "コタキナバル：10月5日から8日までの間にサバ州移民局（JIM）が5つの地区で実施した約15件の強制捜査により、合計84人の不法移民（PATI）が逮捕された。また、インドネシア国民28人、男性14人、成人女性14人も逮捕された。さらに、パキスタン人男性３人、インド人男性１人、ベトナム人女性１人も逮捕された。"
+   ]
   },
   {
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
@@ -564,44 +564,6 @@
      "raw": "82 PATI"
     }
    ]
-  },
-  {
-   "title": "82 PATI Ditahan Dalam Operasi Imigresen Di Sabah",
-   "summary": "Oleh: Nurul Fazliana Norman",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJTVE4cW8xSVRwUk1uNkd3ZW12VzJyakdaNWk3VnJqc1ZjUTh6SjZMaG10dlMwMmlULTI1V21sLUdSSFFmRGxOdFBiNDd6dTV1N043UDBfY3k4QVcwTk5CQmZ3dU5tNjB1WndTemtFSnAzd3lubFIyR2FpdFhsQQ?oc=5",
-   "source": "TV Sabah News",
-   "date": "2026-10-03T01:39:23Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "0cd6fd538a3f",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州の入国管理中に外国人82人を逮捕",
-   "summary_ja": "著者: ヌルル・ファズリアナ・ノーマン",
-   "first_seen": "2026-10-12T15:55:50Z",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還",
-    "労働・雇用"
-   ],
-   "figures": [
-    {
-     "n": 82,
-     "kind": "拘束",
-     "raw": "82 PATI"
-    }
-   ],
-   "url_real": "https://tvsabahnews.com/82-pati-ditahan-dalam-operasi-imigresen-di-sabah/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/10/47088c9e-0f78-48c8-8ecd-6e6efcdbfaeb.jpeg",
-   "image_alt": "82 PATI ditahan dalam operasi Imigresen di Sabah",
-   "site_name": "TV Sabah | News Portals",
-   "body": "KOTA KINABALU: 3 Oktober 2026 – Jabatan Imigresen Malaysia (JIM) Negeri Sabah menahan 82 Pendatang Asing Tanpa Izin (PATI) dalam 12 operasi penguatkuasaan di beberapa daerah di negeri itu dari 26 September hingga 1 Oktober lalu.\n\nOperasi di Kota Kinabalu, Tawau, Sandakan, Lahad Datu dan Keningau itu melibatkan pemeriksaan terhadap 288 individu. Tujuannya untuk membanteras kehadiran PATI dan penyalahgunaan kemudahan imigresen.\n\nJumlah tangkapan itu merangkumi 43 warganegara Filipina, iaitu 21 lelaki dewasa, 14 perempuan dewasa, tiga kanak-kanak lelaki dan lima kanak-kanak perempuan.\n\nSeramai 15 warganegara Indonesia turut ditahan, iaitu 11 lelaki dewasa, tiga perempuan dewasa dan seorang kanak-kanak perempuan. Sementara itu, 24 lelaki dewasa warganegara Pakistan juga ditahan.\n\nJIM Sabah memaklumkan operasi penguatkuasaan akan terus dipergiatkan di lokasi strategik di seluruh daerah untuk memastikan pematuhan terhadap undang-undang imigresen.\n\nOrang ramai diingatkan supaya tidak melindungi, menggaji atau membantu warga asing yang melanggar undang-undang. Maklumat berkaitan kegiatan PATI boleh disalurkan melalui SISPAA atau Sistem Pertanyaan Online (SPO) JIM.",
-   "body_ja": "コタキナバル：2026年10月3日 - サバ州移民局（JIM）は、9月26日から10月1日にかけて州内のいくつかの地区で12回の強制捜査で82人の不法移民（PATI）を逮捕した。\n\nコタキナバル、タワウ、サンダカン、ラハダトゥ、ケニンガウでの手術では288人の検査が行われた。目的は、不法滞在者の存在と入国管理施設の乱用と闘うことです。\n\n逮捕者には、成人男性21人、成人女性14人、少年3人、少女5人の計43人のフィリピン人が含まれていた。\n\n成人男性11人、成人女性3人、少女1人の計15人のインドネシア国民も逮捕された。一方、パキスタン国籍の成人男性２４人も拘束された。\n\nジム・サバ氏は、移民法の順守を確保するために、地区内の戦略的な場所で執行活動が引き続き強化されると発表した。\n\n国民は、法を犯した外国人を保護したり、雇用したり、援助したりしないよう注意を喚起されます。 PATI 活動に関連する情報は、SISPAA または JIM のオンライン照会システム (SPO) を通じて伝達できます。",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "コタキナバル：2026年10月3日 - サバ州移民局（JIM）は、9月26日から10月1日にかけて州内のいくつかの地区で12回の強制捜査で82人の不法移民（PATI）を逮捕した。逮捕者には、成人男性21人、成人女性14人、少年3人、少女5人の計43人のフィリピン人が含まれていた。成人男性11人、成人女性3人、少女1人の計15人のインドネシア国民も逮捕された。"
   },
   {
    "title": "JIM Sabah hantar pulang 87 PTI warga Indonesia",
@@ -1283,48 +1245,11 @@
    ]
   },
   {
-   "title": "140 PATI Dipindahkan Pulang",
-   "summary": "KEDAH: 10 September 2026 — Seramai 140 pendatang asing tanpa izin (PATI) pelbagai warganegara dipindahkan dan dihantar pulang ke negara asal melalui Lapangan",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5adEZmQUxSV2VmMlFzTVk3LVVjV2lyR0RzUW1VVEppclRfcjdVR0gtc2c3eDZjU2pnMzZLVWZfN1lLR0pGM1VCdU9PZ0xUc2RRMGwzYTFSMUlPMEZOLXVZTGNB?oc=5",
-   "source": "TV Sabah News",
-   "date": "2026-09-10T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "140002a71201",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "140 パティが家に引っ越しました",
-   "summary_ja": "ケダ州: 2026 年 9 月 10 日 — さまざまな国籍の合計 140 人の不法滞在者 (PATI) がラパンガン経由で移送され、出身国に送還された",
-   "first_seen": "2026-10-12T15:55:50Z",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還"
-   ],
-   "figures": [
-    {
-     "n": 140,
-     "kind": "送還",
-     "raw": "140 pendatang"
-    }
-   ],
-   "url_real": "https://tvsabahnews.com/140-pati-dipindahkan-pulang/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/09/B01D1140-E7CD-4265-8731-CA8A5FA39EE5_52A5EB55-8E74-4647-A791-32DADAA441E6.jpeg",
-   "image_alt": "140 PATI dipindahkan pulang",
-   "site_name": "TV Sabah | News Portals",
-   "body": "KEDAH: 10 September 2026 — Seramai 140 pendatang asing tanpa izin (PATI) pelbagai warganegara dipindahkan dan dihantar pulang ke negara asal melalui Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA) Terminal 1 dan Terminal 2 kelmarin.\n\nJabatan Imigresen Malaysia (JIM) Negeri Kedah dalam kenyataan, kesemua mereka sebelum ini ditahan di Depot Imigresen Belantik, Sik, Kedah.\n\nMereka terdiri dari 117 lelaki, 21 wanita dan dua kanak-kanak lelaki yang merupakan warganegara Myanmar, Bangladesh, India, Pakistan, Indonesia, China, Vietnam, Kemboja dan Kenya.\n\nKesemua mereka melakukan kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963, dan telah selesai menjalani hukuman sebelum proses pemindahan dilaksanakan.\n\nMereka turut dikenakan tindakan senarai hitam dalam sistem JIM untuk menghalang cubaan memasuki semula Malaysia pada masa akan datang.\n\nKos tiket penerbangan untuk proses penghantaran pulang itu ditanggung oleh tahanan, ahli keluarga dan kedutaan negara masing-masing.\n\nMenurut JIM Negeri Kedah, program pemindahan itu merupakan sebahagian daripada tindakan penguatkuasaan berterusan untuk membanteras kehadiran dan aktiviti PATI di negara ini.\n\nJIM Negeri Kedah menegaskan tindakan penguatkuasaan, pengesanan, penahanan, pendakwaan dan penghantaran pulang PATI akan terus dipergiat demi memastikan keselamatan, ketenteraman awam serta kedaulatan negara terus terpelihara.\n\nSumber: Jabatan Imigresen Negeri Kedah",
-   "body_ja": "クダ州：2026年9月10日 — 昨日、さまざまな国籍の合計140人の不法移民（PATI）がクアラルンプール国際空港（KLIA）の第1ターミナルと第2ターミナルを通じて出身国に送還された。\n\nケダ州のマレーシア入国管理局（JIM）は声明で、全員が以前にケダ州シクのベランティック入国管理所で拘束されていたと述べた。\n\n彼らは、ミャンマー、バングラデシュ、インド、パキスタン、インドネシア、中国、ベトナム、カンボジア、ケニアの国民である男性117人、女性21人、少年2人で構成されています。\n\n彼ら全員は1959/63年の移民法と1963年の移民規則に基づいて犯罪を犯しており、移送手続きが行われる前に刑期を終えていた。\n\n彼らはまた、将来マレーシアに再入国する試みを防ぐために、JIM システムのブラックリストに登録されました。\n\n送還手続きに必要な航空券の費用は、被拘禁者、その家族、およびそれぞれの国の大使館が負担します。\n\nケダ州JIMによると、この移送プログラムは、国内における不法移民の存在と活動と闘うために進行中の執行活動の一環である。\n\nジム・ネグリ・ケダ氏は、安全、治安、国家主権の維持を確保するために、不法移民の取り締まり、摘発、逮捕、訴追、本国送還が今後も強化されると主張する。\n\n出典: ケダ州入国管理局",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "クダ州：2026年9月10日 — 昨日、さまざまな国籍の合計140人の不法移民（PATI）がクアラルンプール国際空港（KLIA）の第1ターミナルと第2ターミナルを通じて出身国に送還された。彼らは、ミャンマー、バングラデシュ、インド、パキスタン、インドネシア、中国、ベトナム、カンボジア、ケニアの国民である男性117人、女性21人、少年2人で構成されています。"
-  },
-  {
    "title": "133 Undocumented Immigrants Detained In 20 Sabah Immigration Operations",
    "summary": "KOTA KINABALU: Sept 7, 2026 – The Sabah Immigration Department detained 133 undocumented immigrants during 20 enforcement operations conducted across the",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYS16SnVFclJvdmpUNHFDN25adkxSeUFpQk1jeHB1TU9GR3VycE5hU0Zmd1lta3FOWFgyT2NYUlk2cHdpYmI3bkNDNmxJWXFQazlRQ3dmdXppbkxVN24wTUcxUERTT25fZG1BR2tuTGNrWDFaREtGWjRaa0NIdHB0SDFzcFBhZ2JCNjMyalRhTWFCUWVEUm9OZXJsMlM?oc=5",
    "source": "TV Sabah News",
-   "date": "2026-09-07T05:02:01Z",
+   "date": "2026-09-07T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -10186,6 +10111,5 @@
    ],
    "figures": []
   }
- ],
- "enriched_at": "2026-10-12T15:59:41Z"
+ ]
 }
