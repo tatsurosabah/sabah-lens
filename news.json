@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-17T11:04:10Z",
- "count": 281,
+ "updated": "2026-10-17T15:49:53Z",
+ "count": 283,
  "tags": {
-  "入管・摘発": 187,
+  "入管・摘発": 189,
   "市民権": 38,
   "無国籍": 33,
   "子ども": 22,
@@ -19,11 +19,11 @@
   "TV Sabah News": 38,
   "Daily Express Malaysia": 23,
   "NST Online": 16,
+  "sabahnews.com.my": 13,
   "The Star": 13,
   "Borneo Post": 13,
-  "sabahnews.com.my": 12,
+  "Berita Harian": 9,
   "Malay Mail": 9,
-  "Berita Harian": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
   "Astro Awani": 6,
@@ -171,6 +171,37 @@
     "労働・雇用"
    ],
    "figures": []
+  },
+  {
+   "title": "Imigresen Sabah hantar 1,071 PATI Filipina pulang ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0Rvck9uWU1aRFFWQm1IYmFGcWdtZEFMLXVrdXc2UFhCY1phZGhGRFBjQkJ4SkRNVWp6R0hJckJRWXJ0UElYY2pEYnZ4TkhTTHdHeUdtVHVNaC1xTjBFV3lWdlo1NFdRQzJtcC0tblZzMnFmTWQ1TW5CMG5wOEQ5Z1AxbHloVTBkNkgtRjJnamhWU052ekV3N253SXJlaHo4amRiUHlMMUx0MXg2MnNEc09Ub1h1ZmZL0gG-AUFVX3lxTE1uSXhnTF92SGNPTk1fdVJwWjUyQWNJX1FoUWdNZGJtYzRrbTU1cXFhRXB2aUZCS2xNeGhXSlVGZFUzYkhEdko4UDVVRld3UUdkRWVmUUgtUWZnRUlTXzJkUDBXVHR6a0txb1RsLWhwX2tfU0t3bjNTWnFRR0ZTY01URFgxQU1BNU9udTE0LTVGYjMzV1BUM0NoQzhlMnl2M3VwcFR1WmlobzVzV1I5aGx0b2ZmcWUwWkZaRFZOMEE?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-10-14T13:22:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "7ee595c23fda",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、1,071人のフィリピン人PATIを母国に送還",
+   "summary_ja": "",
+   "first_seen": "2026-10-17T15:49:51Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 1071,
+     "kind": "送還",
+     "raw": "1,071 PATI"
+    }
+   ],
+   "url_real": "https://www.bharian.com.my/berita/kes/2025/03/1369736/imigresen-sabah-hantar-1071-pati-filipina-pulang-ke-negara-asal",
+   "enriched": "blocked",
+   "enriched_v": 3
   },
   {
    "title": "JIM Sabah hantar pulang 5,915 PATI ke negara asal",
@@ -575,7 +606,7 @@
    "summary": "Sabah mencatat tunggakan bil perubatan pesakit bukan warganegara tertinggi antara negeri, menurut maklum balas Kementerian Kesihatan Malaysia yang dimuatkan dalam LKAN 2/2026.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY29TbWFRRmotQUpyZDZraHBJbUFOaUQxa0RhVHlabF8zbDlLMjRBc3BKVTJoSDQ1VWhISUlxUTYtUFdyRkx2U0FoS1NVNGRRRHB6VldfTVhKdXpBaEpiUWgybGNwckhydXVwTzJXUUhJRkQ1bzZzaThuaC1xbHF1bmo0NzdmWXNzTE5oWjdiSEVnNzZGQlVZT0dRcGk1bHJwN2dIY2RFSGttUlA3T0E?oc=5",
    "source": "Sabah Media",
-   "date": "2026-10-06T23:30:00Z",
+   "date": "2026-10-07T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah tanpa kewarganegaraan",
@@ -816,7 +847,7 @@
    "summary": "SEMPORNA: Undocumented Bajau Laut youths in Sabah face exploitation and limited employment opportunities as changes to their traditional sea-based livelihoods add to their challenges.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFV0U3NpMnpfR1FxSXRQZnozSGI4M3UxaGxoRlJqT09vQnZRd3hxNTU4RmNYN3R5Mk4wQzM3VExFYmd3UFluQkRTMWExcjhhdDNWYS1hdEQ0NldkREg4TEpERWRxYm9QQUR1T1dUSE9aVHJoNHQycmItUTBOY3hlLWptNjJOakkxSDNHUEYzMm1kUFhwaHZsZUUtUElyNXY4T1N6NFU0UTJKRWPSAbABQVVfeXFMTThieW9vZG1ldkFYODVNdEljTmFwRjdQVXBIQW9LSWdEa0M0djJEcTJTLUQ0T0RDQnF4M1ZDMHVmTUNVMGxzNTJFOU5JcVJEd3hYaDdPN2N2Sko0SzBUa1ZjdVpaSnVaQ3lkcXYxWllHMzVSMW9qQ2N5Z1l2MzAwQmE4Z2VqN29HbjNFWTJEcFVxOXc1MUZURjQzMF9XeXpFT2haOHJtdGlBNXhaZzdXUFY?oc=5",
    "source": "NST Online",
-   "date": "2026-09-29T09:58:50Z",
+   "date": "2026-09-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -1248,7 +1279,7 @@
   {
    "title": "Lima negeri kegemaran geng seludup PATI",
    "summary": "Putrajaya: Pantai yang panjang, pulau kecil, muara sungai, kawasan bakau serta kedudukan berhampiran laluan maritim antarabangsa yang sering dieksploitasi sindiket penyeludupan menjadikan beberapa kawasan di Perak, Selangor, Melaka, Johor dan Sabah sebagai lokasi tumpuan pendaratan pendatang asing tanpa izin (PATI).",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1HcE9XUGJYN3R5RW51a2ZNVGFnTjNlVmdDVS1WdVhmX0FZZ2lxREYzQUZpdTVVYnhUVVRoYk5zVUtlVmR2UjY5cEwyUWNockNmVmw0RGY4UmZGNTVoQzVlVG5fR2N0NkFMdXZsOWJXbk1yNW14dlBncGExV1IxVm5qbVlFMDV2VW5DSG85YnM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1HcE9XUGJYN3R5RW51a2ZNVGFnTjNlVmdDVS1WdVhmX0FZZ2lxREYzQUZpdTVVYnhUVVRoYk5zVUtlVmR2UjY5cEwyUWNockNmVmw0RGY4UmZGNTVoQzVlVG5fR2N0NkFMdXZsOWJXbk1yNW14dlBncGExV1IxVm5qbVlFMDV2VW5DSG85YnPSAZYBQVVfeXFMTVl1MTJaYk1maEplQTg1SUQ4Vk5kb0dCZ2FDVVpoOGNkZ1g1UU5NSUVvYmtXRHFWOWEwbDliaFlNajFUaVJZY1g1djk0b1g3QS1jRXNkaFkybVRPd29lSWdiYWhwUk5rbnhGRmFOWXh5dEhseUN2YXRSdDYtN2dRcURTVkhSUWdjaWVGLU5YRTNVSm9VM0RB?oc=5",
    "source": "Harian Metro",
    "date": "2026-09-17T07:00:00Z",
    "lang": "ms",
@@ -3116,7 +3147,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=5-oxzRi33Y8Q7kNvwGznS1V&_nc_oc=AdpEfiJSN3Z89Tau-e2GzpjQQyy16-DFdWFX5FvlV9TIQ_GQMkbVcMEtCB5SOyii1wM&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=aRqfiVrJ2iIc-aMa61SBEw&_nc_ss=79289&oh=00_AQMOHdNV4Ta3Eeq9aspCZuMzo6zJs4r3TD_uS087HqZ69A&oe=6AD936ED",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=5-oxzRi33Y8Q7kNvwHHSAph&_nc_oc=Ado3W5KTPmCs2HT_RJ6lCIkUE-vA7SG6M8X4FA9InK3AG-2r56xzxyX2vehZFdRZni0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rQl6BXTkMSqXikeGR4IVZQ&_nc_ss=79289&oh=00_AQNmT4HNTh-io0J6DWQgnHXuRgE7PDWiiJa8oIDYseQxTA&oe=6AD96F2D",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -4371,7 +4402,7 @@
   {
    "title": "351 PATI diusir pulang ke negara asal",
    "summary": "Tawau: Seramai 351 pendatang asing tanpa izin (PATI) warga Indonesia dan Filipina dihantar pulang ke negara asal menerusi Program Pemindahan Tahanan PATI Siri 7/2026, menjadikan keseluruhan 3,990 PATI sudah diusir dari Sabah setakat enam bulan pertama tahun ini.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjdyT0lkSjY0eTdfSHVvd3BLRWJqQmxIcDVtdnpLcU9XLVZmNGx2a2ZFTmxaMWpJV2J6WTRJT28zNERYOTlhenhKM09xWkZldW5xREhMaHo5eDZiSkRsLXlxRWlKZ3ZCbDZGZUNsLW5JNU5WcXJ2c182ZXc3cVpBd1djNEJtQUJSVjA2NHM4VGxkZy1XWER1endlSm9rMHlBa0FyVNIBlwFBVV95cUxQNzIyMlJRQ1NvdHhDVTVOVGVnZXNleElnTkdJcXRlaHoxWWhBaW1QRmIwUUM3bEZncG5FMm1OdmNxVHFPQklOT1RTQlZJNUpZZ1JxeThiMjdhcWRRTDNHakhIRi0xdU1IcF9NMFBxRzNBWE1qN3kzc0dqd1NlbE15bGFtbGwxTkNnNGtoWkFDTDBab1dSTzVr?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3NBTTZ1RUlsNVk1bENGWDZISXphZDVMUjBONklzU1R5WFVMWE82Wm5SUVhhNTdVblpXMF91N3VIODk4LVRKOG5hdE5UR2JwRlpMNjBzRjBna05FNUQ1SmJiUmFibWNjZVZVVzVLM1ZkY2hhYzN1ak9XcjF1eEtkRUJweG10NmxRb2wtemF0QjBmd9IBlwFBVV95cUxQNzIyMlJRQ1NvdHhDVTVOVGVnZXNleElnTkdJcXRlaHoxWWhBaW1QRmIwUUM3bEZncG5FMm1OdmNxVHFPQklOT1RTQlZJNUpZZ1JxeThiMjdhcWRRTDNHakhIRi0xdU1IcF9NMFBxRzNBWE1qN3kzc0dqd1NlbE15bGFtbGwxTkNnNGtoWkFDTDBab1dSTzVr?oc=5",
    "source": "Harian Metro",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -4577,7 +4608,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=PLKz-5FzimwQ7kNvwFFbgiP&_nc_oc=AdrOq1unSSEiAKb6yl0oMUQViL6yssRw_GOxk7PzHkblkmhj_KsJyGlXPVufTLlLy9Y&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=vptezDnFhp3DAMsFBtIyjg&_nc_ss=79289&oh=00_AQNqkRFxWp8BUsWgXYSQBEEbWWlJhwVzsV0p6RHFamWrhQ&oe=6AD93FEF",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=PLKz-5FzimwQ7kNvwHgFXYu&_nc_oc=Adq7Cse18ghyiNgbt-AZ4gQjHl3TkS86wirRklNWJ4LzxtLSynjrm6ZNsvXTN_GCcjo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=WaMUTvs706AL3vyQPiigqg&_nc_ss=79289&oh=00_AQPQQLcR5dFIv45o_VhtW3WplulFwGXrEhRfxMU1dkB_4w&oe=6AD9782F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5471,7 +5502,7 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
     "入管・摘発",
@@ -6480,7 +6511,7 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "KUALA LUMPUR: A humanitarian organisation has called on the Home Ministry to extend the MyKAS temporary resident identity card to stateless to address a long-running documentation crisis that poses risks to both the affected individuals and national security.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
@@ -6611,6 +6642,39 @@
    "figures": []
   },
   {
+   "title": "A classroom under a tree: Sabah's stateless children learning without schools or documents",
+   "summary": "KOTA KINABALU: The morning quiet along a city street is broken by children singing in Mandarin — but they are not Chinese, nor do they speak the language at home.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWdIBxAFBVV95cUxNZ1d1RWJYVThrQXJFS1JKRXozallraDE0TmN1aGxtQldBY1dkN3lEMDhLOHJXNTliQzhsUHpNT2RBdmt2NXVYNUI3NTNHUl9nWkNUd3ZqU3FkOWU4am9lV0Vld0lacUlxRnNpd3NHcHRQYXJoT2lpTEpfNkF2MkZPZk1DTktEOWtBU0RjQ19CY1R6V3RvVTRWdjEtRTkzUC1lcVNiSnhzMTZkQUZwTldCTDd4UkFSNlQtT1BNclh1ZGNKVnVk?oc=5",
+   "source": "NST Online",
+   "date": "2026-04-29T23:21:47Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "32fc62f917b2",
+   "tags": [
+    "無国籍",
+    "子ども",
+    "教育"
+   ],
+   "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
+   "first_seen": "2026-08-10T08:27:43Z",
+   "url_real": "https://www.nst.com.my/news/nation/2026/04/1429328/classroom-under-tree-sabahs-stateless-children-learning-without-schools",
+   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/4BF6542D82F5C73A236D0066A877FF0E_data_1.jpg",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpCXO32YG_16jKZABPpFcSJWqgQi1TGfMdi3gMSwywwKm2izmaNxiqanYG-Q5sLxCOaA",
+   "site_name": "NST Online",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: The morning quiet along a city street is broken by children singing in Mandarin — but they are not Chinese, nor do they speak the language at home.\n\nUnder a large tree, undocumented children learn to speak and write and do arithmetic in informal classes run by volunteers on alternate days.\n\nThey attend such \"classes\" diligently as their mothers sit nearby.\n\nOne volunteer, who wishes to be known only as \"Lucy\", said teaching even basic English, Bahasa Melayu and Chinese was challenging because the children lacked a conducive environment to practise.\n\n\"They are quite bright and can pick up Chinese words from songs and conversations,\" said the 69-year-old, who occasionally brings toys and treats.\n\n\"I don't have high academic expectations, but I hope what they learn will help them in the future.\"\n\nShe added that the children were the third generation in the state without legal documents.\n\n\"It is a vicious cycle. Without documents, they have little hope of improving their lives,\" she said. \"Men may find work in construction or manual labour, but what about the women? That is why I teach them English, Chinese and Bahasa Melayu.\"\n\nLucy said the public could also help by educating these stateless children informally.\n\nShe said she was inspired by a representative from the United Nations Children's Fund who once used natural materials such as rocks and branches as teaching aids.\n\n\"It means anyone can teach children on the streets without needing extra resources,\" she said.",
+   "body_ja": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。しかし、彼らは中国人ではなく、家庭でも中国語を話せません。\n\n大きな木の下で、不法滞在の子供たちはボランティアによって隔日開催される非公式のクラスで話し、書き、算数を学びます。\n\n彼らは母親が近くに座っているので、そのような「授業」に熱心に出席します。\n\n「ルーシー」としてのみ知られることを望んでいるボランティアの一人は、子供たちに練習するのに適した環境がないため、基本的な英語、メラユ語、中国語を教えることさえ困難だと語った。\n\n「彼らは非常に明るく、歌や会話から中国語の単語を聞き取ることができます」と、時々おもちゃやおやつを持ってくる69歳の男性は語った。\n\n「学力的にはあまり期待していませんが、彼らが学んだことが将来役立つことを願っています。」\n\n彼女は、子供たちは州内で法的文書のない3世代目であると付け加えた。\n\n「悪循環です。文書がなければ、生活を改善する望みはほとんどありません」と彼女は言う。 「男性は建設業や肉体労働で仕事を見つけるかもしれませんが、女性はどうでしょうか？ だからこそ、私は彼らに英語、中国語、メラユ語を教えています。」\n\nルーシーさんは、こうした無国籍の子どもたちを非公式に教育することで、国民も支援できるだろうと語った。\n\n彼女は、かつて岩や木の枝などの天然素材を教材として使用していた国連児童基金の代表者にインスピレーションを受けたと語った。\n\n「これは、追加のリソースを必要とせずに、誰でも路上で子供たちを教えることができることを意味します」と彼女は言いました。",
+   "summary_ja2": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。「ルーシー」としてのみ知られることを望んでいるボランティアの一人は、子供たちに練習するのに適した環境がないため、基本的な英語、メラユ語、中国語を教えることさえ困難だと語った。」  彼女は、子供たちは州内で法的文書のない3世代目であると付け加えた。",
+   "summary_ja": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。しかし、彼らは中国人ではなく、家庭でも中国語を話せません。",
+   "impact": 3,
+   "issues": [
+    "教育アクセス"
+   ],
+   "figures": []
+  },
+  {
    "title": "166 PATI dihantar pulang ke Filipina",
    "summary": "Seramai 166 tahanan Pendatang Asing Tanpa Izin (PATI) warganegara Filipina dihantar pulang ke negara asal melalui program Pemindahan Tahanan PATI yang dilaksanakan Jabatan Imigresen Malaysia (JIM) …",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiYWlHM3J3aWcteWY2Y3ItaDZhUUQ4dHpLdUoyd0VzR1J0T09UZlZET2xPVUlBdnNwSFZXZ09yakNPV3VFbnVLMVFGV3lWOW1TeVU1Z3lCaHVkVlRiejMtZWFjWXJzWFlqcGZyRGdBTG1ETzBwbjVnQ0FHTQ?oc=5",
@@ -6712,39 +6776,6 @@
     "教育アクセス",
     "医療アクセス",
     "バジャウ・ラウト"
-   ],
-   "figures": []
-  },
-  {
-   "title": "A classroom under a tree: Sabah's stateless children learning without schools or documents",
-   "summary": "KOTA KINABALU: The morning quiet along a city street is broken by children singing in Mandarin — but they are not Chinese, nor do they speak the language at home.",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWdIBxAFBVV95cUxNZ1d1RWJYVThrQXJFS1JKRXozallraDE0TmN1aGxtQldBY1dkN3lEMDhLOHJXNTliQzhsUHpNT2RBdmt2NXVYNUI3NTNHUl9nWkNUd3ZqU3FkOWU4am9lV0Vld0lacUlxRnNpd3NHcHRQYXJoT2lpTEpfNkF2MkZPZk1DTktEOWtBU0RjQ19CY1R6V3RvVTRWdjEtRTkzUC1lcVNiSnhzMTZkQUZwTldCTDd4UkFSNlQtT1BNclh1ZGNKVnVk?oc=5",
-   "source": "NST Online",
-   "date": "2026-04-29T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah stateless",
-   "id": "32fc62f917b2",
-   "tags": [
-    "無国籍",
-    "子ども",
-    "教育"
-   ],
-   "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
-   "first_seen": "2026-08-10T08:27:43Z",
-   "url_real": "https://www.nst.com.my/news/nation/2026/04/1429328/classroom-under-tree-sabahs-stateless-children-learning-without-schools",
-   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/4BF6542D82F5C73A236D0066A877FF0E_data_1.jpg",
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpCXO32YG_16jKZABPpFcSJWqgQi1TGfMdi3gMSwywwKm2izmaNxiqanYG-Q5sLxCOaA",
-   "site_name": "NST Online",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA KINABALU: The morning quiet along a city street is broken by children singing in Mandarin — but they are not Chinese, nor do they speak the language at home.\n\nUnder a large tree, undocumented children learn to speak and write and do arithmetic in informal classes run by volunteers on alternate days.\n\nThey attend such \"classes\" diligently as their mothers sit nearby.\n\nOne volunteer, who wishes to be known only as \"Lucy\", said teaching even basic English, Bahasa Melayu and Chinese was challenging because the children lacked a conducive environment to practise.\n\n\"They are quite bright and can pick up Chinese words from songs and conversations,\" said the 69-year-old, who occasionally brings toys and treats.\n\n\"I don't have high academic expectations, but I hope what they learn will help them in the future.\"\n\nShe added that the children were the third generation in the state without legal documents.\n\n\"It is a vicious cycle. Without documents, they have little hope of improving their lives,\" she said. \"Men may find work in construction or manual labour, but what about the women? That is why I teach them English, Chinese and Bahasa Melayu.\"\n\nLucy said the public could also help by educating these stateless children informally.\n\nShe said she was inspired by a representative from the United Nations Children's Fund who once used natural materials such as rocks and branches as teaching aids.\n\n\"It means anyone can teach children on the streets without needing extra resources,\" she said.",
-   "body_ja": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。しかし、彼らは中国人ではなく、家庭でも中国語を話せません。\n\n大きな木の下で、不法滞在の子供たちはボランティアによって隔日開催される非公式のクラスで話し、書き、算数を学びます。\n\n彼らは母親が近くに座っているので、そのような「授業」に熱心に出席します。\n\n「ルーシー」としてのみ知られることを望んでいるボランティアの一人は、子供たちに練習するのに適した環境がないため、基本的な英語、メラユ語、中国語を教えることさえ困難だと語った。\n\n「彼らは非常に明るく、歌や会話から中国語の単語を聞き取ることができます」と、時々おもちゃやおやつを持ってくる69歳の男性は語った。\n\n「学力的にはあまり期待していませんが、彼らが学んだことが将来役立つことを願っています。」\n\n彼女は、子供たちは州内で法的文書のない3世代目であると付け加えた。\n\n「悪循環です。文書がなければ、生活を改善する望みはほとんどありません」と彼女は言う。 「男性は建設業や肉体労働で仕事を見つけるかもしれませんが、女性はどうでしょうか？ だからこそ、私は彼らに英語、中国語、メラユ語を教えています。」\n\nルーシーさんは、こうした無国籍の子どもたちを非公式に教育することで、国民も支援できるだろうと語った。\n\n彼女は、かつて岩や木の枝などの天然素材を教材として使用していた国連児童基金の代表者にインスピレーションを受けたと語った。\n\n「これは、追加のリソースを必要とせずに、誰でも路上で子供たちを教えることができることを意味します」と彼女は言いました。",
-   "summary_ja2": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。「ルーシー」としてのみ知られることを望んでいるボランティアの一人は、子供たちに練習するのに適した環境がないため、基本的な英語、メラユ語、中国語を教えることさえ困難だと語った。」  彼女は、子供たちは州内で法的文書のない3世代目であると付け加えた。",
-   "summary_ja": "コタキナバル: 市内の通りに沿った朝の静けさは、子供たちの中国語の歌によって破られます。しかし、彼らは中国人ではなく、家庭でも中国語を話せません。",
-   "impact": 3,
-   "issues": [
-    "教育アクセス"
    ],
    "figures": []
   },
@@ -8432,6 +8463,48 @@
     "バジャウ・ラウト"
    ],
    "figures": []
+  },
+  {
+   "title": "23 PATI Warga Filipina Ditahan Dalam Operasi Imigresen di Ranau",
+   "summary": "RANAU: Jabatan Imigresen Malaysia (JIM) Sabah meneruskan komitmen penguatkuasaan terhadap pendatang asing tanpa izin (PATI) apabila menahan seramai 23 individu dalam satu operasi di sekitar Ranau, baru-baru ini. Dalam operasi berkenaan, seramai 16 pegawai JIM Sabah dari Pejabat Imigresen Daerah Ranau dengan bantuan Jabatan Sukarelawan Malaysia (RELA) Daerah Ranau menjalankan pemeriksaan ke atas 38",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVM1Mk1waFpORjA5eS1YWGtBWl9yeWtDSi1qQzdGMENoSGNTaVhyT2k4NS1nZUJvcjJyb1l3cGNKOFJXVmFPcVNrUzR5MnNFMlc1bk8yOThXa3pRUnVoWmQ2NDFBaXlVZ0tlUFAzdG9iOG9MbjlpSGpiM0FuUTFIMnM4Q2FfUHNiRk1yWkQ5S2p5cVk?oc=5",
+   "source": "sabahnews.com.my",
+   "date": "2026-02-03T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "1e85ac34481d",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ラナウの入国管理でフィリピン人23人が拘束される",
+   "summary_ja": "ラナウ：サバ州のマレーシア入国管理局（JIM）は、最近ラナウ周辺での作戦で合計23人を逮捕し、不法滞在者（PATI）に対する取り締まりを継続した。この作戦では、ラナウ地区入国管理局のサバ州JIM職員計16名が、マレーシアボランティア局（RELA）ラナウ地区の協力を得て、38人の入国者を検査した。",
+   "first_seen": "2026-10-17T15:49:51Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 23,
+     "kind": "拘束",
+     "raw": "23 PATI"
+    },
+    {
+     "n": 23,
+     "kind": "推計",
+     "raw": "23 individu"
+    }
+   ],
+   "url_real": "https://sabahnews.com.my/23-pati-warga-filipina-ditahan-dalam-operasi-imigresen-di-ranau/",
+   "image": "https://sabahnews.com.my/wp-content/uploads/2026/02/624584273_25596532770038667_4576226949936193430_n.jpg",
+   "site_name": "Sabah News - Bebas Bersuara",
+   "body": "RANAU: Jabatan Imigresen Malaysia (JIM) Sabah meneruskan komitmen penguatkuasaan terhadap pendatang asing tanpa izin (PATI) apabila menahan seramai 23 individu dalam satu operasi di sekitar Ranau, baru-baru ini.\n\nDalam operasi berkenaan, seramai 16 pegawai JIM Sabah dari Pejabat Imigresen Daerah Ranau dengan bantuan Jabatan Sukarelawan Malaysia (RELA) Daerah Ranau menjalankan pemeriksaan ke atas 38 individu di sebuah lokasi.\n\nKesemua tangkapan disiasat mengikut Seksyen 6(1)(c) dan Seksyen 36 Akta Imigresen 1959/63 kerana disyaki berada di negara ini tanpa dokumen perjalanan atau pas yang sah.\n\nJIM Sabah menegaskan tindakan tegas akan terus diambil terhadap mana-mana individu atau pihak yang melindungi atau menggaji PATI, selain menyeru orang ramai agar menyalurkan maklumat berkaitan kehadiran warga asing tanpa izin bagi membantu penguatkuasaan undang-undang.",
+   "body_ja": "ラナウ：サバ州のマレーシア入国管理局（JIM）は、最近ラナウ周辺での作戦で合計23人を逮捕し、不法滞在者（PATI）に対する取り締まりを継続した。\n\nこの作戦では、マレーシアボランティア局（RELA）ラナウ地区の協力を得て、ラナウ地区入国管理局のサバJIM職員計16名が1か所で38名を検査した。\n\nすべての逮捕者は、有効な渡航書類またはパスポートを持たずに入国した疑いで、1959/63 年移民法第 6 条(1)(c) および第 36 条に従って捜査されています。\n\nジム・サバ氏は、法執行機関を支援するために許可なく外国人の存在に関する情報を流すよう国民に呼び掛けるとともに、PATIを保護または雇用するいかなる個人や団体に対しても引き続き厳しい措置が取られると主張している。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "ラナウ：サバ州のマレーシア入国管理局（JIM）は、最近ラナウ周辺での作戦で合計23人を逮捕し、不法滞在者（PATI）に対する取り締まりを継続した。この作戦では、マレーシアボランティア局（RELA）ラナウ地区の協力を得て、ラナウ地区入国管理局のサバJIM職員計16名が1か所で38名を検査した。"
   },
   {
    "title": "23 PATI ditahan dalam operasi Imigresen di Ranau",
@@ -10389,5 +10462,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-10-17T11:07:03Z"
+ "enriched_at": "2026-10-17T15:53:37Z"
 }
