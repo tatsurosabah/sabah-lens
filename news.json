@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-19T05:08:00Z",
- "count": 284,
+ "updated": "2026-10-19T13:49:07Z",
+ "count": 286,
  "tags": {
-  "入管・摘発": 190,
+  "入管・摘発": 191,
   "市民権": 38,
   "無国籍": 33,
   "子ども": 22,
@@ -17,7 +17,7 @@
  "sources": {
   "Sabah Media": 46,
   "TV Sabah News": 38,
-  "Daily Express Malaysia": 23,
+  "Daily Express Malaysia": 24,
   "NST Online": 16,
   "sabahnews.com.my": 13,
   "The Star": 13,
@@ -39,13 +39,14 @@
   "Sabah Post": 4,
   "Nabalu News": 3,
   "Buletin TV3": 3,
-  "Bernama": 2,
+  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "PressReader": 2,
   "The Vibes": 2,
   "Malaysiakini": 2,
   "Borneo Daily Bulletin": 1,
+  "Bernama": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
   "Nikkei Asia": 1,
@@ -67,11 +68,66 @@
  },
  "items": [
   {
+   "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
+   "summary": "Sabah Immigration Department, JIM, enforcement ope",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
+   "source": "bernama",
+   "date": "2026-10-19T08:54:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "659d319328e5",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、州全域一斉捜索で不法移民169人を逮捕",
+   "summary_ja": "サバ州入国管理局、JIM、執行部",
+   "first_seen": "2026-10-19T13:49:00Z",
+   "impact": 0,
+   "issues": [],
+   "figures": [
+    {
+     "n": 169,
+     "kind": "拘束",
+     "raw": "169 Undocumented"
+    }
+   ],
+   "enriched": "ok",
+   "enriched_v": 3,
+   "url_real": "https://bernama.com/en//crime_courts/news.php?id=2622490",
+   "image": "https://bernama.com/storage/photos/6b32d6a8bcbca67508bb181cb5b5653c6ad5da50b0b64",
+   "site_name": "BERNAMA",
+   "body": "Dimaklumkan bahawa soal selidik ini bertujuan untuk mendapatkan maklum balas pelanggan berhubung tahap pengamalan nilai-nilai murni di jabatan/agensi Kerajaan yang memberikan perkhidmatan kepada tuan/puan.\n\nBerdasarkan pengalaman atau pemerhatian semasa berurusan dengan BERNAMA, sila beri maklum balas kepada pernyataan-pernyataan yang berikut dalam konteks semasa. Kami menghargai maklum balas yang jujur dan rasional daripada anda.\n\nMaklum balas yang diberikan adalah SULIT.\n\nTerima kasih kerana sudi meluangkan masa untuk mengisi soal selidik ini.\n\nhttps://insan.jpa.gov.my/survey/agency/f90b1f53-f177-4760-82c7-f5f9d30200c6",
+   "body_ja": "このアンケートは、お客様にサービスを提供する政府部門/機関における適切な価値の実践レベルに関するお客様からのフィードバックを得ることが目的であることをご承知おきください。\n\nBERNAMA に対処する際の経験または観察に基づいて、現在の文脈で次の発言に回答してください。率直かつ合理的なフィードバックに感謝いたします。\n\n提供されたフィードバックは機密情報です。\n\nこのアンケートにご協力いただきありがとうございます。\n\nhttps://insan.jpa.gov.my/survey/agency/f90b1f53-f177-4760-82c7-f5f9d30200c6",
+   "summary_ja2": "このアンケートは、お客様にサービスを提供する政府部門/機関における適切な価値の実践レベルに関するお客様からのフィードバックを得ることが目的であることをご承知おきください。率直かつ合理的なフィードバックに感謝いたします。提供されたフィードバックは機密情報です。"
+  },
+  {
+   "title": "169 undocumented migrants held in Sabah-wide operations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXZHelpPWUR6TWVCbUptblV1djVnM1d0cEFzNTJQRjctZER0WVZJNlJISUpKRUNFblZXQk1ES1hRV3Nnb3hOdm83MlIxd1R4ZTUyc1RPQ3VjQmxvRFJiLXJwd2kwVmtPWEY5UjF3QkwtdHM4eDlBQjJzVUd4ZlNucUljaElGZmpqVVlHbUtFb2ZvazdGSGU3YkZpWWZjY0RYN3c?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-10-19T05:49:56Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "83651b32fde1",
+   "tags": [],
+   "title_ja": "サバ州全域の作戦で169人の不法移民が拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-10-19T13:49:00Z",
+   "impact": 0,
+   "issues": [],
+   "figures": [],
+   "url_real": "https://www.dailyexpress.com.my/news/290165/169-undocumented-migrants-held-in-sabah-wide-operations/",
+   "enriched": "blocked",
+   "enriched_v": 3
+  },
+  {
    "title": "169 PATI dicekup dalam lima hari di Sabah",
    "summary": "KOTA KINABALU: Seramai 169 pendatang asing tanpa izin (PATI) ditahan Jabatan Imigresen Malaysia (JIM) Sabah dalam kira-kira 25 operasi penguatkuasaan di tujuh daerah di negeri ini, dari 13 hingga 17 Oktober lalu. Pengarah JIM Sabah, Datuk Sitti Saleha Habib Yussof berkata, operasi itu membabitkan pemeriksaan terhadap 530 individu di beberapa lokasi strategik. Menurutnya, operasi berkenaan […]",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTBqSExRbnRMM2oycWpCZlp6eVAweTRhUUNST1ZRT2pOdDE3MjRlQ2stYWdzTjRESk1NMHcxUVFETnZ3bEZhN3U0RFJQOTZtalhSMEl3NGktUDR4bTVSMEFhYUtpaWlLQzR2SWFoUUN3dVdCeDRjdTdKWDRJUWV3MFBNeGx3NDZMMzAwTE1B?oc=5",
    "source": "Sayang Sabah",
-   "date": "2026-10-19T02:11:59Z",
+   "date": "2026-10-19T02:25:46Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -79,9 +135,15 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
-   "summary_ja": "",
+   "title_ja": "サバ州では5日間で169人のPATIが逮捕された",
    "first_seen": "2026-10-19T05:06:47Z",
+   "url_real": "https://sayangsabah.com.my/home/2026/10/19/169-pati-dicekup-dalam-lima-hari-di-sabah/",
+   "image": "https://sayangsabah.com.my/home/wp-content/uploads/2026/10/8466d1e5-40a1-408a-b244-8c27654ccaee.jpeg",
+   "site_name": "Sayang Sabah",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: Seramai 169 pendatang asing tanpa izin (PATI) ditahan Jabatan Imigresen Malaysia (JIM) Sabah dalam kira-kira 25 operasi penguatkuasaan di tujuh daerah di negeri ini, dari 13 hingga 17 Oktober lalu.\n\nPengarah JIM Sabah, Datuk Sitti Saleha Habib Yussof berkata, operasi itu membabitkan pemeriksaan terhadap 530 individu di beberapa lokasi strategik.\n\nMenurutnya, operasi berkenaan dijalankan di Kota Kinabalu, Tawau, Sandakan, Lahad Datu, Kudat, Tenom dan Keningau bagi membanteras kehadiran PATI serta mengekang penyalahgunaan kemudahan imigresen.\n\n“Daripada jumlah yang ditahan, 131 adalah warga Filipina, 36 warga Indonesia manakala dua lagi warga Pakistan.\n\n“Warga Filipina yang ditahan membabitkan 53 lelaki dewasa, 39 perempuan dewasa, 19 kanak-kanak lelaki dan 20 kanak-kanak perempuan,” katanya dalam kenyataan hari ini.\n\nBagi warga Indonesia pula, katanya, mereka terdiri daripada 14 lelaki dewasa, 15 perempuan dewasa, tiga kanak-kanak lelaki dan empat kanak-kanak perempuan, manakala dua warga Pakistan yang ditahan adalah lelaki dewasa.\n\nSitti Saleha berkata, pihaknya akan terus mempergiat operasi penguatkuasaan secara berterusan di lokasi strategik seluruh Sabah bagi memastikan undang-undang imigresen dipatuhi.\n\nBeliau turut mengingatkan orang ramai supaya tidak melindungi, menggaji atau membantu warga asing yang melanggar undang-undang negara.\n\n“Orang ramai yang mempunyai maklumat berkaitan kegiatan PATI boleh membuat aduan menerusi Sistem Pengurusan Aduan Awam (SISPAA) di https://spab.gov.my atau Sistem Pertanyaan Online (SPO) di https://eapp.imi.gov.my,” katanya",
+   "summary_ja": "コタキナバル：昨年10月13日から17日にかけて、マレーシア入国管理局（JIM）サバ州は、州内の7地区で約25件の取締りを実施し、合計169人の不法移民（PATI）を逮捕した。 JIMサバ所長のダトゥク・シッティ・サレハ・ハビブ・ユソフ氏は、この作戦にはいくつかの戦略的拠点で530人の検査が含まれていたと述べた。彼によると、手術は [...]",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
@@ -104,13 +166,8 @@
      "raw": "20 kanak-kanak"
     }
    ],
-   "url_real": "https://sayangsabah.com.my/home/2026/10/19/169-pati-dicekup-dalam-lima-hari-di-sabah/",
-   "image": "https://sayangsabah.com.my/home/wp-content/uploads/2026/10/8466d1e5-40a1-408a-b244-8c27654ccaee.jpeg",
-   "site_name": "Sayang Sabah",
-   "body": "KOTA KINABALU: Seramai 169 pendatang asing tanpa izin (PATI) ditahan Jabatan Imigresen Malaysia (JIM) Sabah dalam kira-kira 25 operasi penguatkuasaan di tujuh daerah di negeri ini, dari 13 hingga 17 Oktober lalu.\n\nPengarah JIM Sabah, Datuk Sitti Saleha Habib Yussof berkata, operasi itu membabitkan pemeriksaan terhadap 530 individu di beberapa lokasi strategik.\n\nMenurutnya, operasi berkenaan dijalankan di Kota Kinabalu, Tawau, Sandakan, Lahad Datu, Kudat, Tenom dan Keningau bagi membanteras kehadiran PATI serta mengekang penyalahgunaan kemudahan imigresen.\n\n“Daripada jumlah yang ditahan, 131 adalah warga Filipina, 36 warga Indonesia manakala dua lagi warga Pakistan.\n\n“Warga Filipina yang ditahan membabitkan 53 lelaki dewasa, 39 perempuan dewasa, 19 kanak-kanak lelaki dan 20 kanak-kanak perempuan,” katanya dalam kenyataan hari ini.\n\nBagi warga Indonesia pula, katanya, mereka terdiri daripada 14 lelaki dewasa, 15 perempuan dewasa, tiga kanak-kanak lelaki dan empat kanak-kanak perempuan, manakala dua warga Pakistan yang ditahan adalah lelaki dewasa.\n\nSitti Saleha berkata, pihaknya akan terus mempergiat operasi penguatkuasaan secara berterusan di lokasi strategik seluruh Sabah bagi memastikan undang-undang imigresen dipatuhi.\n\nBeliau turut mengingatkan orang ramai supaya tidak melindungi, menggaji atau membantu warga asing yang melanggar undang-undang negara.\n\n“Orang ramai yang mempunyai maklumat berkaitan kegiatan PATI boleh membuat aduan menerusi Sistem Pengurusan Aduan Awam (SISPAA) di https://spab.gov.my atau Sistem Pertanyaan Online (SPO) di https://eapp.imi.gov.my,” katanya",
-   "body_ja": "",
-   "enriched": "ok",
-   "enriched_v": 3
+   "body_ja": "コタキナバル：昨年10月13日から17日にかけて、マレーシア入国管理局（JIM）サバ州は、州内の7地区で約25件の取締りを実施し、合計169人の不法移民（PATI）を逮捕した。\n\nJIMサバ所長のダトゥク・シッティ・サレハ・ハビブ・ユソフ氏は、この作戦にはいくつかの戦略的拠点で530人の検査が含まれていたと述べた。\n\n同氏によると、この作戦は不法滞在者の存在と闘い、移民施設の乱用を抑制するために、コタキナバル、タワウ、サンダカン、ラハダトゥ、クダット、テノム、ケニンガウで実施されたという。\n\n「逮捕された総数のうち、131人がフィリピン人、36人がインドネシア人、残りの2人はパキスタン人である。\n\n「拘束されたフィリピン人には成人男性53人、成人女性39人、少年19人、少女20人が含まれる」と同氏は本日の声明で述べた。\n\nインドネシア国民については、成人男性14人、成人女性15人、少年3人、少女4人で構成されており、逮捕されたパキスタン人2人は成人男性だったと同氏は述べた。\n\nシッティ・サレハ氏は、同党は移民法の順守を確保するため、サバ州全域の戦略的拠点で継続的に執行活動を強化し続けると述べた。\n\n同氏はまた、国の法律に違反する外国人を保護、雇用、援助しないよう国民に注意を喚起した。\n\n「PATIの活動に関連する情報を持っている人は、https://spab.gov.myの公的苦情管理システム(SISPAA)またはhttps://eapp.imi.gov.myのオンライン照会システム(SPO)を通じて苦情を申し立てることができます」と同氏は述べた。",
+   "summary_ja2": "コタキナバル：昨年10月13日から17日にかけて、マレーシア入国管理局（JIM）サバ州は、州内の7地区で約25件の取締りを実施し、合計169人の不法移民（PATI）を逮捕した。「拘束されたフィリピン人には成人男性53人、成人女性39人、少年19人、少女20人が含まれる」と同氏は本日の声明で述べた。"
   },
   {
    "title": "140 PATI warga Indonesia dihantar pulang ke negara asal",
@@ -507,7 +564,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "Budget 2027, Immigration, allocation, quarters,",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -3199,7 +3256,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=QqG9XyChfj4Q7kNvwFvI9KR&_nc_oc=AdpjPYHU3eCiphC6SJEdNQyVCQG32teqn203h1Jdv3ynk95nB_SjrIRaIRaXI0Nxxe0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=FEvI9Im1MxcIvdcJEdCkBw&_nc_ss=79289&oh=00_AQPhdnkbHKP5juKxWju4AdOlgNTKPIf19PJ4EDjlhCba2A&oe=6ADB696D",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=QqG9XyChfj4Q7kNvwFjTjNF&_nc_oc=Adp4TtraPNzUI5mYvSviQHfMmGQB-T2kb_1LloWZtIOwmDV743LRksL6ByRRU60YjBQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Mu2MGEGQcaOMK8PAUE4O1A&_nc_ss=79289&oh=00_AQOBoksxWBh2druhmG567Y8unsCWyLDUf3vRDCPPAV_YPA&oe=6ADBD9ED",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -4660,7 +4717,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=PLKz-5FzimwQ7kNvwEUY98X&_nc_oc=AdpPeRKbFggn8nwr1M-F8vpfLTurv9F8oX_DX-frnj3FyaO1KAuR71rQZHHeUZVhSEg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=lVBNUQTuOLbl1rkUKWFU_A&_nc_ss=79289&oh=00_AQOBYsm5vKRjtKAzyg9zf-lIv4klWeKn3AsKcd_QPeldOA&oe=6ADB726F",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=PLKz-5FzimwQ7kNvwErE0sb&_nc_oc=AdoqFl-U-Dfw70fvkpG2hkdQo3IOVfIYs4BaUEJCWIiO_AloWWYfIHyk_kkv3LRVIp0&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=82sdSa_Gvpdnnz1LzpvuNA&_nc_ss=79289&oh=00_AQMPV8q66_frLWnaP50gDA3UDV9Z-jb-lUk5_tvBxEqu3w&oe=6ADBE2EF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6809,9 +6866,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "first_seen": "2026-08-10T08:27:43Z",
@@ -10514,5 +10571,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-10-19T05:11:11Z"
+ "enriched_at": "2026-10-19T13:52:54Z"
 }
