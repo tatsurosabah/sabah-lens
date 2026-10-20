@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-20T11:57:46Z",
- "count": 286,
+ "updated": "2026-10-20T17:26:12Z",
+ "count": 288,
  "tags": {
-  "入管・摘発": 192,
+  "入管・摘発": 193,
   "市民権": 38,
   "無国籍": 33,
   "子ども": 22,
   "バジャウ": 14,
+  "難民": 13,
   "政策・政治": 12,
-  "難民": 11,
   "人権・NGO": 8,
   "医療・福祉": 3,
-  "教育": 3,
-  "ロヒンギャ": 2
+  "ロヒンギャ": 3,
+  "教育": 3
  },
  "sources": {
   "Sabah Media": 46,
@@ -26,8 +26,8 @@
   "Malay Mail": 9,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
+  "Saluran 122": 7,
   "Astro Awani": 6,
-  "Saluran 122": 6,
   "Jesselton Times": 6,
   "Sabah News": 5,
   "MalaysiaGazette": 5,
@@ -45,6 +45,7 @@
   "PressReader": 2,
   "The Vibes": 2,
   "Malaysiakini": 2,
+  "Times Kuwait": 1,
   "The Sun Malaysia": 1,
   "Borneo Daily Bulletin": 1,
   "Bernama": 1,
@@ -68,6 +69,36 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "UNHCR, Saud Al-Nasser Al-Sabah Diplomatic Institute sign MoU",
+   "summary": "UNHCR, the UN Refugee Agency, and the Saud Al-Nasser Al-Sabah Diplomatic Institute signed a Memorandum of Understanding (MoU) to enhance cooperation in the fields of humanitarian diplomacy, capacity building, and exchange of experiences, in accordance with their respective mandates. The agreement was signed at the Institute’s headquarters by Dr. Khaled Khalifa, Senior Advisor and UNHCR …",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0VKWFBBNXFHTjRJcHJPdjdsd0YzUGxETkRISkNuUjhCZURhbm5OU0hVR0drZ3lHSC11eUFGQzgtU2NaSGdtbXFieXFNYTFrakM1c3lwcGZ4dnY5elRRZEpURnBUS1dya1NCMF91QXRaQXVfNWg0dnVtRUNlbDc0TEJNemR4QlhWVmVYRw?oc=5",
+   "source": "Times Kuwait",
+   "date": "2026-10-20T16:32:19Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah UNHCR OR asylum",
+   "id": "c85666eab296",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "UNHCRとサウド・アル・ナセル・アル・サバ外交研究所が覚書に署名",
+   "summary_ja": "UNHCR、国連難民機関、サウド・アル・ナセル・アル・サバ外交研究所は、それぞれの任務に従って、人道外交、能力構築、経験交換の分野での協力を強化するための覚書（MoU）に署名した。この協定は、UNHCR上級顧問のハリド・ハリファ博士によって研究所の本部で署名されました。",
+   "first_seen": "2026-10-20T17:26:07Z",
+   "impact": 1,
+   "issues": [
+    "難民・UNHCR"
+   ],
+   "figures": [],
+   "url_real": "https://timeskuwait.com/unhcr-saud-al-nasser-al-sabah-diplomatic-institute-sign-mou/",
+   "image": "https://timeskuwait.com/wp-content/uploads/2026/10/Dip2.jpg",
+   "site_name": "Times Kuwait",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "UNHCR, the UN Refugee Agency, and the Saud Al-Nasser Al-Sabah Diplomatic Institute signed a Memorandum of Understanding (MoU) to enhance cooperation in the fields of humanitarian diplomacy, capacity building, and exchange of experiences, in accordance with their respective mandates.\n\nThe agreement was signed at the Institute’s headquarters by Dr. Khaled Khalifa, Senior Advisor and UNHCR Representative in the Gulf Cooperation Council countries, and H.E. Minister Plenipotentiary Dr. Mubarak Saad Al-Hajri, Deputy Assistant Foreign Minister for the Saud Al-Nasser Al-Sabah Diplomatic Institute.\n\nThe MoU builds on the longstanding partnership between both entities and reaffirms the established ties between UNHCR and the various departments of the esteemed Kuwaiti Ministry of Foreign Affairs. The MoU will remain in effect for three years, during which the parties will agree on an annual work plan that responds to evolving needs and the latest developments in humanitarian and diplomatic affairs.\n\nThe agreement reflects the shared commitment of both parties to fostering national talent—including diplomats enrolled at the Institute and professionals serving across national institutions—to ensure they are equipped with knowledge and awareness about international developments while enhancing their understanding of Kuwait’s humanitarian efforts and their impact in humanitarian contexts.\n\nDr. Khalifa praised the importance of this agreement, stating: “UNHCR places particular importance on partnerships that facilitate the knowledge sharing, capacity building, and raise awareness of its humanitarian work and activities.\n\nWe are pleased to formalize our longstanding partnership with a well-established institution renowned for its diplomatic legacy, its role in developing Kuwaiti diplomatic talent, and training personnel from various state institutions.”\n\nHe added: “We look forward to strengthening cooperation and raising awareness of the importance of humanitarian diplomacy, as well as the pivotal role of the State of Kuwait, through its various official institutions, in supporting people forced to flee around the world.”\n\nFor his part, H.E. Dr. Al-Hajri, said, “The partnership we are witnessing today through the signing of this Memorandum of Understanding reflects the depth of the relationship between the Institute and UNHCR. We have previously witnessed successful cooperation that resulted in the delivery of practical and theoretical training courses to raise awareness among diplomats enrolled at the Institute about UNHCR’s activities.\n\n“The Institute has also previously hosted a distinguished group of UNHCR field experts who highlighted the importance of humanitarian work and Kuwait’s pioneering humanitarian diplomacy, given the country’s position as a global center for humanitarian action. Through this MoU, both entities aspire to strengthen their partnership and broaden the scope of cooperation,” Dr. Al-Hajri added.",
+   "body_ja": "UNHCR、国連難民機関、サウド・アル・ナセル・アル・サバ外交研究所は、それぞれの任務に従って、人道外交、能力構築、経験交換の分野での協力を強化するための覚書（MoU）に署名した。\n\nこの協定は、湾岸協力会議諸国の上級顧問兼UNHCR代表であるハリド・ハリファ博士と、ハレド・ハリファ閣下によって研究所の本部で署名されました。全権大臣、サウド・アル・ナセル・アル・サバ外交研究所外務次官補、ムバラク・サード・アル・ハジリ博士。\n\nこの覚書は、両機関間の長年にわたるパートナーシップを基礎とし、UNHCRと尊敬されるクウェート外務省のさまざまな部門との間に確立された関係を再確認するものです。この覚書は3年間有効であり、その間、両当事者は進化するニーズや人道・外交問題の最新の展開に対応する年次作業計画に合意することになる。\n\nこの協定は、クウェートの人道的取り組みと人道的文脈におけるその影響についての理解を深めながら、国際情勢に関する知識と認識を確実に身につけさせるために、研究所に在籍する外交官や国家機関全体に勤務する専門家を含む国内の人材を育成するという双方の共通のコミットメントを反映している。\n\nハリファ博士は、この協定の重要性を称賛し、次のように述べました。「UNHCRは、知識の共有、能力構築を促進し、人道的活動と活動に対する意識を高めるパートナーシップを特に重視しています。\n\n私たちは、外交的遺産、クウェートの外交人材育成における役割、さまざまな国家機関の人材育成で知られる老舗機関との長年にわたるパートナーシップを正式に締結できることを嬉しく思います。」\n\n同氏はさらに、「私たちは協力を強化し、人道外交の重要性と、世界中で避難を強いられている人々を支援するクウェート国の極めて重要な役割の認識を高めることを楽しみにしています。」と付け加えた。\n\n彼としては、H.E.アル・ハジリ博士は、「この覚書の署名を通じて私たちが今日目撃しているパートナーシップは、研究所とUNHCRの関係の深さを反映しています。私たちはこれまでも、UNHCRの活動について研究所に在籍する外交官の意識を高めるための実践的および理論的研修コースの実施につながる協力が成功しているのを目撃してきました。」と述べました。\n\n「同研究所はこれまで、UNHCRの現場専門家の著名なグループを迎えており、クウェートが人道活動の世界的中心地としての立場を踏まえ、人道活動の重要性やクウェートの先駆的な人道外交の重要性を強調した。この覚書を通じて、両機関はパートナーシップを強化し、協力の範囲を拡大することを目指している」とアル・ハジリ博士は付け加えた。",
+   "summary_ja2": "UNHCR、国連難民機関、サウド・アル・ナセル・アル・サバ外交研究所は、それぞれの任務に従って、人道外交、能力構築、経験交換の分野での協力を強化するための覚書（MoU）に署名した。彼としては、H.E.アル・ハジリ博士は、「この覚書の署名を通じて私たちが今日目撃しているパートナーシップは、研究所とUNHCRの関係の深さを反映しています。"
+  },
   {
    "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
    "summary": "The Sabah Immigration Department arrested 169 undocumented migrants, including 46 children, during 25 enforcement operations across the state.",
@@ -167,7 +198,9 @@
    "summary_ja": "",
    "impact": 0,
    "issues": [],
-   "figures": []
+   "figures": [],
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
   },
   {
    "title": "169 PATI dicekup dalam lima hari di Sabah",
@@ -3279,7 +3312,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=QqG9XyChfj4Q7kNvwEzvxA0&_nc_oc=Adr7F5_wbzGNH8GwrFqoWXTXpkqJY3JrOkYAdp1ful7O8v0QYeOr1myNfyfRfPxOsMo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=5HPRsEvDYN5Jozn5FYFcjw&_nc_ss=79289&oh=00_AQN-y29NxANem3D_fU7bBZOemjDo8261qS2zPVT81AQ8iw&oe=6ADD2B6D",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=QqG9XyChfj4Q7kNvwGSqBc8&_nc_oc=AdoE3niFZCfnQkUhNICx0RortTbF7J77OLNYDfKCLlKYGpveVpcxEMkSfhTuQ2v5edg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=9rfldUqFhfz6xJA3sIAreg&_nc_ss=79289&oh=00_AQMMKLURKKFJdDbfJJfT8mR0KlX6AwWMKt1CIJFv5hgDpQ&oe=6ADD63AD",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -3521,10 +3554,10 @@
    ]
   },
   {
-   "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
+   "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan – KDN",
    "summary": "KUALA LUMPUR: Sebanyak 3,640 permohonan kewarganegaraan di Sabah masih dalam proses pertimbangan bagi tempoh 2025 hingga 31 Mei lalu, manakala sebanyak 10 permohonan sudah diluluskan dan sijil kewarganegaraan diserahkan kepada pemohon.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
-   "source": "Berita Harian",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmQ2c2hvOG11MHhEWUtjcWNRVFd6X3Z3V3ZCUktSX09ZcmtGeHlSU3BucHZ0WHBaNnpBUjE3aHVzRjhOTWlUclJIdTVORGJrV3Y1aWRMUnFqVHhaQUk4VUhqRXhsYW5NaFE0b0VFLTV2a1VsQnBWclZlNFloR1ZFWFNybmNPT3F6Y1FSaXlMVjU0ajNLaXVNSXlDY0swbm5QdURyUExFTnNydw?oc=5",
+   "source": "Saluran 122",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4740,7 +4773,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=CVGKAKEb3rAQ7kNvwEiRPYU&_nc_oc=AdqRczFwAAQt_LYO7fZddTsQZuZqCFlUMF-yK0p55Od0rY8_RfbvK82J9p3MtMkiMYw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UJ8j28UsBcoMCQr88zuibg&_nc_ss=79289&oh=00_AQP21gceEkWD4BkowdkzuXkfGwk6ujLmXgigXQi-SV27AA&oe=6ADD346F",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=CVGKAKEb3rAQ7kNvwE4vGPD&_nc_oc=AdozT7o5PY2GcWqgXfm7WORLH-FEbg6mBZiz2C7HN0eoMuSKyYRqJleMxm-5zAIW4Lc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=DLHUuTgWEJoKvQ2PfqHn9g&_nc_ss=79289&oh=00_AQM4AwWZsnoNnqCoaraWsFv8xSzG3IpsJsN_zVJcu0pazA&oe=6ADD6CAF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -4782,6 +4815,41 @@
     "医療アクセス"
    ],
    "figures": []
+  },
+  {
+   "title": "MCCF gesa tindakan segera tangani lambakan pelarian Rohingya, PATI",
+   "summary": "KUALA LUMPUR: Yayasan Keprihatinan Komuniti Malaysia (MCCF) menggesa kerajaan mengambil tindakan nasional segera bagi menangani lambakan pelarian Rohingya dan warga asing tanpa dokumen.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzFiTm54LVk0amRxcXhLOGhaWmIxSHp6Z0hGd1NKeTZ1X19mY1JXN0FOU2FNalVhVzlmVTBLOFl2TXFiUWJxMUtiODM4RGlVUTB4YkJ5R0NoQXlmVW02OVdVb2w2WDV0Q3hsa2N6VmxlWktaODllOGcxNVZsczJoYjRPTnN5bXpSbXhuZHpxVkZzMGpNWDk4MDN2RWxwOFBaYm1venZ5V0MzdHpmaXo3a1RFNVNBcWlYVEY3MlE0TEo4dw?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-06-21T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "566867cebd3a",
+   "tags": [
+    "難民",
+    "入管・摘発",
+    "ロヒンギャ"
+   ],
+   "title_ja": "MCCFはロヒンギャ難民のダンピングに対処するための即時行動を要請、PATI",
+   "summary_ja": "クアラルンプール：マレーシア・コミュニティ・コンサーン財団（MCCF）は、ロヒンギャ難民と不法滞在外国人の投棄に対処するため、直ちに国家的措置を講じるよう政府に要請する。",
+   "first_seen": "2026-10-20T17:26:07Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "教育アクセス",
+    "医療アクセス",
+    "難民・UNHCR"
+   ],
+   "figures": [],
+   "url_real": "https://www.bharian.com.my/berita/nasional/2026/06/1575422/mccf-gesa-tindakan-segera-tangani-lambakan-pelarian-rohingya-pati",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "image": "https://assets.bharian.com.my/images/articles/BH21GESA-O_BHfield_image_socialmedia.var_1782041203.jpg",
+   "site_name": "Berita Harian",
+   "body": "KUALA LUMPUR: Yayasan Keprihatinan Komuniti Malaysia (MCCF) menggesa kerajaan mengambil tindakan nasional segera bagi menangani lambakan pelarian Rohingya dan warga asing tanpa dokumen.\n\nPengerusinya, Datuk Seri Halim Ishak, berkata isu itu bukan lagi sekadar membabitkan imigresen, sebaliknya sudah berkembang menjadi isu keselamatan negara, pengurusan sumber awam, kestabilan sosial dan kesejahteraan rakyat.\n\n\"Kerajaan mempunyai tanggungjawab untuk bertindak segera sebelum masalah itu menjadi lebih sukar dan mahal untuk ditangani.\n\n\"MCCF mencadangkan kerajaan melaksanakan Pelan Tindakan Nasional Pengurusan Pelarian dan Migrasi Tidak Sah yang merangkumi enam komponen utama,\" katanya dalam kenyataan, hari ini.\n\nBeliau berkata, enam komponen itu termasuk keperluan memperkukuh kawalan sempadan negara termasuk menambah aset rondaan laut dan udara, penggunaan dron serta radar moden, rondaan bersepadu membabitkan semua agensi kawalan sempadan.\n\n\"Pada masa sama, terdapat keperluan mewujudkan pusat kawalan sempadan bersepadu yang beroperasi 24 jam, ini sekali gus dapat menutup ruang kemasukan baharu warga asing secara tidak sah.\n\n\"Audit Nasional Warga Asing perlu dilaksanakan segera melalui sistem pendaftaran biometrik bagi mengetahui jumlah sebenar warga asing di negara ini, sekali gus mengelakkan identiti berganda dan penyalahgunaan dokumen,\" katanya.\n\nSelain itu, katanya kerajaan disyorkan mengkaji penubuhan pusat transit khas yang berfungsi sebagai pusat pendaftaran, saringan keselamatan, pemeriksaan kesihatan serta penempatan sementara sebelum pelarian ditempatkan semula.\n\nHalim berkata kerajaan juga perlu mendesak Pesuruhjaya Tinggi Pertubuhan Bangsa-Bangsa Bersatu bagi Pelarian (UNHCR) dan negara maju untuk berkongsi tanggungjawab menanggung sebahagian kos pengurusan pelarian, menyediakan bantuan kemanusiaan dan meningkatkan kuota penempatan semula ke negara ketiga.\n\n\"MCCF turut berpandangan tindakan terhadap sindiket pemerdagangan manusia perlu diperkasakan, termasuk melalui rampasan aset, pembekuan akaun, denda maksimum dan pendakwaan segera.\n\n\"Malaysia juga perlu mempunyai dasar yang jelas bahawa penerimaan pelarian hanyalah atas pertimbangan kemanusiaan dan bersifat sementara,,\" katanya.\n\nBeliau berkata penyelesaian jangka panjang hendaklah melalui penempatan semula ke negara ketiga, penyelesaian konflik di negara asal serta kerjasama ASEAN dan masyarakat antarabangsa.\n\n\"Kehadiran warga asing tanpa kawalan yang berkesan berpotensi memberi pelbagai implikasi kepada negara antaranya tekanan terhadap sistem kesihatan awam, kemudahan pendidikan dan perumahan serta pertambahan penempatan setinggan dan koloni tidak terkawal.\n\n\"Keadaan itu juga boleh meningkatkan risiko jenayah rentas sempadan, aktiviti pemalsuan dokumen, sindiket pemerdagangan manusia, persaingan peluang pekerjaan berpendapatan rendah serta cabaran terhadap keselamatan dan ketenteraman awam pada masa hadapan,\" katanya.\n\nMenurut beliau, Malaysia sejak sekian lama menunjukkan sikap prihatin dan bertanggungjawab dalam menangani pelbagai krisis kemanusiaan serantau.\n\nNamun, katanya, sikap kemanusiaan itu tidak boleh disalah tafsir sehingga menjejaskan keupayaan negara melindungi kepentingan rakyat serta mempertahankan kedaulatan negara.",
+   "body_ja": "クアラルンプール：マレーシア・コミュニティ・コンサーン財団（MCCF）は、ロヒンギャ難民と不法滞在外国人の投棄に対処するため、直ちに国家的措置を講じるよう政府に要請する。\n\n同団体のダトゥク・セリ・ハリム・イシャク会長は、この問題はもはや単なる移民問題ではなく、国家安全保障、公共資源の管理、社会の安定、国民の福祉の問題に成長していると述べた。\n\n「政府には、問題がより困難になり、対処に費用がかかるようになる前に、迅速に行動する責任がある。\n\n「MCCFは政府に対し、6つの主要な要素を含む難民と不法移民の管理のための国家行動計画を実施するよう勧告する」と同氏は本日の声明で述べた。\n\n同氏は、6つの要素には海空パトロール資産の増加、ドローンや最新レーダーの使用、すべての国境管理機関が参加する統合パトロールなど、国の国境管理を強化する必要性が含まれていると述べた。\n\n「同時に、24時間体制で稼働する統合国境管理センターを設立する必要があり、これにより不法外国人の新規入国の余地を閉鎖することができる。\n\n同氏は、「外国人の国家監査を生体認証登録システムを通じて直ちに実施し、国内の外国人の実際の数を調べ、二重身分や書類の悪用を避ける必要がある」と述べた。\n\nさらに同氏は、難民が再定住する前に、登録センター、安全検査、健康診断、一時宿泊施設として機能する特別な通過センターの設置を検討することが政府に推奨されていると述べた。\n\nハリム氏はまた、政府は国連難民高等弁務官事務所（UNHCR）と先進国に対し、難民管理費用の一部負担、人道支援の提供、第三国への定住枠の拡大について責任を共有するよう促す必要があると述べた。\n\n「MCCFはまた、資産の没収、口座の凍結、最高額の罰金、迅速な訴追など、人身売買シンジケートに対する措置を強化する必要があるとの見解を示している。\n\n「マレーシアはまた、難民の受け入れは人道的配慮にのみ基づいており、一時的なものであるという明確な方針を持つ必要がある」と述べた。\n\n同氏は、長期的な解決策は第三国への再定住、出身国の紛争解決、そしてASEANと国際社会との協力を通じて行われるべきであると述べた。\n\n「効果的な管理のない外国人の存在は、不法占拠居住地や管理されていない植民地の増加だけでなく、公衆衛生制度、教育、住宅施設への圧力など、この国にさまざまな影響を与える可能性がある。\n\n同氏は、「この状況は、将来的には、国境を越えた犯罪、文書偽造活動、人身売買シンジケート、低所得の雇用機会をめぐる競争、さらには公共の安全と秩序への挑戦のリスクを高める可能性がある」と述べた。\n\n同氏によると、マレーシアは長年にわたり、地域のさまざまな人道危機に対処する上で思いやりと責任ある態度を示してきたという。\n\nしかし、人道的姿勢は、国民の利益を守り、国の主権を守る国の能力に影響を与えるほど誤解されるべきではないと同氏は述べた。",
+   "summary_ja2": "クアラルンプール：マレーシア・コミュニティ・コンサーン財団（MCCF）は、ロヒンギャ難民と不法滞在外国人の投棄に対処するため、直ちに国家的措置を講じるよう政府に要請する。「MCCFは政府に対し、6つの主要な要素を含む難民と不法移民の管理のための国家行動計画を実施するよう勧告する」と同氏は本日の声明で述べた。"
   },
   {
    "title": "166 PATI Filipina dihantar pulang ke negara asal",
@@ -5350,8 +5418,8 @@
    "query": "Sabah IMM13 OR MyKAS",
    "id": "d9cf307b9450",
    "tags": [
-    "市民権",
     "入管・摘発",
+    "市民権",
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
@@ -10594,5 +10662,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-10-20T12:00:47Z"
+ "enriched_at": "2026-10-20T17:29:42Z"
 }
