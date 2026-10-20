@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:08:51Z",
+ "updated": "2026-10-20T11:57:46Z",
  "count": 286,
  "tags": {
   "入管・摘発": 192,
@@ -22,11 +22,11 @@
   "The Star": 13,
   "Borneo Post": 13,
   "sabahnews.com.my": 12,
+  "Berita Harian": 9,
   "Malay Mail": 9,
-  "Berita Harian": 8,
   "sabahnewstoday.net": 8,
-  "Astro Awani": 7,
   "Free Malaysia Today": 7,
+  "Astro Awani": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Sabah News": 5,
@@ -163,12 +163,11 @@
    "url_real": "https://www.dailyexpress.com.my/news/290165/169-undocumented-migrants-held-in-sabah-wide-operations/",
    "enriched": "ok",
    "enriched_v": 3,
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
    "summary_ja": "",
    "impact": 0,
    "issues": [],
-   "figures": [],
-   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
-   "body_ja": ""
+   "figures": []
   },
   {
    "title": "169 PATI dicekup dalam lima hari di Sabah",
@@ -3280,7 +3279,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=QqG9XyChfj4Q7kNvwHXoS6D&_nc_oc=AdrWo7ny32CALh4RkRmt5Hf9YAlmaqljUUULeZDcMA-rffApa3JjVAm_EqCS3repcxo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=GPASHf1mjhnsOLXehIQkIw&_nc_ss=79289&oh=00_AQPTP2uQlEHCs_5izG6w8e59_oD2dhDx_jajLwWZGY0qIA&oe=6ADCBAED",
+   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=QqG9XyChfj4Q7kNvwEzvxA0&_nc_oc=Adr7F5_wbzGNH8GwrFqoWXTXpkqJY3JrOkYAdp1ful7O8v0QYeOr1myNfyfRfPxOsMo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=5HPRsEvDYN5Jozn5FYFcjw&_nc_ss=79289&oh=00_AQN-y29NxANem3D_fU7bBZOemjDo8261qS2zPVT81AQ8iw&oe=6ADD2B6D",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -3524,8 +3523,8 @@
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "KUALA LUMPUR: Sebanyak 3,640 permohonan kewarganegaraan di Sabah masih dalam proses pertimbangan bagi tempoh 2025 hingga 31 Mei lalu, manakala sebanyak 10 permohonan sudah diluluskan dan sijil kewarganegaraan diserahkan kepada pemohon.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclc3WXBHajlVVzdSel9ELTlrcDd5aXAzNkVmVWR4LTM2RXM2RWwzb1BpczdEQlpjTHN0QmpLRUNUTzNRblRuQXZvT0dTSkd5X19FLXY4Y0hDMW5LZERaSW1wVjdsYkpaYUlKel8yeUJWVm91dHpDQU1UR2tIdmpEZXZlV01ZNXZ5a2xHY1B4Si03bFl2a0xyYnBNc2NSVm93VTJxSUpWdjVlM2NGN1VmaGt3?oc=5",
-   "source": "Astro Awani",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
+   "source": "Berita Harian",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4741,7 +4740,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=CVGKAKEb3rAQ7kNvwFtgd9E&_nc_oc=AdrSRL6a9jU_zWWKaYGMNg3YzRlqrVHuZRcO2fB-sXRbJs-o4T7Ey2deEfHaDg0O1Yc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=D2d3LY7Bf47u9ODEckP52Q&_nc_ss=79289&oh=00_AQN-m_q3C4N6FOAGlOA56WmwmRjJqX2jpjJLG7PuM1lU6A&oe=6ADCC3EF",
+   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=CVGKAKEb3rAQ7kNvwEiRPYU&_nc_oc=AdqRczFwAAQt_LYO7fZddTsQZuZqCFlUMF-yK0p55Od0rY8_RfbvK82J9p3MtMkiMYw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UJ8j28UsBcoMCQr88zuibg&_nc_ss=79289&oh=00_AQP21gceEkWD4BkowdkzuXkfGwk6ujLmXgigXQi-SV27AA&oe=6ADD346F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5351,8 +5350,8 @@
    "query": "Sabah IMM13 OR MyKAS",
    "id": "d9cf307b9450",
    "tags": [
-    "入管・摘発",
     "市民権",
+    "入管・摘発",
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
@@ -7731,7 +7730,7 @@
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "6c59922f9c78",
    "tags": [
     "バジャウ"
@@ -10595,5 +10594,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-10-20T05:12:22Z"
+ "enriched_at": "2026-10-20T12:00:47Z"
 }
