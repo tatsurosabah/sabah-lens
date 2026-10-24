@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-23T21:34:51Z",
- "count": 292,
+ "updated": "2026-10-24T04:55:24Z",
+ "count": 293,
  "tags": {
-  "入管・摘発": 197,
+  "入管・摘発": 198,
   "市民権": 39,
   "無国籍": 33,
   "子ども": 22,
@@ -19,15 +19,15 @@
   "TV Sabah News": 38,
   "Daily Express Malaysia": 23,
   "NST Online": 16,
-  "The Star": 13,
+  "The Star": 14,
   "sabahnews.com.my": 13,
   "Borneo Post": 13,
   "Berita Harian": 9,
   "Malay Mail": 9,
-  "Astro Awani": 7,
-  "Saluran 122": 7,
+  "Astro Awani": 8,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
+  "Saluran 122": 6,
   "Jesselton Times": 6,
   "Sayang Sabah": 5,
   "MalaysiaGazette": 5,
@@ -70,6 +70,52 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Sabah deports 285 illegal Filipinos from Lahad Datu",
+   "summary": "KOTA KINABALU: A total of 285 illegal immigrants, including infants, were deported from Lahad Datu, Sabah, to the Philippines, says the state Immigration Department.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3dYbldzRzRtQ3RBLWpmX1pjclNPQkZ0bndOVXJhZ2N0SW5DYzloZ3lZekt3SXZyWFZVR2N4U0l4dHlhLUZyMEw3SVJublg4T3ZjNGFaX0FpYnJydklMN2lIYlFwOHBLX1BYdkJ5Sk9JN3M3TzM5dWFuOHdFMXBCSnBIREctbHE1MmZacFdxdGwwdWphT0FKcnNLMjlCS0o0R0E?oc=5",
+   "source": "The Star",
+   "date": "2026-10-24T00:42:42Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "ca97f661c94b",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州、ラハダトゥから不法フィリピン人285人を追放",
+   "summary_ja": "コタキナバル：州入国管理局によると、乳児を含む合計285人の不法移民がサバ州ラハダトゥからフィリピンに強制送還された。",
+   "first_seen": "2026-10-24T04:55:21Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 285,
+     "kind": "送還",
+     "raw": "285 illegal immigrant"
+    },
+    {
+     "n": 85,
+     "kind": "送還",
+     "raw": "85 children"
+    },
+    {
+     "n": 33,
+     "kind": "送還",
+     "raw": "33 people"
+    }
+   ],
+   "url_real": "https://www.thestar.com.my/news/nation/2026/10/24/sabah-deports-285illegal-filipinos-from-lahad-datu",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/24/4178102.jpg",
+   "site_name": "The Star",
+   "body": "KOTA KINABALU: A total of 285 illegal immigrants, including infants, were deported from Lahad Datu, Sabah, to the Philippines, says the state Immigration Department.\n\nThe deportees had served their respective sentences and were sent back to their home country via the Lahad Datu Immigration, Customs, Quarantine and Security Complex to Baguio Port.\n\n“These Filipinos were detained at the Kota Kinabalu and Papar depots before deportation,” the department said in a statement yesterday.\n\nThe latest deportation exercise, conducted on Thursday, involved 129 men, 71 women and 85 children, bringing the total number of Filipinos deported so far this year to 4,288.\n\nThe department said children among the deportees were accompanied by their parents or guardians, in accordance with standard operating procedures.\n\nBesides Filipinos, those deported so far this year included 1,789 Indonesians, 137 Pakistanis, 141 Chinese nationals, 29 Vietnamese nationals and 33 people of other nationalities.\n\n“This brings the total number of deportees to 6,417,” it said.\n\nThe department added that deportees who had served their sentences were in possession of travel documents.\n\nThose with information can lodge complaints through the Public Complaints Management System at https://spab.gov.my or the Online Inquiry System at https://eapp.imi.gov.my.",
+   "body_ja": "コタキナバル：州入国管理局によると、乳児を含む合計285人の不法移民がサバ州ラハダトゥからフィリピンに強制送還された。\n\n追放者たちはそれぞれの刑期を終え、ラハダトゥ入国管理、税関、検疫、保安施設を経由してバギオ港に送還された。\n\n同省は昨日の声明で、「これらのフィリピン人は国外追放前にコタキナバルとパパールの倉庫で拘留された」と述べた。\n\n木曜日に実施された最新の国外追放演習には男性129人、女性71人、子供85人が参加し、今年これまでに国外追放されたフィリピン人の総数は4,288人となった。\n\n同省は、強制送還者の中の子どもには、標準的な業務手順に従って親または保護者が同伴していたと述べた。\n\n今年これまでに強制送還されたのはフィリピン人のほかに、インドネシア人１７８９人、パキスタン人１３７人、中国国民１４１人、ベトナム人２９人、その他の国籍の３３人だった。\n\n「これにより国外追放者の総数は6,417人となった」と同紙は述べた。\n\n同省は、刑期を終えた追放者は渡航書類を所持していると付け加えた。\n\n情報をお持ちの方は、公的苦情管理システム (https://spab.gov.my) またはオンライン問い合わせシステム (https://eapp.imi.gov.my) を通じて苦情を申し立てることができます。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "コタキナバル：州入国管理局によると、乳児を含む合計285人の不法移民がサバ州ラハダトゥからフィリピンに強制送還された。同省は昨日の声明で、「これらのフィリピン人は国外追放前にコタキナバルとパパールの倉庫で拘留された」と述べた。木曜日に実施された最新の国外追放演習には男性129人、女性71人、子供85人が参加し、今年これまでに国外追放されたフィリピン人の総数は4,288人となった。"
+  },
   {
    "title": "285 PATI Warga Filipina Dihantar Pulang",
    "summary": "LAHAD DATU: 23 Oktober 2026 - Seramai 285 tahanan pendatang asing tanpa izin (PATI) warga Filipina dihantar pulang melalui Pelabuhan Bongao, Filipina",
@@ -1158,7 +1204,7 @@
    "summary": "Menurutnya, pemindahan turut membabitkan lima lelaki dewasa warganegara Pakistan yang dihantar ke Karachi dan Lahore dengan transit di Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA).",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFdleEQ0RVZuTWNucl9XcUtVR2dCd2lvZEFVLVVoejFLNUwxZUc5VkUyRWZfaFNTYkhKOEU4LXhZUC15M0JXLU1HeDZLa195QjNxWUg3QkZXY0Q0TWN5aFBnNFA0ZWoyTzVMNmRFVVhpaDhHM3NtdWh3XzdMV1RjdVJULUNJc0R5dDg2eTFtczk?oc=5",
    "source": "Sabah Kini2",
-   "date": "2026-09-30T09:59:29Z",
+   "date": "2026-09-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah tanpa kewarganegaraan",
@@ -3472,7 +3518,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=AimoJ8jGTwIQ7kNvwGZD7zJ&_nc_oc=Adq0VGIVjRoV82QYsgJCDhqB4rnsFsQ0dgeV1RCwWpkwUCoNnR4xArZ_7M9RcjhE0eg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=xAbLfu7Wxk0kvv6sGQPkYQ&_nc_ss=79289&oh=00_AQMVKKIoDQOnG-vs5PmFSICF20Ife_4G_uPirtrw0G3z-A&oe=6AE1906D",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=AimoJ8jGTwIQ7kNvwEYcQQY&_nc_oc=Ado4RqPnnAn7FK8c-bAfCOaZcREqWyOxLTaSDUplOdF4qfG26zn0A5VzFvxw7mHKZns&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=tcmrKxKV2Ev6WNSrlmukGw&_nc_ss=79289&oh=00_AQP2cojz2NFsLz95Rtn4ahvbAmczY6QY6fekYdIIRgzOcw&oe=6AE200ED",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -3744,10 +3790,10 @@
    ]
   },
   {
-   "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan – KDN",
+   "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "KUALA LUMPUR: Sebanyak 3,640 permohonan kewarganegaraan di Sabah masih dalam proses pertimbangan bagi tempoh 2025 hingga 31 Mei lalu, manakala sebanyak 10 permohonan sudah diluluskan dan sijil kewarganegaraan diserahkan kepada pemohon.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmQ2c2hvOG11MHhEWUtjcWNRVFd6X3Z3V3ZCUktSX09ZcmtGeHlSU3BucHZ0WHBaNnpBUjE3aHVzRjhOTWlUclJIdTVORGJrV3Y1aWRMUnFqVHhaQUk4VUhqRXhsYW5NaFE0b0VFLTV2a1VsQnBWclZlNFloR1ZFWFNybmNPT3F6Y1FSaXlMVjU0ajNLaXVNSXlDY0swbm5QdURyUExFTnNydw?oc=5",
-   "source": "Saluran 122",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclc3WXBHajlVVzdSel9ELTlrcDd5aXAzNkVmVWR4LTM2RXM2RWwzb1BpczdEQlpjTHN0QmpLRUNUTzNRblRuQXZvT0dTSkd5X19FLXY4Y0hDMW5LZERaSW1wVjdsYkpaYUlKel8yeUJWVm91dHpDQU1UR2tIdmpEZXZlV01ZNXZ5a2xHY1B4Si03bFl2a0xyYnBNc2NSVm93VTJxSUpWdjVlM2NGN1VmaGt3?oc=5",
+   "source": "Astro Awani",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5401,7 +5447,7 @@
    "date": "2026-06-13T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah undocumented",
    "id": "e48f0a90f072",
    "tags": [
     "市民権"
@@ -5897,8 +5943,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6938,7 +6984,7 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "KUALA LUMPUR: Kerajaan digesa melonggarkan syarat permohonan Kad Pengenalan Pemastautin Sementara atau MyKas bagi membolehkan golongan ‘stateless’ (tanpa negara) terutama di Sabah mendapat dokumen pengenalan diri atas dasar kemanusiaan.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3fSAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW_SAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
@@ -7827,7 +7873,7 @@
   {
    "title": "Stateless Bajau Laut teen granted bail after proving he was born in Sabah",
    "summary": "KOTA KINABALU: A stateless Bajau Laut teenager charged with illegally entering Sabah was granted bail by the Sessions Court here today after successfully presenting a document proving he was born in Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORC1wS0ZEaGtPVGVwakNRYTVzWlVRY0N1alJ5c1JJSks5YnhnNXlYZURHYWVzVXpOYmhhaHlZOWVweGQ5Q0RJSG0zWVU2MFIxRXFhUVE1ZmdOTVAzWW1KTGZNRUoyY3BOZXFCdDNpZHRWNUFvdldwQWgxRlE0U3dyRUV4R1oyWWJSMzJpME9Oa21ieDhyeGszZXhHWFoxU0Z1cUFQQ2FEcld4ZUJLZ2hLNkpncTZIc1lh0gG-AUFVX3lxTE5rVk55eWdYc2JqYUU3NElwbzBQQVFxQTM0QzkxWWx2NElLblZEMENjM1VYSGgyNnhIblo3cUxySWZXay1LNW9FVlNlbnFlSlYxeHo1MEVOMXhWXzNiZGlRcmI5Mk9IRzNrc01OakUyTFoxU2VESVJOdmtGRDF3LUluWjBfT1p1dXBRekhWWEpqOWhnTXEwMVNNVGRQMW1xMDhhU05fQmNwZXIyU0pLQUZBUHZweGJDdUNjdVJIbEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbERWWm80YmRFTEhleDNjZUJBSy1ldUw4TGVtdGJiTXp1Q3ZCN3JucmNHNHBySWpWOUhDQ2VhRVY2czMwdWtTalVSU214OXR5Y2k5SndaSGZUZDZQWFRXcmM3dnlxMS1TRmI1c2pFUjl5UHFCRENzQXdwZ0w1LVdRNnNwcnhiYlQ0eW1remJoV1dnMUZreFdOWGhQTjk2aXUyUVhGOV9MYzJiUUpvckRabXB0aGd5SlZpYVAxdS1zYTFlNEN6c2VsNFZrSdIBvgFBVV95cUxOa1ZOeXlnWHNiamFFNzRJcG8wUEFRcUEzNEM5MVlsdjRJS25WRDBDYzNVWEhoMjZ4SG5aN3FMcklmV2stSzVvRVZTZW5xZUpWMXh6NTBFTjF4Vl8zYmRpUXJiOTJPSEcza3NNTmpFMkxaMVNlRElSTnZrRkQxdy1JblowX09adXVwUXpIVlhKajloZ01xMDFTTVRkUDFtcTA4YVNOX0JjcGVyMlNKS0FGQVB2cHhiQ3VDY3VSSGxB?oc=5",
    "source": "NST Online",
    "date": "2026-04-06T07:00:00Z",
    "lang": "en",
@@ -7992,7 +8038,7 @@
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "6c59922f9c78",
    "tags": [
     "バジャウ"
@@ -10824,5 +10870,5 @@
    ]
   }
  ],
- "enriched_at": "2026-10-23T21:37:55Z"
+ "enriched_at": "2026-10-24T04:58:15Z"
 }
