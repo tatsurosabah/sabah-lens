@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-24T11:26:53Z",
- "count": 293,
+ "updated": "2026-10-24T16:10:15Z",
+ "count": 294,
  "tags": {
-  "入管・摘発": 198,
+  "入管・摘発": 199,
   "市民権": 39,
   "無国籍": 33,
   "子ども": 22,
@@ -15,32 +15,32 @@
   "教育": 3
  },
  "sources": {
-  "Sabah Media": 47,
+  "Sabah Media": 48,
   "TV Sabah News": 38,
-  "Daily Express Malaysia": 23,
+  "Daily Express Malaysia": 24,
   "NST Online": 16,
   "The Star": 14,
   "sabahnews.com.my": 13,
   "Borneo Post": 13,
   "Berita Harian": 9,
   "Malay Mail": 9,
-  "Astro Awani": 7,
-  "Saluran 122": 7,
+  "Astro Awani": 8,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
+  "Saluran 122": 6,
   "Jesselton Times": 6,
   "Sayang Sabah": 5,
   "MalaysiaGazette": 5,
-  "Harian Metro": 5,
   "Portal Berita RTM": 5,
   "THE MALAYSIA PRESS": 4,
   "Sabah News": 4,
   "tvsabahnews.com": 4,
+  "Harian Metro": 4,
   "Sabah Post": 4,
-  "Bernama": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "PressReader": 2,
@@ -49,6 +49,7 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -69,6 +70,49 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
+   "summary": "Lahad Datu: Jabatan Imigresen (JIM) Sabah memindahkan seramai 285 pendatang asing tanpa izin (PATI) warga Filipina ke negara asal menerusi Program Pemindahan Tahanan Asing di Pelabuhan Lahad Datu di sini, semalam.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWtqT194MWtsN0J6YUJJNzlpbVRtNmVSOHAzUHdHcWhDNGJfbk9nVGRZYWd1ZXdnNUttcnEyUEhIUms5b2RYSkZkUjRHQ1lpV015VDZVNS1wd1dJbmdTZTlfWU1hTjhSRllzcGl5ekZ6eHNJVGEwMnJCY3FSU1ZCOHNjRGphZ0pqbXNpYnk4bkpRdVE?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-10-24T11:08:34Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "276baf4501f1",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "帰化したフィリピン人285人が母国に送還された",
+   "first_seen": "2026-08-15T18:57:16Z",
+   "url_real": "https://www.hmetro.com.my/mutakhir/2026/05/1357850/285-pati-warga-filipina-dihantar-pulang-ke-negara-asal",
+   "image": "https://assets.hmetro.com.my/images/articles/pati14-o_HMfield_image_socialmedia.var_1778747960.jpg",
+   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU7iW7LH-i8UiDkPiKvXkXpTx-3yBkx3klaOxeqCS7tto18TwzH-ZxsTnBZ7zxaAn6bA",
+   "site_name": "Harian Metro",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "Lahad Datu: Jabatan Imigresen (JIM) Sabah memindahkan seramai 285 pendatang asing tanpa izin (PATI) warga Filipina ke negara asal menerusi Program Pemindahan Tahanan Asing di Pelabuhan Lahad Datu di sini, semalam.\n\nSemua PATI terbabit dihantar pulang ke Pelabuhan Bongao di Tawi-Tawi, Filipina menggunakan feri komersial selepas selesai menjalani hukuman mengikut peruntukan undang-undang ditetapkan.\n\nProgram itu membabitkan tahanan dari Depot Imigresen Papar dan Depot Imigresen Sandakan.\n\nJIM Sabah dalam kenyataan hari ini berkata, daripada jumlah itu, seramai 88 lelaki dewasa, 82 perempuan dewasa, 60 kanak-kanak lelaki dan 55 kanak-kanak perempuan berusia antara lapan bulan hingga 77 tahun.\n\nMenurutnya, kanak-kanak terbabit turut diiringi ibu bapa atau penjaga masing-masing sepanjang proses penghantaran pulang.\n\n\"Sehingga hari ini, seramai 1,835 warga Filipina sudah dipindahkan ke negara asal daripada keseluruhan 2,970 tahanan PATI warga asing.\n\n\"Semua tahanan yang dipindahkan memiliki dokumen perjalanan sah selain selesai menjalani hukuman yang ditetapkan,\" katanya.\n\nMenurut kenyataan itu, majikan di negeri ini turut disaran menyertai Sistem Pengurusan Bersepadu Pekerja Asing dan Bukan Pemastautin Negeri Sabah (SWIMS) yang dilaksanakan kerajaan negeri.\n\nKatanya, sistem berkenaan diwujudkan bagi mengurus serta merekod keberadaan pekerja asing di Sabah selain membantu mengekang lambakan PATI dan isu dokumentasi.",
+   "body_ja": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。\n\n関与した不法滞在者は全員、法の規定に従って刑期を終えた後、商業フェリーを利用してフィリピンのタウィタウィ州ボンガオ港に送還された。\n\nこのプログラムには、パパール入国管理所とサンダカン入国管理所の拘留者が参加しました。\n\nジム・サバ氏は本日の声明で、このうち、成人男性88人、成人女性82人、少年60人、少女55人は生後8カ月から77歳までであると述べた。\n\n同氏によると、関与した子供たちは本国送還の過程でそれぞれの親や保護者も同伴していたという。\n\n「今日までに、合計2,970人のPATI外国人のうち、合計1,835人のフィリピン人が母国に移送されました。\n\n「移送された囚人は全員、所定の刑期を終えたほか、有効な渡航書類を持っている」と同氏は述べた。\n\n声明によると、州内の雇用主は、州政府が実施する外国人および非居住者サバ州労働者のための統合管理システム（SWIMS）に参加することも推奨されている。\n\n同氏は、このシステムはPATIダンピングや文書化問題の抑制に役立つだけでなく、サバ州における外国人労働者の存在を管理し記録するために創設されたと述べた。",
+   "summary_ja2": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。「今日までに、合計2,970人のPATI外国人のうち、合計1,835人のフィリピン人が母国に移送されました。「移送された囚人は全員、所定の刑期を終えたほか、有効な渡航書類を持っている」と同氏は述べた。",
+   "summary_ja": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 285,
+     "kind": "送還",
+     "raw": "285 PATI"
+    },
+    {
+     "n": 285,
+     "kind": "拘束",
+     "raw": "285 pendatang"
+    }
+   ]
+  },
   {
    "title": "Sabah deports 285 illegal Filipinos from Lahad Datu",
    "summary": "KOTA KINABALU: A total of 285 illegal immigrants, including infants, were deported from Lahad Datu, Sabah, to the Philippines, says the state Immigration Department.",
@@ -285,7 +329,7 @@
    ],
    "title_ja": "サバ州移民局、不法移民169人を逮捕",
    "first_seen": "2026-10-22T05:14:07Z",
-   "url_real": "https://borneobulletin.com.bn/sabah-immigration-arrests-169-undocumented-migrants/?__cf_chl_rt_tk=NBPtYcKj3DA_LuBJRsiOjix2QXQbOVm.OsqVCxAMp1E-1792841256-1.0.1.1-D1KSa.S.AJB2tpngvar7UXQIBqvC3o4MgpWIMj1Drtw",
+   "url_real": "https://borneobulletin.com.bn/sabah-immigration-arrests-169-undocumented-migrants/",
    "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja": "",
@@ -348,7 +392,7 @@
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
    "summary": "Sabah Immigration Department, JIM, enforcement ope",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-19T08:54:00Z",
    "lang": "en",
    "origin": "news",
@@ -3517,7 +3561,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=AimoJ8jGTwIQ7kNvwH5xtMq&_nc_oc=AdrcFfmbm3ScyFmxSVwkW_5ghjvC72w726y1hBi-vJ-JMhi-6Hd00afOzxmocS_EaQQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=JsyOx4JK2PKp9wdXZoAA9A&_nc_ss=79289&oh=00_AQMOQFow6ynOxZd5lPdpt7FRoGMNpdvOqDKi0r5glJeuRQ&oe=6AE2716D",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=AimoJ8jGTwIQ7kNvwG2XEor&_nc_oc=Adrra5USIOhwlCgGmyLhd2aas2RzmIvyO7UwN2SmLkGKeXseCaEaQonKJICAn1Y6A5U&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MEST4KW_kYR-KL2tQBgzgA&_nc_ss=79289&oh=00_AQO53msoIeRmeXBvf6vVM3V8jIh_66HdYF7CGXaLQ4VfLg&oe=6AE2A9AD",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -3570,6 +3614,29 @@
      "raw": "541 individu"
     }
    ]
+  },
+  {
+   "title": "Immigration officer killed in Pan Borneo Highway crash",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHZ0WjNDQ1BUMkdtaGlFZUR4dV9JM2YyV3h6TkdWYjY2V2RIenA5Zkc1b20wR2JwMHdkRWhZLXloZ1JHci1PdlZDVVljc19CTmVDRGtjMDNQWGU5dk15dEVoRnJaTlYxNjQ2b0JGc2NkNDVNekdXc3dRMmZFNkZPU2k3VUpsYzhMYVVzUkRyS1EtUmZpNzhSa3YxTEFuSlFm?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-07-24T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "3ae93ba9d8e5",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "パンボルネオ高速道路事故で入国審査官死亡",
+   "summary_ja": "",
+   "first_seen": "2026-10-24T16:10:13Z",
+   "impact": 1,
+   "issues": [],
+   "figures": [],
+   "url_real": "https://www.dailyexpress.com.my/news/285370/immigration-officer-killed-in-pan-borneo-highway-crash/",
+   "enriched": "blocked",
+   "enriched_v": 3
   },
   {
    "title": "130 PATI Ditahan Dalam Serbuan Imigresen Di Lima Daerah Sabah",
@@ -3789,10 +3856,10 @@
    ]
   },
   {
-   "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan – KDN",
+   "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "KUALA LUMPUR: Sebanyak 3,640 permohonan kewarganegaraan di Sabah masih dalam proses pertimbangan bagi tempoh 2025 hingga 31 Mei lalu, manakala sebanyak 10 permohonan sudah diluluskan dan sijil kewarganegaraan diserahkan kepada pemohon.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmQ2c2hvOG11MHhEWUtjcWNRVFd6X3Z3V3ZCUktSX09ZcmtGeHlSU3BucHZ0WHBaNnpBUjE3aHVzRjhOTWlUclJIdTVORGJrV3Y1aWRMUnFqVHhaQUk4VUhqRXhsYW5NaFE0b0VFLTV2a1VsQnBWclZlNFloR1ZFWFNybmNPT3F6Y1FSaXlMVjU0ajNLaXVNSXlDY0swbm5QdURyUExFTnNydw?oc=5",
-   "source": "Saluran 122",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclc3WXBHajlVVzdSel9ELTlrcDd5aXAzNkVmVWR4LTM2RXM2RWwzb1BpczdEQlpjTHN0QmpLRUNUTzNRblRuQXZvT0dTSkd5X19FLXY4Y0hDMW5LZERaSW1wVjdsYkpaYUlKel8yeUJWVm91dHpDQU1UR2tIdmpEZXZlV01ZNXZ5a2xHY1B4Si03bFl2a0xyYnBNc2NSVm93VTJxSUpWdjVlM2NGN1VmaGt3?oc=5",
+   "source": "Astro Awani",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -5008,7 +5075,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=nf3SX7-L-fMQ7kNvwHf_cBV&_nc_oc=AdrHlDwbH_IU0fwOsSPvHmeQEU88xQ_4R3oY6ajj9-5tzLkDEI_Lw27rhQkqpXc-mxc&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=-aT7Uwk94-SSsA4I5Gk-aw&_nc_ss=79289&oh=00_AQMIWbPEiN2YJIMMPGgk4IQ8yTMTOvDsXtYM14CE9ACsaQ&oe=6AE27A6F",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=nf3SX7-L-fMQ7kNvwHQLk7Q&_nc_oc=AdqX9-mt9w1RTqnmndq5wSbizGYXIBAv_Q1sxAPG3Uo41_3vQRa77ZaBgdgIU7uA-A4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=IKmQn-dMbMyszjUPo8h5cA&_nc_ss=79289&oh=00_AQO3b2d7JALZe1azqYe7zRJqoLsYmxAE7pQSG42hUOyKuw&oe=6AE2B2AF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5650,7 +5717,7 @@
    "date": "2026-06-11T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah immigration detention OR deportation",
    "id": "d9cf307b9450",
    "tags": [
     "入管・摘発",
@@ -6549,49 +6616,6 @@
     "労働・雇用"
    ],
    "figures": [
-    {
-     "n": 285,
-     "kind": "拘束",
-     "raw": "285 pendatang"
-    }
-   ]
-  },
-  {
-   "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
-   "summary": "Lahad Datu: Jabatan Imigresen (JIM) Sabah memindahkan seramai 285 pendatang asing tanpa izin (PATI) warga Filipina ke negara asal menerusi Program Pemindahan Tahanan Asing di Pelabuhan Lahad Datu di sini, semalam.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9ZdW9sSlFHSXpKOUg5bHFMeU9hdGNyV18tZzd4YldkWDJnMmg2c2xLZ3lhOXl5MnhpUHN4c3gwQmtfay1UdXgxa0VGSVJUZ1Q5cmxxbF9IeTVaSEZqa0gydnRsSlhfakM2VWliczJHSGlHdkV5RFViTnJiWXJNLVIwRTBlT0FkcFRaVE56NmpnUlBsN2REYjhUSWlWUDJaazB4LVk0TXfSAa4BQVVfeXFMTklja3F3VVhHbHQ3MlR2dnU0VHJVT18yLUNaVVFzTjVzWGRJV3pydVBjYUc4UTBWS19nWjExNUxKY09PRGhlU2wzQjRJTHhiU2l5QjdOaG1ZSVk0cUJyZzd6UHVuYldWclVhMlh2VnlLdGx5NVNRQzNWVW5TYWppMVJwQV96Q2J3QWllclMyQU8yM1luYWZTLTFLM21HZ0JoM2JvY2pOSXRuYU9TaEdn?oc=5",
-   "source": "Harian Metro",
-   "date": "2026-05-14T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "276baf4501f1",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "帰化したフィリピン人285人が母国に送還された",
-   "first_seen": "2026-08-15T18:57:16Z",
-   "url_real": "https://www.hmetro.com.my/mutakhir/2026/05/1357850/285-pati-warga-filipina-dihantar-pulang-ke-negara-asal",
-   "image": "https://assets.hmetro.com.my/images/articles/pati14-o_HMfield_image_socialmedia.var_1778747960.jpg",
-   "thumb": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU7iW7LH-i8UiDkPiKvXkXpTx-3yBkx3klaOxeqCS7tto18TwzH-ZxsTnBZ7zxaAn6bA",
-   "site_name": "Harian Metro",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "Lahad Datu: Jabatan Imigresen (JIM) Sabah memindahkan seramai 285 pendatang asing tanpa izin (PATI) warga Filipina ke negara asal menerusi Program Pemindahan Tahanan Asing di Pelabuhan Lahad Datu di sini, semalam.\n\nSemua PATI terbabit dihantar pulang ke Pelabuhan Bongao di Tawi-Tawi, Filipina menggunakan feri komersial selepas selesai menjalani hukuman mengikut peruntukan undang-undang ditetapkan.\n\nProgram itu membabitkan tahanan dari Depot Imigresen Papar dan Depot Imigresen Sandakan.\n\nJIM Sabah dalam kenyataan hari ini berkata, daripada jumlah itu, seramai 88 lelaki dewasa, 82 perempuan dewasa, 60 kanak-kanak lelaki dan 55 kanak-kanak perempuan berusia antara lapan bulan hingga 77 tahun.\n\nMenurutnya, kanak-kanak terbabit turut diiringi ibu bapa atau penjaga masing-masing sepanjang proses penghantaran pulang.\n\n\"Sehingga hari ini, seramai 1,835 warga Filipina sudah dipindahkan ke negara asal daripada keseluruhan 2,970 tahanan PATI warga asing.\n\n\"Semua tahanan yang dipindahkan memiliki dokumen perjalanan sah selain selesai menjalani hukuman yang ditetapkan,\" katanya.\n\nMenurut kenyataan itu, majikan di negeri ini turut disaran menyertai Sistem Pengurusan Bersepadu Pekerja Asing dan Bukan Pemastautin Negeri Sabah (SWIMS) yang dilaksanakan kerajaan negeri.\n\nKatanya, sistem berkenaan diwujudkan bagi mengurus serta merekod keberadaan pekerja asing di Sabah selain membantu mengekang lambakan PATI dan isu dokumentasi.",
-   "body_ja": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。\n\n関与した不法滞在者は全員、法の規定に従って刑期を終えた後、商業フェリーを利用してフィリピンのタウィタウィ州ボンガオ港に送還された。\n\nこのプログラムには、パパール入国管理所とサンダカン入国管理所の拘留者が参加しました。\n\nジム・サバ氏は本日の声明で、このうち、成人男性88人、成人女性82人、少年60人、少女55人は生後8カ月から77歳までであると述べた。\n\n同氏によると、関与した子供たちは本国送還の過程でそれぞれの親や保護者も同伴していたという。\n\n「今日までに、合計2,970人のPATI外国人のうち、合計1,835人のフィリピン人が母国に移送されました。\n\n「移送された囚人は全員、所定の刑期を終えたほか、有効な渡航書類を持っている」と同氏は述べた。\n\n声明によると、州内の雇用主は、州政府が実施する外国人および非居住者サバ州労働者のための統合管理システム（SWIMS）に参加することも推奨されている。\n\n同氏は、このシステムはPATIダンピングや文書化問題の抑制に役立つだけでなく、サバ州における外国人労働者の存在を管理し記録するために創設されたと述べた。",
-   "summary_ja2": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。「今日までに、合計2,970人のPATI外国人のうち、合計1,835人のフィリピン人が母国に移送されました。「移送された囚人は全員、所定の刑期を終えたほか、有効な渡航書類を持っている」と同氏は述べた。",
-   "summary_ja": "ラハダトゥ：サバ州入国管理局（JIM）は昨日、ここラハダトゥ港での外国人抑留者移送プログラムを通じて、合計285人の不法移民（PATI）をフィリピンから出身国に移送した。",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還",
-    "労働・雇用"
-   ],
-   "figures": [
-    {
-     "n": 285,
-     "kind": "送還",
-     "raw": "285 PATI"
-    },
     {
      "n": 285,
      "kind": "拘束",
@@ -10869,5 +10893,5 @@
    ]
   }
  ],
- "enriched_at": "2026-10-24T11:29:32Z"
+ "enriched_at": "2026-10-24T16:13:43Z"
 }
