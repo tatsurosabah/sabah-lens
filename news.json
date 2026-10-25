@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T16:42:14Z",
- "count": 293,
+ "updated": "2026-10-25T21:06:45Z",
+ "count": 294,
  "tags": {
-  "入管・摘発": 198,
+  "入管・摘発": 199,
   "市民権": 39,
   "無国籍": 33,
   "子ども": 22,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 48,
-  "TV Sabah News": 38,
+  "TV Sabah News": 39,
   "Daily Express Malaysia": 24,
   "NST Online": 16,
   "The Star": 14,
@@ -70,6 +70,44 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "JIM Sabah Tahan 93 PATI",
+   "summary": "Oleh: Nurul Fazliana Norman",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VNXVIalFoa01aQTdiektXU0VOVzFid1ZISW9Tb0lEMlBNeHhZNkNOd2hGNzdqdk9aZFBKdzVWOXpMX09oNkNiamQzdXQtMkxOWEZZS1E0NWZkSHRy?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-10-25T20:13:40Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "320215b7d364",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ氏は93 PATIを保有",
+   "summary_ja": "著者: ヌルル・ファズリアナ・ノーマン",
+   "first_seen": "2026-10-25T21:06:43Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 255,
+     "kind": "拘束",
+     "raw": "255 individu"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/jim-sabah-tahan-93-pati/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/10/IMG_3730.jpeg",
+   "image_alt": "JIM Sabah tahan 93 PATI",
+   "site_name": "TV Sabah | News Portals",
+   "body": "KOTA KINABALU: 25 Oktober 2026 – Jabatan Imigresen Malaysia (JIM) Negeri Sabah menahan 93 pendatang asing tanpa izin (PATI) dalam kira-kira 15 operasi penguatkuasaan di enam daerah sejak 20 hingga 23 Oktober lalu.\n\nOperasi itu dijalankan di Kota Kinabalu, Kudat, Keningau, Ranau, Lahad Datu dan Semporna untuk membanteras kehadiran PATI dan mengekang penyalahgunaan kemudahan imigresen.\n\nJIM Sabah memaklumkan 255 individu diperiksa sepanjang operasi itu, dengan 93 ditahan kerana disyaki melanggar undang-undang imigresen.\n\nJumlah tangkapan itu merangkumi 64 warga Filipina, 18 warga Indonesia dan 11 warga Pakistan.\n\nWarga Filipina melibatkan 18 lelaki dewasa, 21 perempuan dewasa, lapan kanak-kanak lelaki dan 17 kanak-kanak perempuan.\n\nWarga Indonesia melibatkan enam lelaki dewasa, lima perempuan dewasa, lima kanak-kanak lelaki dan dua kanak-kanak perempuan. Semua 11 warga Pakistan yang ditahan ialah lelaki dewasa.\n\nJIM Sabah menegaskan operasi penguatkuasaan diteruskan secara berterusan di lokasi strategik seluruh negeri untuk memastikan pematuhan undang-undang imigresen.\n\nOrang ramai diingatkan supaya tidak melindungi, menggaji atau membantu warga asing yang melanggar undang-undang negara.",
+   "body_ja": "コタキナバル：2026年10月25日 - サバ州のマレーシア入国管理局（JIM）は、10月20日から23日まで6地区で約15件の取締りを実施し、不法移民（PATI）93人を逮捕した。\n\nこの作戦は、不法滞在者の存在と闘い、移民施設の乱用を抑制するために、コタキナバル、クダット、ケニンガウ、ラナウ、ラハダトゥ、センポルナで実施された。\n\nジム・サバ州は、作戦中に255人が検査され、93人が移民法違反の疑いで拘束されたと発表した。\n\n逮捕者の合計には、フィリピン人64人、インドネシア人18人、パキスタン人11人が含まれている。\n\nフィリピン人には成人男性18人、成人女性21人、少年8人、少女17人が含まれていた。\n\nインドネシア人には成人男性6人、成人女性5人、男子5人、女子2人が含まれる。逮捕されたパキスタン人11人は全員成人男性。\n\nジム・サバ氏は、移民法の順守を確保するため、州内の戦略的な場所で強制執行活動を継続的に継続すると主張している。\n\n国民は、国の法律に違反する外国人を保護したり、雇用したり、援助したりしないよう注意を喚起されます。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "コタキナバル：2026年10月25日 - サバ州のマレーシア入国管理局（JIM）は、10月20日から23日まで6地区で約15件の取締りを実施し、不法移民（PATI）93人を逮捕した。この作戦は、不法滞在者の存在と闘い、移民施設の乱用を抑制するために、コタキナバル、クダット、ケニンガウ、ラナウ、ラハダトゥ、センポルナで実施された。インドネシア人には成人男性6人、成人女性5人、男子5人、女子2人が含まれる。"
+  },
   {
    "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "Lahad Datu: Jabatan Imigresen (JIM) Sabah memindahkan seramai 285 pendatang asing tanpa izin (PATI) warga Filipina ke negara asal menerusi Program Pemindahan Tahanan Asing di Pelabuhan Lahad Datu di sini, semalam.",
@@ -494,6 +532,42 @@
    ]
   },
   {
+   "title": "Imigresen Sabah hantar pulang 140 PATI Indonesia",
+   "summary": "Jabatan Imigresen (JIM) Sabah memaklumkan, mereka berumur antara setahun hingga 71 tahun terdiri daripada 96 lelaki, 30 wanita, 12 kanak-kanak lelaki serta dua kanak-kanak perempuan, dengan kesemuanya adalah tahanan Depot Imigresen Kota Kinabalu serta Tawau.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2k3MDFOQkNaei1UM1I2amVaSUhlMGVWMEs5MmROdkFISjdoWWxSbE9yVE5RcFc5alZLZk5nS2p5VEVBWmYycDQxOHdRcmo2ZXJBOEo0Z0hFbUc3YTdPQ2sxcU0yUjRGWGdtbUR1c2lQcW1yUlMtME1XSzBmQnZPRDFqLTdsZlZm?oc=5",
+   "source": "Astro Awani",
+   "date": "2026-10-17T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "b2072a88c976",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、インドネシア人PATI140人を帰国させた",
+   "first_seen": "2026-10-16T16:51:57Z",
+   "url_real": "https://www.astroawani.com/video/imigresen-sabah-hantar-pulang-140-pati-indonesia",
+   "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s2.dmcdn.net/v/g6YhA1gqatwMn8NyP",
+   "site_name": "Awani",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) All Rights Reserved.\n\nDapatkan cerita gosip artis & berita hiburan terkini, serta program tempatan\n\nDapatkan berita hari ini dan berita terkini Malaysia, Dunia, Sukan, Hiburan, Teknologi, Gaya Hidup, Automotif, Politik, Foto, Video dan Siaran Langsung TV\n\nAstro’s Chinese channel programme updates, events, celebrity trends, entertainment\n\nMandarin news and infotainment platform that takes you to the leading topics\n\nCatch the latest news and updates on local and global sporting events\n\nIndian entertainment, events hub highlighting Indian top shows and news\n\nFeaturing Entertainment, Lifestyle and Kaw!, Malay video section and more\n\nChoose and pay for what you watch with our prepaid service, NJOI.\n\nEnjoy Malaysia`s best radio, videos, podcasts, prizes and more! Get SYOK, everything got!",
+   "body_ja": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。\n\n最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます\n\nマレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。\n\nAstro の中国語チャンネルの番組最新情報、イベント、有名人のトレンド、エンターテイメント\n\n主要なトピックを紹介する北京語のニュースとインフォテインメント プラットフォーム\n\n地元および世界的なスポーツ イベントに関する最新ニュースや最新情報を入手します。\n\nインドの人気番組やニュースを紹介するインドのエンターテイメント、イベントのハブ\n\nエンターテイメント、ライフスタイル、Kaw!、マレー語ビデオセクションなどを特集\n\nプリペイド サービス NJOI を使用して、視聴するものを選択して支払います。\n\nマレーシア最高のラジオ、ビデオ、ポッドキャスト、賞品などをお楽しみください。 Get SHOCK、すべてが手に入る！",
+   "summary_ja2": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます  マレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。",
+   "summary_ja": "サバ州入国管理局（JIM）は、彼らは1歳から71歳までで、男性96人、女性30人、少年12人、少女2人で構成されており、全員がコタキナバルとタワウの入国管理所に拘留されていると発表した。",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 12,
+     "kind": "拘束",
+     "raw": "12 kanak-kanak"
+    }
+   ]
+  },
+  {
    "title": "140 PATI warga Indonesia dihantar pulang ke negara asal",
    "summary": "Seramai 140 pendatang asing tanpa izin (PATI) warga Indonesia dihantar pulang ke negara asal melalui Pelabuhan Tawau ke Pelabuhan Nunukan, Indonesia, menggunakan feri komersial.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU5fcjJDSThQYlZ2V1g5U2xYSWExREVpaWhNb2t0X0dkeW5TVVh2eVY3UFF2YzR1anoxbGJNTmlsMlZJX09jZXhsemk0aW15ZnpIR21aMURVQ0lhakpqZWdNbXhET3hsRENrRmRqY1luZTlOWWdISm5kNWdkSXlmVkkydkQwQUtzeklXb0lqV2J2MUZK?oc=5",
@@ -527,42 +601,6 @@
      "n": 140,
      "kind": "送還",
      "raw": "140 PATI"
-    }
-   ]
-  },
-  {
-   "title": "Imigresen Sabah hantar pulang 140 PATI Indonesia",
-   "summary": "Jabatan Imigresen (JIM) Sabah memaklumkan, mereka berumur antara setahun hingga 71 tahun terdiri daripada 96 lelaki, 30 wanita, 12 kanak-kanak lelaki serta dua kanak-kanak perempuan, dengan kesemuanya adalah tahanan Depot Imigresen Kota Kinabalu serta Tawau.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2k3MDFOQkNaei1UM1I2amVaSUhlMGVWMEs5MmROdkFISjdoWWxSbE9yVE5RcFc5alZLZk5nS2p5VEVBWmYycDQxOHdRcmo2ZXJBOEo0Z0hFbUc3YTdPQ2sxcU0yUjRGWGdtbUR1c2lQcW1yUlMtME1XSzBmQnZPRDFqLTdsZlZm?oc=5",
-   "source": "Astro Awani",
-   "date": "2026-10-16T16:17:01Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "b2072a88c976",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州移民局、インドネシア人PATI140人を帰国させた",
-   "first_seen": "2026-10-16T16:51:57Z",
-   "url_real": "https://www.astroawani.com/video/imigresen-sabah-hantar-pulang-140-pati-indonesia",
-   "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s2.dmcdn.net/v/g6YhA1gqatwMn8NyP",
-   "site_name": "Awani",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) All Rights Reserved.\n\nDapatkan cerita gosip artis & berita hiburan terkini, serta program tempatan\n\nDapatkan berita hari ini dan berita terkini Malaysia, Dunia, Sukan, Hiburan, Teknologi, Gaya Hidup, Automotif, Politik, Foto, Video dan Siaran Langsung TV\n\nAstro’s Chinese channel programme updates, events, celebrity trends, entertainment\n\nMandarin news and infotainment platform that takes you to the leading topics\n\nCatch the latest news and updates on local and global sporting events\n\nIndian entertainment, events hub highlighting Indian top shows and news\n\nFeaturing Entertainment, Lifestyle and Kaw!, Malay video section and more\n\nChoose and pay for what you watch with our prepaid service, NJOI.\n\nEnjoy Malaysia`s best radio, videos, podcasts, prizes and more! Get SYOK, everything got!",
-   "body_ja": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。\n\n最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます\n\nマレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。\n\nAstro の中国語チャンネルの番組最新情報、イベント、有名人のトレンド、エンターテイメント\n\n主要なトピックを紹介する北京語のニュースとインフォテインメント プラットフォーム\n\n地元および世界的なスポーツ イベントに関する最新ニュースや最新情報を入手します。\n\nインドの人気番組やニュースを紹介するインドのエンターテイメント、イベントのハブ\n\nエンターテイメント、ライフスタイル、Kaw!、マレー語ビデオセクションなどを特集\n\nプリペイド サービス NJOI を使用して、視聴するものを選択して支払います。\n\nマレーシア最高のラジオ、ビデオ、ポッドキャスト、賞品などをお楽しみください。 Get SHOCK、すべてが手に入る！",
-   "summary_ja2": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます  マレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。",
-   "summary_ja": "サバ州入国管理局（JIM）は、彼らは1歳から71歳までで、男性96人、女性30人、少年12人、少女2人で構成されており、全員がコタキナバルとタワウの入国管理所に拘留されていると発表した。",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還"
-   ],
-   "figures": [
-    {
-     "n": 12,
-     "kind": "拘束",
-     "raw": "12 kanak-kanak"
     }
    ]
   },
@@ -3519,7 +3557,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=JCFOLCkfpiUQ7kNvwFcW-M2&_nc_oc=AdqHT8lDjoBtu2urBIbIB_HoJw0ypxUsuystikOLKblCN5nLxX5HP9uEmLirUbyJtcU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Zz1X4bM2kHVaX_skjca5Og&_nc_ss=79289&oh=00_AQOgzsjPEaI3f-jv7EUcIVe3SwrZy6QL2g90zsb1b4Xv4Q&oe=6AE3FB2D",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=JCFOLCkfpiUQ7kNvwEBEoV-&_nc_oc=AdrWXiBbQh-_m9Nm0ik6siN9AuBBmylxbssinwr18gJkU5Jil42OuZ_nCOxThKY4SPE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ilA1sCzy1ykQv807kSZ08Q&_nc_ss=79289&oh=00_AQNtRcioY3vN-_CJRuBlV59SQLpru61JkW92QUoJIyc57w&oe=6AE4336D",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5022,18 +5060,18 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "無国籍",
+    "人権・NGO",
     "市民権",
     "政策・政治",
-    "人権・NGO"
+    "無国籍"
    ],
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=nf3SX7-L-fMQ7kNvwHMRvZ6&_nc_oc=AdqSHBOTtMWKA25Jo14rhlUTMM1npIj_NAzursPwWdKXavT-vBD8DsMqa2IVjQkkljE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Cnb-71JpFvWjyt65GGfjlg&_nc_ss=79289&oh=00_AQMjjWD60GHOy5zcB8T3BAV9eLEQFSkVbB0xE7RJgP_OyA&oe=6AE4042F",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=nf3SX7-L-fMQ7kNvwFVLL_s&_nc_oc=AdoWcAi74x3l8xnk7bmsp4p5V7ZuzvmmrsqkuMUIa4sPrCXfxGS17509PFL3ujpXRfs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=86DYj2HunO-AmEb_NTfc8A&_nc_ss=79289&oh=00_AQNvgdNKGa8kYsrSEe4vAFN_RlZbphxecA92bU3MNZYe3Q&oe=6AE43C6F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5220,7 +5258,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -6435,12 +6473,12 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "32e62c602edb",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6739,12 +6777,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6970,11 +7008,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "917dcdd3c5f6",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7103,7 +7141,7 @@
   {
    "title": "From sea gypsies to street kids: Sabah's stateless children fighting to survive",
    "summary": "KOTA KINABALU:  Last year, a video of migrant children grabbing leftovers from a table at a restaurant went viral, shocking netizens.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3loclNubnl4MmNWWWFoVG1UY1FJakV3NWxKek8wZkNEWml3anVUOHlRQ0NVc1NjQm1HZmUwakVwOHVEU3Z5OWFHQl9fclh0aGU1WFFCdHc2RWg5QTEyd3lSaHJGQzNTOHJ4SjczLUl1bElsNnpZUGNpc1BmOUtSa0w4RHRoZV8zbmtlclRnVmlIN2E3WVJOa3BQcEtVSGdQMUNWc0NJckU1TnZQNlZZNWtIZnBTanVW0gG-AUFVX3lxTE5OX0VSOFV2VUVrRG93dUd2NUNUZTFOcjg3MF9RdWUwelJ6MUlic3pjX2JfaXlIV3dWNHN1cUNScnVOTGEzX0ZjbUVfRXBrOUdTbzBudllPNXN6cGhGNDkwcHFnSXhYWUM3dW1fWDJ0bEEwZHpMYXNvUlBEejR6cWJqcWZnYUY2RGFMcjBPZmlYNDRmS3cwYmdPSS1KNVRnbG96MnNxeVFPZTVBVFZYa3NKVWxGVWY2VmVESk5tbXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdXRYZFlkczRUYUQzbUE2THAxM1RXZFhtQUMxUkw2SUlDUmFRT2NJR2dPSThTdWVTNGVrX3puMVFfVGNJUGU1VEItMy1GRmVfaGdYQURMb1hXMFd4Ni1yMl8yajhGZ1R6NGI1dUQ0dzVSS3p4Z25jVHZpMENCeXBzR2h6V0p3c2hGWnMyWi12NExxTkF0aGhlVjZoT3FGS0VKeDltQ2Z1b29hSGJ1T1ktWHRURzJDdVNlM3UtRDlHWG00TTRUeHFsMEpLUUYwOWtUVFhYUS1Sb2dSRENSZmZKdGdwR1gzdnhDNHkxY3pnemZzUC1mcTEyQzFSRVVTeWx3a3VGUFJ0TEx2MWtudlE4RXdDN3F1SFU1MmhxOS1YbEU3dVFDRTcyR09YVF9RSDdRY2pN0gG-AUFVX3lxTE5OX0VSOFV2VUVrRG93dUd2NUNUZTFOcjg3MF9RdWUwelJ6MUlic3pjX2JfaXlIV3dWNHN1cUNScnVOTGEzX0ZjbUVfRXBrOUdTbzBudllPNXN6cGhGNDkwcHFnSXhYWUM3dW1fWDJ0bEEwZHpMYXNvUlBEejR6cWJqcWZnYUY2RGFMcjBPZmlYNDRmS3cwYmdPSS1KNVRnbG96MnNxeVFPZTVBVFZYa3NKVWxGVWY2VmVESk5tbXc?oc=5",
    "source": "NST Online",
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
@@ -8148,7 +8186,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
@@ -10851,5 +10889,5 @@
    ]
   }
  ],
- "enriched_at": "2026-10-25T16:45:12Z"
+ "enriched_at": "2026-10-25T21:09:50Z"
 }
