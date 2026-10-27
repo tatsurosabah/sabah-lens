@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:41:06Z",
+ "updated": "2026-10-27T22:30:01Z",
  "count": 294,
  "tags": {
   "入管・摘発": 199,
@@ -367,7 +367,7 @@
    "title_ja": "サバ州移民局、不法移民169人を逮捕",
    "first_seen": "2026-10-22T05:14:07Z",
    "url_real": "https://borneobulletin.com.bn/sabah-immigration-arrests-169-undocumented-migrants/",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -3556,9 +3556,9 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=JCFOLCkfpiUQ7kNvwEBQKeR&_nc_oc=AdoGl8mg0B4Zpezd2BWxWfENuZwKHH0xvjJ9WA0wi7ngxnLH8oGJ9Y1TjqnqUHMBums&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zN-dQxvR1H95ntgBJBNZHw&_nc_ss=79289&oh=00_AQNIhzBbrR7HXgmeIiavsyJf6S4Cbj-Hcm4F3AH3fv1wDg&oe=6AE5F56D",
+   "image": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=JCFOLCkfpiUQ7kNvwGcrMUr&_nc_oc=AdpGlMm6J69Zd4zzq2zUUgpm8EwF-VtdA8oGOYUONVl98hApp0q-KW35hcuSNWi5cvU&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=27h9AxmSsQa4XTrtDsFKXg&_nc_ss=79289&oh=00_AQRKozSCRcJjaD0L5E9aj3N_BcFbWtas5jcAGnUiEJt-aQ&oe=6AE70EAD",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
-   "enriched": "failed",
+   "enriched": "nobody",
    "enriched_v": 3,
    "summary_ja2": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash   同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
    "summary_ja": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash \n\n同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
@@ -3626,7 +3626,7 @@
    "title_ja": "パンボルネオ高速道路事故で入国審査官死亡",
    "first_seen": "2026-10-24T16:10:13Z",
    "url_real": "https://www.dailyexpress.com.my/news/285370/immigration-officer-killed-in-pan-borneo-highway-crash/",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 1,
@@ -4369,7 +4369,7 @@
    "first_seen": "2026-08-15T18:57:16Z",
    "url_real": "https://www.sayangsabah.com.my/2026/07/208-pati-ditahan-dalam-operasi.html",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFEWTHPCoZ0sguUSUF36nYWLuX3TFHQYIIsMvEJZMstB5y1rKqk2MPmgT5Xg52g57ivcpKY8J12k00Vg",
-   "enriched": "failed",
+   "enriched": "thin",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -5070,9 +5070,9 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=R1myzSacmf0Q7kNvwGgznqa&_nc_oc=Adp66gNc9SU7dLa3lLQHwU22ny6yPafTxFcMozJNsONnWw77FcvwcpkFHsYfcS2-Zq4&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zqeu2Ka33JsEAQWL0yUUBA&_nc_ss=79289&oh=00_AQN4qguN__9rPYRummrNvxmfkSpkASpFofOmBBvk04Cwig&oe=6AE5FE6F",
+   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=R1myzSacmf0Q7kNvwE4Julz&_nc_oc=AdptRLWWPB-9MgTwveI_7mIESHqVlrTdO2iKFy5tOy79AN2yWU2O-l7g4MDEWhTZviI&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=BY2COHKq7m3mXBRp-WNVgg&_nc_ss=79289&oh=00_AQREAHg_DtxfSJQcMRJ6TnA4ddYyiYPKUPFOWn6OHkz_wQ&oe=6AE6DF6F",
    "image_alt": "Malaysia Gazette",
-   "enriched": "failed",
+   "enriched": "nobody",
    "enriched_v": 3,
    "summary_ja2": "マレーシア国際人道機関（MHO）は、政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、危険を回避するよう要請している。",
    "summary_ja": "マレーシア国際人道機関（MHO）は、政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、危険を回避するよう要請している。",
@@ -5386,7 +5386,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -5427,7 +5427,7 @@
    "title_ja": "IMM13: サバ州と未だ解決されていない50年前のスキャンダル",
    "first_seen": "2026-09-18T05:02:32Z",
    "url_real": "https://www.youtube.com/watch?v=pbftxPKPDSk",
-   "enriched": "failed",
+   "enriched": "thin",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
    "summary_ja": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
@@ -5724,7 +5724,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282841/minister-calls-for-careful-review-of-imm13-deportation-petition/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/06/IMM_13_22.jpg",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE54Lj0GcOF9dWfI4XNNd3iU6eE2vG9aJYIYO6HWPujAzmiSj8iecYmIY1hvqW3u4YsA",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja2": "タワウ：首相府大臣（サバ州・サラワク問題担当）のダトゥク・ムスタファ・サクムド氏は、サバ州のIMM13文書保有者の国外追放を求める請願は強制されなければならないと述べた。",
    "summary_ja": "タワウ：首相府大臣（サバ州・サラワク問題担当）のダトゥク・ムスタファ・サクムド氏は、サバ州のIMM13文書保有者の国外追放を求める請願は強制されなければならないと述べた。",
@@ -5753,7 +5753,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282868/isu-imm13-petisyen-perlu-dikaji-secara-mendalam-mustapha/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/06/IMM_13_22.jpg",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE54Lj0GcOF9dWfI4XNNd3iU6eE2vG9aJYIYO6HWPujAzmiSj8iecYmIY1hvqW3u4YsA",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja2": "タワウ：サバ州のIMM13文書保有者を国外追放するよう求める請願は、内務省（KDN）やケメントを含む関係者によって徹底的に検討される必要がある。",
    "summary_ja": "タワウ：サバ州のIMM13文書保有者を国外追放するよう求める請願は、内務省（KDN）やケメントを含む関係者によって徹底的に検討される必要がある。",
@@ -5869,7 +5869,7 @@
   {
    "title": "Sabah study shows stateless children excluded from healthcare, schooling and social protection systems",
    "summary": "KOTA KINABALU — Children in Sabah without citizenship documents or recognised nationality are falling behind across every major area of wellbeing, according to a new...",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaDA1aHNlNWtEb1htVlo2U3QtVTNTS2t3NTh4YTBBSDhKRGVuRG94NW1FbjBiUHZGUTdsVDFraW9TSmpsWHlET3UwRTZRZG5GMjJIYzQ1Ri1ZekpJaXVmNE85WFQzcTRzdDlseHZLb3luRC1kbHl0WGVEdnkzSHdhXzhUNUxjcUFTNFhYdUljSGZCemFZY0lFTlphbjRZY0lPQWdCdm05RjFacGxsT0RkSkwtMnJGWmVKczNETkVhT1ZiaE1ndGRzV2lZWEhrR3RRYjlOSDlMVU1wc2lHZkNFc0l4TjhDamRSLTEtQ2cyZVfSAfYBQVVfeXFMTnVJMko3TU5ZV2RTTXZTNTZuOEZENW9pWEFuRm1CR3N6a0cydGMtMnBwYVlSb0x6TzZLSFg5ZmNLaEVIa2VMS3ZVaDdOWXc0cnZCYnh0UFBsY3VReUswN1NBbWRDZU1SaWlPTGRETEVoaFNFcXpZX0ZGbDM1bjFEQV9zMzNCa3QzYTd1T05lQ1JGSzZNTDY1NGd1R3lmR1l1N3NHZDBOOWtJWFFuZHdlQ21Rdm1FVm5FWXVqSkxDUVFqZnZWV0tHOFAwbUlZQXJKanhOb090LVprZ2tBNFFQdHRaMDVXV2dLcW9DVlhISGNLTU9qZ3Jn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaDA1aHNlNWtEb1htVlo2U3QtVTNTS2t3NTh4YTBBSDhKRGVuRG94NW1FbjBiUHZGUTdsVDFraW9TSmpsWHlET3UwRTZRZG5GMjJIYzQ1Ri1ZekpJaXVmNE85WFQzcTRzdDlseHZLb3luRC1kbHl0WGVEdnkzSHdhXzhUNUxjcUFTNFhYdUljSGZCemFZY0lFTlphbjRZY0lPQWdCdm05RjFacGxsT0RkSkwtMnJGWmVKczNETkVhT1ZiaE1ndGRzV2lZWEhrR3RRYjlOSDlMVU1wc2lHZkNFc0l4TjhDamRSLTEtQ2cyZVc?oc=5",
    "source": "Malay Mail",
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
@@ -5910,11 +5910,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah undocumented",
    "id": "109ac503086c",
    "tags": [
-    "医療・福祉",
-    "子ども"
+    "子ども",
+    "医療・福祉"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6171,7 +6171,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282174/perlu-tindakan-segera-isu-tanpa-kewarganegaraan-cadangan-mykas/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/Jafery_Jomion_2.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2rAwDeJTJUuVPbIjgVI38xc4N0bMFk2jJRp4tPT6D1BavH5Y0o3isgygv4Gssr3dWzj_Yx8Oyf2ow0w",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：外国人労働者雇用主協会（ペマバ）サバ州支部は、サバ州の無国籍者問題に対処するために直ちに行動を起こすよう政府に要請し、この提案を支持する。",
    "summary_ja": "コタキナバル：外国人労働者雇用主協会（ペマバ）サバ州支部は、サバ州の無国籍者問題に対処するために直ちに行動を起こすよう政府に要請し、この提案を支持する。",
@@ -6202,7 +6202,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282132/action-urged-on-stateless-issue-mykas-proposal/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/Jafery_Jomion_2.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2rAwDeJTJUuVPbIjgVI38xc4N0bMFk2jJRp4tPT6D1BavH5Y0o3isgygv4Gssr3dWzj_Yx8Oyf2ow0w",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：外国人労働者雇用者協会（ペマバ）サバ州支部は、MyKAS発行提案を支持し、サバ州の無国籍者に対処するための政府の緊急措置を要請した。",
    "summary_ja": "コタキナバル：外国人労働者雇用者協会（ペマバ）サバ州支部は、MyKAS発行提案を支持し、サバ州の無国籍者に対処するための政府の緊急措置を要請した。",
@@ -6318,11 +6318,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "74af7615571b",
    "tags": [
-    "人権・NGO",
-    "市民権"
+    "市民権",
+    "人権・NGO"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6351,7 +6351,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -6361,7 +6361,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/281911/improve-rather-than-replace-mykas-malaysia-international-humanitarian-organisation/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/MHO_220526.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSazZjp8cq7-fgd9-DFkJSq8JWHUS9Afu4Gn6FUYSftnqcMnXDhZcMCXpanigVSuj_Uhdg&fopt=w736-h375-rw-dcBTGSo5ypkS0C",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：マレーシア国際人道機関（MHO）は連邦政府に対し、グリーン一時滞在（MyKAS）政策を改訂するよう要請し、厳格な要件は以下のとおりであると警告した。",
    "summary_ja": "コタキナバル：マレーシア国際人道機関（MHO）は連邦政府に対し、グリーン一時滞在（MyKAS）政策を改訂するよう要請し、厳格な要件は以下のとおりであると警告した。",
@@ -6379,7 +6379,7 @@
    "date": "2026-05-22T01:28:06Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "60468cd2cc44",
    "tags": [
     "市民権",
@@ -6388,7 +6388,7 @@
    "title_ja": "MHO、プトラジャヤにサバ州のMyKas政策を見直すよう要請",
    "first_seen": "2026-09-20T16:23:55Z",
    "url_real": "https://www.dailyexpress.com.my/watch/bRTEfVf-5y0/mho-urges-putrajaya-to-review-mykas-policy-in-sabah/",
-   "enriched": "failed",
+   "enriched": "blocked",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 3,
@@ -6405,11 +6405,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3bc557de9775",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6441,7 +6441,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -6969,16 +6969,16 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "KUALA LUMPUR: A humanitarian organisation has called on the Home Ministry to extend the MyKAS temporary resident identity card to stateless to address a long-running documentation crisis that poses risks to both the affected individuals and national security.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "626eb193d46c",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、文書危機に対処するために無国籍者向けの MyKAS カードを支援",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7074,7 +7074,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -10888,5 +10888,5 @@
    ]
   }
  ],
- "enriched_at": "2026-10-27T12:44:41Z"
+ "enriched_at": "2026-10-27T22:32:53Z"
 }
