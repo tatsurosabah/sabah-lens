@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:32:12Z",
+ "updated": "2026-10-29T22:54:54Z",
  "count": 296,
  "tags": {
   "入管・摘発": 201,
@@ -46,9 +46,9 @@
   "PressReader": 2,
   "The Vibes": 2,
   "Malaysiakini": 2,
+  "The Sun Malaysia": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
-  "The Sun Malaysia": 1,
   "Borneo Daily Bulletin": 1,
   "Bernama": 1,
   "Malaysia-China Insight": 1,
@@ -71,6 +71,82 @@
  },
  "items": [
   {
+   "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
+   "summary": "The Sabah Immigration Department arrested 169 undocumented migrants, including 46 children, during 25 enforcement operations across the state.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
+   "source": "The Sun Malaysia",
+   "date": "2026-10-29T18:22:39Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "d6726ec06f98",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、州全体の一斉検挙で不法移民169人を逮捕",
+   "first_seen": "2026-10-19T22:34:14Z",
+   "url_real": "https://thesun.my/news/malaysia-news/sabah-immigration-arrests-169-illegal-immigrants-in-statewide-sweep/",
+   "image": "https://cms.thesun.my/wp-content/uploads/2026/07/imigresenlori-ber.webp",
+   "image_alt": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
+   "site_name": "The Sun Malaysia",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: The Sabah Immigration Department arrested 169 illegal immigrants in 25 enforcement operations statewide between Oct 13 and Oct 18.\n\nThe Sabah Immigration Department said in a statement today that the arrests followed checks of 530 individuals during operations in Kota Kinabalu, Tawau, Sandakan, Lahad Datu, Kudat, Tenom and Keningau.\n\nAccording to the department, those detained included 131 Philippine nationals, 36 Indonesian nationals and two Pakistani nationals.\n\n“Of the total detained, 46 were children from the Philippines and Indonesia.\n\n“The Sabah Immigration Department will continue to intensify enforcement operations at strategic locations across the state to ensure compliance with immigration laws and to eradicate the presence of illegal immigrants,” the statement read today.\n\nThe department reminded the public not to harbour, employ or assist foreign nationals who violate the country’s laws.\n\nThe public was urged to report any violations through official channels, including the Sabah Immigration Department’s Public Complaint Management System portal or the department’s Online Enquiry System platform.",
+   "body_ja": "コタキナバル：サバ州入国管理局は、10月13日から10月18日までの間、州全体で25回の取締り活動を行い、169人の不法移民を逮捕した。\n\nサバ州入国管理局は本日の声明で、今回の逮捕はコタキナバル、タワウ、サンダカン、ラハダトゥ、クダット、テノム、ケニンガウでの業務中に530人を検査した後に行われたと述べた。\n\n同省によると、拘束されたのはフィリピン人１３１人、インドネシア人３６人、パキスタン人２人だった。\n\n「拘束された合計46人はフィリピンとインドネシアから来た子供たちでした。\n\n「サバ州移民局は、移民法の順守を確保し、不法移民の存在を根絶するために、引き続き州内の戦略的な拠点で取り締まりを強化していく」と本日の声明で述べた。\n\n同省は国民に対し、国の法律に違反する外国人を収容したり、雇用したり、援助したりしないよう注意を喚起した。\n\n一般の人々は、サバ州入国管理局の公的苦情管理システムポータルや同局のオンライン照会システムプラットフォームなどの公式ルートを通じて違反を報告することが求められました。",
+   "summary_ja2": "コタキナバル：サバ州入国管理局は、10月13日から10月18日までの間、州全体で25回の取締り活動を行い、169人の不法移民を逮捕した。サバ州入国管理局は本日の声明で、今回の逮捕はコタキナバル、タワウ、サンダカン、ラハダトゥ、クダット、テノム、ケニンガウでの業務中に530人を検査した後に行われたと述べた。",
+   "summary_ja": "サバ州入国管理局は、州全土で25回実施した取締りで、子ども46人を含む不法移民169人を逮捕した。",
+   "impact": 0,
+   "issues": [],
+   "figures": [
+    {
+     "n": 169,
+     "kind": "拘束",
+     "raw": "169 illegal immigrant"
+    },
+    {
+     "n": 46,
+     "kind": "拘束",
+     "raw": "46 children"
+    },
+    {
+     "n": 530,
+     "kind": "拘束",
+     "raw": "530 individu"
+    }
+   ]
+  },
+  {
+   "title": "800 undocumented Filipinos deported from Sandakan Port",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-10-29T10:24:15Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "0e1131bb385c",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "不法滞在のフィリピン人800人がサンダカン港から強制送還",
+   "first_seen": "2026-10-29T13:32:08Z",
+   "url_real": "https://www.dailyexpress.com.my/news/290724/800-undocumented-filipinos-deported-from-sandakan-port/",
+   "enriched": "blocked",
+   "enriched_v": 3,
+   "summary_ja": "",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 800,
+     "kind": "送還",
+     "raw": "800 undocumented"
+    }
+   ]
+  },
+  {
    "title": "Sabah Immigration deports 800 Filipino detainees, six more repatriation exercises planned",
    "summary": "SANDAKAN: Sabah deported 800 Filipino detainees on Thursday (Oct 29), with six more large-scale repatriation exercises planned to prevent overcrowding at immigration detention depots.",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnhJTExlN1ZRV21SQTg3ZV82R21ZTllIbEk3WnU1WGRRVzNoTTV0OTdiTERfM1VWTW00a3h4WFVwcHFHRTlDNE1pa2l1MjdSOUpSQl9SV3Y2UlJTXzE1RzN4S0tMLUd4akw2RG90a3M5MWp2VFh4cnREZmJabTJZdVJlUWwwR0xQeTZYWlMxVkU5enpKempibzVfMUk3SXd4S2E5a2IxeENVLTZSWkNnTmJ1enBvc01POWt0VEM5amdDUjVvemRmR0NNOGNSVnl5ZC1pUQ?oc=5",
@@ -84,8 +160,16 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州移民局、フィリピン人抑留者800人を国外追放、さらに6回の本国送還訓練を計画",
-   "summary_ja": "サンダカン：サバ州は木曜日（10月29日）、800人のフィリピン人被拘禁者を国外追放し、入国者収容所の過密を避けるためにさらに6回の大規模な送還訓練が計画されている。",
    "first_seen": "2026-10-29T13:32:08Z",
+   "url_real": "https://www.thestar.com.my/news/nation/2026/10/29/sabah-immigration-deports-800-filipino-detainees-six-more-repatriation-exercises-planned",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/29/4186858.jpg",
+   "site_name": "The Star",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "SANDAKAN: Sabah deported 800 Filipino detainees on Thursday (Oct 29), with six more large-scale repatriation exercises planned to prevent overcrowding at immigration detention depots.\n\nSabah Immigration director Datuk Sh Sitti Saleha Habib Yussof said the department planned to repatriate 800 Filipino detainees weekly under the upcoming exercises.\n\n“We have six more repatriation exercises planned, involving large groups of 800 people each week, starting this week and continuing thereafter.\n\n“We hope this will prevent overcrowding at detention depots in Sabah,” she said when met during the deportation exercise at Sandakan Port on Thursday (Oct 29).\n\nThe detainees were deported to Zamboanga City in the Philippines aboard MV Antonia 1.\n\nThey comprised 590 adult men, 88 adult women, 64 boys and 58 girls from the Tawau, Sandakan and Papar immigration depots.\n\nSitti Saleha said the detainees were aged between 16 days and 83 years, with the children accompanied by their parents or guardians.\n\nTogether with 269 Filipinos repatriated on Oct 27, the latest exercise brought the number sent home this week to 1,069.\n\n7,490 detainees of various nationalities had been repatriated from Sabah so far this year, including 5,357 Filipinos.\n\nThe others comprised 1,789 Indonesians, 139 Pakistanis, 141 Chinese nationals, 29 Vietnamese and 35 people from other countries.\n\nSitti Saleha said the space freed up at detention depots would allow the Immigration Department and other enforcement agencies to intensify operations against undocumented migrants.\n\nShe also urged embassies to expedite the issuance of travel documents so detainees could be sent home promptly.\n\n“Our target is to send them home as soon as possible after they are handed over by enforcement agencies or have completed their sentences. If possible, we want them repatriated within a month,” she said.\n\nShe added that detainees of other nationalities could be repatriated within a week of entering a depot with assistance from their respective embassies.\n\nEmployers were reminded to ensure foreign workers under their supervision held valid documents.\n\nOn improvements to detention facilities, Sitti Saleha said the upgrading project at the Tawau depot had yet to be handed over because of delays involving the contractor, who has been urged to expedite works.",
+   "body_ja": "サンダカン：サバ州は木曜日（10月29日）、800人のフィリピン人被拘禁者を国外追放し、入国者収容所の過密を避けるためにさらに6回の大規模な送還訓練が計画されている。\n\nサバ州入国管理局のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏は、同局は今後の演習に基づいて毎週800人のフィリピン人抑留者を送還する計画だと述べた。\n\n「私たちは、毎週800人の大規模なグループが参加するあと6回の帰還演習を今週から開始し、その後も継続する予定です。\n\n「これにより、サバ州の拘留所の過密状態が防止されることを願っています」と彼女は、木曜日（10月29日）にサンダカン港での強制送還訓練中に会った際に語った。\n\n拘束者はMVアントニア1号でフィリピンのサンボアンガ市に強制送還された。\n\n参加者はタワウ、サンダカン、パパール入国管理所の成人男性590人、成人女性88人、少年64人、少女58人で構成されていた。\n\nシッティ・サレハ氏は、拘束者の年齢は生後16日から83歳までで、子供たちは両親または保護者が同伴していたと述べた。\n\n10月27日に帰国した269人のフィリピン人と合わせて、最新の演習により今週帰国したフィリピン人は1,069人となった。\n\n今年これまでに、5,357人のフィリピン人を含む、さまざまな国籍の7,490人の拘留者がサバ州から送還された。\n\n残りはインドネシア人1,789人、パキスタン人139人、中国人141人、ベトナム人29人、その他の国から来た人35人であった。\n\nシッティ・サレハ氏は、収容所に空きスペースができたことで、入国管理局やその他の執行機関が不法移民に対する作戦を強化できるようになると述べた。\n\n同氏はまた、大使館に対し、拘束者が速やかに帰国できるよう渡航書類の発行を迅速化するよう求めた。\n\n「私たちの目標は、彼らが執行機関から引き渡された後、または刑期を終えた後、できるだけ早く帰国させることです。できれば1か月以内に送還してほしいです」と彼女は述べた。\n\n彼女は、他の国籍の被拘禁者は、それぞれの大使館の援助により、拘留所に入ってから1週間以内に送還される可能性があると付け加えた。\n\n雇用主は、監督下にある外国人労働者が有効な書類を保持していることを確認するよう注意を喚起された。\n\n拘留施設の改善に関して、シッティ・サレハ氏は、タワウ基地の改善プロジェクトは、工事の迅速化を求められている請負業者の関与による遅れのため、まだ引き渡されていないと述べた。",
+   "summary_ja2": "サンダカン：サバ州は木曜日（10月29日）、800人のフィリピン人被拘禁者を国外追放し、入国者収容所の過密を避けるためにさらに6回の大規模な送還訓練が計画されている。サバ州入国管理局のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏は、同局は今後の演習に基づいて毎週800人のフィリピン人抑留者を送還する計画だと述べた。",
+   "summary_ja": "サンダカン：サバ州は木曜日（10月29日）、800人のフィリピン人被拘禁者を国外追放し、入国者収容所の過密を避けるためにさらに6回の大規模な送還訓練が計画されている。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
@@ -97,46 +181,7 @@
      "kind": "送還",
      "raw": "800 people"
     }
-   ],
-   "url_real": "https://www.thestar.com.my/news/nation/2026/10/29/sabah-immigration-deports-800-filipino-detainees-six-more-repatriation-exercises-planned",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/29/4186858.jpg",
-   "site_name": "The Star",
-   "body": "SANDAKAN: Sabah deported 800 Filipino detainees on Thursday (Oct 29), with six more large-scale repatriation exercises planned to prevent overcrowding at immigration detention depots.\n\nSabah Immigration director Datuk Sh Sitti Saleha Habib Yussof said the department planned to repatriate 800 Filipino detainees weekly under the upcoming exercises.\n\n“We have six more repatriation exercises planned, involving large groups of 800 people each week, starting this week and continuing thereafter.\n\n“We hope this will prevent overcrowding at detention depots in Sabah,” she said when met during the deportation exercise at Sandakan Port on Thursday (Oct 29).\n\nThe detainees were deported to Zamboanga City in the Philippines aboard MV Antonia 1.\n\nThey comprised 590 adult men, 88 adult women, 64 boys and 58 girls from the Tawau, Sandakan and Papar immigration depots.\n\nSitti Saleha said the detainees were aged between 16 days and 83 years, with the children accompanied by their parents or guardians.\n\nTogether with 269 Filipinos repatriated on Oct 27, the latest exercise brought the number sent home this week to 1,069.\n\n7,490 detainees of various nationalities had been repatriated from Sabah so far this year, including 5,357 Filipinos.\n\nThe others comprised 1,789 Indonesians, 139 Pakistanis, 141 Chinese nationals, 29 Vietnamese and 35 people from other countries.\n\nSitti Saleha said the space freed up at detention depots would allow the Immigration Department and other enforcement agencies to intensify operations against undocumented migrants.\n\nShe also urged embassies to expedite the issuance of travel documents so detainees could be sent home promptly.\n\n“Our target is to send them home as soon as possible after they are handed over by enforcement agencies or have completed their sentences. If possible, we want them repatriated within a month,” she said.\n\nShe added that detainees of other nationalities could be repatriated within a week of entering a depot with assistance from their respective embassies.\n\nEmployers were reminded to ensure foreign workers under their supervision held valid documents.\n\nOn improvements to detention facilities, Sitti Saleha said the upgrading project at the Tawau depot had yet to be handed over because of delays involving the contractor, who has been urged to expedite works.",
-   "body_ja": "サンダカン：サバ州は木曜日（10月29日）、800人のフィリピン人被拘禁者を国外追放し、入国者収容所の過密を避けるためにさらに6回の大規模な送還訓練が計画されている。\n\nサバ州入国管理局のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏は、同局は今後の演習に基づいて毎週800人のフィリピン人抑留者を送還する計画だと述べた。\n\n「私たちは、毎週800人の大規模なグループが参加するあと6回の帰還演習を今週から開始し、その後も継続する予定です。\n\n「これにより、サバ州の拘留所の過密状態が防止されることを願っています」と彼女は、木曜日（10月29日）にサンダカン港での強制送還訓練中に会った際に語った。\n\n拘束者はMVアントニア1号でフィリピンのサンボアンガ市に強制送還された。\n\n参加者はタワウ、サンダカン、パパール入国管理所の成人男性590人、成人女性88人、少年64人、少女58人で構成されていた。\n\nシッティ・サレハ氏は、拘束者の年齢は生後16日から83歳までで、子供たちは両親または保護者が同伴していたと述べた。\n\n10月27日に帰国した269人のフィリピン人と合わせて、最新の演習により今週帰国したフィリピン人は1,069人となった。\n\n今年これまでに、5,357人のフィリピン人を含む、さまざまな国籍の7,490人の拘留者がサバ州から送還された。\n\n残りはインドネシア人1,789人、パキスタン人139人、中国人141人、ベトナム人29人、その他の国から来た人35人であった。\n\nシッティ・サレハ氏は、収容所に空きスペースができたことで、入国管理局やその他の執行機関が不法移民に対する作戦を強化できるようになると述べた。\n\n同氏はまた、大使館に対し、拘束者が速やかに帰国できるよう渡航書類の発行を迅速化するよう求めた。\n\n「私たちの目標は、彼らが執行機関から引き渡された後、または刑期を終えた後、できるだけ早く帰国させることです。できれば1か月以内に送還してほしいです」と彼女は述べた。\n\n彼女は、他の国籍の被拘禁者は、それぞれの大使館の援助により、拘留所に入ってから1週間以内に送還される可能性があると付け加えた。\n\n雇用主は、監督下にある外国人労働者が有効な書類を保持していることを確認するよう注意を喚起された。\n\n拘留施設の改善に関して、シッティ・サレハ氏は、タワウ基地の改善プロジェクトは、工事の迅速化を求められている請負業者の関与による遅れのため、まだ引き渡されていないと述べた。",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "サンダカン：サバ州は木曜日（10月29日）、800人のフィリピン人被拘禁者を国外追放し、入国者収容所の過密を避けるためにさらに6回の大規模な送還訓練が計画されている。サバ州入国管理局のダトゥク・シュ・シッティ・サレハ・ハビブ・ユソフ氏は、同局は今後の演習に基づいて毎週800人のフィリピン人抑留者を送還する計画だと述べた。"
-  },
-  {
-   "title": "800 undocumented Filipinos deported from Sandakan Port",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
-   "source": "Daily Express Malaysia",
-   "date": "2026-10-29T10:21:31Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "0e1131bb385c",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "不法滞在のフィリピン人800人がサンダカン港から強制送還",
-   "summary_ja": "",
-   "first_seen": "2026-10-29T13:32:08Z",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還"
-   ],
-   "figures": [
-    {
-     "n": 800,
-     "kind": "送還",
-     "raw": "800 undocumented"
-    }
-   ],
-   "url_real": "https://www.dailyexpress.com.my/news/290724/800-undocumented-filipinos-deported-from-sandakan-port/",
-   "enriched": "blocked",
-   "enriched_v": 3
+   ]
   },
   {
    "title": "JIM Sabah Tahan 93 PATI",
@@ -446,51 +491,6 @@
      "n": 169,
      "kind": "拘束",
      "raw": "169 undocumented"
-    }
-   ]
-  },
-  {
-   "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
-   "summary": "The Sabah Immigration Department arrested 169 undocumented migrants, including 46 children, during 25 enforcement operations across the state.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
-   "source": "The Sun Malaysia",
-   "date": "2026-10-19T18:38:45Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "d6726ec06f98",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州移民局、州全体の一斉検挙で不法移民169人を逮捕",
-   "first_seen": "2026-10-19T22:34:14Z",
-   "url_real": "https://thesun.my/news/malaysia-news/sabah-immigration-arrests-169-illegal-immigrants-in-statewide-sweep/",
-   "image": "https://cms.thesun.my/wp-content/uploads/2026/07/imigresenlori-ber.webp",
-   "image_alt": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
-   "site_name": "The Sun Malaysia",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA KINABALU: The Sabah Immigration Department arrested 169 illegal immigrants in 25 enforcement operations statewide between Oct 13 and Oct 18.\n\nThe Sabah Immigration Department said in a statement today that the arrests followed checks of 530 individuals during operations in Kota Kinabalu, Tawau, Sandakan, Lahad Datu, Kudat, Tenom and Keningau.\n\nAccording to the department, those detained included 131 Philippine nationals, 36 Indonesian nationals and two Pakistani nationals.\n\n“Of the total detained, 46 were children from the Philippines and Indonesia.\n\n“The Sabah Immigration Department will continue to intensify enforcement operations at strategic locations across the state to ensure compliance with immigration laws and to eradicate the presence of illegal immigrants,” the statement read today.\n\nThe department reminded the public not to harbour, employ or assist foreign nationals who violate the country’s laws.\n\nThe public was urged to report any violations through official channels, including the Sabah Immigration Department’s Public Complaint Management System portal or the department’s Online Enquiry System platform.",
-   "body_ja": "コタキナバル：サバ州入国管理局は、10月13日から10月18日までの間、州全体で25回の取締り活動を行い、169人の不法移民を逮捕した。\n\nサバ州入国管理局は本日の声明で、今回の逮捕はコタキナバル、タワウ、サンダカン、ラハダトゥ、クダット、テノム、ケニンガウでの業務中に530人を検査した後に行われたと述べた。\n\n同省によると、拘束されたのはフィリピン人１３１人、インドネシア人３６人、パキスタン人２人だった。\n\n「拘束された合計46人はフィリピンとインドネシアから来た子供たちでした。\n\n「サバ州移民局は、移民法の順守を確保し、不法移民の存在を根絶するために、引き続き州内の戦略的な拠点で取り締まりを強化していく」と本日の声明で述べた。\n\n同省は国民に対し、国の法律に違反する外国人を収容したり、雇用したり、援助したりしないよう注意を喚起した。\n\n一般の人々は、サバ州入国管理局の公的苦情管理システムポータルや同局のオンライン照会システムプラットフォームなどの公式ルートを通じて違反を報告することが求められました。",
-   "summary_ja2": "コタキナバル：サバ州入国管理局は、10月13日から10月18日までの間、州全体で25回の取締り活動を行い、169人の不法移民を逮捕した。サバ州入国管理局は本日の声明で、今回の逮捕はコタキナバル、タワウ、サンダカン、ラハダトゥ、クダット、テノム、ケニンガウでの業務中に530人を検査した後に行われたと述べた。",
-   "summary_ja": "サバ州入国管理局は、州全土で25回実施した取締りで、子ども46人を含む不法移民169人を逮捕した。",
-   "impact": 0,
-   "issues": [],
-   "figures": [
-    {
-     "n": 169,
-     "kind": "拘束",
-     "raw": "169 illegal immigrant"
-    },
-    {
-     "n": 46,
-     "kind": "拘束",
-     "raw": "46 children"
-    },
-    {
-     "n": 530,
-     "kind": "拘束",
-     "raw": "530 individu"
     }
    ]
   },
@@ -2703,7 +2703,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "MANILA: Malaysia dan Filipina hari ini membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin (PATI) dari Filipina yang berada di empat pusat tahanan di Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -2808,7 +2808,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -3548,7 +3548,7 @@
   {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNA?oc=5",
    "source": "Malay Mail",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
@@ -3625,7 +3625,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=Czt9LzwspYAQ7kNvwH9arPH&_nc_oc=AdoYlW_JVaJ5dIJd6w8HsaIdZFxGMwd61dn3Z4WqxKpcJ2VI1fyVqVFVfKcqet2pKD4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=03spVZRTSi3mRTfVvw9QnQ&_nc_ss=79289&oh=00_AQS_-9z3kROBH1oGhAAlzdAw2F0w6FaEPGghh1IaDhHXKQ&oe=6AE908ED",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=Czt9LzwspYAQ7kNvwEYy1He&_nc_oc=AdrR9qfdKC_bbEkjupv8G3TJygVv43m_uNLEOP2bWdk-M-d0kxSWMFG9K8LwpWPKTb4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=TFoBXmpbNr6eSz_KNOUqgQ&_nc_ss=79289&oh=00_AQQzsrIkuUlS-hFggRBP6-L1BZStCNxDuh8PdxR9EVmHkw&oe=6AE9B1AD",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5128,18 +5128,18 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "e7cfc4c5928a",
    "tags": [
-    "人権・NGO",
+    "無国籍",
     "市民権",
     "政策・政治",
-    "無国籍"
+    "人権・NGO"
    ],
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=9YgkawRE6zQQ7kNvwFrRTUW&_nc_oc=Adp7EbqXBpVKUmKOSXVQKi07RG978_57vCJ-eDyhDxAHh4GMPhScRhYbXwyGE598fsc&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=8tQixHY4Vq3lQ9BYmCZdEw&_nc_ss=79289&oh=00_AQQVojLi1iIfFzjSxnhPdOa7ZA8arrV1-bCjnTTBeFbhNw&oe=6AE911EF",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=9YgkawRE6zQQ7kNvwGfkw3Z&_nc_oc=AdpmIvpf7t4MDHsv8mAafycj6Worh2oY4Q-Aleyob8rz1F9HHpgNJ6CF3-pqhZaEJZc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=c7_KM-dL22tLNR44cUZ94A&_nc_ss=79289&oh=00_AQQWAJ1VkHwRzxWFrg014ErzsTyEMWg7QsVSHadX096fcw&oe=6AE9BAAF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -10957,5 +10957,5 @@
    ]
   }
  ],
- "enriched_at": "2026-10-29T13:35:55Z"
+ "enriched_at": "2026-10-29T22:58:03Z"
 }
