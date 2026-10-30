@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:54:54Z",
+ "updated": "2026-10-30T06:17:04Z",
  "count": 296,
  "tags": {
   "入管・摘発": 201,
@@ -440,7 +440,7 @@
    "summary": "UNHCR, the UN Refugee Agency, and the Saud Al-Nasser Al-Sabah Diplomatic Institute signed a Memorandum of Understanding (MoU) to enhance cooperation in the fields of humanitarian diplomacy, capacity building, and exchange of experiences, in accordance with their respective mandates. The agreement was signed at the Institute’s headquarters by Dr. Khaled Khalifa, Senior Advisor and UNHCR …",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0VKWFBBNXFHTjRJcHJPdjdsd0YzUGxETkRISkNuUjhCZURhbm5OU0hVR0drZ3lHSC11eUFGQzgtU2NaSGdtbXFieXFNYTFrakM1c3lwcGZ4dnY5elRRZEpURnBUS1dya1NCMF91QXRaQXVfNWg0dnVtRUNlbDc0TEJNemR4QlhWVmVYRw?oc=5",
    "source": "Times Kuwait",
-   "date": "2026-10-20T16:32:19Z",
+   "date": "2026-10-20T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah UNHCR OR asylum",
@@ -529,35 +529,11 @@
    ]
   },
   {
-   "title": "169 undocumented migrants held in Sabah-wide operations",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXZHelpPWUR6TWVCbUptblV1djVnM1d0cEFzNTJQRjctZER0WVZJNlJISUpKRUNFblZXQk1ES1hRV3Nnb3hOdm83MlIxd1R4ZTUyc1RPQ3VjQmxvRFJiLXJwd2kwVmtPWEY5UjF3QkwtdHM4eDlBQjJzVUd4ZlNucUljaElGZmpqVVlHbUtFb2ZvazdGSGU3YkZpWWZjY0RYN3c?oc=5",
-   "source": "Daily Express Malaysia",
-   "date": "2026-10-19T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "83651b32fde1",
-   "tags": [],
-   "title_ja": "サバ州全域の作戦で169人の不法移民が拘束される",
-   "first_seen": "2026-10-19T13:49:00Z",
-   "url_real": "https://www.dailyexpress.com.my/news/290165/169-undocumented-migrants-held-in-sabah-wide-operations/",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
-   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja": "",
-   "impact": 0,
-   "issues": [],
-   "figures": []
-  },
-  {
    "title": "169 PATI dicekup dalam lima hari di Sabah",
    "summary": "KOTA KINABALU: Seramai 169 pendatang asing tanpa izin (PATI) ditahan Jabatan Imigresen Malaysia (JIM) Sabah dalam kira-kira 25 operasi penguatkuasaan di tujuh daerah di negeri ini, dari 13 hingga 17 Oktober lalu. Pengarah JIM Sabah, Datuk Sitti Saleha Habib Yussof berkata, operasi itu membabitkan pemeriksaan terhadap 530 individu di beberapa lokasi strategik. Menurutnya, operasi berkenaan […]",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTBqSExRbnRMM2oycWpCZlp6eVAweTRhUUNST1ZRT2pOdDE3MjRlQ2stYWdzTjRESk1NMHcxUVFETnZ3bEZhN3U0RFJQOTZtalhSMEl3NGktUDR4bTVSMEFhYUtpaWlLQzR2SWFoUUN3dVdCeDRjdTdKWDRJUWV3MFBNeGx3NDZMMzAwTE1B?oc=5",
    "source": "Sayang Sabah",
-   "date": "2026-10-19T02:25:46Z",
+   "date": "2026-10-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -598,6 +574,30 @@
      "raw": "20 kanak-kanak"
     }
    ]
+  },
+  {
+   "title": "169 undocumented migrants held in Sabah-wide operations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXZHelpPWUR6TWVCbUptblV1djVnM1d0cEFzNTJQRjctZER0WVZJNlJISUpKRUNFblZXQk1ES1hRV3Nnb3hOdm83MlIxd1R4ZTUyc1RPQ3VjQmxvRFJiLXJwd2kwVmtPWEY5UjF3QkwtdHM4eDlBQjJzVUd4ZlNucUljaElGZmpqVVlHbUtFb2ZvazdGSGU3YkZpWWZjY0RYN3c?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-10-19T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "83651b32fde1",
+   "tags": [],
+   "title_ja": "サバ州全域の作戦で169人の不法移民が拘束される",
+   "first_seen": "2026-10-19T13:49:00Z",
+   "url_real": "https://www.dailyexpress.com.my/news/290165/169-undocumented-migrants-held-in-sabah-wide-operations/",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja": "",
+   "impact": 0,
+   "issues": [],
+   "figures": []
   },
   {
    "title": "Imigresen Sabah hantar pulang 140 PATI Indonesia",
@@ -2808,7 +2808,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -3282,7 +3282,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -3548,7 +3548,7 @@
   {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
    "source": "Malay Mail",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
@@ -3625,7 +3625,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=Czt9LzwspYAQ7kNvwEYy1He&_nc_oc=AdrR9qfdKC_bbEkjupv8G3TJygVv43m_uNLEOP2bWdk-M-d0kxSWMFG9K8LwpWPKTb4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=TFoBXmpbNr6eSz_KNOUqgQ&_nc_ss=79289&oh=00_AQQzsrIkuUlS-hFggRBP6-L1BZStCNxDuh8PdxR9EVmHkw&oe=6AE9B1AD",
+   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=Czt9LzwspYAQ7kNvwGpuInT&_nc_oc=AdrwGQ9MaPy7c7yHR31WpWTcK3O2H6Vuuq8NCE4qIy-5myDYE-jMNH110AJJKUnoK3o&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZQDGiI_GirmiwAzGibmsYw&_nc_ss=79289&oh=00_AQTLQRITlXZRgO4jmIbQBMvMjxBYePKX_bgf9EWwjSFkXQ&oe=6AEA222D",
    "image_alt": "357K views · 3.6K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5139,7 +5139,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=9YgkawRE6zQQ7kNvwGfkw3Z&_nc_oc=AdpmIvpf7t4MDHsv8mAafycj6Worh2oY4Q-Aleyob8rz1F9HHpgNJ6CF3-pqhZaEJZc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=c7_KM-dL22tLNR44cUZ94A&_nc_ss=79289&oh=00_AQQWAJ1VkHwRzxWFrg014ErzsTyEMWg7QsVSHadX096fcw&oe=6AE9BAAF",
+   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=9YgkawRE6zQQ7kNvwFmjqDd&_nc_oc=AdrhKDSsoZ_kODlQEgmy-GJiGwjQ1OLnEczehNtZg5oFFsrbsKiBKx0G1IGYzXbhths&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=4pxK9HMBS5eMADPXHPeCmQ&_nc_ss=79289&oh=00_AQRGK43mw2iN-4YHfu-Z9aHy4ERdR13BUX2V3lNISuY4fA&oe=6AE9F2EF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5455,7 +5455,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -5979,11 +5979,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "109ac503086c",
    "tags": [
-    "子ども",
-    "医療・福祉"
+    "医療・福祉",
+    "子ども"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6387,11 +6387,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
-    "市民権",
-    "人権・NGO"
+    "人権・NGO",
+    "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6448,7 +6448,7 @@
    "date": "2026-05-22T01:28:06Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "60468cd2cc44",
    "tags": [
     "市民権",
@@ -6474,11 +6474,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6510,7 +6510,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -7038,16 +7038,16 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "KUALA LUMPUR: A humanitarian organisation has called on the Home Ministry to extend the MyKAS temporary resident identity card to stateless to address a long-running documentation crisis that poses risks to both the affected individuals and national security.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "626eb193d46c",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、文書危機に対処するために無国籍者向けの MyKAS カードを支援",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7143,7 +7143,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -10957,5 +10957,5 @@
    ]
   }
  ],
- "enriched_at": "2026-10-29T22:58:03Z"
+ "enriched_at": "2026-10-30T06:20:14Z"
 }
