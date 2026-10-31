@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T22:35:10Z",
+ "updated": "2026-10-31T06:08:28Z",
  "count": 299,
  "tags": {
   "入管・摘発": 202,
@@ -40,7 +40,7 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
-  "bernama": 2,
+  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "PressReader": 2,
@@ -50,8 +50,8 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
-  "Bernama": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
   "Nikkei Asia": 1,
@@ -170,21 +170,21 @@
    "id": "bb5b3c736531",
    "tags": [],
    "title_ja": "フィリピン人捕虜800人がサバ州から送還",
-   "summary_ja": "今回の輸送により、今週送還された被拘禁者の総数は1,069名となり、その中には10月27日の269名が含まれている。",
    "first_seen": "2026-10-30T22:35:08Z",
+   "url_real": "https://www.astroawani.com/video/800-tahanan-filipina-dihantar-pulang-dari-sabah",
+   "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s2.dmcdn.net/v/gSVjA1guogEBzBOa9",
+   "site_name": "Awani",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) All Rights Reserved.\n\nDapatkan cerita gosip artis & berita hiburan terkini, serta program tempatan\n\nDapatkan berita hari ini dan berita terkini Malaysia, Dunia, Sukan, Hiburan, Teknologi, Gaya Hidup, Automotif, Politik, Foto, Video dan Siaran Langsung TV\n\nAstro’s Chinese channel programme updates, events, celebrity trends, entertainment\n\nMandarin news and infotainment platform that takes you to the leading topics\n\nCatch the latest news and updates on local and global sporting events\n\nIndian entertainment, events hub highlighting Indian top shows and news\n\nFeaturing Entertainment, Lifestyle and Kaw!, Malay video section and more\n\nChoose and pay for what you watch with our prepaid service, NJOI.\n\nEnjoy Malaysia`s best radio, videos, podcasts, prizes and more! Get SYOK, everything got!",
+   "body_ja": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。\n\n最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます\n\nマレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。\n\nAstro の中国語チャンネルの番組最新情報、イベント、有名人のトレンド、エンターテイメント\n\n主要なトピックを紹介する北京語のニュースとインフォテインメント プラットフォーム\n\n地元および世界的なスポーツ イベントに関する最新ニュースや最新情報を入手します。\n\nインドの人気番組やニュースを紹介するインドのエンターテイメント、イベントのハブ\n\nエンターテイメント、ライフスタイル、Kaw!、マレー語ビデオセクションなどを特集\n\nプリペイド サービス NJOI を使用して、視聴するものを選択して支払います。\n\nマレーシア最高のラジオ、ビデオ、ポッドキャスト、賞品などをお楽しみください。 Get SHOCK、すべてが手に入る！",
+   "summary_ja2": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます  マレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。",
+   "summary_ja": "今回の輸送により、今週送還された被拘禁者の総数は1,069名となり、その中には10月27日の269名が含まれている。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還"
    ],
-   "figures": [],
-   "url_real": "https://www.astroawani.com/video/800-tahanan-filipina-dihantar-pulang-dari-sabah",
-   "image": "https://resizer-vortals.eco.astro.com.my/tr:w-auto,h-auto,q-80,f-webp/https://s2.dmcdn.net/v/gSVjA1guogEBzBOa9",
-   "site_name": "Awani",
-   "body": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) All Rights Reserved.\n\nDapatkan cerita gosip artis & berita hiburan terkini, serta program tempatan\n\nDapatkan berita hari ini dan berita terkini Malaysia, Dunia, Sukan, Hiburan, Teknologi, Gaya Hidup, Automotif, Politik, Foto, Video dan Siaran Langsung TV\n\nAstro’s Chinese channel programme updates, events, celebrity trends, entertainment\n\nMandarin news and infotainment platform that takes you to the leading topics\n\nCatch the latest news and updates on local and global sporting events\n\nIndian entertainment, events hub highlighting Indian top shows and news\n\nFeaturing Entertainment, Lifestyle and Kaw!, Malay video section and more\n\nChoose and pay for what you watch with our prepaid service, NJOI.\n\nEnjoy Malaysia`s best radio, videos, podcasts, prizes and more! Get SYOK, everything got!",
-   "body_ja": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。\n\n最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます\n\nマレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。\n\nAstro の中国語チャンネルの番組最新情報、イベント、有名人のトレンド、エンターテイメント\n\n主要なトピックを紹介する北京語のニュースとインフォテインメント プラットフォーム\n\n地元および世界的なスポーツ イベントに関する最新ニュースや最新情報を入手します。\n\nインドの人気番組やニュースを紹介するインドのエンターテイメント、イベントのハブ\n\nエンターテイメント、ライフスタイル、Kaw!、マレー語ビデオセクションなどを特集\n\nプリペイド サービス NJOI を使用して、視聴するものを選択して支払います。\n\nマレーシア最高のラジオ、ビデオ、ポッドキャスト、賞品などをお楽しみください。 Get SHOCK、すべてが手に入る！",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "© 2026 Astro AWANI Network Sdn. Bhd. 200001032668(535275-D) 無断複写・転載を禁じます。最新の有名人のゴシップやエンターテイメント ニュースのほか、地元の番組も入手できます  マレーシア、世界、スポーツ、エンターテイメント、テクノロジー、ライフスタイル、自動車、政治、写真、ビデオ、テレビの生放送に関する今日のニュースと最新ニュースを入手してください。"
+   "figures": []
   },
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
@@ -845,7 +845,7 @@
    "summary": "KOTA KINABALU: Seramai 5,915 pendatang asing tanpa izin (PATI) daripada pelbagai warganegara telah dipindahkan pulang ke negara asal masing-masing menerusi program pemindahan tahanan yang dilaksanakan Jabatan Imigresen Malaysia (JIM) Negeri Sabah sepanjang tahun ini. JIM Sabah memaklumkan, jumlah itu merangkumi 3,974 warga Filipina, Indonesia (1,629), Pakistan (132), China (132), Vietnam (25) dan ",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR01QeHAxRl9VM2Uwa19HeDE0cmNmWVF6cWljNmJZVHd5NXBSNTUtMnBtckkydWdIYUFzYzZaS24wZDZRblQxZ3Z1TUlxdWFUUVNUN3o1TTVabDBUUnNSeTF6MUctMlZOZW5UNTZxdnRQaUZVV25VUC1CVW5JR1dFSkhvanl1V1dsYVIxeHkxYzBEOURKU3U2bzREak1SSkprd3c?oc=5",
    "source": "Sabah News",
-   "date": "2026-10-13T15:06:27Z",
+   "date": "2026-10-13T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -1056,7 +1056,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "Budget 2027, Immigration, allocation, quarters,",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "bernama",
+   "source": "Bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -3724,8 +3724,8 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=XOl2oxGPlBkQ7kNvwHDF6eP&_nc_oc=AdqEbi_KypctsHMcdkp0jS6vQdAKCYI7m19X9Dsteivpg8Xkrwm4pP-zg2hzSLM2B_E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=fsTAR8ZGvwyrKL9aKCLarA&_nc_ss=79289&oh=00_AQSyGbh_7DMmzU1a1pzI58Wd2bd6GoPoOBnI2WOC8NAdtA&oe=6AEB032D",
-   "image_alt": "369K views · 3.8K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
+   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=XOl2oxGPlBkQ7kNvwHyCuI-&_nc_oc=Ado4E6EoaFhjYYTCzKlZYolh5S4t91b-qhW2MPWYUlXs12a3plmYwrZhUAKFJrfIw_8&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=4zQYNeukN1yY5xwj6cbXbw&_nc_ss=79289&oh=00_AQQ99Gn8k3ga9xn6EwIv1ClZJDpX-QK3DxCMUuELAfRI4w&oe=6AEB73AD",
+   "image_alt": "380K views · 3.9K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
    "summary_ja2": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash   同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
@@ -5227,18 +5227,18 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "e7cfc4c5928a",
    "tags": [
-    "人権・NGO",
+    "無国籍",
     "市民権",
     "政策・政治",
-    "無国籍"
+    "人権・NGO"
    ],
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=9YgkawRE6zQQ7kNvwF5MC3B&_nc_oc=Adrqa4gU4TkYUgA_dwpcmzwaMtHkUmv1M-ej8n2XGrPg8hDGPNzUAEKkZzavDTDu-dU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zkQk10En7Q_j2PVTtissiw&_nc_ss=79289&oh=00_AQQYkitnV4UourJC9cq1xuHP96RXIzJ8U0schZeCHwLjCQ&oe=6AEAD3EF",
+   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=9YgkawRE6zQQ7kNvwEYcgzI&_nc_oc=Adq_vhr2Z0qaHAtxY1_a7wcTiE_sAC7YW3Py7oStLgsY_R_Tebk-IsWCRvZlDtL_VZ0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=EsaKvf49fij-IQZXV0iN-A&_nc_ss=79289&oh=00_AQS2RpXFRfWP2WEj2s-f7Jj9zZFKQq_yf5sHqCcFq3IleQ&oe=6AEB446F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5425,7 +5425,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -6006,12 +6006,12 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah undocumented",
    "id": "c6a783112977",
    "tags": [
+    "無国籍",
     "子ども",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6172,8 +6172,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6331,8 +6331,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6643,9 +6643,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6947,9 +6947,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7175,11 +7175,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -11056,5 +11056,5 @@
    ]
   }
  ],
- "enriched_at": "2026-10-30T22:38:36Z"
+ "enriched_at": "2026-10-31T06:11:57Z"
 }
