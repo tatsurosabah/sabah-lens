@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T22:22:19Z",
- "count": 136,
+ "updated": "2026-11-02T06:44:56Z",
+ "count": 132,
  "items": [
   {
    "vid": "XaCjRGNlauY",
@@ -9,7 +9,7 @@
    "desc": "絶海を無国籍で漂流生活してる人々を訪れてみた 今回やって来たのは、マレーシアのセンポルナ。ここマレーシアと ...",
    "dur": "35:07",
    "published": "3y ago",
-   "views": "2,097,086 views",
+   "views": "2,097,169 views",
    "region": "日本",
    "language": "zh",
    "pri": 1,
@@ -22,7 +22,7 @@
    "desc": "犬を救助するブラウンドッグ・レスキューチームが、マレーシア・サバ州のフィリピン系無国籍の子どもたちを再び訪ねた話です。\n生まれてから一度も、国という囲いを ...",
    "dur": "44:30",
    "published": "1d ago",
-   "views": "15,090 views",
+   "views": "15,997 views",
    "region": "日本",
    "language": "zh",
    "pri": 1,
@@ -35,7 +35,7 @@
    "desc": "これは、私のドキュメンタリー映画『ガヤ島（マレーシア、サバ州、コタキナバル）の見えない子どもたち』に関するパート2です。\n\nドキュメンタリー映画監督として満足 ...",
    "dur": "5:30",
    "published": "6y ago",
-   "views": "13,458 views",
+   "views": "13,462 views",
    "region": "日本",
    "language": "zh",
    "pri": 1,
@@ -113,7 +113,7 @@
    "desc": "三立新聞#消失的國界#馬來西亞#沙巴#巴瑤族#蘇祿族#遊牧民族#游牧民族#無國籍#養蝦#水產養殖#永續#紅樹林#芋圓#亞庇#美食# ...",
    "dur": "26:01",
    "published": "1y ago",
-   "views": "342,537 views",
+   "views": "342,726 views",
    "region": "台湾",
    "language": "zh",
    "pri": 3,
@@ -139,7 +139,7 @@
    "desc": "无国籍学校信息: https://luminous-mapusaurus-1aa.notion.site/13ee71513ad980a6982cc6cbee97d673?pvs=4 加入沙巴诗和 ...",
    "dur": "24:07",
    "published": "1y ago",
-   "views": "6,865 views",
+   "views": "6,866 views",
    "region": "台湾",
    "language": "zh",
    "pri": 3,
@@ -152,7 +152,7 @@
    "desc": "馬來西亞沙巴州是旅遊度假勝地，但在這裡住著一群人，他們是無國籍人。這些無國籍者有的是巴瑤族人，他們在沒有國界的時代， ...",
    "dur": "15:16",
    "published": "2y ago",
-   "views": "6,743 views",
+   "views": "6,744 views",
    "region": "台湾",
    "language": "zh",
    "pri": 3,
@@ -235,6 +235,19 @@
    "language": "zh",
    "pri": 3,
    "q": "沙巴 无国籍"
+  },
+  {
+   "vid": "O0yznBw4quc",
+   "title": "听我说谢谢你｜演唱：慈济沙巴三地无国籍学习中心的孩子",
+   "channel": "馬來西亞慈濟基金會 Tzu-Chi Malaysia",
+   "desc": "慈济沙巴三地无国籍学习中心的孩子们用中文倾情演唱《听我说谢谢你》，以此感恩所有帮助他们读书的爱心人士。教育是人类的 ...",
+   "dur": "3:31",
+   "published": "2y ago",
+   "views": "2,994 views",
+   "region": "台湾",
+   "language": "zh",
+   "pri": 3,
+   "q": "沙巴 無國籍 兒童"
   },
   {
    "vid": "rIKwrNGad9U",
@@ -328,19 +341,6 @@
    "q": "tanpa kewarganegaraan Sabah dokumentari"
   },
   {
-   "vid": "xpNbZQGqkKQ",
-   "title": "爱心推动   斗湖无国籍儿童新生入学",
-   "channel": "馬來西亞慈濟基金會 Tzu-Chi Malaysia",
-   "desc": "这里是马来西亚沙巴斗湖狄丁岸，在慈济雪隆分会和当地志工的努力推动，以及社会上广大爱心人士的捐助下，斗湖狄丁岸又有100 ...",
-   "dur": "2:45",
-   "published": "4y ago",
-   "views": "956 views",
-   "region": "台湾",
-   "language": "zh",
-   "pri": 3,
-   "q": "マレーシア 無国籍 子ども"
-  },
-  {
    "vid": "ROqNqnE3Gyo",
    "title": "EP1 \"掀开沙巴无国籍居民\" \"Unveiling Sabah's Stateless Residents\"",
    "channel": "Methodist Crisis Relief & Development",
@@ -399,7 +399,7 @@
    "desc": "Have you ever stepped into the lives of the stateless, who are often marginalised? In Lahad Datu, Sabah, a place rich in cultural ...",
    "dur": "9:19",
    "published": "1y ago",
-   "views": "526 views",
+   "views": "527 views",
    "region": "台湾",
    "language": "zh",
    "pri": 3,
@@ -510,19 +510,6 @@
    "q": "Sabah stateless"
   },
   {
-   "vid": "A_Lfq9XsdB4",
-   "title": "拿篤無國籍村義診 人醫之愛彌補缺口｜大愛新聞 #馬來西亞義診 #沙巴拿篤 #慈濟人醫會",
-   "channel": "大愛新聞DaaiNews",
-   "desc": "馬來西亞的醫療水平，在東南亞國家中，算是中上等級的，也提供人民只需要付低廉的費用，就能享有醫療服務。可是，無國籍者或 ...",
-   "dur": "3:04",
-   "published": "11mo ago",
-   "views": "249 views",
-   "region": "台湾",
-   "language": "zh",
-   "pri": 3,
-   "q": "馬來西亞 無國籍"
-  },
-  {
    "vid": "uLdvQIRYT3k",
    "title": "EP3 \"重建沙巴无国籍居民的住所\" \"Rebuilding residences for stateless residents in Sabah “",
    "channel": "Methodist Crisis Relief & Development",
@@ -560,19 +547,6 @@
    "language": "zh",
    "pri": 3,
    "q": "沙巴 無國籍 兒童"
-  },
-  {
-   "vid": "q1w0wtR7hls",
-   "title": "[Great Love Seeker 2.0] EP02: A Life Adrift | The Wandering Life of the Bajau Laut People",
-   "channel": "馬來西亞慈濟基金會 Tzu-Chi Malaysia",
-   "desc": "What do you imagine the life of the Bajau Laut is like? Beyond the romantic images in travel brochures, their reality is one of ...",
-   "dur": "10:58",
-   "published": "1y ago",
-   "views": "210 views",
-   "region": "台湾",
-   "language": "zh",
-   "pri": 3,
-   "q": "Bajau Laut stateless"
   },
   {
    "vid": "HUTQHgZJX3k",
@@ -737,7 +711,7 @@
    "desc": "They live among the locals. Yet they're not recognised as citizens of the country. And although they've been living in the country ...",
    "dur": "46:00",
    "published": "4y ago",
-   "views": "306,240 views",
+   "views": "306,250 views",
    "region": "マレーシア",
    "language": "en",
    "pri": 5,
@@ -750,7 +724,7 @@
    "desc": "Hundreds of Bajau Laut people in the Semporna district in Sabah have claimed that they lost their homes after authorities ...",
    "dur": "2:56",
    "published": "2y ago",
-   "views": "40,491 views",
+   "views": "40,492 views",
    "region": "マレーシア",
    "language": "en",
    "pri": 5,
@@ -781,19 +755,6 @@
    "language": "zh",
    "pri": 5,
    "q": "マレーシア 無国籍 子ども"
-  },
-  {
-   "vid": "s0xr0uloh2o",
-   "title": "Frenzy in getting IMM13 pass for Filipino refugee children in Sabah",
-   "channel": "The Star",
-   "desc": "Thousands of Filipino refugees in Sabah have been crowding the Immigration office in Kota Kinabalu to get their children ...",
-   "dur": "0:47",
-   "published": "8y ago",
-   "views": "7,209 views",
-   "region": "マレーシア",
-   "language": "en",
-   "pri": 5,
-   "q": "Sabah undocumented children"
   },
   {
    "vid": "Y0Kj-WRh2V8",
@@ -828,7 +789,7 @@
    "desc": "Masyarakat Bajau Laut telah hidup di laut sejak berkurun lamanya tetapi hilang tempat berteduh selepas rumah mereka ...",
    "dur": "4:14",
    "published": "2y ago",
-   "views": "2,510 views",
+   "views": "2,513 views",
    "region": "マレーシア",
    "language": "en",
    "pri": 5,
@@ -872,19 +833,6 @@
    "language": "ms",
    "pri": 5,
    "q": "kanak-kanak tanpa kewarganegaraan Sabah"
-  },
-  {
-   "vid": "I87TstTJMDM",
-   "title": "Berita Nasional - 11 Mei 2011 (Kehadiran PATI tidak disenangi di Sabah)",
-   "channel": "PeminatBeritaRTM",
-   "desc": "Keratan video dari Berita Nasional bertarikh 11 Mei 2011 tentang kehadiran Pendatang Asing Tanpa Izin (PATI) yang tidak ...",
-   "dur": "1:58",
-   "published": "13y ago",
-   "views": "1,326 views",
-   "region": "マレーシア",
-   "language": "ms",
-   "pri": 5,
-   "q": "PATI Sabah dokumentari"
   },
   {
    "vid": "CEZUgSdJ9xo",
@@ -958,7 +906,7 @@
    "desc": "Saat usianya baru 12 tahun, Iwan Nursyah kabur dari rumahnya di Bulukumba, Sulawesi Selatan. Nasib membawanya masuk ke ...",
    "dur": "11:26",
    "published": "6y ago",
-   "views": "1,451,100 views",
+   "views": "1,451,103 views",
    "region": "国際",
    "language": "ms",
    "pri": 6,
@@ -1023,7 +971,7 @@
    "desc": "Like the people you're about to meet - the ocean nomads of the South Pacific called the Bajau Laut. With no land-based home to ...",
    "dur": "13:31",
    "published": "5y ago",
-   "views": "541,789 views",
+   "views": "541,811 views",
    "region": "その他",
    "language": "en",
    "pri": 9,
@@ -1036,11 +984,11 @@
    "desc": "Sa Sabah, Malaysia, libo-libong Pinoy ang nabubuhay bilang “stateless”—walang ID, walang karapatan, at walang kinabukasan.",
    "dur": "11:18",
    "published": "6mo ago",
-   "views": "364,631 views",
+   "views": "364,681 views",
    "region": "その他",
-   "language": "ms",
+   "language": "other",
    "pri": 9,
-   "q": "tanpa kewarganegaraan Sabah dokumentari"
+   "q": "Sabah stateless"
   },
   {
    "vid": "bN19Dk_Jfes",
@@ -1062,7 +1010,7 @@
    "desc": "Ayon sa tala ng Department of Foreign Affairs at Department of Education, tinatayang nasa 30000 ang bilang ng mga stateless ...",
    "dur": "11:50",
    "published": "8y ago",
-   "views": "91,268 views",
+   "views": "91,269 views",
    "region": "その他",
    "language": "other",
    "pri": 9,
@@ -1121,6 +1069,19 @@
    "q": "Sabah stateless"
   },
   {
+   "vid": "dpUAkhW4sbs",
+   "title": "BAJAU LAUT: People Who Call the Ocean Home | Extreme Life in Sabah",
+   "channel": "TRIBE EXPRORER",
+   "desc": "Imagine a life without roads, without yards, and without concrete houses.\nFor the Bajau Laut of Sabah, Malaysia, the sea is ...",
+   "dur": "36:28",
+   "published": "2mo ago",
+   "views": "7,532 views",
+   "region": "その他",
+   "language": "ms",
+   "pri": 9,
+   "q": "tanpa kewarganegaraan Sabah dokumentari"
+  },
+  {
    "vid": "ME6r9WYgn8s",
    "title": "该给身份证或继续无视？无国籍问题何时了？ | Lapang Dada EP1",
    "channel": "KiniTV",
@@ -1157,7 +1118,7 @@
    "region": "その他",
    "language": "en",
    "pri": 9,
-   "q": "Sabah undocumented children"
+   "q": "Sabah invisible children"
   },
   {
    "vid": "gEWqptz9924",
@@ -1171,19 +1132,6 @@
    "language": "zh",
    "pri": 9,
    "q": "馬來西亞 無國籍"
-  },
-  {
-   "vid": "pLM5UVo2cCk",
-   "title": "Stateless in Malaysia",
-   "channel": "The Real News Network",
-   "desc": "The stateless people in Sabah, Malaysia are denied access to schools, jobs, and healthcare, and their village is facing demolition.",
-   "dur": "8:28",
-   "published": "7y ago",
-   "views": "5,697 views",
-   "region": "その他",
-   "language": "en",
-   "pri": 9,
-   "q": "Sabah stateless"
   },
   {
    "vid": "7aGtj6EADzE",
@@ -1205,7 +1153,7 @@
    "desc": "NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...",
    "dur": "15:44",
    "published": "4y ago",
-   "views": "3,543 views",
+   "views": "3,542 views",
    "region": "その他",
    "language": "en",
    "pri": 9,
@@ -1223,19 +1171,6 @@
    "language": "other",
    "pri": 9,
    "q": "Sabah stateless children"
-  },
-  {
-   "vid": "_uEi0R82OXc",
-   "title": "Every child is precious, including those who are stateless.",
-   "channel": "UbahTV",
-   "desc": "There are almost 300000 stateless children in Malaysia. Puan Jayandy grew up in an orphanage after being abandoned by her ...",
-   "dur": "5:13",
-   "published": "9y ago",
-   "views": "3,232 views",
-   "region": "その他",
-   "language": "en",
-   "pri": 9,
-   "q": "Malaysia stateless children documentary"
   },
   {
    "vid": "cJYaeuOEdaY",
@@ -1298,9 +1233,9 @@
    "published": "12y ago",
    "views": "2,184 views",
    "region": "その他",
-   "language": "en",
+   "language": "ms",
    "pri": 9,
-   "q": "Bajau Laut stateless"
+   "q": "tanpa kewarganegaraan Sabah dokumentari"
   },
   {
    "vid": "MF8JIootUGU",
@@ -1329,6 +1264,19 @@
    "q": "Sabah stateless children"
   },
   {
+   "vid": "egu0snU6AKs",
+   "title": "What It's Like: Being Stateless in Malaysia",
+   "channel": "The Full Frontal TV",
+   "desc": "\"Even if you have money, without a MyKad, you're nothing\"",
+   "dur": "6:48",
+   "published": "5y ago",
+   "views": "1,606 views",
+   "region": "その他",
+   "language": "en",
+   "pri": 9,
+   "q": "Malaysia stateless children documentary"
+  },
+  {
    "vid": "zL-vTcGyuc4",
    "title": "Borneo's Bajau Laut and The Disappearing Sea Gypsies in Fascinating Images",
    "channel": "Best Travel Destination",
@@ -1342,19 +1290,6 @@
    "q": "Bajau Laut stateless"
   },
   {
-   "vid": "4hKTdBOOsYw",
-   "title": "【道】20200824 - 无国籍海上巴瑶的希望 - 刘慧玲",
-   "channel": "MY DAAI 频道",
-   "desc": "我们常在新闻媒体听到#东马#无国籍孩童、沙巴旅游胜地#仙本那等等，但我们对东马无国籍人士是#巴瑶族又了解多少？无论我们 ...",
-   "dur": "24:02",
-   "published": "6y ago",
-   "views": "1,511 views",
-   "region": "その他",
-   "language": "zh",
-   "pri": 9,
-   "q": "沙巴 無國籍 兒童"
-  },
-  {
    "vid": "fJr2Saju54w",
    "title": "Bajau Laut - the sea is our home (Trailer)",
    "channel": "Joo Peter",
@@ -1366,6 +1301,19 @@
    "language": "en",
    "pri": 9,
    "q": "Bajau Laut stateless"
+  },
+  {
+   "vid": "fVgy2a3u53g",
+   "title": "Living Stateless (Di Ambang)",
+   "channel": "Matt Fillmore",
+   "desc": "Living Stateless tells the stories of two families with neither home or nation to call their own. Born in Malaysia but considered ...",
+   "dur": "40:38",
+   "published": "10y ago",
+   "views": "981 views",
+   "region": "その他",
+   "language": "en",
+   "pri": 9,
+   "q": "Sabah invisible children"
   },
   {
    "vid": "XXTlUQgDBzg",
@@ -1404,7 +1352,20 @@
    "region": "その他",
    "language": "en",
    "pri": 9,
-   "q": "Sabah undocumented children"
+   "q": "Sabah invisible children"
+  },
+  {
+   "vid": "B4k7u44ygqM",
+   "title": "How People Live in Bajau Laut, Malaysia & Philippines",
+   "channel": "Hidden Lives",
+   "desc": "How people live in Bajau Laut, Malaysia & Philippines: enter the extraordinary world of the \"Sea Gypsies,\" nomadic maritime ...",
+   "dur": "2:26",
+   "published": "6d ago",
+   "views": "722 views",
+   "region": "その他",
+   "language": "en",
+   "pri": 9,
+   "q": "Bajau Laut stateless"
   },
   {
    "vid": "zwRT4MI0Y-g",
@@ -1459,17 +1420,30 @@
    "q": "沙巴 無國籍 兒童"
   },
   {
-   "vid": "CH4TMIJ2WjA",
-   "title": "Part 1- Stateless in Sabah.mp4",
-   "channel": "francisconz69",
-   "desc": "The plight of the illegal immigrants in Sabah.",
-   "dur": "11:42",
-   "published": "14y ago",
-   "views": "412 views",
+   "vid": "VK8NW0W1LoQ",
+   "title": "24 Hours with the Bajau Sea Nomads | How the Ocean People Survive",
+   "channel": "Timeline Resilience",
+   "desc": "Deep in Southeast Asia, the Bajau Sea Nomads live almost entirely on the water — diving for food, sleeping on boats, and ...",
+   "dur": "12:08",
+   "published": "1y ago",
+   "views": "524 views",
    "region": "その他",
    "language": "en",
    "pri": 9,
-   "q": "Sabah undocumented children"
+   "q": "Bajau Laut stateless"
+  },
+  {
+   "vid": "U0gOqk6XRgY",
+   "title": "The Bajau People - The Tribe That Lives Entirely on Water",
+   "channel": "Echo 360",
+   "desc": "The Bajau People - The Tribe That Lives Entirely on Water Imagine living your entire life on a boat—never owning land, never ...",
+   "dur": "2:23",
+   "published": "1y ago",
+   "views": "385 views",
+   "region": "その他",
+   "language": "en",
+   "pri": 9,
+   "q": "Bajau Laut stateless"
   },
   {
    "vid": "6cdITRnTQ58",
@@ -1548,19 +1522,6 @@
    "language": "en",
    "pri": 9,
    "q": "Malaysia stateless children documentary"
-  },
-  {
-   "vid": "wGo_avqPCng",
-   "title": "b 206 governance Al Jazeera 101 East   Sabah's Invisible Children",
-   "channel": "MrDzianisRaikou11111",
-   "desc": "",
-   "dur": "20:26",
-   "published": "11y ago",
-   "views": "150 views",
-   "region": "その他",
-   "language": "en",
-   "pri": 9,
-   "q": "Sabah undocumented children"
   },
   {
    "vid": "LUkMAhE0veE",
@@ -1756,19 +1717,6 @@
    "language": "other",
    "pri": 9,
    "q": "Sabah undocumented children"
-  },
-  {
-   "vid": "c_aODFDhTXI",
-   "title": "The Story of the Marginalized Sabahan Bajau Laut/Palauh or Sea Gipsies",
-   "channel": "MySDG Academy",
-   "desc": "MySDG Conference Penang 2024 Session 4: The Voices of the Stateless: Personal Narratives and Struggles Topic: Immigrants in ...",
-   "dur": "7:00",
-   "published": "1y ago",
-   "views": "12 views",
-   "region": "その他",
-   "language": "en",
-   "pri": 9,
-   "q": "Bajau Laut stateless"
   }
  ]
 }
