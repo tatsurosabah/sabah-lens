@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:52:26Z",
+ "updated": "2026-11-03T07:07:45Z",
  "count": 301,
  "tags": {
   "入管・摘発": 204,
@@ -299,9 +299,9 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-10-29T11:08:10Z",
+   "date": "2026-10-29T10:24:15Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -1226,6 +1226,34 @@
    "figures": []
   },
   {
+   "title": "Risiko keselamatan berkaitan pelarian dan pendatang asing di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0QzQm1qenVfTDdwRGlXaTJmZG5sa0pvVHFpUnk3UGg2MjJ0T0N5Y2tXOXBTbHVuNFRpa0c4UVlhenlFRjdkU3pmZUQwWFhsLTljWFJ6QTNQSmNEOE8yMVcyY3lScW8yVUIwak9scmlOd3RqYVh1QXJfNk8zRVBSdlJzRUJBUTNOZlZUTDF5Y0VPR3FSNXB3YjI1S0p2cERDWHY1cVpCMkxlaHdtV1E?oc=5",
+   "source": "Utusan Borneo",
+   "date": "2026-10-09T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "85403dd2a148",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "サバ州の難民と移民に関連する安全上のリスク",
+   "first_seen": "2026-10-09T06:32:26Z",
+   "url_real": "https://www.utusanborneo.com.my/2026/10/09/risiko-keselamatan-berkaitan-pelarian-dan-pendatang-asing-di-sabah",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja": "",
+   "impact": 1,
+   "issues": [
+    "難民・UNHCR"
+   ],
+   "figures": []
+  },
+  {
    "title": "Ewon Bangkitkan Risiko Keselamatan Kehadiran Pelarian, Pendatang Asing Filipina di Sabah",
    "summary": "KUALA LUMPUR: Ahli Parlimen Penampang, Datuk Ewon Benedick meminta Kementerian Pertahanan menjelaskan sama ada keberadaan generasi pelarian dan pendatang asing dari Filipina di Sabah diiktiraf sebagai risiko keselamatan dalam negara, khususnya mengambil kira kedudukan negeri itu yang berhampiran wilayah Filipina. Beliau turut mempersoalkan sama ada kegiatan risikan dijalankan bagi mengenal pasti k",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1lwaU1NaGZydEtqM0ZtTFlqUVBmOUNBb0t3UU9nbW9Gb09NdVAxdkhJdENXb2k5UFVXZm9VRWg0YlN4QVJyNEo2bnpYMUxlTTN1VXY0YVdnQWxqajZkSzZZcXdzM2ZhMGZCNXpjY0NyQ0NtX0J5bUYyT0ZWb3U0TEZMOG5oTXNFNGlsQjlKeUlrd3M4bEFLWVdtSWpMUkZwRWIyZWMtY0NfTHp4bE03MDd6UQ?oc=5",
@@ -1252,34 +1280,6 @@
    "impact": 3,
    "issues": [
     "摘発・収容・送還",
-    "難民・UNHCR"
-   ],
-   "figures": []
-  },
-  {
-   "title": "Risiko keselamatan berkaitan pelarian dan pendatang asing di Sabah",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0QzQm1qenVfTDdwRGlXaTJmZG5sa0pvVHFpUnk3UGg2MjJ0T0N5Y2tXOXBTbHVuNFRpa0c4UVlhenlFRjdkU3pmZUQwWFhsLTljWFJ6QTNQSmNEOE8yMVcyY3lScW8yVUIwak9scmlOd3RqYVh1QXJfNk8zRVBSdlJzRUJBUTNOZlZUTDF5Y0VPR3FSNXB3YjI1S0p2cERDWHY1cVpCMkxlaHdtV1E?oc=5",
-   "source": "Utusan Borneo",
-   "date": "2026-10-08T23:56:46Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "pelarian Sabah",
-   "id": "85403dd2a148",
-   "tags": [
-    "難民"
-   ],
-   "title_ja": "サバ州の難民と移民に関連する安全上のリスク",
-   "first_seen": "2026-10-09T06:32:26Z",
-   "url_real": "https://www.utusanborneo.com.my/2026/10/09/risiko-keselamatan-berkaitan-pelarian-dan-pendatang-asing-di-sabah",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
-   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja": "",
-   "impact": 1,
-   "issues": [
     "難民・UNHCR"
    ],
    "figures": []
@@ -2915,7 +2915,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "MANILA: Malaysia dan Filipina hari ini membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin (PATI) dari Filipina yang berada di empat pusat tahanan di Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -3837,8 +3837,8 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=XOl2oxGPlBkQ7kNvwHVkKMy&_nc_oc=AdpuH4luNM2ukkG3dNKl_g_BIt1Stt5K1ibQwTq286BvT4KChnY3OwX-x4cmkaNHYxE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=hgnozVtp6K3-jk1ORrw1hA&_nc_ss=79289&oh=00_AQTYmTy4lrud_5eGxpsUdAyB8IpzySIWk0uOchVovDGysQ&oe=6AEEBF6D",
-   "image_alt": "394K views · 4.2K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=FGDCWlVfOO0Q7kNvwFxhdBZ&_nc_oc=AdpgQIEohacR27yoD2yG1KFNw98jd0ZpJ6CvuZxd-mFMek1YAIm7k-e61SOVIPlhS84&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=SFDwPL1prUiF-t7KaQOXRw&_nc_ss=79289&oh=00_AQTjKf_YhPvrFUxi-jwVzc4SjNr7DYbC8uOid9GFkJIVew&oe=6AEF682D",
+   "image_alt": "395K views · 4.2K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
    "summary_ja2": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash   同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
@@ -5351,7 +5351,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=Snc8lM8mQ28Q7kNvwH1WqQn&_nc_oc=AdpHGVKxj-3khCncz-qUUGF9sWDd5tfaomzpdunJPxzafRAmIt-ZdSpf5hCsrUHYT5o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-APvz-xKQISll2po82YPjQ&_nc_ss=79289&oh=00_AQRgoV1w9_XBaY8qB8fRMixXYC14nn7ELQCtF7QckFlQXg&oe=6AEEC86F",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=Snc8lM8mQ28Q7kNvwG9OSnM&_nc_oc=Adr9Vet2oWSo-iRjwu1gZTMnvvhCJwzEVma0Kj6Snxtmi9xELMDxy9oUksskwPzmONc&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=5aQUQ5sjEfI5RdSLJTdy1g&_nc_ss=79289&oh=00_AQTYDrUjA_pdyeopd6JzwYiPHh94GWZjVx32EwNP1WM_ZA&oe=6AEF712F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5708,7 +5708,7 @@
    "title_ja": "IMM13: サバ州と未だ解決されていない50年前のスキャンダル",
    "first_seen": "2026-09-18T05:02:32Z",
    "url_real": "https://www.youtube.com/watch?v=pbftxPKPDSk",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
    "summary_ja": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
@@ -11125,5 +11125,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-11-02T21:55:47Z"
+ "enriched_at": "2026-11-03T07:11:12Z"
 }
