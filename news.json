@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:54:04Z",
+ "updated": "2026-11-04T19:58:08Z",
  "count": 301,
  "tags": {
   "入管・摘発": 204,
@@ -23,8 +23,8 @@
   "The Star": 15,
   "Borneo Post": 13,
   "Astro Awani": 9,
-  "Malay Mail": 9,
   "Berita Harian": 8,
+  "Malay Mail": 8,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
@@ -40,6 +40,7 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "bernama": 2,
   "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
@@ -52,7 +53,6 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
-  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -73,6 +73,37 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Majikan didenda RM10,000 kerana menggaji PATI",
+   "summary": "Seorang majikan didenda RM10,000 atau penjara enam bulan jika gagal membayar denda oleh Mahkamah Sesyen di sini kerana menggaji seorang pendatang asing tanpa izin (PATI) warga Filipina.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0Q3TWxPamQ1Y2xDMWpzc0FpbjZneWctYkE4YkpFamVXUjQ0bUZpUGpJMUt1NkpVckF1VTc5WlFUQXVCNGRpcFhsS1FPLWlwZEdDaEtHd243VmRIMGFmNVdrdHRHQTdtTUtyb1lpOUZseU1acmkzenVlRnY0cDlic1hTQloxUQ?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-10-22T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "29c95b9ed56f",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "雇用主は外国人を雇用したとしてRM10,000の罰金を科せられた",
+   "first_seen": "2026-10-22T12:15:46Z",
+   "url_real": "https://sabahmedia.com/2026/10/22/majikan-didenda-rm10000-kerana-menggaji-pati/",
+   "image": "https://sabahmedia.com/wp-content/uploads/2026/09/Mahkamah-KK-1.jpeg",
+   "site_name": "Sabah Media",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: Seorang majikan didenda RM10,000 atau penjara enam bulan jika gagal membayar denda oleh Mahkamah Sesyen di sini kerana menggaji seorang pendatang asing tanpa izin (PATI) warga Filipina.\n\nHakim Hurman Hussain mengenakan denda itu terhadap Mohd Ansar selepas tertuduh membuat pengakuan bersalah.\n\nMengikut pertuduhan, tertuduh telah menggaji seorang lelaki warga Filipina berusia 31 tahun yang tidak memiliki pas sah di sebuah restoran dalam daerah Inanam, kira-kira jam 2.20 petang pada 15 Julai lalu.\n\nDia melakukan kesalahan mengikut Seksyen 55B(1) Akta Imigresen 1959/63 yang memperuntukkan denda antara RM10,000 hingga RM50,000 atau penjara sehingga 12 bulan atau kedua-duanya bagi setiap pekerja yang diambil bekerja.\n\nPendakwaan dikendalikan Pegawai Pendakwa Baxter Junior Goh.\n\nManakala dalam kes berasingan, seorang lelaki didenda keseluruhan RM20,000 selepas mengaku bersalah membenarkan empat imigran haram berada di premis di bawah kawalannya.\n\nMohd Azmi dikenakan denda RM5,000 atau penjara enam bulan jika gagal membayar denda bagi setiap imigran haram terbabit oleh hakim sama.\n\nMengikut pertuduhan, tertuduh selaku individu yang mempunyai kuasa dan kawalan terhadap premis makanan di Jalan Tuaran, Likas, didapati membenarkan empat imigran haram memasuki premis berkenaan kira-kira jam 4.10 petang pada 15 Julai lalu.\n\nDia melakukan kesalahan mengikut Seksyen 55E(1) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 55E(2) akta sama.\n\nPendakwaan dikendalikan Pegawai Pendakwa Mohd Hairul Bona.",
+   "body_ja": "コタキナバル：フィリピンの不法移民（PATI）国民を雇用した雇用主は、当地のセッションズ裁判所により罰金を支払わなかった場合、RM10,000の罰金または懲役6か月を科せられた。\n\n被告が有罪を認めた後、ハーマン・フセイン判事はモフド・アンサールに罰金を課した。\n\n起訴状によると、被告は７月１５日午後２時２０分ごろ、イナナム地区のレストランで、有効なパスポートを持たない３１歳のフィリピン人男性を雇った。\n\n彼は、雇用された労働者ごとにRM10,000からRM50,000の罰金または12か月以下の懲役、またはその両方を規定する1959/63年移民法第55B条(1)に基づく違反を犯した。\n\n訴追はバクスター・ジュニア・ゴー検察官が担当した。\n\n別の事件では、男性が管理下の敷地内に不法移民4人を滞在させたとして有罪を認め、合計2万リンギットの罰金を科せられた。\n\nモフド・アズミ氏は、同じ裁判官によって関与した不法移民１人当たりの罰金を支払わなかった場合、RM5,000の罰金または6か月の懲役刑を言い渡された。\n\n起訴状によると、被告はリカスのジャラン・トゥアランにある食品施設を管理する権限と管理権を持つ個人として、7月15日午後4時10分頃、4人の不法移民に敷地内への立ち入りを許可したことが判明した。\n\n彼は 1959/1963 年の移民法第 55E(1) 条に基づく犯罪を犯しており、同法の第 55E(2) 条に基づいて処罰される可能性があります。\n\n訴追はモフド・ハイル・ボナ検察官が担当した。",
+   "summary_ja2": "コタキナバル：フィリピンの不法移民（PATI）国民を雇用した雇用主は、当地のセッションズ裁判所により罰金を支払わなかった場合、RM10,000の罰金または懲役6か月を科せられた。被告が有罪を認めた後、ハーマン・フセイン判事はモフド・アンサールに罰金を課した。モフド・アズミ氏は、同じ裁判官によって関与した不法移民１人当たりの罰金を支払わなかった場合、RM5,000の罰金または6か月の懲役刑を言い渡された。",
+   "summary_ja": "フィリピンの不法移民（PATI）国民を雇用した雇用主は、当地のセッションズ裁判所により罰金を支払わなかった場合、RM10,000の罰金または懲役6か月が科せられた。",
+   "impact": 1,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": []
+  },
   {
    "title": "1,069 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "Oleh: Nurul Fazliana Norman",
@@ -138,7 +169,7 @@
    "title_ja": "弾圧激化で122人の子供を含む1,000人以上のフィリピン人がサバ州から強制送還",
    "first_seen": "2026-11-01T18:01:59Z",
    "url_real": "https://businessmirror.com.ph/2026/11/02/over-1000-filipinos-including-122-children-deported-from-sabah-as-crackdown-intensifies/?ki-cf-botcl=1",
-   "enriched": "blocked",
+   "enriched": "ok",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -151,7 +182,10 @@
      "kind": "送還",
      "raw": "122 children"
     }
-   ]
+   ],
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
   },
   {
    "title": "800 deportees arrive in Zamboanga from Sabah",
@@ -535,37 +569,6 @@
      "raw": "40 kanak-kanak"
     }
    ]
-  },
-  {
-   "title": "Majikan didenda RM10,000 kerana menggaji PATI",
-   "summary": "Seorang majikan didenda RM10,000 atau penjara enam bulan jika gagal membayar denda oleh Mahkamah Sesyen di sini kerana menggaji seorang pendatang asing tanpa izin (PATI) warga Filipina.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0Q3TWxPamQ1Y2xDMWpzc0FpbjZneWctYkE4YkpFamVXUjQ0bUZpUGpJMUt1NkpVckF1VTc5WlFUQXVCNGRpcFhsS1FPLWlwZEdDaEtHd243VmRIMGFmNVdrdHRHQTdtTUtyb1lpOUZseU1acmkzenVlRnY0cDlic1hTQloxUQ?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-10-22T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "29c95b9ed56f",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "雇用主は外国人を雇用したとしてRM10,000の罰金を科せられた",
-   "first_seen": "2026-10-22T12:15:46Z",
-   "url_real": "https://sabahmedia.com/2026/10/22/majikan-didenda-rm10000-kerana-menggaji-pati/",
-   "image": "https://sabahmedia.com/wp-content/uploads/2026/09/Mahkamah-KK-1.jpeg",
-   "site_name": "Sabah Media",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA KINABALU: Seorang majikan didenda RM10,000 atau penjara enam bulan jika gagal membayar denda oleh Mahkamah Sesyen di sini kerana menggaji seorang pendatang asing tanpa izin (PATI) warga Filipina.\n\nHakim Hurman Hussain mengenakan denda itu terhadap Mohd Ansar selepas tertuduh membuat pengakuan bersalah.\n\nMengikut pertuduhan, tertuduh telah menggaji seorang lelaki warga Filipina berusia 31 tahun yang tidak memiliki pas sah di sebuah restoran dalam daerah Inanam, kira-kira jam 2.20 petang pada 15 Julai lalu.\n\nDia melakukan kesalahan mengikut Seksyen 55B(1) Akta Imigresen 1959/63 yang memperuntukkan denda antara RM10,000 hingga RM50,000 atau penjara sehingga 12 bulan atau kedua-duanya bagi setiap pekerja yang diambil bekerja.\n\nPendakwaan dikendalikan Pegawai Pendakwa Baxter Junior Goh.\n\nManakala dalam kes berasingan, seorang lelaki didenda keseluruhan RM20,000 selepas mengaku bersalah membenarkan empat imigran haram berada di premis di bawah kawalannya.\n\nMohd Azmi dikenakan denda RM5,000 atau penjara enam bulan jika gagal membayar denda bagi setiap imigran haram terbabit oleh hakim sama.\n\nMengikut pertuduhan, tertuduh selaku individu yang mempunyai kuasa dan kawalan terhadap premis makanan di Jalan Tuaran, Likas, didapati membenarkan empat imigran haram memasuki premis berkenaan kira-kira jam 4.10 petang pada 15 Julai lalu.\n\nDia melakukan kesalahan mengikut Seksyen 55E(1) Akta Imigresen 1959/63 dan boleh dihukum mengikut Seksyen 55E(2) akta sama.\n\nPendakwaan dikendalikan Pegawai Pendakwa Mohd Hairul Bona.",
-   "body_ja": "コタキナバル：フィリピンの不法移民（PATI）国民を雇用した雇用主は、当地のセッションズ裁判所により罰金を支払わなかった場合、RM10,000の罰金または懲役6か月を科せられた。\n\n被告が有罪を認めた後、ハーマン・フセイン判事はモフド・アンサールに罰金を課した。\n\n起訴状によると、被告は７月１５日午後２時２０分ごろ、イナナム地区のレストランで、有効なパスポートを持たない３１歳のフィリピン人男性を雇った。\n\n彼は、雇用された労働者ごとにRM10,000からRM50,000の罰金または12か月以下の懲役、またはその両方を規定する1959/63年移民法第55B条(1)に基づく違反を犯した。\n\n訴追はバクスター・ジュニア・ゴー検察官が担当した。\n\n別の事件では、男性が管理下の敷地内に不法移民4人を滞在させたとして有罪を認め、合計2万リンギットの罰金を科せられた。\n\nモフド・アズミ氏は、同じ裁判官によって関与した不法移民１人当たりの罰金を支払わなかった場合、RM5,000の罰金または6か月の懲役刑を言い渡された。\n\n起訴状によると、被告はリカスのジャラン・トゥアランにある食品施設を管理する権限と管理権を持つ個人として、7月15日午後4時10分頃、4人の不法移民に敷地内への立ち入りを許可したことが判明した。\n\n彼は 1959/1963 年の移民法第 55E(1) 条に基づく犯罪を犯しており、同法の第 55E(2) 条に基づいて処罰される可能性があります。\n\n訴追はモフド・ハイル・ボナ検察官が担当した。",
-   "summary_ja2": "コタキナバル：フィリピンの不法移民（PATI）国民を雇用した雇用主は、当地のセッションズ裁判所により罰金を支払わなかった場合、RM10,000の罰金または懲役6か月を科せられた。被告が有罪を認めた後、ハーマン・フセイン判事はモフド・アンサールに罰金を課した。モフド・アズミ氏は、同じ裁判官によって関与した不法移民１人当たりの罰金を支払わなかった場合、RM5,000の罰金または6か月の懲役刑を言い渡された。",
-   "summary_ja": "フィリピンの不法移民（PATI）国民を雇用した雇用主は、当地のセッションズ裁判所により罰金を支払わなかった場合、RM10,000の罰金または懲役6か月が科せられた。",
-   "impact": 1,
-   "issues": [
-    "摘発・収容・送還",
-    "労働・雇用"
-   ],
-   "figures": []
   },
   {
    "title": "4,530 permohonan kewarganegaraan di Sabah masih diproses",
@@ -2915,7 +2918,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "MANILA: Malaysia dan Filipina hari ini membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin (PATI) dari Filipina yang berada di empat pusat tahanan di Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -3758,11 +3761,11 @@
    ]
   },
   {
-   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
+   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
-   "source": "Malay Mail",
-   "date": "2026-07-26T07:00:00Z",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
+   "source": "bernama",
+   "date": "2026-07-26T06:56:01Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -3837,8 +3840,8 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=FGDCWlVfOO0Q7kNvwFTApEq&_nc_oc=AdoUB7KyY5t8HCMeOAZ7ULYQQAFhJxXnqUNzu_XtEJIWaiQY5KQTbLfciwKpbNOrI8E&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=JJOJGdbXWViZRxenUfnM_w&_nc_ss=79289&oh=00_AQQq2HtDsoMRNAUzQKF9JNAL2DMtFM5o9ObGv2DbdNtZ3Q&oe=6AF0B9AD",
-   "image_alt": "403K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=FGDCWlVfOO0Q7kNvwGZ5eyK&_nc_oc=AdpgVzPueSVL69p_JKwvliZuYgat76KAt_qug5_ExSDgfAL41BQCntaGsJvCFMqC7gQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=IKFjJp70YLFazRqD5NquuQ&_nc_ss=79289&oh=00_AQS1suuI8CxqY5dGrL5RlGSHpOo_BPP6r7adXuLBWbPezw&oe=6AF1626D",
+   "image_alt": "404K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
    "summary_ja2": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash   同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
@@ -5340,18 +5343,18 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "無国籍",
+    "人権・NGO",
     "市民権",
     "政策・政治",
-    "人権・NGO"
+    "無国籍"
    ],
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=NN5PRacuiwIQ7kNvwH9J33g&_nc_oc=Adq607e_O0IRq1te4Jir0mECkD7WChnxbjpDaI6pTkVuP0s5QK8goKaaN2DciGR0120&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RYGWURBLt1J6Em_HI1Ucew&_nc_ss=79289&oh=00_AQSx1imMciP0-5nM0UPsaSBACluli7dhd7zMOv0VhKte7Q&oe=6AF0C2AF",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=NN5PRacuiwIQ7kNvwGOuakg&_nc_oc=AdpUSYdDqhsdYTtdh-D0iGKQDvuJOGu1DOee1deHO0vYgCgZfsYM6kXVL0O9ow5Xes0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=TuZWyfLxNljpFRubDGKXRw&_nc_ss=79289&oh=00_AQQhk1EU8uS9PkVktUuXRxAq4aE4zY4jlxv4I4B5RgGw_Q&oe=6AF16B6F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5667,7 +5670,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -6191,11 +6194,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah undocumented",
    "id": "109ac503086c",
    "tags": [
-    "医療・福祉",
-    "子ども"
+    "子ども",
+    "医療・福祉"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6282,11 +6285,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6444,8 +6447,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6599,11 +6602,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "74af7615571b",
    "tags": [
-    "人権・NGO",
-    "市民権"
+    "市民権",
+    "人権・NGO"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6686,11 +6689,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3bc557de9775",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -6722,7 +6725,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -7496,9 +7499,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
+    "無国籍",
     "子ども",
-    "教育",
-    "無国籍"
+    "教育"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "first_seen": "2026-08-10T08:27:43Z",
@@ -11125,5 +11128,5 @@
    "figures": []
   }
  ],
- "enriched_at": "2026-11-04T06:57:38Z"
+ "enriched_at": "2026-11-04T20:01:34Z"
 }
