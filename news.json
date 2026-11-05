@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T07:12:18Z",
- "count": 301,
+ "updated": "2026-11-05T20:12:19Z",
+ "count": 304,
  "tags": {
-  "入管・摘発": 204,
+  "入管・摘発": 207,
   "市民権": 40,
   "無国籍": 32,
   "子ども": 22,
@@ -16,8 +16,8 @@
  },
  "sources": {
   "Sabah Media": 48,
-  "TV Sabah News": 39,
-  "Daily Express Malaysia": 26,
+  "TV Sabah News": 41,
+  "Daily Express Malaysia": 27,
   "NST Online": 16,
   "sabahnews.com.my": 15,
   "The Star": 15,
@@ -74,9 +74,110 @@
  },
  "items": [
   {
+   "title": "Sabah Immigration Dept Deports 909 Undocumented Migrants In Single Day",
+   "summary": "KOTA KINABALU: Nov 5, 2026 — The Malaysian Immigration Department (JIM) Sabah has taken firm action by deporting 909 undocumented migrants (PATI) from the",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1UwR0JjSkE2TGY4bXBrb2hlQnZnUWw3UDRUNFhrMXJwd1ZXYjVqWUl0VGxJbVVkYTdib3A2aWNjSUpxOFk2ODQ5WTZ4Um9OQUpfRWxGWTVHNDBXMDBaalhqWExMRXdpR19mN1p4VVVEZmdMejhhOVdPT2JGTTBuaE5ZWHlwM3A1QWtHN3JmdE94eDBqa25wb3dOdw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-05T15:55:54Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "4b69437a346f",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州入国管理局、1日で909人の不法移民を国外追放",
+   "summary_ja": "コタキナバル: 2026 年 11 月 5 日 — マレーシア移民局 (JIM) サバ州は、909 人の不法滞在者 (PATI) をサバ州から強制送還するという断固たる措置を講じました。",
+   "first_seen": "2026-11-05T20:12:12Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 909,
+     "kind": "送還",
+     "raw": "909 Undocumented"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/sabah-immigration-dept-deports-909-undocumented-migrants-in-single-day/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/85519950-875e-4fe3-a51a-71a65b6b7bac.jpeg",
+   "image_alt": "Sabah Immigration Dept deports 909 undocumented migrants in single day",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: Nov 5, 2026 — The Malaysian Immigration Department (JIM) Sabah has taken firm action by deporting 909 undocumented migrants (PATI) from the Philippines and Indonesia to their home countries via sea routes today.\n\nA total of 802 Filipinos from the Kota Kinabalu and Papar Immigration Depots were deported via Sandakan Port to Zamboanga City Port aboard the vessel MV Antonia 1. The remaining 107 Indonesians from the Tawau Immigration Depot were repatriated to Nunukan Port.\n\nJIM Sabah stressed that all detainees had completed their sentences in accordance with the law and possessed valid travel documents before being repatriated.\n\nThe aggressive action by JIM Sabah brings the total number of undocumented migrants relocated to their home countries this year to 8,405. This involved 6,165 Filipinos, 1,896 Indonesians and 344 nationals of other countries.\n\nTo ensure there is no influx of undocumented migrants, JIM Sabah issued a stern, uncompromising warning to employers who harbour workers without valid documents.\n\n“Employers who collude may face a RM50,000 fine, imprisonment and caning,” JIM Sabah stressed.\n\nJIM Sabah also urged all employers to participate in the Sabah State Government’s digital registration programme for foreign workers, particularly in the plantation sector.\n\nSource: Malaysian Immigration Department Sabah State",
+   "body_ja": "コタキナバル：2026年11月5日 — マレーシア入国管理局（JIM）サバ州は、本日、フィリピンとインドネシアから909人の不法移民（PATI）を海路経由で母国に強制送還するという断固たる措置を講じた。\n\nコタキナバルとパパールの入国管理所から合計802人のフィリピン人がMVアントニア1号でサンダカン港を経由してサンボアンガ市港に強制送還された。タワウ入国管理所の残りの107人のインドネシア人はヌヌカン港に送還された。\n\nジム・サバ氏は、すべての被拘禁者が法に従って刑期を終え、本国送還前に有効な渡航書類を所持していたと強調した。\n\nジム・サバ氏の積極的な行動により、今年母国に移住した不法移民の総数は8,405人となった。これにはフィリピン人6,165人、インドネシア人1,896人、その他の国の国民344人が参加した。\n\n不法移民の流入を確実に防ぐため、ジム・サバ州は有効な書類を持たずに労働者を匿う雇用主に対し、厳しく妥協のない警告を発した。\n\n「共謀した雇用主はRM50,000の罰金、懲役、むち打ち刑に処される可能性がある」とジム・サバ氏は強調した。\n\nJIMサバ氏はまた、すべての雇用主に対し、サバ州政府の外国人労働者、特にプランテーション部門のデジタル登録プログラムに参加するよう求めた。\n\n出典: マレーシア入国管理局サバ州",
+   "summary_ja2": "コタキナバル：2026年11月5日 — マレーシア入国管理局（JIM）サバ州は、本日、フィリピンとインドネシアから909人の不法移民（PATI）を海路経由で母国に強制送還するという断固たる措置を講じた。コタキナバルとパパールの入国管理所から合計802人のフィリピン人がMVアントニア1号でサンダカン港を経由してサンボアンガ市港に強制送還された。"
+  },
+  {
+   "title": "JIM Sabah Usir 909 PATI Dalam Satu Hari",
+   "summary": "KOTA KINABALU: 5 November 2026 — Jabatan Imigresen Malaysia (JIM) Sabah bertindak tegas dengan mengusir pulang seramai 909 Pendatang Asing Tanpa Izin (PATI)",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NaGVnQjB3OWxKTldseElWVTRwS0ljdHR0OUZnanZTM2trVmdlc2c0SnhmMUJWTTlYMkxnMm1XWHY0OE9ZVnZKNWhlUkxHdTN3YTB2NlpVV1JFbEF5blViX1ZYMXM0NFBpME5pTm85eXBBQQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-05T15:53:31Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "e0958997c2ce",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ氏、1日で909人のPATIを追放",
+   "summary_ja": "コタキナバル: 2026 年 11 月 5 日 — マレーシア移民局 (JIM) サバ州は、909 人の不法移民 (PATI) を強制送還するという断固とした行動をとりました。",
+   "first_seen": "2026-11-05T20:12:12Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [],
+   "url_real": "https://tvsabahnews.com/jim-sabah-usir-909-pati-dalam-satu-hari/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/85519950-875e-4fe3-a51a-71a65b6b7bac.jpeg",
+   "image_alt": "JIM Sabah usir 909 PATI dalam satu hari",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: 5 November 2026 — Jabatan Imigresen Malaysia (JIM) Sabah bertindak tegas dengan mengusir pulang seramai 909 Pendatang Asing Tanpa Izin (PATI) warga Filipina dan Indonesia ke negara asal melalui laluan laut, hari ini.\n\nSeramai 802 warga Filipina dari Depot Imigresen Kota Kinabalu dan Papar diusir melalui Pelabuhan Sandakan ke Pelabuhan Zamboanga City menggunakan kapal MV Antonia 1. Selebihnya, 107 warga Indonesia dari Depot Imigresen Tawau dihantar pulang ke Pelabuhan Nunukan.\n\nJIM Sabah menegaskan semua tahanan telah selesai menjalani hukuman mengikut undang-undang dan memiliki dokumen perjalanan sah sebelum dihantar pulang.\n\nTindakan agresif JIM Sabah itu menjadikan jumlah keseluruhan PATI yang dipindahkan ke negara asal tahun ini mencecah 8,405 orang. Ia membabitkan 6,165 warga Filipina, 1,896 warga Indonesia dan 344 warga negara lain.\n\nUntuk memastikan tiada lambakan PATI, JIM Sabah memberi amaran keras tanpa kompromi kepada majikan yang melindungi pekerja tanpa dokumen sah.\n\n“Majikan yang bersubahat boleh dikenakan denda RM50,000, hukuman penjara dan sebatan,” tegas JIM Sabah.\n\nJIM Sabah turut menggesa semua majikan menyertai program pendataan digital warga asing Kerajaan Negeri Sabah, khususnya dalam sektor perladangan.\n\nSumber: Jabatan Imigresen Malaysia Negeri Sabah",
+   "body_ja": "コタキナバル：2026年11月5日 — マレーシア入国管理局（JIM）サバ州は本日、フィリピンとインドネシアから合計909人の不法移民（PATI）を船で出身国に強制送還するという断固とした行動をとった。\n\nコタキナバルとパパール入国管理所の合計802人のフィリピン人が、船MVアントニア1号を使用してサンダカン港を経由してサンボアンガ市港に強制送還された。残りのタワウ入国管理所のインドネシア人107人はヌヌカン港に送り返された。\n\nジム・サバ氏は、すべての被拘禁者が法に従って刑期を終えており、帰国前に有効な渡航書類を持っていると主張している。\n\nジム・サバ州の積極的な行動により、今年母国に移送された不法滞在者の総数は8,405人に達した。これにはフィリピン人6,165人、インドネシア人1,896人、その他344人の国籍が参加した。\n\nPATIのダンピングがないよう、ジム・サバ氏は法的文書を持たずに労働者を保護する雇用主に対し、妥協することなく厳しい警告を発した。\n\n「共謀した雇用主には5万リンギットの罰金、投獄、むち打ち刑が科される可能性がある」とジム・サバ氏は述べた。\n\nJIMサバ州はまた、すべての雇用主に対し、特にプランテーション部門におけるサバ州政府の外国人向けデジタルデータ収集プログラムに参加するよう呼びかけている。\n\n出典: サバ州マレーシア入国管理局",
+   "summary_ja2": "コタキナバル：2026年11月5日 — マレーシア入国管理局（JIM）サバ州は本日、フィリピンとインドネシアから合計909人の不法移民（PATI）を船で出身国に強制送還するという断固とした行動をとった。コタキナバルとパパール入国管理所の合計802人のフィリピン人が、船MVアントニア1号を使用してサンダカン港を経由してサンボアンガ市港に強制送還された。"
+  },
+  {
+   "title": "Sabah deports 8,405 undocumented migrants up to Nov 5",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1I3R1dQYTJIM2R2ZWwwUkV3SlBOZXNoLVE1X0lWaFB3Z3J1NGc2c2NTV3UwSXZ0VEtPOE5PcndnckdkaUZUNkwyTmhhVDlKaTM4WlBlMW84amNYSWNWdFpMN0xuZ25nXzFQYndlSDhWQ195U3VIYzlOaldPOTN6MUtnOTdkT2tnYVlkbm1uSk80bHVJYmlwZTFwODluRHM?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-11-05T11:07:57Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "c0bb51a28858",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州、11月5日までに不法移民8,405人を追放",
+   "summary_ja": "",
+   "first_seen": "2026-11-05T20:12:12Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 8405,
+     "kind": "送還",
+     "raw": "8,405 undocumented"
+    }
+   ],
+   "url_real": "https://www.dailyexpress.com.my/news/291067/sabah-deports-8-405-undocumented-migrants-up-to-nov-5/",
+   "enriched": "blocked",
+   "enriched_v": 3
+  },
+  {
    "title": "Use of IMM13 much better than PSS: Jeffrey",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yTDJrUHBkVFVFSmkxam1EMV9YazJlMVdXVjhfNm9ZZVNtSE53MHdFMndwMkZDRlVaeXRIRWZOSmI1OXZFOXJFZEUzdkptQ19yOENheFBUUXlmRTZj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeHhfNHY3RWhmRUNjYldLZ2FCTGtuRUQ0UlZ3T0RQMWxEdGJyUWptSzJLbFBCVTN3Mkc3aXg5RG16UXdwTG8tLUVWNEUwcnBJVmJZWkxRb19RN28?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-11-05T00:59:00Z",
    "lang": "en",
@@ -87,19 +188,19 @@
     "市民権"
    ],
    "title_ja": "IMM13 の使用法は PSS よりもはるかに優れています: Jeffrey",
-   "summary_ja": "",
    "first_seen": "2026-11-05T07:12:16Z",
-   "impact": 3,
-   "issues": [
-    "身分証・在留資格"
-   ],
-   "figures": [],
    "url_real": "https://www.dailyexpress.com.my/news/154372/use-",
    "enriched": "ok",
    "enriched_v": 3,
    "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
    "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja": "",
+   "impact": 3,
+   "issues": [
+    "身分証・在留資格"
+   ],
+   "figures": []
   },
   {
    "title": "Majikan didenda RM10,000 kerana menggaji PATI",
@@ -3868,7 +3969,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=FGDCWlVfOO0Q7kNvwFkVhD4&_nc_oc=AdoCNYBayofRnqVcKiA2r7xIbxoRaU0FemrltZ56M7kJqyC7gVhTRfdUC9bNfOs1vGM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YOzVMK7pH1MWwIpKLjcn_Q&_nc_ss=79289&oh=00_AQSeK4sl4ThIEJ82WC4JQxpemzAc5xLBMf36k5rvvqWyXQ&oe=6AF20B2D",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=FGDCWlVfOO0Q7kNvwGlbhwD&_nc_oc=AdpOnhcXgx9ROK9Lkr4CmbyVeZ8uHJswCqiJ_9UVob_h1A2Khi1XFJAcbwcr3Gun_wo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=YubkJUicM9yIYcqkJu_MQQ&_nc_ss=79289&oh=00_AQSmljKC9deLc6lapFKUjE-0cZ_ZqYz5TPgxeOSzbYNVLQ&oe=6AF2B3ED",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5382,7 +5483,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=NN5PRacuiwIQ7kNvwEe29an&_nc_oc=Adryi71XEQum4pAvzC5u3fz9hWvFoXRfSv0RbODWb2kS_HMIkP3Ly9jOitTg0taZEJs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=RTs-iwcR5FoVwmIAyucrYg&_nc_ss=79289&oh=00_AQT3wUeupvz2OsvXLqGmwTCIKGPUhldzzIOv-LIWPIhQQw&oe=6AF2142F",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=NN5PRacuiwIQ7kNvwGDHFTM&_nc_oc=AdoNLjxvHloY39DOCI3xRpKiIamXBzLht1T7yg4o6QNIzIYg1a9GxjYCzUsWdh0RmE4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=IZ5R_fIU9j0HA70h2r0nfw&_nc_ss=79289&oh=00_AQR-induKZsSIpDhfpRg5TPEZD2HI-qzhoivaJgiaaNCuQ&oe=6AF2BCEF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -11122,5 +11223,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-05T07:16:15Z"
+ "enriched_at": "2026-11-05T20:16:13Z"
 }
