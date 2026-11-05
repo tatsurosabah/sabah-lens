@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-04T19:58:08Z",
+ "updated": "2026-11-05T07:12:18Z",
  "count": 301,
  "tags": {
   "入管・摘発": 204,
-  "市民権": 39,
-  "無国籍": 33,
-  "子ども": 23,
+  "市民権": 40,
+  "無国籍": 32,
+  "子ども": 22,
   "難民": 14,
-  "バジャウ": 13,
+  "バジャウ": 12,
   "政策・政治": 12,
   "人権・NGO": 8,
   "医療・福祉": 3,
@@ -17,7 +17,7 @@
  "sources": {
   "Sabah Media": 48,
   "TV Sabah News": 39,
-  "Daily Express Malaysia": 25,
+  "Daily Express Malaysia": 26,
   "NST Online": 16,
   "sabahnews.com.my": 15,
   "The Star": 15,
@@ -40,7 +40,6 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
-  "bernama": 2,
   "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
@@ -53,6 +52,7 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -73,6 +73,34 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Use of IMM13 much better than PSS: Jeffrey",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yTDJrUHBkVFVFSmkxam1EMV9YazJlMVdXVjhfNm9ZZVNtSE53MHdFMndwMkZDRlVaeXRIRWZOSmI1OXZFOXJFZEUzdkptQ19yOENheFBUUXlmRTZj?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-11-05T00:59:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah IMM13 OR MyKAS",
+   "id": "99af4b88fcd1",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "IMM13 の使用法は PSS よりもはるかに優れています: Jeffrey",
+   "summary_ja": "",
+   "first_seen": "2026-11-05T07:12:16Z",
+   "impact": 3,
+   "issues": [
+    "身分証・在留資格"
+   ],
+   "figures": [],
+   "url_real": "https://www.dailyexpress.com.my/news/154372/use-",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
+  },
   {
    "title": "Majikan didenda RM10,000 kerana menggaji PATI",
    "summary": "Seorang majikan didenda RM10,000 atau penjara enam bulan jika gagal membayar denda oleh Mahkamah Sesyen di sini kerana menggaji seorang pendatang asing tanpa izin (PATI) warga Filipina.",
@@ -627,7 +655,7 @@
    "summary": "UNHCR, the UN Refugee Agency, is a global organisation dedicated to saving lives\n        and protecting the rights of refugees, forcibly displaced communities and stateless people.",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2kwckpMMkUtVDROYlI4Z1l2RG42d0xOWFpWY00xb3ZYLVdHUDlxbHZ5bUNKTmdEc3FSbFZPMjF0dmdnMlZMdXNNazROMnZyV2YxNHlJd1NrYy0wS0xJSWpUV3ZDX2RvMWpYUkhtUmU2SWlpcFdOSlo4am1KOUp3V0FXQUdqNmRzTW1kX2RXMXFteEptY3ZCWkxnZGZGcjBucE5lQmp2T1BiNWJoWXA3dkhtYlFTXzd2NEE?oc=5",
    "source": "UNHCR - The UN Refugee Agency",
-   "date": "2026-10-20T12:55:36Z",
+   "date": "2026-10-20T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah UNHCR OR asylum",
@@ -636,19 +664,19 @@
     "難民"
    ],
    "title_ja": "UNHCRとサウド・アル・ナセル・アル・サバ外交研究所が人道外交における協力強化に向けた覚書に署名",
-   "summary_ja": "UNHCR、国連難民機関は、命を救うことに専念する世界的な組織です\n        そして難民、強制的に避難させられたコミュニティ、無国籍者の権利を保護します。",
    "first_seen": "2026-10-30T13:22:56Z",
-   "impact": 3,
-   "issues": [
-    "難民・UNHCR"
-   ],
-   "figures": [],
    "url_real": "https://www.unhcr.org/kw/en/news/press-releases/unhcr-and-saud-al-nasser-al-sabah-diplomatic-institute-sign-memorandum",
    "image": "https://static.unhcr.org/assets/img/unhcr-logo-share-og.jpg",
    "site_name": "UNHCR",
    "enriched": "blocked",
    "enriched_v": 3,
-   "summary_ja2": "UNHCR、国連難民機関は、命を救うことに専念する世界的な組織です         そして難民、強制的に避難させられたコミュニティ、無国籍者の権利を保護します。"
+   "summary_ja2": "UNHCR、国連難民機関は、命を救うことに専念する世界的な組織です         そして難民、強制的に避難させられたコミュニティ、無国籍者の権利を保護します。",
+   "summary_ja": "UNHCR、国連難民機関は、命を救うことに専念する世界的な組織です\n        そして難民、強制的に避難させられたコミュニティ、無国籍者の権利を保護します。",
+   "impact": 3,
+   "issues": [
+    "難民・UNHCR"
+   ],
+   "figures": []
   },
   {
    "title": "UNHCR, Saud Al-Nasser Al-Sabah Diplomatic Institute sign MoU",
@@ -3497,7 +3525,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah citizenship children",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -3761,11 +3789,11 @@
    ]
   },
   {
-   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
+   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
-   "source": "bernama",
-   "date": "2026-07-26T06:56:01Z",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -3840,8 +3868,8 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=FGDCWlVfOO0Q7kNvwGZ5eyK&_nc_oc=AdpgVzPueSVL69p_JKwvliZuYgat76KAt_qug5_ExSDgfAL41BQCntaGsJvCFMqC7gQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=IKFjJp70YLFazRqD5NquuQ&_nc_ss=79289&oh=00_AQS1suuI8CxqY5dGrL5RlGSHpOo_BPP6r7adXuLBWbPezw&oe=6AF1626D",
-   "image_alt": "404K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=FGDCWlVfOO0Q7kNvwFkVhD4&_nc_oc=AdoCNYBayofRnqVcKiA2r7xIbxoRaU0FemrltZ56M7kJqyC7gVhTRfdUC9bNfOs1vGM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YOzVMK7pH1MWwIpKLjcn_Q&_nc_ss=79289&oh=00_AQSeK4sl4ThIEJ82WC4JQxpemzAc5xLBMf36k5rvvqWyXQ&oe=6AF20B2D",
+   "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
    "summary_ja2": "ジム・サバ州、超満員の拘置所を否定、フィリピン人死亡 #MGFlash   同氏は、サバ州入国管理所に収容されているフィリピン人全員の健康状態は良好だと述べた。",
@@ -5354,7 +5382,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=NN5PRacuiwIQ7kNvwGOuakg&_nc_oc=AdpUSYdDqhsdYTtdh-D0iGKQDvuJOGu1DOee1deHO0vYgCgZfsYM6kXVL0O9ow5Xes0&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=TuZWyfLxNljpFRubDGKXRw&_nc_ss=79289&oh=00_AQQhk1EU8uS9PkVktUuXRxAq4aE4zY4jlxv4I4B5RgGw_Q&oe=6AF16B6F",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=NN5PRacuiwIQ7kNvwEe29an&_nc_oc=Adryi71XEQum4pAvzC5u3fz9hWvFoXRfSv0RbODWb2kS_HMIkP3Ly9jOitTg0taZEJs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=RTs-iwcR5FoVwmIAyucrYg&_nc_ss=79289&oh=00_AQT3wUeupvz2OsvXLqGmwTCIKGPUhldzzIOv-LIWPIhQQw&oe=6AF2142F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -7286,16 +7314,16 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "KUALA LUMPUR: Kerajaan digesa melonggarkan syarat permohonan Kad Pengenalan Pemastautin Sementara atau MyKas bagi membolehkan golongan ‘stateless’ (tanpa negara) terutama di Sabah mendapat dokumen pengenalan diri atas dasar kemanusiaan.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW_SAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3fSAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "917dcdd3c5f6",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -11092,41 +11120,7 @@
      "raw": "8,678 undocumented"
     }
    ]
-  },
-  {
-   "title": "‘Dancing with the Waves’: Artist Denis Chai captures stateless Bajau Laut children’s lives in poignant portraits",
-   "summary": "KUALA LUMPUR, Oct 1 — The Bajau Laut community living on the pristine waters of Semporna in Sabah have an exceptional talent for reading the sea. These sea nomads have lived off...",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbk4tdXNqNVJKdzlSOHl4NjZ2N3FPNFFQbzA1ZjhmLTdYZ0t2X215VmFwUHlZSHhKZW1RSkt0WDI0Y2VZVThXSkNZYW1hSFhYUzJXYWFibDA4UUt5MHJyVEVTSy1fckhUMXRIRXVrTWE3SV8tZ0IyRkphTTc0TFE3TUZveVVwRG9qa2xrZGFTS2ZUSGFFSFZUQTNtMHlCUnJsR2preGVCSEMtcEZlWVpBd2pLdTExb0lmTzZjNmQ1dFdrdmhMa3A5eGlzQ0t6UVd3bGRkMFhtZGxDN2hfNWVZaWY0a3NIWWVaMDBXckRHWEx6bk9i0gH6AUFVX3lxTFBTdG5yZ0JoQU9ONS1zclNoWkVHRFZvSVhuUFN1Skk2Y2NwSHVkZW9jc09OTXRzUlNLOGxSWEl4MDNZSTBULV9iZ3RtVFowbk80WDVlNlZNR3VfUGMwZVN6TTZYTF9DZjg5TG1SUUh6UXJfdi05R1dBN0w2NWo3cHE0SmFub19XWHNNNGQ3WDRJSk1VdEZ3TFZFNjB2emN1VUxFbXVWaklvQjZwSEpLTEJ1THluTzRfNWc0MmhRNUVTSDdiR0hrVjFKRDkwNlJRT01EZ2ROTjY0ZkxoSmxPRTJuMWotanBGYndSSWRRMERmTml5QzVJNk9OTUE?oc=5",
-   "source": "Malay Mail",
-   "date": "2025-10-01T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "a283702ba13a",
-   "tags": [
-    "無国籍",
-    "子ども",
-    "バジャウ"
-   ],
-   "title_ja": "「ダンシング・ウィズ・ザ・ウェーブズ」：アーティストのデニス・チャイが、無国籍のバジャウ・ラウト族の子どもたちの生活を感動的なポートレートで捉えている",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://www.malaymail.com/news/life/2025/10/01/dancing-with-the-waves-artist-denis-chai-captures-stateless-bajau-laut-childrens-lives-in-poignant-portraits/193025",
-   "image": "https://www.malaymail.com/malaymail/uploads/images/2025/10/01/301881.jpg",
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3T3oVOgdZbEHrMe4Qpb0FjrF4g3WRy1m3KLwfiGdQO_ExNbmHkDyvFTTaMzaWL5yi1omLqPcaqD-lNQ",
-   "site_name": "Malay Mail",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KUALA LUMPUR, Oct 1 — The Bajau Laut community living on the pristine waters of Semporna in Sabah have an exceptional talent for reading the sea.\n\nThese sea nomads have lived off the ocean for centuries but were rendered stateless after the formation of modern-day Malaysia, Indonesia, and the Philippines.\n\nAs a result, Bajau Laut children grow up without formal education, relying instead on nature to guide and sustain them.\n\nInspired by this connection, mixed media artist Denis Chai poignantly captures the lesser-known routines and rites of passage of Bajau Laut children in his latest exhibition, Dancing with the Waves.\n\nInterestingly, in almost all his portraits, the children are depicted with unusually long necks — each adorned with different sea creatures wrapped around their heads.\n\nThe peculiar pattern actually tells an interesting story.\n\nChai, 51, first met the Bajau Laut children in Semporna by chance three years ago while on vacation with his wife.\n\nWhat he hadn’t expected to see was young Bajau Laut children rowing their boats to the shores near his resort.\n\n“They would extend their necks and look upwards at the visitors in their rooms at the resort, trying to sell their freshly-caught seafood,” Chai told Malay Mail, when met at the exhibition recently.\n\n“They sell crabs, fish, lobsters, pearls and anything else they could salvage from the sea.\n\n“They are natural divers and catch the sea creatures with their bare hands,” he added.\n\nWatching the children ply their trade sparked fresh inspirations in Chai, who got into work right away.\n\nHe started mingling with the Bajau Laut community there to learn about their daily routine and customs.\n\nOften, he had to interpret what the children were saying through their body language due to their limited proficiency in Malay and English since they cannot receive formal education in schools.\n\nHe even returned to the island twice, visiting their stilt homes standing sturdy against the tides.\n\nThe visits resulted in nearly 40 art pieces, mostly painted on reclaimed driftwood collected from abandoned fishing boats and gunny sacks.\n\nGrowing up in a neighbourhood in Kulai, Johor, Chai spent most of his childhood playing with his friends along the riverbanks in his village. He also developed a fascination for the artistic appearance and texture of driftwood from early on.\n\nIn fact, Chai has been collecting driftwoods from fishing communities, all the way from Penang to Johor.\n\nHis purchases often leave fishermen scratching their heads, but for Chai, “every piece of wood tells a story.”\n\nSimilarly, wood is also very significant in the Bajau Laut culture.\n\n“Young Bajau Laut men who are ready for marriage must demonstrate two skills.\n\n“They should be able to build a boat from felled hardwood and construct stilt homes on the sea.\n\n“It’s like a rite of passage for them,” Chai explained.\n\nWhen he visited some Bajau Laut homes, Chai found them using gunny sacks as blankets to sleep or as a barrier to shelter themselves from strong winds. That moved him to also use gunny sacks as his canvas so that he can present their stories in a raw and relatable way.\n\nDuring his interactions with the Bajau Laut children, Chai was baffled that most of them did not know their own age.\n\n“They live without any sense of time. They live freely in very simple homes, trying to make ends meet with whatever little they find from the sea,” he said.\n\nChai has also assigned a sea creature that best resembles the personality of each child depicted in the portraits.\n\nFor instance, strong-headed children are depicted with a crab around them.\n\nChildren who are sensitive to changes and quickly adapt to them are portrayed with a starfish around them — representing both their vulnerability and their ability to ride with whatever life throws at them.\n\nMeanwhile, AweGallery founder Dora Ong said some 18 pieces have been sold since the exhibition began last Friday.\n\nChai is also directing all proceeds from the sales to support Iskul Sama di Laut Omadal, a community-driven makeshift school that provides basic literacy training to stateless Bajau Laut children on Omadal Island.\n\nThe Dancing with the Waves exhibition will run until October 5 at AweGallery in Taman Paramount, Petaling Jaya.",
-   "body_ja": "クアラルンプール、10 月 1 日 — サバ州センポルナの自然のままの海に住むバジャウ ラウト族のコミュニティは、海を読むという並外れた才能を持っています。\n\nこれらの海洋遊牧民は何世紀にもわたって海で暮らしてきましたが、現在のマレーシア、インドネシア、フィリピンが形成された後は無国籍になりました。\n\nその結果、バジャウ・ラウト族の子どもたちは正式な教育を受けることなく成長し、代わりに自然に頼り、彼らを導き、支えてくれるのです。\n\nこのつながりからインスピレーションを得たミックスメディアアーティストのデニス・チャイは、最新の展覧会「ダンシング・ウィズ・ザ・ウェーブス」で、バジャウ・ラウト族の子どもたちのあまり知られていない日課や通過儀礼を感動的に捉えている。\n\n興味深いことに、彼のほとんどすべての肖像画で、子供たちは異常に長い首で描かれており、それぞれの頭にさまざまな海の生き物が巻き付いています。\n\nこの独特のパターンは、実は興味深い物語を物語っています。\n\n51歳のチャイさんは、3年前に妻と休暇中にセンポルナで偶然バジャウ・ラウト族の子供たちに初めて会った。\n\n彼が目にすると予想していなかったのは、バジャウ族のラウト族の子供たちがリゾート近くの海岸に向かってボートを漕いでいる姿だった。\n\n「彼らはリゾートの部屋で首を伸ばして訪問者を見上げ、獲れたての魚介類を売ろうとしていました」と最近展示会で会ったチャイさんはマレーメールに語った。\n\n「彼らはカニ、魚、ロブスター、真珠、その他海から拾えるものなら何でも売っています。\n\n「彼らは生来のダイバーであり、海の生き物を素手で捕まえます」と彼は付け加えた。\n\n子どもたちが仕事に取り組む姿を見て、チャイさんは新たなインスピレーションを呼び起こし、すぐに仕事に取り掛かりました。\n\n彼はそこでバジャウ・ラウト族のコミュニティと交流を始め、彼らの日常生活や習慣について学びました。\n\n子どもたちは学校で正式な教育を受けることができないため、マレー語と英語の能力が限られており、子どもたちの言葉をボディランゲージで解釈しなければならないことがよくありました。\n\n彼はこの島に2度も戻り、潮流にも耐えてたたずむ高床式の家々を訪れた。\n\nこの訪問により、放棄された漁船や銃袋から収集された再生流木に描かれた作品のほとんどが 40 点近くの芸術作品に仕上がりました。\n\nジョホール州クライの近所で育ったチャイは、幼少期のほとんどを村の川岸で友達と遊んで過ごしました。また、彼は早くから流木の芸術的な外観と質感に魅了されました。\n\n実際、チャイさんはペナンからジョホール州に至るまで、漁村から流木を集めてきました。\n\n彼の購入品には漁師たちが頭を悩ませることも多いが、チャイさんにとっては「すべての木材に物語がある」のだ。\n\n同様に、木材もバジャウ・ラウト文化において非常に重要です。\n\n「結婚の準備ができているバジャウ・ラウト族の若い男性は、2つのスキルを身につけなければなりません。\n\n「彼らは伐採した広葉樹で船を作り、海の上に高床式の家を建てることができるはずです。\n\n「それは彼らにとって通過儀礼のようなものです」とチャイは説明した。\n\nチャイさんはバジャウ・ラウト族の家々を訪問した際、彼らが睡眠用の毛布や強風から身を守るための柵として麻袋を使っているのを発見した。そのことが彼に、彼らのストーリーを生々しく共感できる方法で表現できるように、ガンサックもキャンバスとして使用することにしたのです。\n\nバジャウ族のラウト族の子どもたちと交流する中で、チャイさんは、子どもたちのほとんどが自分の年齢を知らないことに困惑した。\n\n「彼らは時間の感覚を持たずに暮らしています。彼らは非常にシンプルな家で自由に暮らしており、海で見つけたわずかなものでなんとかやりくりしようとしています」と彼は言いました。\n\nチャイさんはまた、肖像画に描かれた子どもたちそれぞれの性格に最もよく似た海の生き物を割り当てた。\n\nたとえば、頭の強い子供たちはカニを抱えて描かれています。\n\n変化に敏感で、すぐに適応する子供たちは、周りにヒトデを持って描かれており、彼らの脆弱性と、人生が投げかけてくるものに対処する能力の両方を表しています。\n\n一方、AweGalleryの創設者Dora Ong氏は、先週金曜日に展覧会が始まって以来、約18点の作品が売れたと語った。\n\nチャイさんはまた、売り上げの全額を、オマダル島の無国籍のバジャウ・ラウト族の子どもたちに基礎的な読み書き教育を提供するコミュニティ主導の仮設学校であるイスクル・サマ・ディ・ラウト・オマダルへの支援に振り向けている。\n\n「Dancing with the Waves」展は、ペタリン ジャヤのタマン パラマウントにある AweGallery で 10 月 5 日まで開催されます。",
-   "summary_ja2": "クアラルンプール、10 月 1 日 — サバ州センポルナの自然のままの海に住むバジャウ ラウト族のコミュニティは、海を読むという並外れた才能を持っています。51歳のチャイさんは、3年前に妻と休暇中にセンポルナで偶然バジャウ・ラウト族の子供たちに初めて会った。",
-   "summary_ja": "クアラルンプール、10 月 1 日 — サバ州センポルナの自然のままの海に住むバジャウ ラウト族のコミュニティは、海を読むという並外れた才能を持っています。 これらの海洋遊牧民は生計を立てています...",
-   "impact": 3,
-   "issues": [
-    "教育アクセス",
-    "バジャウ・ラウト"
-   ],
-   "figures": []
   }
  ],
- "enriched_at": "2026-11-04T20:01:34Z"
+ "enriched_at": "2026-11-05T07:16:15Z"
 }
