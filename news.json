@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:01:17Z",
+ "updated": "2026-11-08T22:21:28Z",
  "count": 306,
  "tags": {
   "入管・摘発": 208,
@@ -24,19 +24,19 @@
   "Borneo Post": 14,
   "Berita Harian": 9,
   "Astro Awani": 8,
+  "Malay Mail": 8,
   "Jesselton Times": 7,
-  "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
   "Sayang Sabah": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
-  "Bernama": 4,
   "THE MALAYSIA PRESS": 4,
   "tvsabahnews.com": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
+  "Bernama": 3,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
@@ -86,8 +86,11 @@
     "入管・摘発"
    ],
    "title_ja": "これまでに8,472人の外国人がサバ州から強制送還されたと入国管理局が発表",
-   "summary_ja": "",
    "first_seen": "2026-11-08T18:01:13Z",
+   "url_real": "https://www.theborneopost.com/2026/11/08/8472-foreigners-deported-from-sabah-to-date-says-immigration-dept/",
+   "enriched": "blocked",
+   "enriched_v": 3,
+   "summary_ja": "",
    "impact": 0,
    "issues": [
     "摘発・収容・送還"
@@ -98,10 +101,7 @@
      "kind": "送還",
      "raw": "8,472 foreigner"
     }
-   ],
-   "url_real": "https://www.theborneopost.com/2026/11/08/8472-foreigners-deported-from-sabah-to-date-says-immigration-dept/",
-   "enriched": "blocked",
-   "enriched_v": 3
+   ]
   },
   {
    "title": "PAPPINDO appeals to Malaysia and Indonesia to help 300,000 undocumented Indonesian migrant workers in Sabah",
@@ -123,15 +123,15 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "KOTA KINABALU: The Indonesian Worker Placement Entrepreneurs Association (PAPPINDO) has called for cooperation between the Sabah Government (Malaysia) and the Indonesian Government to assist hundreds of thousands of Indonesian migrant workers (PMI) in Sabah who lack valid documents.\n\nAccording to figures presented by PAPPINDO in March 2026, more than 700,000 PMI across Malaysia—including Sabah, Sarawak and Peninsular Malaysia—are estimated to need assistance. About 300,000 of them are in Sabah.\n\nPAPPINDO’s chair, Faizal Nawawi, said the association felt responsible for managing and assisting Indonesian workers (TKI) and PMI who were stranded in Malaysia without valid documents, particularly in Sabah.\n\n“PAPPINDO is concerned about Indonesian PMI because they need humanitarian protection to live with dignity, like everyone else,” the association’s representative said here.\n\nHe said many PMI lack documents such as passports, identity cards (KTP), family cards and birth certificates. Without these documents, they struggle to access protection and legal employment, and live in constant fear of being arrested.\n\nAccordingly, Pappindo said it had appealed to the Malaysian Government and the Indonesian state authorities to provide the organisation with facilities and letters of support so it could assist Indonesian nationals in Malaysia.\n\nPappindo is currently working with the Kuala Lumpur-based Malaysian Foreign Worker Employers Association (Pemaba) to locate and assist migrant workers who lack documentation.\n\n“We share the same goals. Pemaba and Pappindo are awaiting letters of support from both countries to ensure that our assistance efforts comply with the laws and regulations of each country.\n\n“Once we receive a letter of support from the Sabah Government, it will be easier for us to visit employers and collect information about undocumented Indonesian migrant workers (PMI). The letter will authorise us to gather workers’ data here,” he said.\n\nPappindo also hopes the letters will encourage employers of Indonesian migrant workers in Malaysia to help document their employees and verify their identities. The information will help both countries address foreign-worker issues, which have persisted in Sabah for many years.\n\nFaizal said the documentation process would involve visiting immigration offices to obtain passports, national identity cards (KTP), family cards (KK) and birth certificates. Once their documents are complete, the workers will have legal status under the law.\n\nPappindo stressed that the initiative’s primary purpose is humanitarian.\n\n“Pappindo will advocate for Indonesian nationals left stranded because they do not have valid documents. With the support of both countries, we are confident that this effort will succeed and be carried out,” he said.\n\nMeanwhile, the Sabah Immigration Department has urged employers in the state to take part in the digital registration programme for foreign nationals through the Sabah Integrated Management System for Foreign Workers and Non-Residents (SWIMS). The initiative is intended to manage and record the presence of foreign workers in the state.\n\nThe system is also expected to help curb the growing number of illegal immigrants (PTI) and address Sabah’s widespread documentation problems.",
+   "body_ja": "コタキナバル：インドネシア労働者紹介起業家協会（PAPPINDO）は、有効な書類を欠いているサバ州の数十万人のインドネシア人出稼ぎ労働者（PMI）を支援するため、サバ州政府（マレーシア）とインドネシア政府の協力を呼び掛けた。\n\nPAPPINDOが2026年3月に発表した数字によると、サバ州、サラワク州、マレー半島を含むマレーシア全土で70万人以上のPMIが支援を必要としていると推定されている。そのうち約30万人がサバ州に住んでいる。\n\nPAPPINDO会長のファイザル・ナワウィ氏は、同協会は有効な書類を持たずにマレーシア、特にサバ州で立ち往生しているインドネシア人労働者（TKI）とPMIを管理し支援することに責任を感じていると述べた。\n\n「PAPPINDOはインドネシアのPMIを懸念している。なぜなら、彼らも他の人々と同じように尊厳を持って生きるためには人道的保護が必要だからだ」と同協会の代表者はここで述べた。\n\n同氏は、多くのPMIにはパスポート、身分証明書（KTP）、家族カード、出生証明書などの書類が不足していると述べた。これらの書類がなければ、彼らは保護や合法的な雇用にアクセスするのに苦労し、逮捕されるかもしれないという常に恐怖にさらされて暮らしています。\n\nしたがって、パピンドはマレーシア政府とインドネシア国家当局に対し、マレーシアにいるインドネシア人を支援できるよう同団体に施設と支援状を提供するよう訴えたと述べた。\n\nパピンドは現在、クアラルンプールに拠点を置くマレーシア外国人労働者雇用者協会（ペマバ）と協力して、書類を欠いている移民労働者を見つけて支援している。\n\n「私たちは同じ目標を共有しています。ペマバとパピンドは、私たちの支援活動が各国の法律や規制に準拠していることを確認するために、両国からの支援の手紙を待っています。」\n\n「サバ州政府から支援の手紙を受け取れば、雇用主を訪問し、不法滞在のインドネシア人移民労働者（PMI）に関する情報を収集することが容易になります。この書簡により、私たちはここで労働者のデータを収集することが許可されるでしょう」と彼は述べた。\n\nパピンド氏はまた、この書簡がマレーシアのインドネシア人移民労働者の雇用主に対し、従業員の記録と身元確認を支援するよう促すことを期待している。この情報は、サバ州で長年続いている外国人労働者問題に両国が対処するのに役立つだろう。\n\nファイザル氏は、書類手続きにはパスポート、国民身分証明書（KTP）、家族カード（KK）、出生証明書を取得するために入国管理局を訪れることが含まれると述べた。書類が完成すると、労働者は法律に基づいて法的地位を得ることができます。\n\nパピンド氏は、この取り組みの主な目的は人道的であると強調した。\n\n「パピンドは、有効な書類を持たないために取り残されたインドネシア国民を擁護します。両国の支援により、我々はこの取り組みが成功し、実行されると確信している」と述べた。\n\n一方、サバ州入国管理局は、サバ州の外国人労働者および非居住者のための統合管理システム（SWIMS）を通じた外国人向けのデジタル登録プログラムに参加するよう州内の雇用主に促している。この取り組みは、州内の外国人労働者の存在を管理し、記録することを目的としている。\n\nこのシステムは、増加する不法移民（PTI）を抑制し、サバ州で蔓延している文書問題に対処するのにも役立つと期待されている。",
+   "summary_ja2": "コタキナバル：インドネシア労働者紹介起業家協会（PAPPINDO）は、有効な書類を欠いているサバ州の数十万人のインドネシア人出稼ぎ労働者（PMI）を支援するため、サバ州政府（マレーシア）とインドネシア政府の協力を呼び掛けた。したがって、パピンドはマレーシア政府とインドネシア国家当局に対し、マレーシアにいるインドネシア人を支援できるよう同団体に施設と支援状を提供するよう訴えたと述べた。",
    "summary_ja": "コタキナバル：インドネシア労働者紹介起業家協会（PAPPINDO）は、有効な書類を欠いているサバ州の数十万人のインドネシア人出稼ぎ労働者（PMI）を支援するため、サバ州政府（マレーシア）とインドネシア政府の協力を呼び掛けた。 PAPPINDOが2026年3月に発表した数字によると、サバ州、サル州を含むマレーシア全土のPMIは70万人を超えた",
    "impact": 3,
    "issues": [
     "出生登録",
     "労働・雇用"
    ],
-   "figures": [],
-   "body_ja": "コタキナバル：インドネシア労働者紹介起業家協会（PAPPINDO）は、有効な書類を欠いているサバ州の数十万人のインドネシア人出稼ぎ労働者（PMI）を支援するため、サバ州政府（マレーシア）とインドネシア政府の協力を呼び掛けた。\n\nPAPPINDOが2026年3月に発表した数字によると、サバ州、サラワク州、マレー半島を含むマレーシア全土で70万人以上のPMIが支援を必要としていると推定されている。そのうち約30万人がサバ州に住んでいる。\n\nPAPPINDO会長のファイザル・ナワウィ氏は、同協会は有効な書類を持たずにマレーシア、特にサバ州で立ち往生しているインドネシア人労働者（TKI）とPMIを管理し支援することに責任を感じていると述べた。\n\n「PAPPINDOはインドネシアのPMIを懸念している。なぜなら、彼らも他の人々と同じように尊厳を持って生きるためには人道的保護が必要だからだ」と同協会の代表者はここで述べた。\n\n同氏は、多くのPMIにはパスポート、身分証明書（KTP）、家族カード、出生証明書などの書類が不足していると述べた。これらの書類がなければ、彼らは保護や合法的な雇用にアクセスするのに苦労し、逮捕されるかもしれないという常に恐怖にさらされて暮らしています。\n\nしたがって、パピンドはマレーシア政府とインドネシア国家当局に対し、マレーシアにいるインドネシア人を支援できるよう同団体に施設と支援状を提供するよう訴えたと述べた。\n\nパピンドは現在、クアラルンプールに拠点を置くマレーシア外国人労働者雇用者協会（ペマバ）と協力して、書類を欠いている移民労働者を見つけて支援している。\n\n「私たちは同じ目標を共有しています。ペマバとパピンドは、私たちの支援活動が各国の法律や規制に準拠していることを確認するために、両国からの支援の手紙を待っています。」\n\n「サバ州政府から支援の手紙を受け取れば、雇用主を訪問し、不法滞在のインドネシア人移民労働者（PMI）に関する情報を収集することが容易になります。この書簡により、私たちはここで労働者のデータを収集することが許可されるでしょう」と彼は述べた。\n\nパピンド氏はまた、この書簡がマレーシアのインドネシア人移民労働者の雇用主に対し、従業員の記録と身元確認を支援するよう促すことを期待している。この情報は、サバ州で長年続いている外国人労働者問題に両国が対処するのに役立つだろう。\n\nファイザル氏は、書類手続きにはパスポート、国民身分証明書（KTP）、家族カード（KK）、出生証明書を取得するために入国管理局を訪れることが含まれると述べた。書類が完成すると、労働者は法律に基づいて法的地位を得ることができます。\n\nパピンド氏は、この取り組みの主な目的は人道的であると強調した。\n\n「パピンドは、有効な書類を持たないために取り残されたインドネシア国民を擁護します。両国の支援により、我々はこの取り組みが成功し、実行されると確信している」と述べた。\n\n一方、サバ州入国管理局は、サバ州の外国人労働者および非居住者のための統合管理システム（SWIMS）を通じた外国人向けのデジタル登録プログラムに参加するよう州内の雇用主に促している。この取り組みは、州内の外国人労働者の存在を管理し、記録することを目的としている。\n\nこのシステムは、増加する不法移民（PTI）を抑制し、サバ州で蔓延している文書問題に対処するのにも役立つと期待されている。",
-   "summary_ja2": "コタキナバル：インドネシア労働者紹介起業家協会（PAPPINDO）は、有効な書類を欠いているサバ州の数十万人のインドネシア人出稼ぎ労働者（PMI）を支援するため、サバ州政府（マレーシア）とインドネシア政府の協力を呼び掛けた。したがって、パピンドはマレーシア政府とインドネシア国家当局に対し、マレーシアにいるインドネシア人を支援できるよう同団体に施設と支援状を提供するよう訴えたと述べた。"
+   "figures": []
   },
   {
    "title": "Sabah Immigration Dept Deports 909 Undocumented Migrants In Single Day",
@@ -3110,7 +3110,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "MANILA: Malaysia dan Filipina hari ini membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin (PATI) dari Filipina yang berada di empat pusat tahanan di Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -3953,11 +3953,11 @@
    ]
   },
   {
-   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
+   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
-   "source": "Bernama",
-   "date": "2026-07-26T06:56:01Z",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -4032,7 +4032,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=nCo5vHLj1xIQ7kNvwE3gOVA&_nc_oc=AdqqTwPgivIF6Ehp45BMMMq3IyAmZnqQhE-AmtgulGGmcc-UqJvzWPNmzT5pKAEGUiw&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=fEhSr6bIfF2PNP0l-FAztw&_nc_ss=79289&oh=00_AQQFhOtlNWPXhcldQv06Jw1ZZcGoID1XINgJ5pPt4Hf_cw&oe=6AF6702D",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=nCo5vHLj1xIQ7kNvwE4uf_Q&_nc_oc=AdoB5gWyeaY6G1GZdjr_bsAzcSCYoJVgG2i3CF6Wrrkb46TlgRDBHEjcQ6hm2Y-cQi0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2-xxZrb9YolpDT6M4WaQXA&_nc_ss=79289&oh=00_AQQ-kou97IEMYMsLwlSYdXd06ZNf0RyooaDwhvkHmdM15Q&oe=6AF6E0AD",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5535,18 +5535,18 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "無国籍",
+    "人権・NGO",
     "市民権",
     "政策・政治",
-    "人権・NGO"
+    "無国籍"
    ],
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=mB-Ob5cT110Q7kNvwHAgNcR&_nc_oc=AdrAfPIl6xlkX_v7_15hKEAGcxWtPSZdAK4y2Cf4glI2qwqNUw_wTNBa71KnPOUtuwM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q1E7vNa-9t8C6GGba8-Uwg&_nc_ss=79289&oh=00_AQTPj7jqUc8zxv3Tk7sC93JMXkFRLQZphs0vDByimwQdig&oe=6AF6792F",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=mB-Ob5cT110Q7kNvwG7I_NV&_nc_oc=Adrxls_38AJnhlKaDT3I8Gpkkt1YhVNQJtum-qW5RNUeB80JtTPoJw1GHOzVgmb1ETs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3PrKL9RLzcBR3hqbLYjMXw&_nc_ss=79289&oh=00_AQRpDC1JaUioaFS_DNz8M_zDobZMH_qJnZWP2gsDayv8Uw&oe=6AF6B16F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -11288,5 +11288,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-08T18:04:54Z"
+ "enriched_at": "2026-11-08T22:24:33Z"
 }
