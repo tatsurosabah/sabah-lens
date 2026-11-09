@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-08T22:21:28Z",
- "count": 306,
+ "updated": "2026-11-09T07:01:51Z",
+ "count": 305,
  "tags": {
-  "入管・摘発": 208,
+  "入管・摘発": 207,
   "市民権": 40,
   "無国籍": 32,
   "子ども": 22,
   "難民": 14,
   "バジャウ": 12,
-  "政策・政治": 12,
+  "政策・政治": 11,
   "人権・NGO": 8,
   "医療・福祉": 3,
   "ロヒンギャ": 3,
@@ -21,22 +21,22 @@
   "NST Online": 16,
   "sabahnews.com.my": 15,
   "The Star": 15,
-  "Borneo Post": 14,
+  "Borneo Post": 13,
   "Berita Harian": 9,
   "Astro Awani": 8,
-  "Malay Mail": 8,
   "Jesselton Times": 7,
+  "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
   "Sayang Sabah": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
+  "Bernama": 4,
   "THE MALAYSIA PRESS": 4,
   "tvsabahnews.com": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "Bernama": 3,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
@@ -492,40 +492,6 @@
    "figures": []
   },
   {
-   "title": "800 undocumented Filipinos deported from Sandakan Port",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
-   "source": "Daily Express Malaysia",
-   "date": "2026-10-29T10:24:15Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "0e1131bb385c",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "不法滞在のフィリピン人800人がサンダカン港から強制送還",
-   "first_seen": "2026-10-29T13:32:08Z",
-   "url_real": "https://www.dailyexpress.com.my/news/290724/800-undocumented-filipinos-deported-from-sandakan-port/",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
-   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja": "",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還"
-   ],
-   "figures": [
-    {
-     "n": 800,
-     "kind": "送還",
-     "raw": "800 undocumented"
-    }
-   ]
-  },
-  {
    "title": "Sabah Immigration deports 800 Filipino detainees, six more repatriation exercises planned",
    "summary": "SANDAKAN: Sabah deported 800 Filipino detainees on Thursday (Oct 29), with six more large-scale repatriation exercises planned to prevent overcrowding at immigration detention depots.",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnhJTExlN1ZRV21SQTg3ZV82R21ZTllIbEk3WnU1WGRRVzNoTTV0OTdiTERfM1VWTW00a3h4WFVwcHFHRTlDNE1pa2l1MjdSOUpSQl9SV3Y2UlJTXzE1RzN4S0tMLUd4akw2RG90a3M5MWp2VFh4cnREZmJabTJZdVJlUWwwR0xQeTZYWlMxVkU5enpKempibzVfMUk3SXd4S2E5a2IxeENVLTZSWkNnTmJ1enBvc01POWt0VEM5amdDUjVvemRmR0NNOGNSVnl5ZC1pUQ?oc=5",
@@ -559,6 +525,40 @@
      "n": 800,
      "kind": "送還",
      "raw": "800 people"
+    }
+   ]
+  },
+  {
+   "title": "800 undocumented Filipinos deported from Sandakan Port",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-10-29T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "0e1131bb385c",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "不法滞在のフィリピン人800人がサンダカン港から強制送還",
+   "first_seen": "2026-10-29T13:32:08Z",
+   "url_real": "https://www.dailyexpress.com.my/news/290724/800-undocumented-filipinos-deported-from-sandakan-port/",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja": "",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 800,
+     "kind": "送還",
+     "raw": "800 undocumented"
     }
    ]
   },
@@ -3110,7 +3110,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "MANILA: Malaysia dan Filipina hari ini membincangkan langkah mempercepat proses penghantaran pulang lebih 5,000 pendatang tanpa izin (PATI) dari Filipina yang berada di empat pusat tahanan di Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -3953,11 +3953,11 @@
    ]
   },
   {
-   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
+   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
    "summary": "Sabah, Immigration, claims, denies, Filipino, det",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
-   "source": "Malay Mail",
-   "date": "2026-07-26T07:00:00Z",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
+   "source": "Bernama",
+   "date": "2026-07-26T06:56:01Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -4032,7 +4032,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=nCo5vHLj1xIQ7kNvwE4uf_Q&_nc_oc=AdoB5gWyeaY6G1GZdjr_bsAzcSCYoJVgG2i3CF6Wrrkb46TlgRDBHEjcQ6hm2Y-cQi0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=2-xxZrb9YolpDT6M4WaQXA&_nc_ss=79289&oh=00_AQQ-kou97IEMYMsLwlSYdXd06ZNf0RyooaDwhvkHmdM15Q&oe=6AF6E0AD",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=jK8FQ-jal3IQ7kNvwG2uQjS&_nc_oc=AdpE80nkjK9_jLS7SPZsR7_GGlKidVC6GFQAZTjCFUatqXHnxHSm_fyJswVxOkbfrXI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=geobhL-mY4Nvv9WZkyI-qQ&_nc_ss=79289&oh=00_AQSnzmQs4eGh0SrPuiLzXUHPrU0aUb3BKbxiCpPLU9AbJg&oe=6AF7512D",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5535,18 +5535,18 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "e7cfc4c5928a",
    "tags": [
-    "人権・NGO",
+    "無国籍",
     "市民権",
     "政策・政治",
-    "無国籍"
+    "人権・NGO"
    ],
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=mB-Ob5cT110Q7kNvwG7I_NV&_nc_oc=Adrxls_38AJnhlKaDT3I8Gpkkt1YhVNQJtum-qW5RNUeB80JtTPoJw1GHOzVgmb1ETs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=3PrKL9RLzcBR3hqbLYjMXw&_nc_ss=79289&oh=00_AQRpDC1JaUioaFS_DNz8M_zDobZMH_qJnZWP2gsDayv8Uw&oe=6AF6B16F",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=mB-Ob5cT110Q7kNvwEH1L1D&_nc_oc=Adp1uQc_FG8pNibop0eoyo0tSeMD3tQA2TOXnoGqCCFksOun7ivtEvCLFIhPyKBNhEg&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=zGg51lXsTnRluZTXPkgyfw&_nc_ss=79289&oh=00_AQSE18YlLqC1O_qnnn9wnWIJW34-Y3_XM4jDilyRDcZ6LA&oe=6AF75A2F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -7485,11 +7485,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -11247,46 +11247,7 @@
     "教育アクセス"
    ],
    "figures": []
-  },
-  {
-   "title": "Sabah’s hidden crisis: Illegal immigration and its lasting impact",
-   "summary": "Illegal immigration in Sabah is one of the more enduring and complicated issues in Malaysian society, a subject that touches on economics, politics, culture, security and human rights. It has been debated for decades, and yet despite countless initiatives, promises and even inquiries, the issue remains unresolved. To understand its gravity today, it is importantRead More",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3laRG9rRGE0N0dDaXduVVE5R251UndrVXlIR0N4REY0N2hHYmJ4TnRZV0NNdDZaTHU2UWtuM2lISjFkbXpyM2I1YkpQeEdFdU9JT1NkN0w1eE5aUG1jY0NlSVJoS19UNDdtdk95QXRZb0tHWHVVajVYd2x1eFZyMjVHd1hoTGZDUGJGQkZxOFJVZkNkampVODNONG1BcGt2b2NGczN6Unc?oc=5",
-   "source": "Borneo Post",
-   "date": "2025-10-05T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah stateless",
-   "id": "ad90f71bf69e",
-   "tags": [
-    "入管・摘発",
-    "政策・政治"
-   ],
-   "title_ja": "サバ州の隠れた危機: 不法移民とその永続的な影響",
-   "first_seen": "2026-08-09T01:55:15Z",
-   "url_real": "https://www.theborneopost.com/2025/10/05/sabahs-hidden-crisis-illegal-immigration-and-its-lasting-impact/",
-   "image": "https://www.theborneopost.com/newsimages/2025/10/email1759634864694Stateless-chidren.jpeg",
-   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0Pxvo04JllvI0mro7Zri0RLfbZtKWC3aZFLpET553bPTWO9xm_DlwFS_V9yeK-FnIARw&fopt=w609-h357-rw-dcATCOx7llPIcC",
-   "site_name": "Borneo Post Online",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "Illegal immigration in Sabah is one of the more enduring and complicated issues in Malaysian society, a subject that touches on economics, politics, culture, security and human rights. It has been debated for decades, and yet despite countless initiatives, promises and even inquiries, the issue remains unresolved. To understand its gravity today, it is important to trace its roots, examine the scale of the problem, recognise the contributions and costs and explore the practical and humane ways that Sabah, and Malaysia as a whole, can deal with it moving forward.\n\nThe migration of people from the southern Philippines and parts of Indonesia into Sabah began in earnest in the late 1960s and early 1970s. Many of these people were fleeing poverty, lack of opportunity or political conflict in their own homelands. Some came from Mindanao and the Sulu archipelago, areas long troubled by insurgency and economic deprivation. Others came from Sulawesi and Kalimantan, drawn by the promise of work and better lives across the narrow maritime borders that separate their islands from Sabah’s coastline. Geography played a large role; the waters between Sabah and the southern Philippines are dotted with islands, many uninhabited and unmonitored, which made border control a near impossibility. Similarly, the sea routes from Sulawesi to Sabah are busy with fishing and trading vessels, providing cover for clandestine movements. At a time when border surveillance was weak and the state’s development just beginning, Sabah became an easy destination for people desperate for survival.\n\nOver the years, that which began as temporary migration turned into permanent settlement for many.\n\nFamilies were raised, children were born and whole communities took root. However, many of these illegal settlers never obtained legal status. Their children were born without proper documentation, and in many cases, both parents and children remained invisible in the official records. This phenomenon gave rise to a unique problem in Sabah; the existence of generations of stateless people who, although born and raised in the state, remain unrecognised as Malaysian citizens and are rejected by their parents’ countries of origin too. The problem of statelessness is perhaps the most complicated dimension of Sabah’s illegal immigration story.\n\nNumbers tell part of the story, although they remain highly contested. According to the 2020 census, about 810,000 non-citizens were officially registered in Sabah. This figure includes legal workers, refugees with permits and dependents but excludes the undocumented population. Independent experts and civil society organisations have estimated that the actual number of undocumented or stateless people could be as high as two million. If these estimates are even close to accurate, then the undocumented population may already constitute nearly half of Sabah’s total population. Some scholars have warned that if no decisive action is taken, stateless people could form the majority in parts of the state by 2030. This demographic transformation would carry significant implications for the state’s politics, economy and social cohesion.\n\nEnforcement data provide further perspective. In 2023 alone, the Sabah Immigration Department deported 8,678 undocumented immigrants. Between 2021 and 2023, almost 10,000 more were sent back. While these numbers may appear significant, they pale in comparison to the overall estimated population of undocumented migrants. Deportation may provide the appearance of action but in reality it represents only a small dent in a problem of such magnitude. Moreover, deportation is costly, logistically difficult and often futile when those removed can return via the same porous borders that they used to enter in the first place.\n\nThe impact of illegal immigration in Sabah can be seen in every sector of society. Economically, the state has grown dependent on immigrant labour. Construction projects, plantations, fisheries and farms all rely heavily on workers from abroad. Many locals are reluctant to take on jobs deemed “dirty, dangerous and difficult,” leaving these roles to be filled largely by immigrants. Without their contributions, some industries would struggle to survive. Yet while this labour supports economic growth, the benefits are uneven distributed. Since many immigrants are undocumented, they are vulnerable to exploitation. Employers can pay them low wages, deny them basic protections and threaten them with exposure to the authorities if they complain. This exploitation suppresses wage growth and undermines fair competition for local workers.\n\nThe social costs are equally stark. Unemployed or underemployed immigrants, unable to find stable work, often turn to informal activities such as street vending, begging or worse, petty crime. In urban centres, the presence of street children, often uneducated and without documents, is a visible reminder of the human face of this issue. These children, roaming the streets without schooling or care, not only create disturbances but also represent a lost generation with little hope of breaking free from poverty. For the wider society, their presence raises concerns about security and public order. Whether or not immigrants are responsible for the bulk of crime, the perception among locals is strong, and perception itself can be just as damaging as reality in fuelling resentment.\n\nPublic services face immense pressure. Hospitals, clinics and schools struggle to cope with demand from both citizens and undocumented populations. Since emergency healthcare is accessible to anyone, the costs add up, and the financial burden falls on the state. Education is another flashpoint. Many undocumented children are excluded from official admission into public schools although some NGOs and private organisations run informal learning centres. This parallel system highlights the gap between policy and reality. Left unaddressed, these children grow into adults without skills, documents or prospects, perpetuating the cycle of statelessness and poverty.\n\nPolitically, illegal immigration has been a tinderbox for Sabah. Allegations of “Project IC,” the claim that citizenship was deliberately granted to immigrants in exchange for political support, continue to haunt the state. Whether fully substantiated or not, these allegations have eroded public trust in institutions and deepened suspicion between communities. In 2018, the Warisan-led government attempted to document immigrants under a state initiative. It argued that data collection was necessary to manage the problem.\n\nCritics, however, accused the government of trying to naturalise undocumented migrants, the perception of which contributed to its downfall in the 2020 state election. Such episodes demonstrate the extent to which the issue has become deeply political, and the ease with which any attempt at reform can be easily misunderstood or manipulated for partisan gain.\n\nFor many Sabahans, the instinctive solution is deportation. Yet mass deportation is neither practical nor humane. Children born in Sabah to undocumented parents often have no connection to their parents’ country of origin. Sending them “back” to places they have never known is not only logistically difficult but also morally questionable. Detention centres have limited capacity, and deportations are costly.\n\nFurthermore, without cooperation from neighbouring countries, many deportees face rejection upon return. In practice, deportation has often been a revolving door; those removed simply find their way back across the border.\n\nIf deportation alone is not the answer, what then can be done? The solution lies in a combination of enforcement and compassion, with policies that bring the undocumented population into visibility while also safeguarding the rights of citizens. One approach is comprehensive regularisation. Those who have lived in Sabah for decades, particularly those with families and children born in the state, should be offered pathways to legal status. This proposal, however, in no way implies blanket citizenship. It means establishing clear criteria: long-term residence, clean criminal records and evidence of contribution to society. By regularising these individuals, the government can reduce statelessness, improve security by knowing who resides in the state and prevent exploitation.\n\nFor those who are unable to immediately qualify for citizenship, temporary resident status is a practical option. Such status would allow access to basic services like healthcare and education while ensuring that individuals are documented and accounted for. Crucially, children should be spared of punishment for the status of their parents. Every child born in Sabah should at the very least be registered at birth. Denying birth registration only creates more stateless individuals, perpetuating the very problem the state seeks to solve.\n\nAt the same time, Sabah must strengthen its borders. Technology such as radar systems, drones and maritime patrols must be enhanced to prevent new inflows. Bilateral agreements with Indonesia and the Philippines are essential, not only to manage repatriations but also to address the root causes of migration.\n\nAs long as poverty, conflict and lack of opportunity persist in the southern Philippines and parts of Indonesia, migration to Sabah will continue. Cooperation at the regional level, perhaps even with the involvement of ASEAN, will be vital in tackling these underlying drivers.\n\nEmployers too must be held accountable. For too long, businesses have benefitted from cheap undocumented labour, undermining local wages and perpetuating illegal migration. Stricter enforcement against employers who hire undocumented workers is essential. However, enforcement must go hand in hand with legal channels for foreign labour. If industries genuinely need workers, the government must provide transparent and accessible avenues for hiring legal migrants, ensuring that employers have no excuse to turn to the undocumented.\n\nUltimately, the issue of illegal immigration in Sabah is not one that can be solved overnight. It requires political will, federal support and above all, a humane approach that recognises the dignity of every individual. Ignoring the problem will only allow it to grow while harsh crackdowns without compassion will create injustice and resentment. The choice is not between citizens and migrants but between chaos and order, between perpetual crisis and long-term stability. Sabah must decide whether to continue treating illegal immigration as an endless problem or to bring order, justice and humanity to one of the defining challenges of its modern history.\n\nDr Richard A. Gontusan is a Human Resource Skills Training and Investment Consultant. Much of the information in this article is already available in the public domain. His views expressed in this article are not necessarily the views of The Borneo Post.",
-   "body_ja": "サバ州の不法移民はマレーシア社会において最も永続的かつ複雑な問題の一つであり、経済、政治、文化、安全保障、人権に関わるテーマである。この問題は何十年も議論されてきましたが、数え切れないほどの取り組み、約束、さらには調査にもかかわらず、この問題は未解決のままです。今日のその深刻さを理解するには、そのルーツをたどり、問題の規模を調査し、貢献とコストを認識し、サバ州、そしてマレーシア全体が今後この問題に対処できる現実的かつ人道的な方法を探ることが重要です。\n\nフィリピン南部とインドネシアの一部からサバ州への人々の移住は、1960 年代後半から 1970 年代前半に本格的に始まりました。これらの人々の多くは、祖国の貧困、機会の欠如、政治的紛争から逃れてきました。長い間反乱と経済的貧困に悩まされてきた地域、ミンダナオ島やスールー諸島から来た人もいた。スラウェシ島やカリマンタン島から来た人たちは、サバ州の海岸線から島を隔てる狭い国境を越えて仕事とより良い生活を約束されてやって来た。地理が大きな役割を果たしました。サバ州とフィリピン南部の間の海域には島々が点在しており、その多くは無人で監視されていないため、国境管理はほぼ不可能でした。同様に、スラウェシ島からサバ州に至る航路も漁船や貿易船で混雑しており、秘密の移動をカバーしている。国境監視が弱く、州の発展が始まったばかりだった当時、サバ州は生き残ることを切望する人々にとって行きやすい場所となった。\n\n長年にわたり、一時的な移住として始まった移住は、多くの人にとって定住へと変わりました。\n\n家族が育ち、子供たちが生まれ、コミュニティ全体が根付きました。しかし、これらの不法入植者の多くは法的地位を得ることができませんでした。彼らの子供たちは適切な文書なしで生まれ、多くの場合、両親と子供たちは公式記録に残されていませんでした。この現象はサバ州特有の問題を引き起こしました。同州で生まれ育ったにもかかわらず、マレーシア国民として認められず、親の出身国からも拒絶される無国籍者の存在が何世代にもわたって存在する。無国籍の問題は、おそらくサバ州の不法移民問題の中で最も複雑な側面である。\n\n数字は物語の一端を物語っているが、依然として議論の余地はある。 2020年の国勢調査によると、約81万人の非国民がサバ州に正式に登録されている。この数字には合法労働者、許可を持つ難民、扶養家族が含まれていますが、不法滞在者は含まれていません。独立した専門家や市民社会団体は、不法滞在者や無国籍者の実際の数は200万人に上る可能性があると推定している。もしこれらの推定値がほぼ正確であれば、不法滞在人口はすでにサバ州の総人口のほぼ半分を占めている可能性がある。一部の学者は、断固とした行動がとられなければ、2030年までに州の一部で無国籍者が多数派を占める可能性があると警告している。この人口動態の変化は、州の政治、経済、社会的結束に重大な影響を与えるだろう。\n\n施行データはさらなる展望を提供します。サバ州移民局は2023年だけで8,678人の不法移民を強制送還した。 2021年から2023年にかけて、さらに1万人近くが返送された。これらの数は重要であるように見えるかもしれないが、不法移民の推定総人口と比較すると見劣りする。国外追放は一見行動をとっているように見えるかもしれないが、実際にはこれほど大きな問題に小さな影響を与えるだけである。さらに、国外追放は費用がかかり、物流的に困難であり、追放された人々が最初に入ったときと同じ穴だらけの国境を通って戻ってくることができる場合、多くの場合無駄です。\n\nサバ州における不法移民の影響は社会のあらゆる分野で見られます。経済的には、州は移民労働力への依存度を高めている。建設プロジェクト、プランテーション、漁業、農場はすべて海外からの労働者に大きく依存しています。地元住民の多くは「汚くて、危険で、難しい」とみなされる仕事に就くことに消極的で、こうした役割は主に移民が担っている。彼らの貢献がなければ、一部の業界は生き残ることが困難になるでしょう。しかし、この労働が経済成長を支えている一方で、その恩恵は不均等に分配されています。移民の多くは不法滞在であるため、搾取されやすいです。雇用主は彼らに低賃金を支払い、基本的な保護を拒否し、苦情を申し立てれば当局に通報すると脅すことができる。この搾取は賃金の伸びを抑制し、地元労働者の公正な競争を損ないます。\n\n社会的コストも同様に莫大です。失業者や不完全雇用の移民は、安定した仕事を見つけることができず、路上販売や物乞い、あるいはさらに悪いことに軽犯罪などの非公式な活動に頼ることがよくあります。都市中心部では、多くの場合教育を受けておらず、書類を持たないストリートチルドレンの存在は、この問題に対する人間の側面を目に見える形で思い出させます。これらの子供たちは、学校教育や世話を受けずに街を徘徊しており、混乱を引き起こすだけでなく、貧困から抜け出す希望がほとんどない失われた世代の代表でもあります。より広い社会にとって、彼らの存在は安全と治安に対する懸念を引き起こします。移民が犯罪の大部分を引き起こしているかどうかにかかわらず、地元住民の間での認識は強く、その認識自体が現実と同じくらい有害で、憤りを煽る可能性がある。\n\n公共サービスは多大なプレッシャーに直面しています。病院、診療所、学校は、国民と不法滞在者の両方からの需要に対応するのに苦労しています。緊急医療は誰でも受けられるため、費用がかさみ、国家の財政負担となる。教育もまた引火点です。一部の NGO や民間団体が非公式の学習センターを運営しているにもかかわらず、不法滞在の子どもの多くは公立学校への正式な入学から除外されています。この並行システムは、政策と現実とのギャップを浮き彫りにします。これらの子どもたちは放置されたまま、スキルも書類も見通しも持たないまま大人に成長し、無国籍と貧困のサイクルが永続します。\n\n政治的には、不法移民はサバ州にとって火種となっている。政治的支援と引き換えに移民に意図的に市民権が与えられたとする「プロジェクトIC」の疑惑が同州を悩ませ続けている。完全に裏付けられているかどうかにかかわらず、これらの疑惑は施設に対する国民の信頼を損ない、コミュニティ間の疑惑を深めています。 2018年、ワリサン主導の政府は国家主導で移民を記録しようとした。問題に対処するにはデータ収集が必要だと主張した。\n\nしかし批評家たちは、政府が不法移民を帰化させようとしていると非難し、その認識が2020年の州選挙での政府の失脚の一因となった。このようなエピソードは、この問題がどれほど政治的に深くなっているのか、そして改革の試みが容易に誤解されたり、党派の利益のために操作されたりする可能性があることを示しています。\n\n多くのサバハンにとって本能的な解決策は国外追放だ。しかし、大量国外追放は現実的でも人道的でもない。サバ州で不法滞在の両親から生まれた子供たちは、両親の出身国と何の関係もないことが多い。彼らをこれまで知らなかった場所に「送り返す」ことは、論理的に難しいだけでなく、道徳的にも問題があります。拘置所の収容能力は限られており、国外追放には多額の費用がかかります。\n\nさらに、近隣諸国の協力がなければ、多くの強制送還者が帰国時に拒否に直面します。実際には、強制送還は回転ドアであることがよくあります。排除された人々は国境を越えて戻ってくるだけだ。\n\n国外追放だけが解決策ではない場合、何ができるでしょうか?解決策は、市民の権利を守りながら、不法滞在者を可視化する政策による強制力と思いやりの組み合わせにあります。 1 つのアプローチは、包括的な正則化です。サバ州に何十年も住んでいる人々、特にサバ州で生まれた家族や子供を持つ人々には、法的地位への道が提供されるべきである。しかし、この提案は決して包括的な市民権を意味するものではありません。それは、長期滞在、犯罪歴のないこと、社会への貢献の証拠など、明確な基準を確立することを意味します。これらの個人を正規化することで、政府は無国籍を減らし、州に誰が住んでいるのかを知ることで治安を改善し、搾取を防ぐことができます。\n\nすぐに市民権の資格を得ることができない人にとって、一時滞在資格は現実的な選択肢です。このようなステータスにより、個人が文書化され説明されることが保証されながら、医療や教育などの基本的なサービスへのアクセスが可能になります。重要なことは、子供たちが親の地位を理由に罰を受けないようにすることです。サバ州で生まれたすべての子供は、少なくとも出生時に登録される必要があります。出生登録の拒否は無国籍者をさらに生み出すだけであり、国家が解決しようとしている問題自体が永続化することになる。\n\n同時に、サバ州は国境を強化する必要がある。新たな流入を防ぐためには、レーダーシステム、ドローン、海上パトロールなどの技術を強化する必要がある。インドネシアとフィリピンとの二国間協定は、本国送還を管理するだけでなく、移民の根本原因に対処するためにも不可欠です。\n\nフィリピン南部とインドネシアの一部で貧困、紛争、機会不足が続く限り、サバ州への移住は続くだろう。これらの根本的な要因に取り組むには、おそらく ASEAN の関与も含めた地域レベルでの協力が不可欠となるでしょう。\n\n雇用主も責任を負わなければなりません。あまりにも長い間、企業は安い不法労働力によって利益を得てきており、現地の賃金を損ない、不法移民を永続させてきました。不法就労者を雇用する雇用主に対する取り締まりを強化することが不可欠です。ただし、強制執行は外国人労働者の法的手段と連携して行われなければなりません。産業が本当に労働者を必要としているのであれば、政府は合法移民を雇用するための透明で利用しやすい道を提供し、雇用主が不法滞在者に頼る口実を与えないようにする必要がある。\n\n結局のところ、サバ州の不法移民問題は一朝一夕に解決できるものではない。それには政治的意志、連邦政府の支援、そして何よりもすべての個人の尊厳を認める人道的なアプローチが必要です。問題を無視すれば問題は拡大する一方、慈悲のない厳しい取り締まりは不公平と憤りを生むことになります。選択は国民と移民の間ではなく、混乱と秩序の間、永続する危機と長期的な安定の間で行われます。サバ州は、不法移民を終わりのない問題として扱い続けるのか、それとも近代史の決定的な課題の一つに秩序、正義、人道をもたらすのかを決断しなければならない。\n\nリチャード A. ゴントゥサン博士は、人材スキル トレーニングおよび投資コンサルタントです。この記事の情報の多くは、すでにパブリック ドメインで入手可能です。この記事で表明された彼の見解は、必ずしもボルネオ・ポストの見解ではありません。",
-   "summary_ja2": "サバ州の不法移民はマレーシア社会において最も永続的かつ複雑な問題の一つであり、経済、政治、文化、安全保障、人権に関わるテーマである。この問題は何十年も議論されてきましたが、数え切れないほどの取り組み、約束、さらには調査にもかかわらず、この問題は未解決のままです。",
-   "summary_ja": "サバ州の不法移民はマレーシア社会において最も永続的かつ複雑な問題の一つであり、経済、政治、文化、安全保障、人権に関わるテーマである。この問題は何十年も議論されてきましたが、数え切れないほどの取り組み、約束、さらには調査にもかかわらず、この問題は未解決のままです。今日のその重大性を理解するには、次のことが重要です続きを読む",
-   "impact": 1,
-   "issues": [
-    "摘発・収容・送還",
-    "難民・UNHCR"
-   ],
-   "figures": [
-    {
-     "n": 8678,
-     "kind": "送還",
-     "raw": "8,678 undocumented"
-    }
-   ]
   }
  ],
- "enriched_at": "2026-11-08T22:24:33Z"
+ "enriched_at": "2026-11-09T07:04:55Z"
 }
