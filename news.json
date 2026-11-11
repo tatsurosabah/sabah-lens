@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-11T06:57:31Z",
- "count": 306,
+ "updated": "2026-11-11T19:48:06Z",
+ "count": 310,
  "tags": {
-  "入管・摘発": 208,
+  "入管・摘発": 213,
   "市民権": 39,
   "無国籍": 32,
-  "子ども": 21,
+  "子ども": 22,
   "難民": 15,
-  "バジャウ": 12,
+  "バジャウ": 11,
   "政策・政治": 11,
   "人権・NGO": 8,
   "医療・福祉": 3,
@@ -16,12 +16,12 @@
  },
  "sources": {
   "Sabah Media": 48,
-  "TV Sabah News": 43,
+  "TV Sabah News": 47,
   "Daily Express Malaysia": 27,
   "sabahnews.com.my": 16,
   "NST Online": 16,
-  "The Star": 14,
-  "Borneo Post": 13,
+  "The Star": 15,
+  "Borneo Post": 12,
   "Berita Harian": 9,
   "Astro Awani": 8,
   "Jesselton Times": 7,
@@ -72,6 +72,244 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "JIM Sabah Raids Five Illegal Settlement Strongholds, 71 Undocumented Migrants Detained",
+   "summary": "RANAU: Swift action by the Sabah Malaysian Immigration Department (JIM Sabah) bore fruit after 71 undocumented migrants were detained in two simultaneous",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEY0d01Welp4clVxb0RZbzhRal80VUV4RU5NTmIxYldWYTZqWkpRYml6RkdnNXk4dTduR3NRSlFRNGttOGdCQlVhM2VCeTBVanFVc3p6eHJaalB3a0t6RGZaMTNPQ0F1bjBwbUhpNFRuY1R2WWpRYlZTeGxIMnZFallqeG82QkdCMHd2ZUJ1blhsaFUzZXZ4ekRfX0hDcnU3elUzOEZ0c3FnWjF5NHJF?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T15:13:38Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "dea6b5c4508a",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州、5つの不法入植拠点を襲撃、不法移民71人を拘束",
+   "summary_ja": "ラナウ：同時に2つの事件で71人の不法移民が拘束された後、サバ州マレーシア移民局（JIMサバ）の迅速な行動が実を結んだ",
+   "first_seen": "2026-11-11T19:47:57Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 71,
+     "kind": "拘束",
+     "raw": "71 Undocumented"
+    },
+    {
+     "n": 83,
+     "kind": "拘束",
+     "raw": "83 individu"
+    },
+    {
+     "n": 50,
+     "kind": "拘束",
+     "raw": "50 undocumented"
+    },
+    {
+     "n": 25,
+     "kind": "拘束",
+     "raw": "25 children"
+    },
+    {
+     "n": 24,
+     "kind": "拘束",
+     "raw": "24 individu"
+    },
+    {
+     "n": 107,
+     "kind": "拘束",
+     "raw": "107 individu"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/jim-sabah-raids-five-illegal-settlement-strongholds-71-undocumented-migrants-detained/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/IMG_5521-1024x768.jpeg",
+   "image_alt": "JIM Sabah raids five illegal settlement strongholds, 71 undocumented migrants detained",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "RANAU: Swift action by the Sabah Malaysian Immigration Department (JIM Sabah) bore fruit after 71 undocumented migrants were detained in two simultaneous operations in Ranau and Sandakan.\n\nIn Sandakan, the enforcement team moved in a surprise operation as early as 1.35 am through Ops Sapu, dismantling five hideouts of undocumented migrants in Kampung Ulu Dusun, Kampung Bimbim, Gum-Gum Kuari 7, Kuari 2 and Flat Taman Sejati.\n\nThe midnight raid saw 83 individuals inspected, while 50 undocumented migrants were arrested, including 25 children.\n\nMeanwhile in Ranau, 14 Immigration officers together with RELA members stormed three hot spots following intelligence and public complaints, yielding results when 21 Filipinos were detained after 24 individuals were inspected.\n\nOverall, 107 individuals were screened in both operations, with 71 undocumented migrants (68 Filipinos and three Indonesians) now detained under Section 6(1)(c) of the Immigration Act 1959/63 for further investigation.\n\nJIM Sabah stressed that it will not stop raiding undocumented migrant dens and called on the public to continue channelling information through the SISPAA and SPO portals to help defend the country’s sovereignty.",
+   "body_ja": "ラナウ：ラナウとサンダカンでの2つの同時作戦で71人の不法移民が拘束された後、サバ州マレーシア入国管理局（JIMサバ）の迅速な行動が実を結んだ。\n\nサンダカンでは、執行チームが早朝1時35分にオプサプを通じて奇襲作戦を開始し、カンプン・ウル・ドゥスン、カンプン・ビンビン、ゴムゴム・クアリ7、クアリ2、フラット・タマン・セジャティにある不法移民の隠れ家5か所を解体した。\n\n真夜中の強制捜査では83人が検査され、子供25人を含む不法移民50人が逮捕された。\n\n一方、ラナウでは、情報機関と国民の苦情を受けて、入国管理官14名がRELAメンバーとともにホットスポット3ヶ所を襲撃し、24名を検査した結果、21人のフィリピン人が拘束されるという結果が得られた。\n\n両方の作戦で全体として107人が検査され、そのうち71人（フィリピン人68人、インドネシア人3人）の不法移民が1959/63年移民法第6条(1)(c)に基づきさらなる捜査のため拘留されている。\n\nジム・サバ州首相は、不法移民の隠れ家襲撃をやめることはないと強調し、国の主権を守るためにSISPAAとSPOのポータルを通じて情報を流し続けるよう国民に呼び掛けた。",
+   "summary_ja2": "ラナウ：ラナウとサンダカンでの2つの同時作戦で71人の不法移民が拘束された後、サバ州マレーシア入国管理局（JIMサバ）の迅速な行動が実を結んだ。サンダカンでは、執行チームが早朝1時35分にオプサプを通じて奇襲作戦を開始し、カンプン・ウル・ドゥスン、カンプン・ビンビン、ゴムゴム・クアリ7、クアリ2、フラット・タマン・セジャティにある不法移民の隠れ家5か所を解体した。"
+  },
+  {
+   "title": "JIM Sabah Gempur Lima Kubu Setinggan, 71 PATI Ditahan",
+   "summary": "RANAU: Tindakan pantas Jabatan Imigresen Malaysia (JIM) Sabah membuahkan hasil selepas seramai 71 pendatang tanpa izin (PATI) ditahan dalam dua operasi",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaEdVeGRZRGI2WE1abVR2MWItajMtaXlsZmZ2b0I2Q2pwUEM0anNiUHQyVzJyQkUtZkdNcFFsYTRqWkY5MGRtX0JSckRzMFRFdGxJMVROenR0N1lqVzlrU1dwWGViUmhKc1pvV285bkF4anhPZTQtc3ZZVDMwcTJXdHRGNA?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T15:11:37Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "b00d601610ec",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州、5つの不法占拠要塞を襲撃、71人のPATIを逮捕",
+   "summary_ja": "ラナウ：サバ州のマレーシア入国管理局（JIM）の迅速な行動が実を結び、2回の作戦で合計71人の不法移民（PATI）が逮捕された。",
+   "first_seen": "2026-11-11T19:47:57Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 71,
+     "kind": "拘束",
+     "raw": "71 PATI"
+    },
+    {
+     "n": 24,
+     "kind": "拘束",
+     "raw": "24 individu"
+    },
+    {
+     "n": 107,
+     "kind": "拘束",
+     "raw": "107 individu"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/jim-sabah-gempur-lima-kubu-setinggan-71-pati-ditahan/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/IMG_5522.jpeg",
+   "image_alt": "JIM Sabah gempur lima kubu setinggan, 71 PATI ditahan",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "RANAU: Tindakan pantas Jabatan Imigresen Malaysia (JIM) Sabah membuahkan hasil selepas seramai 71 pendatang tanpa izin (PATI) ditahan dalam dua operasi serentak di Ranau dan Sandakan.\n\nDi Sandakan, pasukan penguat kuasa bertindak mengejut seawal jam 1.35 pagi menerusi Ops Sapu dengan membongkar lima kubu persembunyian PATI di Kampung Ulu Dusun, Kampung Bimbim, Gum-Gum Kuari 7, Kuari 2 dan Flat Taman Sejati.\n\nHasil serbuan tengah malam itu menyaksikan 83 individu diperiksa, manakala 50 PATI diberkas termasuk 25 kanak-kanak.\n\nSementara itu di Ranau, 14 pegawai Imigresen bersama anggota RELA menggempur tiga lokasi panas susulan risikan dan aduan awam, membuahkan hasil apabila 21 warga Filipina ditahan selepas 24 individu diperiksa.\n\nSecara keseluruhan, 107 individu disaring dalam kedua-dua operasi itu, dengan 71 PATI (68 warga Filipina dan tiga warga Indonesia) kini dikurung di bawah Seksyen 6(1)(c) Akta Imigresen 1959/63 untuk siasatan lanjut.\n\nJIM Sabah menegaskan pihaknya tidak akan berhenti menggempur sarang PATI dan menyeru orang ramai terus menyalurkan maklumat melalui portal SISPAA dan SPO untuk membantu mempertahankan kedaulatan negara.",
+   "body_ja": "ラナウ：ラナウとサンダカンでの2つの同時作戦で合計71人の不法移民（PATI）が逮捕され、サバ州移民局（JIM）の迅速な行動が実を結んだ。\n\nサンダカンでは、法執行チームがオプサプを通じて早朝午前1時35分にサプライズとして、カンプン・ウル・ドゥスン、カンプン・ビンビン、ガムガム採石場7、採石場2、フラット・タマン・セジャティにある5つのPATI隠れ家を解体した。\n\n真夜中の強制捜査の結果、83人が検査され、25人の子供を含む50人の不法移民が逮捕された。\n\n一方、ラナウでは、情報機関と国民の苦情を受けて、14人の入国管理官がRELAメンバーとともに3つのホットスポットを強制捜査し、24人の検査後に21人のフィリピン人が逮捕されるという結果が得られた。\n\n2つの作戦では合計107人が検査され、そのうち71人（フィリピン人68人、インドネシア人3人）の不法移民が1959/63年移民法第6条(1)(c)に基づきさらなる捜査のため現在拘留されている。\n\nサバ州JIMは、PATIの巣への攻撃をやめないと主張し、国の主権を守るためにSISPAAとSPOのポータルを通じて情報を流し続けるよう国民に呼び掛けている。",
+   "summary_ja2": "ラナウ：ラナウとサンダカンでの2つの同時作戦で合計71人の不法移民（PATI）が逮捕され、サバ州移民局（JIM）の迅速な行動が実を結んだ。サンダカンでは、法執行チームがオプサプを通じて早朝午前1時35分にサプライズとして、カンプン・ウル・ドゥスン、カンプン・ビンビン、ガムガム採石場7、採石場2、フラット・タマン・セジャティにある5つのPATI隠れ家を解体した。"
+  },
+  {
+   "title": "107 undocumented migrants, including 25 children, held in Sabah raids",
+   "summary": "SANDAKAN: A total of 107 undocumented migrants, including 25 children, were detained in a series of immigration operations across four districts in Sabah between Monday (Nov 9) and Wednesday (Nov 11).",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemVuNjQxdlQyVG5oc1hwcmFsblZ1bFItOHBVQWxBZVhKZ1NSd2Z2X0dlc1NaR3lvQWdSblhnSWxndXNzT0pmNzRRdXJDaE9LRFRuR3l1ODR2RDJ6NlBmOThEOXRpSXhwWFluaVQzY0pSaDRXX2xFNktabkplczV1TE9tY2dxLWF2Ry1RMlF5NFVLbDB5XzB6c2N4SmlCZUlJem1wMUd4WEVTbWg2d09VZXBLS1JmX0NP?oc=5",
+   "source": "The Star",
+   "date": "2026-11-11T11:19:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "fcad44761a75",
+   "tags": [
+    "入管・摘発",
+    "子ども"
+   ],
+   "title_ja": "サバ州襲撃で子供25人を含む不法移民107人が拘束される",
+   "summary_ja": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。",
+   "first_seen": "2026-11-11T19:47:57Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 107,
+     "kind": "拘束",
+     "raw": "107 undocumented"
+    },
+    {
+     "n": 25,
+     "kind": "拘束",
+     "raw": "25 children"
+    },
+    {
+     "n": 50,
+     "kind": "拘束",
+     "raw": "50 undocumented"
+    },
+    {
+     "n": 24,
+     "kind": "拘束",
+     "raw": "24 individu"
+    }
+   ],
+   "url_real": "https://www.thestar.com.my/news/nation/2026/11/11/107-undocumented-migrants-including-25-children-held-in-sabah-raids",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/11/4207288.jpg",
+   "site_name": "The Star",
+   "body": "SANDAKAN: A total of 107 undocumented migrants, including 25 children, were detained in a series of immigration operations across four districts in Sabah between Monday (Nov 9) and Wednesday (Nov 11).\n\nThe Sabah Immigration Department said the operations in Kota Kinabalu, Penampang, Ranau and Sandakan were part of its ongoing efforts to combat illegal immigration across the state.\n\nOf those detained, 71 were picked up during simultaneous operations in Ranau and Sandakan on Wednesday, while another 36 were arrested in Kota Kinabalu and Penampang on Monday.\n\nIn Sandakan, 50 undocumented migrants, including 25 children, were detained during Ops Sapu, which began at 1.35am on Wednesday.\n\nA team of 15 immigration enforcement officers inspected 83 individuals at five locations, including Kampung Ulu Dusun at Mile 30, Jalan Labuk, Kampung Bimbim at Mile 16, two sites in Kampung Gum-Gum and Flat Taman Sejati at Mile 7, Jalan Airport.\n\nIn Ranau, 21 Filipino nationals were detained following public complaints about the presence of suspected undocumented migrants.\n\nThe operation involved 14 immigration officers assisted by Rela personnel, who inspected 24 individuals at three locations.\n\nThe department said the 71 detainees from both districts comprised 68 Filipinos and three Indonesians.\n\nMeanwhile, separate operations conducted in Kota Kinabalu and Penampang on Monday resulted in the detention of 36 undocumented migrants and one employer.\n\nThe operations, involving 19 enforcement officers, were carried out from 2pm to 11.30pm at six locations, including shopping centres, spas, business premises and rented rooms.\n\nA total of 312 individuals were screened during the operations, which were conducted under Ops Belanja, Ops Kutip, Ops Sapu and Ops Gegar.\n\nThe 36 undocumented migrants comprised 34 Filipinos, one Pakistani and one Indonesian, all of whom were found without valid identification documents or immigration passes.\n\nThe department also issued a witness summons, known as Form Imm.29, for further action.\n\nAll 107 undocumented migrants were detained under Section 6(1)(c) of the Immigration Act 1959/63 for allegedly entering or remaining in Malaysia without valid passes or permits.\n\nThe detainees from the Kota Kinabalu and Penampang operations were taken to the Kota Kinabalu Immigration Depot for documentation and further investigation.\n\nThe department said enforcement operations would continue across Sabah, including urban centres and rural districts.\n\nIt also urged the public to report suspected immigration offences through its official complaint channels.",
+   "body_ja": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。\n\nサバ州移民局は、コタキナバル、ペナンパン、ラナウ、サンダカンでの作戦は、州全体の不法移民と戦うための継続的な取り組みの一環であると述べた。\n\n拘束された人々のうち、71人は水曜日にラナウとサンダカンで同時作戦中に逮捕され、さらに36人が月曜日にコタキナバルとペナンパンで逮捕された。\n\nサンダカンでは、水曜午前1時35分から始まったオプサプ作戦中に、子供25人を含む不法移民50人が拘束された。\n\n入国管理官15人からなるチームは、マイル30のカンプン・ウル・ドゥスン、ジャラン・ラブク、マイル16のカンプン・ビンビン、カンプン・ガムガムの2か所、ジャラン空港マイル7のフラット・タマン・セジャティを含む5か所で83人を検査した。\n\nラナウでは、不法移民の疑いがある人の存在に関する国民の苦情を受けて、21人のフィリピン人が拘束された。\n\nこの作戦には、Rela職員の支援を受けて14人の入国管理官が関与し、3か所で24人を検査した。\n\n同省によると、両地区の拘留者７１人はフィリピン人６８人、インドネシア人３人となっている。\n\n一方、月曜日にコタキナバルとペナンパンで実施された別個の作戦により、不法移民36名と雇用主1名が拘束された。\n\n19人の執行官が参加したこの作戦は、ショッピングセンター、スパ、ビジネス施設、レンタルルームなど6か所で午後2時から午後11時30分まで実施された。\n\nベランハ作戦、クティプ作戦、サプ作戦、ゲガル作戦のもとで実施された作戦中に、合計312人が検査を受けた。\n\n36人の不法移民はフィリピン人34人、パキスタン人1人、インドネシア人1人で構成されており、全員が有効な身分証明書や入国許可証を所持していない状態で発見された。\n\n同省はまた、更なる措置を講じるため、Form Imm.29として知られる証人召喚も発行した。\n\n107 人の不法移民全員が、有効なパスや許可証なしにマレーシアに入国または残留した疑いで、1959/63 年移民法第 6 条(1)(c) に基づいて拘留された。\n\nコタキナバルとペナンパンの作戦からの被拘禁者は、記録とさらなる調査のためにコタキナバル入国管理所に連行された。\n\n同省は、都市中心部や農村部を含むサバ州全域で取り締まりが継続されると述べた。\n\nまた国民に対し、移民法違反の疑いがある場合は公式の苦情チャンネルを通じて通報するよう呼び掛けた。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。一方、月曜日にコタキナバルとペナンパンで実施された別個の作戦により、不法移民36名と雇用主1名が拘束された。ベランハ作戦、クティプ作戦、サプ作戦、ゲガル作戦のもとで実施された作戦中に、合計312人が検査を受けた。"
+  },
+  {
+   "title": "36 undocumented migrants detained in Immigration operation in Kota Kinabalu, Penampang",
+   "summary": "By: Zaidul Khair bin Jungkim",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDJuOEIxR0hZTDlUb09HUnh2YWd0MFBRaVZGZzNiMWtHTmJVU1Fad08wZklISWExWTlCYmhVV202SzNCMk1fNFA1LUhZQnZ2OTFUbVByZGJPUmdlbU5kVVVhWVZYMUk5eEVuN1M2MUhZb3EwTm13bFZsM2poNllYZk95bTF6cmJodExjOGlxbVpsRzNiY2hJRXRDeUZjSnZFRjltRkhKVmtOdXNpMFJn?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T09:21:33Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "0b8f4a0960eb",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ペナンパン州コタキナバルの入国管理で不法移民36人が拘束される",
+   "summary_ja": "著者: Zaidul Khair by Jungkim",
+   "first_seen": "2026-11-11T19:47:57Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 36,
+     "kind": "拘束",
+     "raw": "36 undocumented"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/36-undocumented-migrants-detained-in-immigration-operation-in-kota-kinabalu-penampang/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/IMG-20261111-WA00141.jpg",
+   "image_alt": "36 undocumented migrants detained in Immigration operation in Kota Kinabalu, Penampang",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: A total of 36 undocumented migrants were detained in an enforcement operation by the Sabah State Malaysian Immigration Department (JIM Sabah) in Kota Kinabalu and Penampang on 9 November.\n\nThe operation also led to the detention of an employer.\n\nJIM Sabah carried out Ops Belanja, Ops Kutip, Ops Sapu and Ops Gegar involving 19 officers. The operation ran from 2 pm to 11.30 pm at shopping centres, spa centres, business premises and rental rooms.\n\nA total of 312 individuals were inspected at six focus locations, involving locals and foreigners.\n\nOf the 36 undocumented migrants detained, 34 were Filipinos, one was Pakistani and another was Indonesian. They were found to be without valid identification documents or passes, thus violating Section 6(1)(c) of the Immigration Act 1959/63.\n\nA Form IMM.29 (Summons to Witness) was also issued for further action.\n\nAll detainees were taken to the Kota Kinabalu Immigration Depot for documentation before further investigations are conducted.",
+   "body_ja": "コタキナバル：11月9日、コタキナバルとペナンパンでサバ州マレーシア入国管理局（JIMサバ）による強制捜査により、合計36人の不法移民が拘束された。\n\nこの手術により雇用主も拘束された。\n\nジム・サバ州は19人の士官を巻き込んでベランジャ作戦、クティプ作戦、サプ作戦、ゲガル作戦を実行した。作戦はショッピングセンター、スパセンター、ビジネス施設、レンタルルームで午後２時から午後１１時３０分まで行われた。\n\n6つの重点拠点で、地元住民と外国人を含む合計312人が検査された。\n\n拘束された不法移民36人のうち、34人がフィリピン人、1人がパキスタン人、もう1人がインドネシア人だった。彼らは有効な身分証明書やパスを持っていないことが判明し、1959/63年の移民法第6条(1)(c)に違反した。\n\n更なる措置のために、フォーム IMM.29 (証人への召喚状) も発行されました。\n\nさらなる調査が行われる前に、すべての被拘禁者は書類作成のためコタキナバル入国管理局に連行された。",
+   "summary_ja2": "コタキナバル：11月9日、コタキナバルとペナンパンでサバ州マレーシア入国管理局（JIMサバ）による強制捜査により、合計36人の不法移民が拘束された。ジム・サバ州は19人の士官を巻き込んでベランジャ作戦、クティプ作戦、サプ作戦、ゲガル作戦を実行した。作戦はショッピングセンター、スパセンター、ビジネス施設、レンタルルームで午後２時から午後１１時３０分まで行われた。"
+  },
+  {
+   "title": "36 PATI ditahan dalam operasi Imigresen di Kota Kinabalu, Penampang",
+   "summary": "Oleh: Zaidul Khair bin Jungkim",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2JOcUxzeVFvQk1wSHRKZ1ZrWmpGTkxoQlFna2dGWVA5bFlsWGgzMzZ5MWp5aXRySEFQS3BCZ29wVDlRckt3TC1ERVZ0Tm5Tc2h3Z25uc0FXWHlWNGVkenltZl9aa2dudkNtcUJxT3cwbENyNDJ1SzF6eGxVVk4wNzgwUWh3MEdkYldYbTRaODFWQnNwcVE?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T09:20:24Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "b47500438cf4",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ペナンパン州コタキナバルでの入国審査で36人のPATIが逮捕された",
+   "summary_ja": "著者: ザイドゥル・ケアル・ビン・ジョンキム",
+   "first_seen": "2026-11-11T19:47:57Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 36,
+     "kind": "拘束",
+     "raw": "36 PATI"
+    }
+   ],
+   "enriched": "ok",
+   "enriched_v": 3,
+   "url_real": "https://tvsabahnews.com/36-pati-ditahan-dalam-operasi-imigresen-di-kota-kinabalu-penampang/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/IMG-20261111-WA00141.jpg",
+   "image_alt": "36 PATI ditahan dalam operasi Imigresen di Kota Kinabalu, Penampang",
+   "site_name": "TV Sabah | News Portals",
+   "body": "KOTA KINABALU: Seramai 36 pendatang asing tanpa izin (PATI) ditahan dalam operasi penguatkuasaan Jabatan Imigresen Malaysia Negeri Sabah (JIM Sabah) di Kota Kinabalu dan Penampang, pada 9 November lalu.\n\nOperasi itu turut membawa kepada penahanan seorang majikan.\n\nJIM Sabah melaksanakan Ops Belanja, Ops Kutip, Ops Sapu dan Ops Gegar dengan penglibatan 19 pegawai. Operasi berlangsung dari jam 2 petang hingga 11.30 malam di pusat beli-belah, pusat spa, premis perniagaan dan bilik sewa.\n\nSeramai 312 individu diperiksa di enam lokasi tumpuan, membabitkan warga tempatan dan warga asing.\n\nDari 36 PATI yang ditahan, 34 merupakan warga Filipina, seorang warga Pakistan dan seorang lagi warga Indonesia. Mereka didapati tidak memiliki dokumen pengenalan diri atau pas yang sah, sekali gus melanggar Seksyen 6(1)(c) Akta Imigresen 1959/63.\n\nSatu Borang IMM.29 (Saman Kepada Saksi) turut dikeluarkan untuk tindakan lanjut.\n\nKesemua tahanan dibawa ke Depot Imigresen Kota Kinabalu untuk urusan dokumentasi sebelum siasatan lanjut dijalankan.",
+   "body_ja": "コタキナバル：11月9日、コタキナバルとペナンパンでマレーシア入国管理局サバ州（JIMサバ）による強制捜査で、合計36人の不法移民（PATI）が逮捕された。\n\nこの作戦により雇用主も逮捕された。\n\nジム・サバ州は19人の警察官の参加を得てショッピング作戦、クティプ作戦、サプ作戦、ゲガル作戦を実施した。この作戦は、ショッピングモール、スパセンター、ビジネス施設、レンタルルームで午後２時から午後１１時３０分まで行われます。\n\n地元住民と外国人を含め、6つの拠点で合計312人が検査された。\n\n逮捕された不法滞在者36人のうち、34人がフィリピン人、1人がパキスタン人、もう1人がインドネシア人である。彼らは有効な身分証明書またはパスポートを持っていないことが判明し、1959/63 年移民法第 6 条(1)(c) に違反しました。\n\n更なる措置のために、フォーム IMM.29 (証人への召喚書) も発行されました。\n\nすべての被拘禁者は、更なる調査が行われる前に、文書作成のためコタキナバル入国管理局に連行された。",
+   "summary_ja2": "コタキナバル：11月9日、コタキナバルとペナンパンでマレーシア入国管理局サバ州（JIMサバ）による強制捜査で、合計36人の不法移民（PATI）が逮捕された。この作戦により雇用主も逮捕された。ジム・サバ州は19人の警察官の参加を得てショッピング作戦、クティプ作戦、サプ作戦、ゲガル作戦を実施した。"
+  },
   {
    "title": "63 PATI warga Indonesia dipulangkan ke Nunukan",
    "summary": "Oleh: Nurul Fazliana Norman",
@@ -4095,7 +4333,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=jK8FQ-jal3IQ7kNvwFaQ62i&_nc_oc=Adp_-8lO8tb4nCcNBb06P41YEmcXRd4FnKfkAt3G3FXgwm1cLFHwS4VoEFmttAxIPbo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=ZD36fN1bKjGH3TJOaPV2KA&_nc_ss=79289&oh=00_AQTVeDiSJvofvqQRjyTsE5sT90VoGqazJ4qeNkfTa9Flgg&oe=6AF9F42D",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=jK8FQ-jal3IQ7kNvwHFiDAa&_nc_oc=AdpmujJxfftSvQOTIUJ8jqjkfNasi_ZuDROo9r0pCRfJFrebgwZ8GchnoRUSih8nquc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=czwf5Ano9R0X3r3Xbys55A&_nc_ss=79289&oh=00_AQTkWWewGMMpLiNVZG0fY7liDX8zyvZikuHspFk6AJ-Tng&oe=6AFA9CED",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5609,7 +5847,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=wrlHN0WsnRsQ7kNvwGIb5jS&_nc_oc=AdrZduoMrLwgHlNmy_1kdgf73HB6iXamQd8j673c94Wuu2apc59lPtAHQ-9rIS63iB8&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=UOs3ot_cNDYCKr2uLtlgUA&_nc_ss=79289&oh=00_AQSIh548JeyVcRDP8EgMeAdMvAN1XFPlp2KnVc_qsILWfA&oe=6AF9FD2F",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=wrlHN0WsnRsQ7kNvwFGJx5t&_nc_oc=AdqthHFA9s9Kq-HWaY10NjEzdoq90YCwn16qxHNBkwZqfzdScXXPW7XdA8rfyoP5Vqs&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=aDeIavDj3nSrkAKak_5JWw&_nc_ss=79289&oh=00_AQSN8JpiE6-FtqeC9dMUPlDwOj1IAqVTpcCQ7mwvbyhfFA&oe=6AFAA5EF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -11241,44 +11479,7 @@
      "raw": "95 individu"
     }
    ]
-  },
-  {
-   "title": "Borneo Voice criticised for twisting Shafie’s remarks on Bajau Laut community",
-   "summary": "KOTA KINABALU (Oct 7): Parti Warisan has condemned what it described as a deliberate attempt by pro-GRS media outlet Borneo Voice to misrepresent Datuk Seri Shafie Apdal’s remarks on the Palauh or Bajau Laut community, falsely portraying him as a supporter of illegal immigrants. Warisan Vice President Terrence Siambun said the party “completely rejects thisRead More",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnBocTVwSXB5RlNJazBHeDZ1NVFYRzAxNlpVN0tJbTd0XzFuSGs3aDVPVU1ONkdTSE9rUlJadENxajA1cXlfRFpvakFyRmNrbThmaWxqdW81aTlIQ19jczU0QjNEUWlXYmdzYjFfUW1LU1J1VGhoMDdFVzR5REwxRktPYWtzcnhIM0g2ZGx4MmRnZVgxWVdlSUpCVjBTRkxuNEcxMnQyQkpIYkpJdHU0RURYZ29YajFvRXc?oc=5",
-   "source": "Borneo Post",
-   "date": "2025-10-07T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "cc1e19ab4f8a",
-   "tags": [
-    "バジャウ"
-   ],
-   "title_ja": "ボルネオ・ボイス、バジャウ・ラウト族コミュニティに関するシャフィー氏の発言を曲解したとして批判",
-   "first_seen": "2026-08-12T13:58:38Z",
-   "url_real": "https://www.theborneopost.com/2025/10/07/borneo-voice-criticised-for-twisting-shafies-remarks-on-bajau-laut-community/",
-   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwf-3BZ46znkzgTEhy0mFdJVQ9vK18VhB1GjRgNalRFyInxcNmq8ow2rFASZh9cTDw0Mo1o4s8aKvyGA",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja": "コタキナバル（10月7日）：パルティ・ワリサンは、パラオ人またはバジャウ・ラウト人コミュニティに関するダトゥク・セリ・シャフィー・アプダルの発言を誤って伝え、不法移民の支持者であるかのように誤って描写しようとする親GRSメディアのボルネオ・ボイスによる意図的な試みであると非難した。ワリサンのテレンス・シアンブン副大統領は、党は「これを完全に拒否する」と述べた。",
-   "impact": 3,
-   "issues": [
-    "バジャウ・ラウト"
-   ],
-   "figures": [
-    {
-     "n": 27000,
-     "kind": "推計",
-     "raw": "27,000 individu"
-    }
-   ],
-   "image": "https://www.theborneopost.com/newsimages/2025/10/terrence-siambun4.jpg",
-   "site_name": "Borneo Post Online",
-   "body": "KOTA KINABALU (Oct 7): Parti Warisan has condemned what it described as a deliberate attempt by pro-GRS media outlet Borneo Voice to misrepresent Datuk Seri Shafie Apdal’s remarks on the Palauh or Bajau Laut community, falsely portraying him as a supporter of illegal immigrants.\n\nWarisan Vice President Terrence Siambun said the party “completely rejects this malicious slander,” stressing that Shafie’s comments were humanitarian in nature and grounded in international principles of governance and human rights.\n\n“In reality, Shafie’s statement referred to the Palauh or Bajau Laut — sea nomads who have lived in Sabah’s eastern waters for centuries without proper documentation or citizenship status. He never advocated blanket citizenship for illegal immigrants,” Terrence said.\n\n“What he called for was humane treatment, documentation, and responsible management — not demonization or neglect,” he added.\n\nTerrence cited Shafie’s statement, in which the Warisan president said: “These Palauh have lived in the waters off Sabah’s east coast for hundreds of years. They cannot be equated with PTIs (illegal immigrants). Under UN principles, the country in whose territory they live has the duty to care for them. They are undocumented; no state currently acknowledges or takes them. Sabah must adopt the best possible approach rather than leaving them adrift without identity.”\n\nTerrence said the statement reflected “a call for responsible and dignified governance — not support for illegal immigration.”\n\nHe pointed out that both Chief Minister Datuk Seri Panglima Hajiji Noor and Deputy Chief Minister I Datuk Seri Panglima Dr Jeffrey Kitingan had previously made similar statements regarding the Palauh community, yet neither was subjected to comparable criticism.\n\n“In July 2024, Hajiji himself publicly affirmed that the Palauh or Bajau Laut are stateless and must not be confused with illegal immigrants. He stated that biometric data has been collected for about 27,000 individuals and they should be assisted under the UN convention on stateless persons,” Terrence said.\n\nHe added that Hajiji had also defended the Bajau Laut following controversial evictions from marine park zones, stressing that their welfare was a state priority and warning that they should not be mistaken for undocumented migrants.\n\n“Hajiji himself affirmed the state’s moral and legal responsibility towards stateless communities — the same principle Shafie highlighted,” Terrence noted.\n\nAs for Dr Jeffrey, Terrence said the Deputy Chief Minister had also supported the registration and documentation of undocumented and stateless individuals under Sabah’s data digitisation initiative.\n\n“In 2024, Dr Jeffrey warned that the Bajau Laut could not be left in limbo and their stateless status deprived them of basic services. That aligns perfectly with Shafie’s call for documentation and humane management — yet Borneo Voice chose to single out Shafie for attack,” he said.\n\nTerrence stressed that the double standard shown by Borneo Voice exposed a political agenda rather than a factual critique.\n\n“Borneo Voice’s attack is neither honest nor consistent. It is opportunistic and designed solely to weaken Shafie and Warisan,” he said.\n\n“Shafie’s position is based on human rights, international norms, and pragmatic governance — not on political expediency or weakness,” he added.\n\nTerrence urged Sabahans not to be misled by political distortions and to see the issue for what it truly is — a matter of compassion and responsible statecraft.\n\n“If GRS and Borneo Voice truly believe in humane treatment for stateless communities, they should acknowledge that Shafie’s call was principled, not conspiratorial. The real culprit is not Shafie — it is falsehood in the service of politics,” Terrence said.",
-   "body_ja": "コタキナバル（10月7日）：パルティ・ワリサンは、パラオ人またはバジャウ・ラウト人コミュニティに関するダトゥク・セリ・シャフィー・アプダルの発言を誤って伝え、不法移民の支持者であるかのように誤って描写しようとする親GRSメディアのボルネオ・ボイスによる意図的な試みであると非難した。\n\nワリサンのテレンス・シアンブン副大統領は、党は「この悪意のある中傷を完全に拒否する」と述べ、シャフィー氏のコメントは本質的に人道的であり、統治と人権の国際原則に基づいていると強調した。\n\n「実際には、シャフィー氏の声明はパラオ族またはバジャウ族のラウト族、つまり適切な書類や市民権を持たずに何世紀にもわたってサバ州の東部海域に住んでいる海洋遊牧民について言及したものである。シャフィー氏は決して不法移民に対する包括的な市民権を主張したことは一度もなかった」とテレンス氏は述べた。\n\n「彼が求めたのは人道的な扱い、文書化、責任ある管理であり、悪者扱いや無視ではない」と彼は付け加えた。\n\nテレンス氏はシャフィー氏の声明を引用し、ワリサン大統領は次のように述べた、「これらのパラオ人たちはサバ州の東海岸沖の海域に何百年も住んでいる。彼らをPTI（不法移民）と同一視することはできない。国連の原則に基づき、彼らが住んでいる領土の国は彼らを世話する義務がある。彼らは不法滞在であり、現在彼らを認めたり受け入れたりする国はない。サバ州は彼らを何もせずに漂流させるのではなく、可能な限り最善のアプローチを採用しなければならない」アイデンティティ。」\n\nテレンス氏は、この声明は「不法移民への支持ではなく、責任ある威厳ある統治を求めるもの」を反映していると述べた。\n\n同氏は、ダトゥク・セリ・パンリマ・ハジジ・ヌール州首相とダトゥク・セリ・パンリマ副首相のジェフリー・キティンガン博士の両者が、パラオのコミュニティに関して以前にも同様の発言をしていたが、どちらも同等の批判にさらされていなかったと指摘した。\n\n「2024年7月、ハジジ氏自身が、パラオ人またはバジャウ族のラウト人は無国籍であり、不法移民と混同してはならないと公に断言した。彼は、約27,000人の生体データが収集されており、彼らは無国籍者に関する国連条約に基づいて支援されるべきであると述べた」とテレンス氏は述べた。\n\n同氏は、海洋公園区域からの立ち退きが物議を醸した後、ハジジ氏もバジャウ・ラウト族を擁護してきたと付け加え、彼らの福祉が国家の優先事項であることを強調し、彼らを不法移民と間違われてはならないと警告した。\n\n「ハジジ自身、無国籍コミュニティに対する国家の道徳的および法的責任を肯定した。これと同じ原則をシャフィーが強調した」とテレンスは指摘した。\n\nジェフリー博士に関してテレンス氏は、副州首相もサバ州のデータデジタル化構想の下で不法入国者や無国籍者の登録と文書化を支援してきたと述べた。\n\n「2024年、ジェフリー博士は、バジャウ・ラウト族を放っておくことはできず、彼らの無国籍状態により基本的なサービスが受けられないと警告した。これは文書化と人道的な管理を求めるシャフィー氏の呼びかけと完全に一致しているが、ボルネオ・ボイスは攻撃対象としてシャフィー氏を選び出した」と同氏は述べた。\n\nテレス氏は、ボルネオ・ボイスが示した二重基準は事実に基づく批判ではなく、政治的意図を暴露していると強調した。\n\n「ボルネオ・ボイスの攻撃は誠実でも一貫性もない。日和見的であり、シャフィーとワリサンを弱体化させることだけを目的としている」と同氏は述べた。\n\n「シャフィー氏の立場は人権、国際規範、現実的な統治に基づいており、政治的な便宜や弱みに基づくものではない」と同氏は付け加えた。\n\nテレンス氏はサバ州人に対し、政治的な歪みに惑わされず、この問題を本当の意味で、つまり思いやりと責任ある国家戦略の問題として理解するよう促した。\n\n「GRSとボルネオ・ヴォイスが無国籍コミュニティに対する人道的な扱いを本当に信じているのなら、シャフィーの呼びかけは陰謀ではなく原則に基づいたものであることを認めるべきだ。真犯人はシャフィーではない。政治のための虚偽だ」とテレンス氏は語った。",
-   "summary_ja2": "コタキナバル（10月7日）：パルティ・ワリサンは、パラオ人またはバジャウ・ラウト人コミュニティに関するダトゥク・セリ・シャフィー・アプダルの発言を誤って伝え、不法移民の支持者であるかのように誤って描写しようとする親GRSメディアのボルネオ・ボイスによる意図的な試みであると非難した。これと同じ原則をシャフィーが強調した」とテレンスは指摘した。"
   }
  ],
- "enriched_at": "2026-11-11T07:00:51Z"
+ "enriched_at": "2026-11-11T19:51:41Z"
 }
