@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:55:25Z",
+ "updated": "2026-11-11T06:57:31Z",
  "count": 306,
  "tags": {
   "入管・摘発": 208,
@@ -18,9 +18,9 @@
   "Sabah Media": 48,
   "TV Sabah News": 43,
   "Daily Express Malaysia": 27,
+  "sabahnews.com.my": 16,
   "NST Online": 16,
-  "sabahnews.com.my": 15,
-  "The Star": 15,
+  "The Star": 14,
   "Borneo Post": 13,
   "Berita Harian": 9,
   "Astro Awani": 8,
@@ -29,10 +29,10 @@
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
+  "Bernama": 5,
   "Sayang Sabah": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
-  "Bernama": 4,
   "THE MALAYSIA PRESS": 4,
   "tvsabahnews.com": 4,
   "Harian Metro": 4,
@@ -40,7 +40,6 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
-  "Sabah News": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "PressReader": 2,
@@ -52,6 +51,7 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
+  "Sabah News": 1,
   "Borneo Daily Bulletin": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -1515,7 +1515,7 @@
    "title": "Ewon Bangkitkan Risiko Keselamatan Kehadiran Pelarian, Pendatang Asing Filipina di Sabah",
    "summary": "KUALA LUMPUR: Ahli Parlimen Penampang, Datuk Ewon Benedick meminta Kementerian Pertahanan menjelaskan sama ada keberadaan generasi pelarian dan pendatang asing dari Filipina di Sabah diiktiraf sebagai risiko keselamatan dalam negara, khususnya mengambil kira kedudukan negeri itu yang berhampiran wilayah Filipina. Beliau turut mempersoalkan sama ada kegiatan risikan dijalankan bagi mengenal pasti k",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1lwaU1NaGZydEtqM0ZtTFlqUVBmOUNBb0t3UU9nbW9Gb09NdVAxdkhJdENXb2k5UFVXZm9VRWg0YlN4QVJyNEo2bnpYMUxlTTN1VXY0YVdnQWxqajZkSzZZcXdzM2ZhMGZCNXpjY0NyQ0NtX0J5bUYyT0ZWb3U0TEZMOG5oTXNFNGlsQjlKeUlrd3M4bEFLWVdtSWpMUkZwRWIyZWMtY0NfTHp4bE03MDd6UQ?oc=5",
-   "source": "Sabah News",
+   "source": "sabahnews.com.my",
    "date": "2026-10-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3044,11 +3044,11 @@
    "body_ja": "当社および当社の広告、分析、ソーシャル メディア パートナーは Cookie および同様のテクノロジーを使用しています。\n\nこれらは、トラフィックの分析、コンテンツと広告のパーソナライズ、ソーシャル メディア機能の提供に役立ちます。\n\nこのプロバイダーによって収集されるデータの一部は、パーソナライゼーションと広告効果の測定を目的としています。プロバイダーは、広告の測定と広告のパーソナライゼーションのために IP アドレスを使用する場合があります。"
   },
   {
-   "title": "KL, Manila discuss expediting repatriation of over 5,000 immigration detainees in Sabah",
+   "title": "KL, Manila Discuss Expediting Repatriation Of Over 5,000 Immigration Detainees In Sabah",
    "summary": "MANILA: Malaysia and the Philippines on Tuesday (Aug 18) discussed measures to expedite the repatriation of more than 5,000 undocumented Philippine migrants held at four immigration depot centres in Sabah.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWN0TExkRjctRnhvc3dLOUloR2tBejVLN2F3Zi1iT0JmRjNuVzJmUTBhaHJFQ1hhS2tDTG53Z2diS3Q0Y2JJOVdjX0tCLXA1UFpHdWdwNmxFN3I0OFpZVWE0WDlFTnVaTTFJdVpET0IyVF9CTUp6Q3R4TExIU2l5bGdlbWJOcUtRSTFYVi10ZjNsbGhYRngwamhkVXV2eWhuYkVkaHNuUHJYZVR1cXVmSFI2N1N0NVB5bTB1RlF6SkR5Z2hGdDRZWXZodDJKdi1F?oc=5",
-   "source": "The Star",
-   "date": "2026-08-18T07:00:00Z",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USkFHdUtiZVdQaHdPUlFLZF9zSzJUUG9wWjRQSDVMSG5DdUNxWXlrRURuRFdhSmxHMk9KR0taVVZkaTJPaTdXSk05X2ZXMXVHY0pkeldTX1N4LWpvTFQ2RDV5eGY?oc=5",
+   "source": "Bernama",
+   "date": "2026-08-18T15:37:38Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -4095,7 +4095,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=jK8FQ-jal3IQ7kNvwHM_d0J&_nc_oc=AdqXXpx4LT0iw7MgDXrEpMZITBi9WEUZBRRBmtPLaNgJ394jphDz4V3XhZ3ZmKxei6U&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Z6YOZdC9OOzygQnP24Tlfg&_nc_ss=79289&oh=00_AQS8V3q_-TVKe9sLq7YmfCppRPN7pVq6plV99S8X_jryWQ&oe=6AF94B6D",
+   "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=596eb7&_nc_ohc=jK8FQ-jal3IQ7kNvwFaQ62i&_nc_oc=Adp_-8lO8tb4nCcNBb06P41YEmcXRd4FnKfkAt3G3FXgwm1cLFHwS4VoEFmttAxIPbo&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=ZD36fN1bKjGH3TJOaPV2KA&_nc_ss=79289&oh=00_AQTVeDiSJvofvqQRjyTsE5sT90VoGqazJ4qeNkfTa9Flgg&oe=6AF9F42D",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5609,7 +5609,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=wrlHN0WsnRsQ7kNvwGGd5In&_nc_oc=Adq0SFJO40IUlU3EKT-BLhfK6H9DwQamcf7C8oEzyUk-cmZUW7QAfqRRmsL67fHUMpw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=lesdW0XM7DT8qGwttdDFmA&_nc_ss=79289&oh=00_AQSiI50Enz2drqljqyf6NLq2tG6XUO-TyLF7T3uBMcOtHg&oe=6AF9546F",
+   "image": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=cae128&_nc_ohc=wrlHN0WsnRsQ7kNvwGIb5jS&_nc_oc=AdrZduoMrLwgHlNmy_1kdgf73HB6iXamQd8j673c94Wuu2apc59lPtAHQ-9rIS63iB8&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=UOs3ot_cNDYCKr2uLtlgUA&_nc_ss=79289&oh=00_AQSIh548JeyVcRDP8EgMeAdMvAN1XFPlp2KnVc_qsILWfA&oe=6AF9FD2F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -11280,5 +11280,5 @@
    "summary_ja2": "コタキナバル（10月7日）：パルティ・ワリサンは、パラオ人またはバジャウ・ラウト人コミュニティに関するダトゥク・セリ・シャフィー・アプダルの発言を誤って伝え、不法移民の支持者であるかのように誤って描写しようとする親GRSメディアのボルネオ・ボイスによる意図的な試みであると非難した。これと同じ原則をシャフィーが強調した」とテレンスは指摘した。"
   }
  ],
- "enriched_at": "2026-11-10T19:58:27Z"
+ "enriched_at": "2026-11-11T07:00:51Z"
 }
