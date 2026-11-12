@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-12T07:33:38Z",
- "count": 310,
+ "updated": "2026-11-12T20:20:01Z",
+ "count": 312,
  "tags": {
-  "入管・摘発": 213,
+  "入管・摘発": 215,
   "市民権": 39,
   "無国籍": 32,
   "子ども": 22,
@@ -15,12 +15,12 @@
   "教育": 3
  },
  "sources": {
+  "TV Sabah News": 48,
   "Sabah Media": 48,
-  "TV Sabah News": 47,
   "Daily Express Malaysia": 27,
+  "The Star": 16,
   "sabahnews.com.my": 16,
   "NST Online": 16,
-  "The Star": 15,
   "Borneo Post": 12,
   "Berita Harian": 9,
   "Astro Awani": 8,
@@ -72,6 +72,67 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "71 PATI ditahan di Ranau dan Sandakan",
+   "summary": "Oleh: Nurul Fazliana Norman",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XV2VKLThWbjZPaW9WNUxEMHpybDRYdDBJNWkzLWF5LTVacWxVMWpUOUNhWWJod0t5ZmdtMUZUelI4MWFPcU0yRVoyak9JX3ZUYjRQOHBKN2hWT1UzbHRfZ1F3aHlKeU9MZDJCZkZVbw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-12T14:22:22Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "5abc2e473469",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-12T20:17:35Z",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還"
+   ],
+   "figures": [
+    {
+     "n": 71,
+     "kind": "拘束",
+     "raw": "71 PATI"
+    },
+    {
+     "n": 107,
+     "kind": "拘束",
+     "raw": "107 individu"
+    },
+    {
+     "n": 21,
+     "kind": "拘束",
+     "raw": "21 PATI"
+    },
+    {
+     "n": 24,
+     "kind": "拘束",
+     "raw": "24 individu"
+    },
+    {
+     "n": 83,
+     "kind": "拘束",
+     "raw": "83 individu"
+    },
+    {
+     "n": 50,
+     "kind": "拘束",
+     "raw": "50 PATI"
+    }
+   ],
+   "url_real": "https://tvsabahnews.com/71-pati-ditahan-di-ranau-dan-sandakan/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/IMG_4189.jpeg",
+   "image_alt": "71 PATI ditahan di Ranau dan Sandakan",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: Seramai 71 pendatang asing tanpa izin (PATI) ditahan Jabatan Imigresen Malaysia (JIM) Negeri Sabah dalam dua operasi penguatkuasaan berasingan di Ranau dan Sandakan, semalam.\n\nOperasi itu menyaksikan seramai 107 individu diperiksa, dengan 21 PATI ditahan di Ranau hasil aduan awam, manakala 50 lagi ditahan menerusi Ops Sapu di Sandakan.\n\nDi Ranau, seramai 14 pegawai Imigresen bersama anggota RELA Ranau menyerbu tiga lokasi susulan aduan orang awam berhubung kehadiran warga asing yang mencurigakan.\n\nHasil pemeriksaan terhadap 24 individu, seramai 21 warga Filipina ditahan.\n\nDi Sandakan, Ops Sapu dilaksanakan pada jam 1.35 pagi dengan kekuatan 15 pegawai penguat kuasa yang menyasarkan lima lokasi penempatan setinggan.\n\nLokasi terbabit ialah Kampung Ulu Dusun Batu 30, Jalan Labuk; Kampung Bimbim Batu 16; Kampung Gum-Gum Kuari 7 dan Kuari 2 serta Flat Taman Sejati Batu 7, Jalan Airport.\n\nDalam operasi itu, seramai 83 individu diperiksa dan 50 PATI, termasuk 25 kanak-kanak, ditahan.\n\nSecara keseluruhan, 71 individu yang ditahan terdiri dari 68 warga Filipina dan tiga warga Indonesia.\n\nKesemua mereka ditahan mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 untuk siasatan dan tindakan lanjut.",
+   "body_ja": ""
+  },
   {
    "title": "JIM Sabah Raids Five Illegal Settlement Strongholds, 71 Undocumented Migrants Detained",
    "summary": "RANAU: Swift action by the Sabah Malaysian Immigration Department (JIM Sabah) bore fruit after 71 undocumented migrants were detained in two simultaneous",
@@ -801,7 +862,7 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
@@ -869,6 +930,52 @@
      "raw": "255 individu"
     }
    ]
+  },
+  {
+   "title": "Immigration Dept nabs 93 illegal immigrants in four-day Sabah operation",
+   "summary": "KOTA KINABALU: Immigration personnel arrested Filipinos, Indonesians and Pakistanis who were found to be in Sabah illegally following a four-day operation across several districts from Oct 20 to 23.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUJfMHJ4WTBPQURqSTRzcVN2MTR6b21YRGNiQXc4Z1JVelpRU3d0NTQwYzQ4M0RBVVZLSTdUN0JwTjlZdEc0REdlWWF6ZV9JRTVocWJ6YXdQVWpORDhpcktkR1ZVNnc3LTZ6R2ZrMEJjLW5LUlhOdHcycHBmN2N3XzlILUVqSXY5aDhRRUpncXVWSjlmaXBna3pFZ0g4OUw4RUk4SnpWSkJOSm1FLVp0Y1FncmhNcFlfNVpaMUFB?oc=5",
+   "source": "The Star",
+   "date": "2026-10-25T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "33ca2ed24f12",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-12T20:17:35Z",
+   "impact": 1,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 93,
+     "kind": "拘束",
+     "raw": "93 illegal immigrant"
+    },
+    {
+     "n": 255,
+     "kind": "拘束",
+     "raw": "255 people"
+    },
+    {
+     "n": 25,
+     "kind": "拘束",
+     "raw": "25 children"
+    }
+   ],
+   "url_real": "https://www.thestar.com.my/news/nation/2026/10/25/immigration-dept-nabs-93-illegal-immigrants-in-four-day-sabah-operation",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/25/4179701.jpg",
+   "site_name": "The Star",
+   "body": "KOTA KINABALU: Immigration personnel arrested Filipinos, Indonesians and Pakistanis who were found to be in Sabah illegally following a four-day operation across several districts from Oct 20 to 23.\n\nThroughout the raids in Kota Kinabalu, Kudat, Keningau, Ranau, Lahad Datu and Semporna, officers inspected 255 people and nabbed 93 of them.\n\nThose detained comprised 39 adult Filipinos and 25 children, 11 adult Indonesians and seven children as well as 11 adult Pakistani nationals.\n\nThe Immigration Department said the operation was part of its ongoing crackdown against illegal immigrants in the state, adding that enforcement would be enhanced in strategic and hotspot areas.\n\nIt said the department would consistently conduct enforcement programmes to ensure that citizens and non-citizens abide by national immigration laws.\n\nIt warned that Malaysians found harbouring, hiring, protecting or assisting illegal immigrants would face legal action.\n\nThe department urged the public to report any suspected harbouring or hiring of illegal immigrants via the public complaints management system (SISPAA) at https://spab.gov.my or the online inquiry system (SPO) at https://eapp.imi.gov.my.\n\nIn a separate event, an outreach community awareness campaign against human trafficking and forced labour was held at Kampung Litang, Kinabatangan on Saturday (Oct 24).\n\nThe programme, officiated by Labour Department deputy director Baharuddin Mamat, featured workshops and talks conducted by representatives from agencies including the police and Immigration Department.\n\nCommunity members were educated on foreign worker regulations, forced labour prevention and laws pertaining to the employment of foreign labour.\n\nThe event also included the signing of a pledge to combat human trafficking, human exploitation and forced labour by Hap Seng Plantations as a sign of commitment to the initiative.\n\nThe public can follow the Sabah Immigration Department on TikTok (@imigresensabah), Instagram (@imigresensabah) or Facebook (@imigresensabah).",
+   "body_ja": "",
+   "enriched": "ok",
+   "enriched_v": 3
   },
   {
    "title": "Sabah deports 285 illegal Filipinos from Lahad Datu",
@@ -4333,7 +4440,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=0973mujmnvUQ7kNvwHn4CPB&_nc_oc=AdoAoZ8ov2d70bL6ujgIdl30so8bNpnzTINBTMcdz5SHnTHj6LzqAkzwTfENgOo9sZs&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=83WKtv_Oy6ncqcL6lGwoKA&_nc_ss=79289&oh=00_AQRIXtuIYFa-ZGrfY2C4YPO7hH0CF8BTP46F8Dibqb4hJg&oe=6AFB45AD",
+   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=0973mujmnvUQ7kNvwGIt2sj&_nc_oc=AdrrVlAeoemz0IohU6dBOrFBAhzAeRPf7UDER4FnePIKW3ZMPTwpribnmA2LSgavTJ4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gi_xwk0e1hu7O5SKE2eehw&_nc_ss=79289&oh=00_AQRvIqg3dv7bSMCCqI23eNn2aQX8a_7DAYbzKyx6vSBGWw&oe=6AFBEE6D",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5846,10 +5953,10 @@
    ],
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
-   "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
+   "url_real": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FMalaysiaGazette%2Fposts%2Fpertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se%2F1512165217621511%2F",
    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=wrlHN0WsnRsQ7kNvwFdxIaL&_nc_oc=Adr70jc9yQgTLkUIj5h7GHYf3DepDk_pbyYUpoaAaXAfFvkNQxt_CA7eM2eaxv8gw9U&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=71wEimMDh7yEESDSNy7oRg&_nc_ss=79289&oh=00_AQTr-AxfV9Aw_NzQw87fjYVY6Oux92eaPIDbB1aOnAGBLw&oe=6AFB4EAF",
    "image_alt": "Malaysia Gazette",
-   "enriched": "nobody",
+   "enriched": "thin",
    "enriched_v": 3,
    "summary_ja2": "マレーシア国際人道機関（MHO）は、政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、危険を回避するよう要請している。",
    "summary_ja": "マレーシア国際人道機関（MHO）は、政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、危険を回避するよう要請している。",
@@ -6617,7 +6724,7 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
     "無国籍",
@@ -7063,11 +7170,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "de8489aec11e",
    "tags": [
-    "入管・摘発",
-    "市民権"
+    "市民権",
+    "入管・摘発"
    ],
    "title_ja": "ミカスのルールを緩めますか？」 — サバ州では移民の失敗やアイデンティティに関する論争が何度もあった",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -11481,5 +11588,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-12T07:36:50Z"
+ "enriched_at": "2026-11-12T20:23:10Z"
 }
