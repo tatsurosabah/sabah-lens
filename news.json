@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-14T07:08:23Z",
- "count": 315,
+ "updated": "2026-11-14T18:39:28Z",
+ "count": 313,
  "tags": {
-  "入管・摘発": 217,
-  "市民権": 39,
+  "入管・摘発": 216,
+  "市民権": 38,
   "無国籍": 32,
   "子ども": 22,
   "難民": 15,
@@ -15,9 +15,9 @@
   "教育": 3
  },
  "sources": {
-  "TV Sabah News": 51,
+  "TV Sabah News": 50,
   "Sabah Media": 48,
-  "Daily Express Malaysia": 27,
+  "Daily Express Malaysia": 26,
   "The Star": 16,
   "sabahnews.com.my": 16,
   "NST Online": 16,
@@ -234,7 +234,9 @@
      "kind": "拘束",
      "raw": "50 undocumented"
     }
-   ]
+   ],
+   "body_ja": "コタキナバル：昨日、ラナウとサンダカンでの2回の別々の強制捜査により、合計71人の不法移民がサバ州マレーシア入国管理局（JIM）によって拘留された。\n\nこの作戦では107人が検査され、うち不法移民21人が公的告訴を受けてラナウで拘束され、さらに50人がサンダカンのオプサプを通じて拘束された。\n\nラナウでは、不審な外国人の存在に関する国民の苦情を受けて、14人の入国管理官とRELAラナウのメンバーが3か所を捜索した。\n\n24人を検査した結果、21人のフィリピン人が拘束された。\n\nサンダカンでは午前1時35分、不法占拠者の居住地5か所を対象に15人の執行官によるオプサプが実施された。\n\n場所は、Jalan LabukのKampung Ulu Dusun Batu 30でした。カンプン ビンビン バトゥ 16; Kampung Gum-Gum Kuari 7 と Kuari 2、およびフラット タマン セジャティ バトゥ 7、ジャラン空港。\n\nこの作戦では83人が検査され、子供25人を含む不法移民50人が拘束された。\n\n全体として、拘束された 71 人のうち、68 人がフィリピン人、3 人がインドネシア人であった。\n\n全員が1959/63年移民法第6条(1)(c)に基づき、捜査と更なる措置のために拘留された。",
+   "summary_ja2": "コタキナバル：昨日、ラナウとサンダカンでの2回の別々の強制捜査により、合計71人の不法移民がサバ州マレーシア入国管理局（JIM）によって拘留された。この作戦では107人が検査され、うち不法移民21人が公的告訴を受けてラナウで拘束され、さらに50人がサンダカンのオプサプを通じて拘束された。この作戦では83人が検査され、子供25人を含む不法移民50人が拘束された。"
   },
   {
    "title": "71 PATI ditahan di Ranau dan Sandakan",
@@ -249,7 +251,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "ラナウとサンダカンで71人のPATIが逮捕された",
    "first_seen": "2026-11-12T20:17:35Z",
    "url_real": "https://tvsabahnews.com/71-pati-ditahan-di-ranau-dan-sandakan/",
    "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/IMG_4189.jpeg",
@@ -258,7 +260,7 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "KOTA KINABALU: Seramai 71 pendatang asing tanpa izin (PATI) ditahan Jabatan Imigresen Malaysia (JIM) Negeri Sabah dalam dua operasi penguatkuasaan berasingan di Ranau dan Sandakan, semalam.\n\nOperasi itu menyaksikan seramai 107 individu diperiksa, dengan 21 PATI ditahan di Ranau hasil aduan awam, manakala 50 lagi ditahan menerusi Ops Sapu di Sandakan.\n\nDi Ranau, seramai 14 pegawai Imigresen bersama anggota RELA Ranau menyerbu tiga lokasi susulan aduan orang awam berhubung kehadiran warga asing yang mencurigakan.\n\nHasil pemeriksaan terhadap 24 individu, seramai 21 warga Filipina ditahan.\n\nDi Sandakan, Ops Sapu dilaksanakan pada jam 1.35 pagi dengan kekuatan 15 pegawai penguat kuasa yang menyasarkan lima lokasi penempatan setinggan.\n\nLokasi terbabit ialah Kampung Ulu Dusun Batu 30, Jalan Labuk; Kampung Bimbim Batu 16; Kampung Gum-Gum Kuari 7 dan Kuari 2 serta Flat Taman Sejati Batu 7, Jalan Airport.\n\nDalam operasi itu, seramai 83 individu diperiksa dan 50 PATI, termasuk 25 kanak-kanak, ditahan.\n\nSecara keseluruhan, 71 individu yang ditahan terdiri dari 68 warga Filipina dan tiga warga Indonesia.\n\nKesemua mereka ditahan mengikut Seksyen 6(1)(c) Akta Imigresen 1959/63 untuk siasatan dan tindakan lanjut.",
-   "summary_ja": "",
+   "summary_ja": "著者: ヌルル・ファズリアナ・ノーマン",
    "impact": 0,
    "issues": [
     "摘発・収容・送還"
@@ -294,7 +296,9 @@
      "kind": "拘束",
      "raw": "50 PATI"
     }
-   ]
+   ],
+   "body_ja": "コタキナバル：昨日、サバ州移民局（JIM）はラナウとサンダカンでの2回の別々の取締りで、合計71人の不法移民（PATI）を逮捕した。\n\nこの作戦では合計107人が検査され、そのうち不法移民21人が公的告訴の結果ラナウで逮捕され、さらに50人がサンダカンのオプサプを通じて逮捕された。\n\nラナウでは、不審な外国人の存在に関する国民の苦情を受けて、合計14人の入国管理官とRELAラナウのメンバーが3か所を捜索した。\n\n24人を取り調べた結果、合計21人のフィリピン人が逮捕された。\n\nサンダカンでは午前1時35分、スラム街5か所を対象に15人の法執行官によるオプスサプが実施された。\n\n関係する場所は、Jalan LabukのKampung Ulu Dusun Batu 30です。ビビンバトゥ村 16; Kampung Gum-Gum Quarries 7、Quarries 2、およびフラット タマン セジャティ バトゥ 7、ジャラン空港。\n\nこの作戦では、合計83人が検査され、子供25人を含む不法滞在者50人が逮捕された。\n\nフィリピン人68人とインドネシア人3人の計71人が逮捕された。\n\n彼ら全員は、捜査と更なる措置のため、1959/63 年移民法第 6 条(1)(c) に従って拘留された。",
+   "summary_ja2": "コタキナバル：昨日、サバ州移民局（JIM）はラナウとサンダカンでの2回の別々の取締りで、合計71人の不法移民（PATI）を逮捕した。この作戦では合計107人が検査され、そのうち不法移民21人が公的告訴の結果ラナウで逮捕され、さらに50人がサンダカンのオプサプを通じて逮捕された。24人を取り調べた結果、合計21人のフィリピン人が逮捕された。"
   },
   {
    "title": "JIM Sabah Raids Five Illegal Settlement Strongholds, 71 Undocumented Migrants Detained",
@@ -630,7 +634,7 @@
    "title_ja": "これまでに8,472人の外国人がサバ州から強制送還されたと入国管理局が発表",
    "first_seen": "2026-11-08T18:01:13Z",
    "url_real": "https://www.theborneopost.com/2026/11/08/8472-foreigners-deported-from-sabah-to-date-says-immigration-dept/",
-   "enriched": "blocked",
+   "enriched": "ok",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -643,7 +647,10 @@
      "kind": "送還",
      "raw": "8,472 foreigner"
     }
-   ]
+   ],
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
   },
   {
    "title": "PAPPINDO appeals to Malaysia and Indonesia to help 300,000 undocumented Indonesian migrant workers in Sabah",
@@ -778,34 +785,6 @@
      "raw": "8,405 undocumented"
     }
    ]
-  },
-  {
-   "title": "Use of IMM13 much better than PSS: Jeffrey",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeHhfNHY3RWhmRUNjYldLZ2FCTGtuRUQ0UlZ3T0RQMWxEdGJyUWptSzJLbFBCVTN3Mkc3aXg5RG16UXdwTG8tLUVWNEUwcnBJVmJZWkxRb19RN28?oc=5",
-   "source": "Daily Express Malaysia",
-   "date": "2026-11-05T00:59:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
-   "id": "99af4b88fcd1",
-   "tags": [
-    "市民権"
-   ],
-   "title_ja": "IMM13 の使用法は PSS よりもはるかに優れています: Jeffrey",
-   "first_seen": "2026-11-05T07:12:16Z",
-   "url_real": "https://www.dailyexpress.com.my/news/154372/use-",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
-   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja": "",
-   "impact": 3,
-   "issues": [
-    "身分証・在留資格"
-   ],
-   "figures": []
   },
   {
    "title": "1,069 PATI warga Filipina dihantar pulang ke negara asal",
@@ -1155,7 +1134,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "入国管理局、サバ州での4日間の作戦で不法移民93人を逮捕",
    "first_seen": "2026-11-12T20:17:35Z",
    "url_real": "https://www.thestar.com.my/news/nation/2026/10/25/immigration-dept-nabs-93-illegal-immigrants-in-four-day-sabah-operation",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/10/25/4179701.jpg",
@@ -1163,8 +1142,8 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "KOTA KINABALU: Immigration personnel arrested Filipinos, Indonesians and Pakistanis who were found to be in Sabah illegally following a four-day operation across several districts from Oct 20 to 23.\n\nThroughout the raids in Kota Kinabalu, Kudat, Keningau, Ranau, Lahad Datu and Semporna, officers inspected 255 people and nabbed 93 of them.\n\nThose detained comprised 39 adult Filipinos and 25 children, 11 adult Indonesians and seven children as well as 11 adult Pakistani nationals.\n\nThe Immigration Department said the operation was part of its ongoing crackdown against illegal immigrants in the state, adding that enforcement would be enhanced in strategic and hotspot areas.\n\nIt said the department would consistently conduct enforcement programmes to ensure that citizens and non-citizens abide by national immigration laws.\n\nIt warned that Malaysians found harbouring, hiring, protecting or assisting illegal immigrants would face legal action.\n\nThe department urged the public to report any suspected harbouring or hiring of illegal immigrants via the public complaints management system (SISPAA) at https://spab.gov.my or the online inquiry system (SPO) at https://eapp.imi.gov.my.\n\nIn a separate event, an outreach community awareness campaign against human trafficking and forced labour was held at Kampung Litang, Kinabatangan on Saturday (Oct 24).\n\nThe programme, officiated by Labour Department deputy director Baharuddin Mamat, featured workshops and talks conducted by representatives from agencies including the police and Immigration Department.\n\nCommunity members were educated on foreign worker regulations, forced labour prevention and laws pertaining to the employment of foreign labour.\n\nThe event also included the signing of a pledge to combat human trafficking, human exploitation and forced labour by Hap Seng Plantations as a sign of commitment to the initiative.\n\nThe public can follow the Sabah Immigration Department on TikTok (@imigresensabah), Instagram (@imigresensabah) or Facebook (@imigresensabah).",
-   "summary_ja": "",
-   "impact": 1,
+   "summary_ja": "コタキナバル：入国管理官は、10月20日から23日まで複数の地区で4日間にわたる作戦を行った後、サバ州に不法滞在していることが判明したフィリピン人、インドネシア人、パキスタン人を逮捕した。",
+   "impact": 0,
    "issues": [
     "摘発・収容・送還",
     "労働・雇用"
@@ -1185,7 +1164,9 @@
      "kind": "拘束",
      "raw": "25 children"
     }
-   ]
+   ],
+   "body_ja": "コタキナバル：入国管理官は、10月20日から23日まで複数の地区で4日間にわたる作戦を行った後、サバ州に不法滞在していることが判明したフィリピン人、インドネシア人、パキスタン人を逮捕した。\n\nコタキナバル、クダット、ケニンガウ、ラナウ、ラハダトゥ、センポルナでの襲撃を通じて、警察官は255人を検査し、そのうち93人を逮捕した。\n\n拘束された者の内訳は、フィリピン人の成人39人と子供25人、インドネシア人の成人11人と子供7人、パキスタン人の成人11人だった。\n\n入国管理局は、この作戦は州内で進行中の不法移民に対する取り締まりの一環であると述べ、戦略的地域やホットスポット地域での取り締まりが強化されると付け加えた。\n\n同省は、国民と非国民が国内の移民法を遵守することを保証する執行プログラムを一貫して実施すると述べた。\n\n同団体は、マレーシア人が不法移民の収容、雇用、保護、援助を行った場合には法的措置を受ける可能性があると警告した。\n\n同省は、不法移民の隠蔽や雇用の疑いがある場合は、公的苦情管理システム (SISPAA) (https://spab.gov.my) またはオンライン調査システム (SPO) (https://eapp.imi.gov.my) を通じて報告するよう国民に呼びかけました。\n\n別のイベントとして、土曜日（10月24日）、キナバタンガン州カンポン・リタンで、人身売買と強制労働に対するアウトリーチ地域社会啓発キャンペーンが開催された。\n\n労働省のバハルディン・ママト次長が司会を務めるこのプログラムでは、警察や入国管理局などの機関の代表者によるワークショップや講演が行われた。\n\nコミュニティのメンバーは、外国人労働者の規制、強制労働防止、外国人労働者の雇用に関する法律について教育を受けました。\n\nこのイベントには、この取り組みへの取り組みの証として、ハプセン・プランテーションによる人身売買、人身搾取、強制労働と闘う誓約書への署名も含まれていた。\n\n一般の人は、TikTok (@imigresensabah)、Instagram (@imigresensabah)、または Facebook (@imigresensabah) でサバ州入国管理局をフォローできます。",
+   "summary_ja2": "コタキナバル：入国管理官は、10月20日から23日まで複数の地区で4日間にわたる作戦を行った後、サバ州に不法滞在していることが判明したフィリピン人、インドネシア人、パキスタン人を逮捕した。拘束された者の内訳は、フィリピン人の成人39人と子供25人、インドネシア人の成人11人と子供7人、パキスタン人の成人11人だった。"
   },
   {
    "title": "Sabah deports 285 illegal Filipinos from Lahad Datu",
@@ -1417,17 +1398,19 @@
    "title_ja": "UNHCRとサウド・アル・ナセル・アル・サバ外交研究所が人道外交における協力強化に向けた覚書に署名",
    "first_seen": "2026-10-30T13:22:56Z",
    "url_real": "https://www.unhcr.org/kw/en/news/press-releases/unhcr-and-saud-al-nasser-al-sabah-diplomatic-institute-sign-memorandum",
-   "image": "https://static.unhcr.org/assets/img/unhcr-logo-share-og.jpg",
+   "image": "https://www.unhcr.org/kw/sites/kw/files/styles/social_large/public/2026-10/dsc06874.jpg?h=1ff61360&itok=JkaD78u5",
    "site_name": "UNHCR",
-   "enriched": "blocked",
+   "enriched": "ok",
    "enriched_v": 3,
-   "summary_ja2": "UNHCR、国連難民機関は、命を救うことに専念する世界的な組織です         そして難民、強制的に避難させられたコミュニティ、無国籍者の権利を保護します。",
+   "summary_ja2": "UNHCR、国連難民機関、サウド・アル・ナセル・アル・サバ外交研究所は、それぞれの任務に従って、人道外交、能力構築、経験交換の分野での協力強化を目的とした覚書（MoU）に署名した。ハリファ博士は、この協定の重要性を称賛し、「UNHCRは、知識の共有、能力構築を促進し、人道的活動や活動に対する意識を高めるパートナーシップを特に重視している。",
    "summary_ja": "UNHCR、国連難民機関は、命を救うことに専念する世界的な組織です\n        そして難民、強制的に避難させられたコミュニティ、無国籍者の権利を保護します。",
    "impact": 3,
    "issues": [
     "難民・UNHCR"
    ],
-   "figures": []
+   "figures": [],
+   "body": "UNHCR, the UN Refugee Agency, and the Saud Al-Nasser Al-Sabah Diplomatic Institute signed a Memorandum of Understanding (MoU) aimed at enhancing cooperation in the fields of humanitarian diplomacy, capacity building, and exchange of experiences, in accordance with their respective mandates.\n\nThe agreement was signed at the Institute’s headquarters by Dr. Khaled Khalifa, Senior Advisor and UNHCR Representative in the Gulf Cooperation Council countries, and H.E. Minister Plenipotentiary Dr. Mubarak Saad Al-Hajri, Deputy Assistant Foreign Minister for the Saud Al-Nasser Al-Sabah Diplomatic Institute. The MoU builds on the longstanding partnership between both entities and reaffirms the established ties between UNHCR and the various departments of the esteemed Kuwaiti Ministry of Foreign Affairs.\n\nThe MoU will remain in effect for three years, during which the parties will agree on an annual work plan that responds to evolving needs and the latest developments in humanitarian and diplomatic affairs. The agreement reflects the shared commitment of both parties to fostering national talent—including diplomats enrolled at the Institute and professionals serving across national institutions—to ensure they are equipped with knowledge and awareness about international developments while enhancing their understanding of Kuwait’s humanitarian efforts and their impact in humanitarian contexts.\n\nDr. Khalifa praised the importance of this agreement, stating: “UNHCR places particular importance on partnerships that facilitate the knowledge sharing, capacity building, and raise awareness of its humanitarian work and activities. We are pleased to formalize our longstanding partnership with a well-established institution renowned for its diplomatic legacy, its role in developing Kuwaiti diplomatic talent, and training personnel from various state institutions.” He added: “We look forward to strengthening cooperation and raising awareness of the importance of humanitarian diplomacy, as well as the pivotal role of the State of Kuwait, through its various official institutions, in supporting people forced to flee around the world.”\n\nFor his part, H.E. Dr. Al-Hajri, said: “The partnership we are witnessing today through the signing of this Memorandum of Understanding reflects the depth of the relationship between the Institute and UNHCR. We have previously witnessed successful cooperation that resulted in the delivery of practical and theoretical training courses to raise awareness among diplomats enrolled at the Institute about UNHCR’s activities. The Institute has also previously hosted a distinguished group of UNHCR field experts who highlighted the importance of humanitarian work and Kuwait’s pioneering humanitarian diplomacy, given the country’s position as a global center for humanitarian action. Through this MoU, both entities aspire to strengthen their partnership and broaden the scope of cooperation.”",
+   "body_ja": "UNHCR、国連難民機関、サウド・アル・ナセル・アル・サバ外交研究所は、それぞれの任務に従って、人道外交、能力構築、経験交換の分野での協力強化を目的とした覚書（MoU）に署名した。\n\nこの協定は、湾岸協力会議諸国の上級顧問兼UNHCR代表であるハリド・ハリファ博士と、ハレド・ハリファ閣下によって研究所の本部で署名されました。全権大臣、サウド・アル・ナセル・アル・サバ外交研究所外務次官補、ムバラク・サード・アル・ハジリ博士。この覚書は、両機関間の長年にわたるパートナーシップを基礎とし、UNHCRと尊敬されるクウェート外務省のさまざまな部門との間に確立された関係を再確認するものです。\n\nこの覚書は3年間有効であり、その間、両当事者は進化するニーズや人道・外交問題の最新の展開に対応する年次作業計画に合意することになる。この協定は、クウェートの人道的取り組みと人道的文脈におけるその影響についての理解を深めながら、国際情勢に関する知識と認識を確実に身につけさせるために、研究所に在籍する外交官や国家機関全体に勤務する専門家を含む国内の人材を育成するという双方の共通のコミットメントを反映している。\n\nハリファ博士は、この協定の重要性を称賛し、「UNHCRは、知識の共有、能力構築を促進し、人道的活動や活動に対する意識を高めるパートナーシップを特に重視している。我々は、外交的遺産、クウェートの外交人材の育成における役割、さまざまな国家機関の職員の訓練で有名な確立された機関との長年にわたるパートナーシップを正式に締結できることをうれしく思う。」と述べた。同氏はさらに、「私たちは協力を強化し、人道外交の重要性と、世界中で避難を強いられている人々を支援するクウェート国の極めて重要な役割の認識を高めることを楽しみにしています。」と付け加えた。\n\n彼としては、H.E.アル・ハジリ博士は、「この覚書の署名を通じて私たちが今日目撃しているパートナーシップは、研究所とUNHCRの関係の深さを反映している。私たちはこれまでにも、研究所に在籍する外交官のUNHCRの活動に対する意識を高めるための実践的および理論的研修コースの実施につながる協力の成功を目の当たりにしてきた。また、研究所は以前にもUNHCRの現場専門家の著名なグループを受け入れ、人道活動とクウェートの開拓の重要性を強調してきた」と語った。この覚書を通じて、両国はパートナーシップを強化し、協力の範囲を拡大することを目指している。」"
   },
   {
    "title": "UNHCR, Saud Al-Nasser Al-Sabah Diplomatic Institute sign MoU",
@@ -1475,7 +1458,7 @@
    "title_ja": "サバ州移民局、不法移民169人を逮捕",
    "first_seen": "2026-10-22T05:14:07Z",
    "url_real": "https://borneobulletin.com.bn/sabah-immigration-arrests-169-undocumented-migrants/",
-   "enriched": "blocked",
+   "enriched": "ok",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -1486,7 +1469,10 @@
      "kind": "拘束",
      "raw": "169 undocumented"
     }
-   ]
+   ],
+   "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\n\nCloudflare Ray ID: a5a82434dd97ff17 • Your IP: Click to reveal • Performance & security by Cloudflare",
+   "body_ja": "この Web サイトは、オンライン攻撃から身を守るためにセキュリティ サービスを使用しています。実行したアクションにより、セキュリティ ソリューションがトリガーされました。特定の単語や語句、SQL コマンド、不正なデータの送信など、このブロックをトリガーする可能性のあるアクションがいくつかあります。\n\nサイト所有者に電子メールを送信して、ブロックされたことを知らせることができます。このページが表示されたときに何をしていたか、およびこのページの下部にある Cloudflare Ray ID を含めてください。\n\nCloudflare Ray ID: a5a82434dd97ff17 • あなたのIP: クリックして表示 • Cloudflareによるパフォーマンスとセキュリティ",
+   "summary_ja2": "この Web サイトは、オンライン攻撃から身を守るためにセキュリティ サービスを使用しています。実行したアクションにより、セキュリティ ソリューションがトリガーされました。特定の単語や語句、SQL コマンド、不正なデータの送信など、このブロックをトリガーする可能性のあるアクションがいくつかあります。"
   },
   {
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
@@ -4650,7 +4636,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=0973mujmnvUQ7kNvwHlKhnZ&_nc_oc=AdrrURWa7E8NLaYUran8NiIGK5NnbIN5IMSHSXR2RnZZhTRy5ORcXYzTUJfTy9_n7aI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=vv6fGOecSlwOJhfukHU_fg&_nc_ss=79289&oh=00_AQRnN7_6IT0QUUPWn0vCkxcwly-aQGJNyxsm_xzwYUF8Wg&oe=6AFDE8AD",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=0973mujmnvUQ7kNvwGaGCq8&_nc_oc=AdrtapySIgNLLWSti_XNddzqtlxafLFRKUDfdY9ZkDKJEi43f_fc0jcfpmeSebpHVL0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=V4FZLEdYgpUPgl2JTlfzJg&_nc_ss=79289&oh=00_AQT-ldFs_5c3QCjta0SUNbkXgm0ZmLSFmkvP_mastD40xA&oe=6AFE916D",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6116,7 +6102,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=2HSu8Bh4MegQ7kNvwGSPnEe&_nc_oc=AdpYtIorjBve7tbLnPjjGluuCT3BlA8wd36FvUDbBcLZNctc8nHMJYTGuVGKeydfrzM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=bA-mynK-ubTO3MPGb9oMcQ&_nc_ss=79289&oh=00_AQTKb_FfGQcRc-Nf4CwnulXGBh1kncKYUuaM0sX9TiAYGg&oe=6AFDF1AF",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=2HSu8Bh4MegQ7kNvwH-Oyc-&_nc_oc=AdqGDOfotdhbODK7kvFpMxeUvsmrLs7DkUqlCNd1hUEU9wTjXmcRF_gJpQ25siNNe4I&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=F95Vy8bXl1uptfdMm0uDRA&_nc_ss=79289&oh=00_AQQzbPQX2CW5C8g99TocYI7DK_Vk_Djs1PoQEtiLHKP5ag&oe=6AFE622F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6473,7 +6459,7 @@
    "title_ja": "IMM13: サバ州と未だ解決されていない50年前のスキャンダル",
    "first_seen": "2026-09-18T05:02:32Z",
    "url_real": "https://www.youtube.com/watch?v=pbftxPKPDSk",
-   "enriched": "thin",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
    "summary_ja": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
@@ -11667,45 +11653,7 @@
      "raw": "54 individu"
     }
    ]
-  },
-  {
-   "title": "Program Pemindahan PATI Melalui Lapangan Terbang Antarabangsa Kota Kinabalu",
-   "summary": "KOTA KINABALU: 10 Oktober 2025– Jabatan Imigresen Malaysia (JIM) Negeri Sabah melaksanakan sebanyak 93 siri Program Pemindahan Tahanan Pendatang Asing ke",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDAycTVwZlB3bkxBVE16MTBET2NxU0NPUkl0bjFxcGZsUjkxQU9CZm5nT2h3bGx5X0FyamdjTVZTZzk5NWoxajljZXpfeGwwZm9ReDQ4MS13VTI1UGY4cWo1Ym51dFBtQ0RsVFFQNkhvYjRtb2dVYUFsd0VxSWo2Y0dOVmEyeGJyNFU3QldxNkRkLUE0Wmxxc0dsQjZMVlhlb0E?oc=5",
-   "source": "TV Sabah News",
-   "date": "2025-10-10T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "b54adab181e0",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "コタキナバル国際空港経由の PATI 転送プログラム",
-   "first_seen": "2026-08-31T05:56:52Z",
-   "url_real": "https://tvsabahnews.com/program-pemindahan-pati-melalui-lapangan-terbang-antarabangsa-kota-kinabalu/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2025/10/photo_2025-10-10_14-36-30.jpg",
-   "image_alt": "Program Pemindahan PATI Melalui Lapangan Terbang Antarabangsa Kota Kinabalu",
-   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf14tRNe-M_wOO-l-KIFkTE0WWVEE5ugIO6P-DDYBRUOI0yt6NHz7Y5PSzzsmOFX1XP4&fopt=w466-h264-rw-dcmQKOrY0J",
-   "site_name": "TV Sabah | News Portals",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KOTA KINABALU: 10 Oktober 2025– Jabatan Imigresen Malaysia (JIM) Negeri Sabah melaksanakan sebanyak 93 siri Program Pemindahan Tahanan Pendatang Asing ke Negara Asal melalui Lapangan Terbang Antarabangsa Kota Kinabalu (KKIA).\n\nSeramai 393 pendatang asing tanpa izin (PATI) yang telah menjalani hukuman penjara dipindahkan pulang ke negara asal masing-masing selepas melengkapkan dokumen perjalanan dan urusan mahkamah.\n\nMenurut JIM Sabah, kesemua PATI yang terlibat disabitkan kesalahan di bawah Akta Imigresen 1959/63 dan Peraturan-Peraturan Imigresen 1963, telah disenaraikan dalam sistem Jabatan Imigresen Malaysia mengikut jenis kesalahan yang dilakukan.\n\nDaripada jumlah itu, warganegara Pakistan mencatatkan angka tertinggi dengan 211 orang, diikuti China (68 orang), Filipina (44 orang), Vietnam (25 orang), Indonesia (15 orang), India (10 orang) dan lain-lain negara (10 orang).\n\nJIM Sabah turut mengingatkan semua pengembara yang memasuki negeri ini supaya melapor diri di kaunter ketibaan atau pelepasan untuk mendapatkan pengesahan imigresen.\n\nTindakan tegas akan diambil terhadap mana-mana individu yang gagal berbuat demikian, termasuk denda sehingga RM10,000 atau penjara tidak melebihi lima tahun, atau kedua-duanya sekali.\n\nJabatan itu juga menyeru kerjasama semua pihak termasuk syarikat penerbangan, agensi pelancongan dan kedutaan asing agar lebih proaktif mengingatkan pelancong supaya mematuhi peraturan imigresen yang sedang berkuat kuasa.",
-   "body_ja": "コタキナバル：2025年10月10日 – サバ州マレーシア入国管理局（JIM）は、コタキナバル国際空港（KKIA）を通じて出身国への外国移民の被拘禁者移送プログラムを計93回実施した。\n\n懲役刑を服役した合計393人の不法移民（PATI）が、渡航書類と裁判手続きを完了した後、それぞれの出身国に送還された。\n\nジム・サバ氏によると、関与したすべての不法滞在者は1959/63年の移民法と1963年の移民規則に基づく犯罪で有罪判決を受け、犯した犯罪の種類に応じてマレーシア入国管理局のシステムにリストされている。\n\nこのうちパキスタン国民が２１１人と最も多く、次いで中国（６８人）、フィリピン（４４人）、ベトナム（２５人）、インドネシア（１５人）、インド（１０人）、その他の国（１０人）となった。\n\nジム・サバ州はまた、同州に入国するすべての旅行者に対し、入国確認を取得するために到着カウンターまたは出発カウンターに報告するよう呼び掛けている。\n\nこれを怠った個人に対しては、RM10,000以下の罰金もしくは5年以下の懲役、あるいはその両方を含む厳しい措置が取られます。\n\n同省はまた、航空会社、旅行代理店、外国大使館を含むすべての関係者に対し、観光客に対し現在施行されている入国規制の順守をより積極的に喚起するよう協力を呼び掛けた。",
-   "summary_ja2": "コタキナバル：2025年10月10日 – サバ州マレーシア入国管理局（JIM）は、コタキナバル国際空港（KKIA）を通じて出身国への外国移民の被拘禁者移送プログラムを計93回実施した。ジム・サバ氏によると、関与したすべての不法滞在者は1959/63年の移民法と1963年の移民規則に基づく犯罪で有罪判決を受け、犯した犯罪の種類に応じてマレーシア入国管理局のシステムにリストされている。",
-   "summary_ja": "コタキナバル: 2025 年 10 月 10 日 – サバ州マレーシア移民局 (JIM) は、合計 93 シリーズの外国移民拘留移送プログラムを実施しました。",
-   "impact": 3,
-   "issues": [
-    "摘発・収容・送還"
-   ],
-   "figures": [
-    {
-     "n": 393,
-     "kind": "送還",
-     "raw": "393 pendatang"
-    }
-   ]
   }
  ],
- "enriched_at": "2026-11-14T07:11:33Z"
+ "enriched_at": "2026-11-14T18:42:44Z"
 }
