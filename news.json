@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:18:10Z",
+ "updated": "2026-11-18T07:58:29Z",
  "count": 316,
  "tags": {
   "入管・摘発": 216,
@@ -29,7 +29,6 @@
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
-  "Bernama": 5,
   "Sayang Sabah": 5,
   "Portal Berita RTM": 5,
   "Malaysiakini": 4,
@@ -38,9 +37,11 @@
   "tvsabahnews.com": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
+  "Bernama": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "PressReader": 2,
@@ -87,19 +88,21 @@
     "難民"
    ],
    "title_ja": "",
-   "summary_ja": "",
    "first_seen": "2026-11-17T21:14:31Z",
-   "impact": 0,
+   "url_real": "https://wartaoriental.com/2026/11/17/sabah-tanggung-tunggakan-bil-rawatan-pelarian-tertinggi-shahelmey/",
+   "image": "https://wartaoriental.com/wp-content/uploads/2026/11/4f2cf89d-e7c8-44b6-9d51-df07309cb66e-1024x552.jpeg",
+   "site_name": "Warta Oriental",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja": "",
+   "impact": 4,
    "issues": [
     "医療アクセス",
     "難民・UNHCR"
    ],
    "figures": [],
-   "url_real": "https://wartaoriental.com/2026/11/17/sabah-tanggung-tunggakan-bil-rawatan-pelarian-tertinggi-shahelmey/",
-   "enriched": "nobody",
-   "enriched_v": 3,
-   "image": "https://wartaoriental.com/wp-content/uploads/2026/11/4f2cf89d-e7c8-44b6-9d51-df07309cb66e-1024x552.jpeg",
-   "site_name": "Warta Oriental"
+   "body": "KUALA LUMPUR: Kementerian Kesihatan Malaysia (KKM) perlu memberikan penjelasan menyeluruh berhubung Sabah yang mencatatkan jumlah tunggakan bil rawatan kesihatan golongan pelarian dan pendatang asing tanpa izin (PATI) tertinggi di negara ini.\n\nAhli Parlimen Putatan Datuk Ir Shahelmey Yahya berkata laporan Jawatankuasa Pilihan Hak Asasi Manusia, Pilihan Raya dan Reformasi Institusi berhubung Pengurusan Pelarian di Malaysia (DR 21) merekodkan Sabah sebagai negeri tertinggi menanggung kos tunggakan rawatan berkenaan bagi 2025.\n\nMenurutnya, pendedahan dalam laporan itu boleh menimbulkan rasa tidak senang dalam kalangan rakyat, khususnya berhubung persepsi bahawa warga asing, termasuk PATI, menerima layanan kesihatan yang lebih baik berbanding rakyat tempatan.\n\n“Dapatan yang dinyatakan dalam muka surat 16 tersebut boleh mendatangkan tidak kurang senang kepada rakyat.\n\n“Pendedahan tersebut boleh mencetuskan tanggapan ‘first class treatment’ kepada pesakit warga asing, khususnya golongan PATI, yang merupakan penyumbang tertinggi kepada tunggakan bil rawatan golongan pelarian.\n\n“Sehubungan dengan itu, Putatan ingin mendapatkan penjelasan daripada KKM mengenai punca utama yang menyebabkan Sabah menjadi negeri yang merekodkan jumlah tunggakan bil rawatan kesihatan golongan pelarian yang paling tinggi,” katanya ketika membahas Rang Undang-Undang (RUU) Perbekalan 2027 di peringkat Jawatankuasa bagi Kementerian Kesihatan pada persidangan Dewan Rakyat, hari ini.\n\nShahelmey berkata sektor kesihatan awam terpaksa menanggung tunggakan sebanyak RM1.06 juta bagi bil rawatan kesihatan golongan pelarian pada 2025.\n\nBeliau berkata pendedahan itu turut memperlihatkan isu beban yang ditanggung kerajaan dalam menyediakan perkhidmatan kesihatan kepada golongan pelarian yang berada di negara ini.\n\nSementara itu, beliau turut membangkitkan keperluan mendesak pembinaan sebuah hospital daerah di Putatan susulan pertambahan penduduk yang kini mencecah lebih 70,000 orang berdasarkan bancian.\n\nMenurutnya, Pakar Perubatan Kesihatan Pekerjaan dan Pakar Perubatan Kesihatan Awam di Pejabat Kesihatan Daerah Putatan Dr Balachandar turut mengklasifikasikan pembinaan hospital berkenaan sebagai satu keperluan mendesak.\n\nKatanya, keperluan itu antara lain mengambil kira peningkatan permintaan terhadap rawatan penyakit tidak berjangkit.\n\n“Hospital daerah yang dimaksudkan tersebut merupakan satu keperluan teratas yang mesti diberi penekanan oleh KKM, memandangkan populasi daerah Putatan telah menjangkau angka 70,000 penduduk berdasarkan dapatan daripada bancian.\n\n“Pengklasifikasian tersebut dibuat antaranya bersandarkan kepada realiti keperluan terhadap rawatan bagi penyakit tidak berjangkit yang semakin meningkat,” katanya.\n\nSehubungan itu, beliau meminta KKM memberikan pertimbangan serius supaya cadangan pembinaan Hospital Daerah Putatan disenaraikan dalam agenda pembangunan hospital baharu di bawah peruntukan pembangunan kementerian berkenaan.",
+   "body_ja": ""
   },
   {
    "title": "MP Sabah: Sediakan pelan tindakan isu tunggakan bil hospital pelarian",
@@ -116,21 +119,20 @@
     "医療・福祉"
    ],
    "title_ja": "",
-   "summary_ja": "",
    "first_seen": "2026-11-17T21:14:31Z",
+   "url_real": "https://www.malaysiakini.com/news/889314-mp-sabah-sediakan-pelan-tindakan-isu-tunggakan-bil-hospital-pelarian",
+   "image": "https://s.malaysiakini.com/i/6mHx-tNJymqbGajOwypGV3Gpi4I=/1200x0/filters:strip_exif()/file/attachments/orphans/645645645_134538.png",
+   "site_name": "Malaysiakini",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "PARLIMEN | Kementerian Kesihatan (KKM) perlu menyediakan pelan tindakan bagi memastikan isu tunggakan bil rawatan kesihatan membabitkan pelarian dan pendatang tanpa izin tidak berlarutan, kata Shahelmey Yahya (BN-Putatan).\n\nDia membangkitkan laporan Jawatankuasa Pilihan Khas Hak Asasi Manusia, Pilihan Raya dan Reformasi Institusi berhubung pengurusan pelarian di Malaysia, yang mendapati tunggakan bil hospital mencecah RM1.06 juta tahun lalu, dengan Sabah merekodkan jumlah tunggakan tertinggi.\n\nBagaimanapun, laporan yang diterbitkan di laman web Parlimen pada Julai itu tidak memperincikan jumlah tunggakan khusus bagi Sabah.\n\nMenurut Shahelmey, keadaan itu memberi gambaran bahawa pelarian di negara ini mengambil kesempatan terhadap keterbukaan kerajaan dan menerima layanan istimewa berbanding penduduk tempatan.\n\n\"Jika senario tersebut tidak ditangani dengan betul, perbelanjaan mengurus bagi sektor kesihatan awam perlu ditingkatkan setiap tahun semata-mata untuk menampung kos luar jangka daripada perkhidmatan kesihatan yang disediakan kepada golongan pelarian,\" katanya ketika membahas Belanjawan 2027 bagi KKM di Parlimen hari ini.\n\nShahelmey berkata, perkhidmatan kesihatan awam di Sabah akan menjadi lebih kritikal apabila KKM turut perlu memberikan perhatian kepada pelarian dan pendatang asing.\n\nKatanya, peningkatan perbelanjaan tahunan kementerian sepatutnya ditumpukan kepada usaha memperkukuh mutu perkhidmatan kesihatan untuk penduduk tempatan, khususnya di Sabah.\n\nSehubungan itu, dia menggesa KKM memberikan penjelasan terperinci berhubung isu berkenaan.\n\nDalam perkembangan lain, Halimah Ali (PAS- Kapar) yang turut berbahas di peringkat Jawatankuasa bagi KKM membangkitkan isu kesihatan mental yang mernurunya perlu diberi perhatian ketika kerajaan ghairah membangunkan pusat data kecerdasan buatan (AI).\n\nKatanya, Malaysia sedang berlumba membangunkan pusat data dengan pelaburan berbilion ringgit dalam infrastruktur digital, kecerdasan buatan dan teknologi masa depan.\n\n\"Data center ini adalah artificial intelligence, kecerdasan buatan, otak kita ini adalah natural intelligence, human intelligence.\n\n\"Jadi, saya bertanya dalam keghairahan kita membina pusat maklumat untuk memproses maklumat digital, sejauh manakah kita melabur untuk memahami, melindungi dan merawat pusat pemprosesan maklumat manusia yang paling kompleks, iaitu otak kita sendiri, neurology,\" katanya.",
+   "summary_ja": "",
    "impact": 4,
    "issues": [
     "医療アクセス",
     "難民・UNHCR"
    ],
-   "figures": [],
-   "url_real": "https://www.malaysiakini.com/news/889314-mp-sabah-sediakan-pelan-tindakan-isu-tunggakan-bil-hospital-pelarian",
-   "image": "https://s.malaysiakini.com/i/6mHx-tNJymqbGajOwypGV3Gpi4I=/1200x0/filters:strip_exif()/file/attachments/orphans/645645645_134538.png",
-   "site_name": "Malaysiakini",
-   "body": "PARLIMEN | Kementerian Kesihatan (KKM) perlu menyediakan pelan tindakan bagi memastikan isu tunggakan bil rawatan kesihatan membabitkan pelarian dan pendatang tanpa izin tidak berlarutan, kata Shahelmey Yahya (BN-Putatan).\n\nDia membangkitkan laporan Jawatankuasa Pilihan Khas Hak Asasi Manusia, Pilihan Raya dan Reformasi Institusi berhubung pengurusan pelarian di Malaysia, yang mendapati tunggakan bil hospital mencecah RM1.06 juta tahun lalu, dengan Sabah merekodkan jumlah tunggakan tertinggi.\n\nBagaimanapun, laporan yang diterbitkan di laman web Parlimen pada Julai itu tidak memperincikan jumlah tunggakan khusus bagi Sabah.\n\nMenurut Shahelmey, keadaan itu memberi gambaran bahawa pelarian di negara ini mengambil kesempatan terhadap keterbukaan kerajaan dan menerima layanan istimewa berbanding penduduk tempatan.\n\n\"Jika senario tersebut tidak ditangani dengan betul, perbelanjaan mengurus bagi sektor kesihatan awam perlu ditingkatkan setiap tahun semata-mata untuk menampung kos luar jangka daripada perkhidmatan kesihatan yang disediakan kepada golongan pelarian,\" katanya ketika membahas Belanjawan 2027 bagi KKM di Parlimen hari ini.\n\nShahelmey berkata, perkhidmatan kesihatan awam di Sabah akan menjadi lebih kritikal apabila KKM turut perlu memberikan perhatian kepada pelarian dan pendatang asing.\n\nKatanya, peningkatan perbelanjaan tahunan kementerian sepatutnya ditumpukan kepada usaha memperkukuh mutu perkhidmatan kesihatan untuk penduduk tempatan, khususnya di Sabah.\n\nSehubungan itu, dia menggesa KKM memberikan penjelasan terperinci berhubung isu berkenaan.\n\nDalam perkembangan lain, Halimah Ali (PAS- Kapar) yang turut berbahas di peringkat Jawatankuasa bagi KKM membangkitkan isu kesihatan mental yang mernurunya perlu diberi perhatian ketika kerajaan ghairah membangunkan pusat data kecerdasan buatan (AI).\n\nKatanya, Malaysia sedang berlumba membangunkan pusat data dengan pelaburan berbilion ringgit dalam infrastruktur digital, kecerdasan buatan dan teknologi masa depan.\n\n\"Data center ini adalah artificial intelligence, kecerdasan buatan, otak kita ini adalah natural intelligence, human intelligence.\n\n\"Jadi, saya bertanya dalam keghairahan kita membina pusat maklumat untuk memproses maklumat digital, sejauh manakah kita melabur untuk memahami, melindungi dan merawat pusat pemprosesan maklumat manusia yang paling kompleks, iaitu otak kita sendiri, neurology,\" katanya.",
-   "body_ja": "",
-   "enriched": "ok",
-   "enriched_v": 3
+   "figures": []
   },
   {
    "title": "Sabah MP urges action plan over unpaid hospital bills among refugees, undocumented migrants",
@@ -148,21 +150,20 @@
     "難民"
    ],
    "title_ja": "",
-   "summary_ja": "",
    "first_seen": "2026-11-17T21:14:31Z",
+   "url_real": "https://www.malaysiakini.com/news/889310-sabah-mp-urges-action-plan-over-unpaid-hospital-bills-among-refugees-undocumented-migrants",
+   "image": "https://s.malaysiakini.com/i/6mHx-tNJymqbGajOwypGV3Gpi4I=/1200x0/filters:strip_exif()/file/attachments/orphans/645645645_134538.png",
+   "site_name": "Malaysiakini",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "PARLIAMENT | The Health Ministry must prepare an action plan to ensure that the issue of unpaid healthcare bills among refugees and undocumented migrants does not drag on, said Shahelmey Yahya (BN-Putatan).\n\nHe cited a report by the special select committee on Human Rights, Election and Institutional Reform regarding the management of refugees in Malaysia, which found that the unpaid hospital bills reached RM1.06 million last year, with Sabah recording the highest amount of arrears.\n\nHowever, the report, published on the Parliament website in July, did not provide a specific breakdown for Sabah.\n\nAccording to Shahelmey, this situation gives the impression that refugees in the country are taking advantage of the government's openness and receiving preferential treatment compared to locals.",
+   "summary_ja": "",
    "impact": 3,
    "issues": [
     "医療アクセス",
     "難民・UNHCR"
    ],
-   "figures": [],
-   "url_real": "https://www.malaysiakini.com/news/889310-sabah-mp-urges-action-plan-over-unpaid-hospital-bills-among-refugees-undocumented-migrants",
-   "image": "https://s.malaysiakini.com/i/6mHx-tNJymqbGajOwypGV3Gpi4I=/1200x0/filters:strip_exif()/file/attachments/orphans/645645645_134538.png",
-   "site_name": "Malaysiakini",
-   "body": "PARLIAMENT | The Health Ministry must prepare an action plan to ensure that the issue of unpaid healthcare bills among refugees and undocumented migrants does not drag on, said Shahelmey Yahya (BN-Putatan).\n\nHe cited a report by the special select committee on Human Rights, Election and Institutional Reform regarding the management of refugees in Malaysia, which found that the unpaid hospital bills reached RM1.06 million last year, with Sabah recording the highest amount of arrears.\n\nHowever, the report, published on the Parliament website in July, did not provide a specific breakdown for Sabah.\n\nAccording to Shahelmey, this situation gives the impression that refugees in the country are taking advantage of the government's openness and receiving preferential treatment compared to locals.",
-   "body_ja": "",
-   "enriched": "ok",
-   "enriched_v": 3
+   "figures": []
   },
   {
    "title": "29 PATI ditahan, JIM tegas mahu kehadiran PATI dimaklumkan",
@@ -767,9 +768,9 @@
   {
    "title": "Sabah deports 8,405 undocumented migrants up to Nov 5",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmxOUXdCWEk5dHROcnQtRWpuTXl5c3hsYTIxR29hR2UzS296WF9MOExTVHRqQnpiMzhCTnpkLW80LXNITDBPQmJ5VTdxaU5TdjlFZWhKWldYcDBKdEdjaEQxUTVFREE0cDZNazZVbWxWbzNZNldCa2ZJTVhQd3hWYWxKRHpna04yZ09Cak1udVJ5OEl1TS1jVGhIbjZBUHBqMGlSTHlNZFJxN3lZNXdwR2tkeWZTc2h0MmcyRW4teV9IZS10cUw3UWgwU2pYNGxY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1I3R1dQYTJIM2R2ZWwwUkV3SlBOZXNoLVE1X0lWaFB3Z3J1NGc2c2NTV3UwSXZ0VEtPOE5PcndnckdkaUZUNkwyTmhhVDlKaTM4WlBlMW84amNYSWNWdFpMN0xuZ25nXzFQYndlSDhWQ195U3VIYzlOaldPOTN6MUtnOTdkT2tnYVlkbm1uSk80bHVJYmlwZTFwODluRHM?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-11-05T11:50:26Z",
+   "date": "2026-11-05T11:07:57Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -1528,7 +1529,7 @@
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
    "summary": "Sabah Immigration Department, JIM, enforcement ope",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-19T08:54:00Z",
    "lang": "en",
    "origin": "news",
@@ -1987,7 +1988,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "Budget 2027, Immigration, allocation, quarters,",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -4686,7 +4687,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=A0qPwT2hF8MQ7kNvwFRmXpl&_nc_oc=AdqG5N1vq831vXs8kurQy5a1GGYJS_er-4m1KU_O4FU-xM-Zfj4xhsbmn_H9ZcXSIVw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=2sxYK_kYvFeef8qBBrJ-0g&_nc_ss=79289&oh=00_AQT5SZSdZI80ktjkfIisUb6wN05RG2Ukzn1Gq2WABlrslA&oe=6B0285ED",
+   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=o5weEIXiTogQ7kNvwGGugsh&_nc_oc=AdpjkPLAq_BPZkJ47T5oOZJzLIa13brwABkC9JIQJHPqlglmaRNXSZO655qWz_Iyep8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=7jgrGLEMKn7D3SKTqbY0oA&_nc_ss=79289&oh=00_AQSV3N5TLWx7AYYbDYvqCkFj7FdAN3QPxHtIZUCg4BFr4w&oe=6B032EAD",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6043,7 +6044,7 @@
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
    "summary": "TAWAU: Seramai 351 pendatang asing tanpa izin (PATI) warga Indonesia dan Filipina dihantar pulang ke negara asal menerusi Program Pemindahan Tahanan PATI Siri 7/2026, menjadikan keseluruhan 3,990 PATI sudah diusir dari Sabah setakat enam bulan tahun ini.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnBrY3J6MGdJS1RLS0dsbnJBYzhfenBFRFBBZE5aWG4yeU8zZlhLV3ZrUXJLdm5UREtNUXdranRQTmxKY3JlaDdSSzhuOW40RkdlemI1RXlxcm1NcjF2ZFkxQVlSd2NmLTZRbkFXRjZlX24wWFdxOHNERVJvOGEyM0V0V3pmV1E2OTdGaTFPcUlBeXNEdWFVZ1JOQVZfbUhJMjlCLThmZ1p5X0RZZ3fSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3XSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
    "source": "Berita Harian",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -6202,7 +6203,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=w2w7_1sPqAgQ7kNvwFsjxx3&_nc_oc=Adq31z9QgvwWoQ1MSsn4ZKhEtWGzF2a7WZbuJ8OKboIJHKPPnmcZlAeNB0nlnqbXaQA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=6E5D9u4hAkvG2ufsG73FyQ&_nc_ss=79289&oh=00_AQQaMeE3OMGa-6nUBhWlgxEUbFORequ-WVARGYSb8dGv5w&oe=6B028EEF",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=w2w7_1sPqAgQ7kNvwFX-D8T&_nc_oc=AdqMPumD0g7IoOISiIaDnKGQrCGKnncWuud6m43jWLqjK2DMR26NImmIwcNZe1J0NcA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=5r5khG_Lm26PQYiOEE9z3g&_nc_ss=79289&oh=00_AQQRdGjaFUzs2GE326mzMBKlvVV3E9nDbmOtFstI-i2kjw&oe=6B0337AF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6559,7 +6560,7 @@
    "title_ja": "IMM13: サバ州と未だ解決されていない50年前のスキャンダル",
    "first_seen": "2026-09-18T05:02:32Z",
    "url_real": "https://www.youtube.com/watch?v=pbftxPKPDSk",
-   "enriched": "failed",
+   "enriched": "thin",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
    "summary_ja": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
@@ -9255,8 +9256,8 @@
    "query": "Sabah stateless",
    "id": "f97cc4562358",
    "tags": [
-    "無国籍",
-    "バジャウ"
+    "バジャウ",
+    "無国籍"
    ],
    "title_ja": "無国籍バジャウ・ラウト4人が起訴、3人が保釈",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -11755,5 +11756,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-17T21:21:23Z"
+ "enriched_at": "2026-11-18T08:00:53Z"
 }
