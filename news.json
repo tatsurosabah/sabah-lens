@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-20T07:42:59Z",
- "count": 322,
+ "updated": "2026-11-20T20:41:32Z",
+ "count": 324,
  "tags": {
   "入管・摘発": 218,
   "市民権": 38,
   "無国籍": 32,
+  "難民": 22,
   "子ども": 22,
-  "難民": 20,
-  "政策・政治": 14,
+  "政策・政治": 16,
   "バジャウ": 11,
   "人権・NGO": 8,
   "医療・福祉": 6,
@@ -28,11 +28,11 @@
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
+  "Malaysiakini": 5,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "Saluran 122": 5,
   "Portal Berita RTM": 5,
-  "Malaysiakini": 4,
   "MalaysiaGazette": 4,
   "tvsabahnews.com": 4,
   "Harian Metro": 4,
@@ -46,6 +46,7 @@
   "Bernama": 2,
   "PressReader": 2,
   "The Vibes": 2,
+  "KLSE Screener": 1,
   "DayakDaily": 1,
   "Warta Oriental": 1,
   "Newswav": 1,
@@ -77,6 +78,37 @@
  },
  "items": [
   {
+   "title": "Refugee card holders barred from Sabah, Sarawak and Labuan — Home Ministry",
+   "summary": "Holders of the Refugee Registration Document (DPP) card, which the government began issuing on Jan 1, are barred from entering Sabah, Sarawak and the Federal Territory of Labuan.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTV94ek5WTUZ1WDdONnVVZ1RTQXVYYk5FSk9iUWplQmJ2eVFiZlYzYlgtQTlFOWtNSUtJYWs0ZVpCSk1VN0NhdGlwclZMejFVQ1g4RWZIWnFrUF9XMEJWaFpwNXUxb2FKbjk3UTdDSjAyZ3diWm44TFBGVy1kN3pFSEd3YjB5Q0dmblBzS1FqYzNXd1lldHpsdkFGdFViSUlsMFU3NG9GMlNTUjJnekNDT1FhQnNpanVOeU45Ym1R?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-20T08:08:41Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah UNHCR OR asylum",
+   "id": "fb9b513855b6",
+   "tags": [
+    "難民",
+    "政策・政治"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T20:39:06Z",
+   "impact": 4,
+   "issues": [
+    "摘発・収容・送還",
+    "難民・UNHCR"
+   ],
+   "figures": [],
+   "url_real": "https://www.klsescreener.com/v2/news/view/1832029/Refugee_card_holders_barred_from_Sabah_Sarawak_and_Labuan_Home_Ministry",
+   "image": "https://assets.theedgemarkets.com/20rohinta_20261120160157.jpg",
+   "site_name": "KLSE Screener",
+   "body": "Have a question, feedback, or need assistance with your account?\n\nKUALA LUMPUR (Nov 20): Holders of the Refugee Registration Document (DPP) card, which the government began issuing on Jan 1, are barred from entering Sabah, Sarawak and the Federal Territory of Labuan.\n\nIn a written reply on the Parliament's official website, the Home Ministry (KDN) said cardholders, who are issued a Special Pass under Rule 14 of the Immigration Regulations 1963, are only permitted to remain in the state where they are registered.\n\nThe ministry said any movement to other states requires written approval from the respective state immigration director.\n\nAccording to the ministry, the DPP programme was introduced to gradually take over the refugee registration function from the United Nations High Commissioner for Refugees (UNHCR).\n\n\"The programme enables the government to develop an official biometric database covering identity verification, security profiles and location information, thereby strengthening control and monitoring of the presence of this group,\" the reply said.\n\nThe ministry was responding to a question from Suhaizan Kaiat (PH-Pulai) on the latest number of Rohingya, their involvement in crime, complaints of UNHCR card forgery, their resettlement locations and the government's measures to control and manage them.\n\nKDN said that to prevent the DPP programme from becoming a pull factor for new arrivals, only refugees who were in the country before Jan 1, 2023 are eligible to be considered for the programme.\n\nIt said refugees or asylum seekers who entered illegally after that date will not be considered and will face immigration enforcement action.\n\n\"KDN states that the DPP card is not a travel document. The government stresses that holding a DPP card is subject to compliance with national laws and the stipulated conditions.\n\n\"Any individual who violates the law or these conditions will face enforcement action, including cancellation of the pass and deportation under the provisions and legal processes in force. The DPP programme does not grant permanent resident status and is not a pathway to Malaysian citizenship,\" the reply said.\n\nKDN said 227,414 refugees and asylum seekers were registered in Malaysia under UNHCR records as of Sept 30 last year, of whom 205,273, or 90.2%, were from Myanmar, including 132,400 ethnic Rohingya.\n\nThe ministry said Selangor recorded the highest share of UNHCR card holders in Peninsular Malaysia at 33% (74,028 people), followed by Kuala Lumpur at 21% (47,333) and Penang at 11% (25,357).\n\nKDN said that as of Oct 31 last year, 6,294 ethnic Rohingya were also recorded at immigration detention depots across the peninsula, out of a total of 11,208 Myanmar nationals detained.\n\nAccording to KDN, Royal Malaysia Police (PDRM) statistics recorded 199 index crime cases involving Myanmar refugees from 2022 to August: 52 cases in 2022, 43 in 2023, 37 in 2024, 29 in 2025, and 38 as of August this year.\n\nIn addition, PDRM recorded only one case of UNHCR card forgery in Kuala Lumpur, involving six Myanmar nationals, all of whom have been charged in court.\n\nThe content is a snapshot from Publisher. Refer to the original content for accurate info. Contact us for any changes.",
+   "body_ja": "",
+   "enriched": "ok",
+   "enriched_v": 3
+  },
+  {
    "title": "Refugee cardholders face entry ban to S’wak, Sabah and Labuan",
    "summary": "By DayakDaily Team KUALA LUMPUR, Nov 20: Holders of the Refugee Registration Document (DPP) Card face an entry ban to Sarawak, Sabah and the Federal Territory of Labuan under movement restrictions …",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGVTWHgtMGFieFZnT1JXSjdFZERkeE5WYUJ5UEM0Y0czYVVxR0NjX3dwdkFtUHBldWg0QkZvN0xXNHpBNVU2dW1GRjI3Z0pjaGY3VS1GeVg3eUtxOEVOZ0hyanlxMnFhVk0yZEthSlNxTFJqN1EzS05oMnRleEY4d0xGNWF0YS02U0FR?oc=5",
@@ -90,22 +122,22 @@
     "難民"
    ],
    "title_ja": "難民カード保有者はスワック、サバ、ラブアンへの入国禁止に直面する",
-   "summary_ja": "DayakDaily Team クアラルンプール、11 月 20 日: 難民登録証明書 (DPP) カードの所有者は、移動制限の下でサラワク州、サバ州、およびラブアン連邦直轄領への入国禁止に直面しています…",
    "first_seen": "2026-11-20T07:39:06Z",
+   "url_real": "https://dayakdaily.com/refugee-cardholders-face-entry-ban-to-swak-sabah-and-labuan/",
+   "image": "https://i0.wp.com/dayakdaily.com/wp-content/uploads/2026/11/IMG_7052-scaled.jpeg?fit=1200%2C900&ssl=1",
+   "site_name": "DayakDaily",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KUALA LUMPUR, Nov 20: Holders of the Refugee Registration Document (DPP) Card face an entry ban to Sarawak, Sabah and the Federal Territory of Labuan under movement restrictions introduced by the government on Jan 1 this year.\n\nThe Ministry of Home Affairs (KDN), in a written parliamentary reply, said cardholders issued a Special Pass under Regulation 14 of the Immigration Regulations 1963 are only allowed to remain in the State where they are registered.\n\nAny movement to another State requires prior written approval from the respective State Immigration Director.\n\nThe DPP programme was introduced to gradually take over refugee registration functions previously carried out by the United Nations High Commissioner for Refugees (UNHCR).\n\n“The programme enables the government to develop an official biometric database covering identity verification, security profiles and location information, thereby strengthening control and monitoring of the whereabouts of these individuals,” the ministry said.\n\nHowever, eligibility for the programme is limited to refugees who were already in Malaysia before Jan 1, 2023, to prevent it from becoming a pull factor for new arrivals.\n\nKDN said refugees and asylum seekers who entered the country illegally after that date would not be considered for the programme and would face immigration enforcement action.\n\nThe ministry also stressed that the DPP Card is not a travel document and does not grant permanent resident status or provide a pathway to Malaysian citizenship.\n\nCardholders are required to comply with the country’s laws and conditions imposed under the programme. Violations may result in enforcement action, including cancellation of their passes and deportation in accordance with the law.\n\nKDN was responding to a question from Suhaizan Kaiat (PH-Pulai) on the latest number of Rohingya in Malaysia, their involvement in criminal activities, complaints involving forged UNHCR cards, their locations and the government’s measures to manage them.\n\nBased on UNHCR records as at Sept 30, a total of 227,414 registered refugees and asylum seekers were in Malaysia, of whom 205,273, or 90.2 per cent, were from Myanmar, including 132,400 Rohingya.\n\nSelangor recorded the highest proportion of UNHCR cardholders in Peninsular Malaysia at 33 per cent (74,028 people), followed by Kuala Lumpur at 21 per cent (47,333) and Penang at 11 per cent (25,357).\n\nAs at Oct 31, a total of 6,294 Rohingya were recorded at Immigration Detention Depots throughout Peninsular Malaysia, out of 11,208 detained Myanmar nationals.\n\nMeanwhile, Royal Malaysia Police (PDRM) statistics recorded 199 index crime cases involving Myanmar refugees from 2022 to August this year.\n\nThe breakdown comprised 52 cases in 2022, 43 in 2023, 37 in 2024, 29 in 2025 and 38 as at August this year.\n\nPDRM also recorded one case involving the forgery of UNHCR cards in Kuala Lumpur, involving six Myanmar nationals, all of whom have been charged in court. — Bernama",
+   "body_ja": "クアラルンプール、11月20日：難民登録証明書（DPP）カードの保有者は、今年1月1日に政府が導入した移動制限に基づき、サラワク州、サバ州、ラブアン連邦直轄領への入国禁止に直面している。\n\n内務省（KDN）は書面による議会答弁で、1963年の入国管理規則第14条に基づいて特別パスを発行されたカード所有者は、登録されている州にのみ滞在することが許可されると述べた。\n\n他の州への移動には、それぞれの州の入国管理局長からの事前の書面による承認が必要です。\n\nDPP プログラムは、これまで国連難民高等弁務官事務所 (UNHCR) が行っていた難民登録機能を段階的に引き継ぐために導入されました。\n\n同省は、「このプログラムにより、政府は身元確認、セキュリティプロフィール、位置情報を網羅する公式の生体認証データベースを開発することができ、それによってこれらの個人の居場所の管理と監視が強化される」と述べた。\n\nただし、このプログラムの参加資格は、新たに到着する人にとっての誘因とならないよう、2023年1月1日以前にすでにマレーシアに滞在していた難民に限定されている。\n\nKDNは、その日以降に不法入国した難民や亡命希望者はプログラムの対象とはみなされず、移民法執行の対象となると述べた。\n\n同省はまた、DPPカードは旅行証明書ではなく、永住権を付与したり、マレーシア市民権への道を提供したりするものではないと強調した。\n\nカード所有者は、プログラムに基づいて課される国の法律および条件に従う必要があります。違反した場合は、法律に従ってパスの取り消しや強制送還などの強制措置が講じられる場合があります。\n\nKDNは、マレーシアにおけるロヒンギャの最新の数、犯罪活動への関与、偽造UNHCRカードに関する苦情、ロヒンギャの所在地、ロヒンギャを管理する政府の措置についてのスハイザン・カイアット(PH-プーライ)の質問に答えた。\n\n9月30日時点のUNHCR記録に基づくと、合計22万7,414人の登録難民と亡命希望者がマレーシアにおり、そのうち20万5,273人（90.2パーセント）がミャンマー出身で、その中には13万2,400人のロヒンギャが含まれている。\n\nマレー半島でUNHCRカード所有者の割合が最も高かったのはセランゴール州で33パーセント（7万4,028人）、次いでクアラルンプールの21パーセント（4万7,333人）、ペナンの11パーセント（2万5,357人）となった。\n\n10月31日現在、マレー半島全域の入国管理所で拘束されているミャンマー人1万1,208人のうち、ロヒンギャは合計6,294人であると記録されている。\n\n一方、王立マレーシア警察（PDRM）の統計によると、2022年から今年8月までにミャンマー難民が関与した犯罪事件は199件記録されている。\n\n内訳は2022年が52件、2023年が43件、2024年が37件、2025年が29件、今年8月時点で38件となっている。\n\nPDRM はまた、クアラルンプールでの UNHCR カード偽造に関わる 1 件の事件を記録しており、6 人のミャンマー人が関与しており、全員が法廷で起訴されている。 — ベルナマ",
+   "summary_ja2": "クアラルンプール、11月20日：難民登録証明書（DPP）カードの保有者は、今年1月1日に政府が導入した移動制限に基づき、サラワク州、サバ州、ラブアン連邦直轄領への入国禁止に直面している。KDNは、マレーシアにおけるロヒンギャの最新の数、犯罪活動への関与、偽造UNHCRカードに関する苦情、ロヒンギャの所在地、ロヒンギャを管理する政府の措置についてのスハイザン・カイアット(PH-プーライ)の質問に答えた。",
+   "summary_ja": "DayakDaily Team クアラルンプール、11 月 20 日: 難民登録証明書 (DPP) カードの所有者は、移動制限の下でサラワク州、サバ州、およびラブアン連邦直轄領への入国禁止に直面しています…",
    "impact": 4,
    "issues": [
     "摘発・収容・送還",
     "難民・UNHCR"
    ],
-   "figures": [],
-   "url_real": "https://dayakdaily.com/refugee-cardholders-face-entry-ban-to-swak-sabah-and-labuan/",
-   "image": "https://i0.wp.com/dayakdaily.com/wp-content/uploads/2026/11/IMG_7052-scaled.jpeg?fit=1200%2C900&ssl=1",
-   "site_name": "DayakDaily",
-   "body": "KUALA LUMPUR, Nov 20: Holders of the Refugee Registration Document (DPP) Card face an entry ban to Sarawak, Sabah and the Federal Territory of Labuan under movement restrictions introduced by the government on Jan 1 this year.\n\nThe Ministry of Home Affairs (KDN), in a written parliamentary reply, said cardholders issued a Special Pass under Regulation 14 of the Immigration Regulations 1963 are only allowed to remain in the State where they are registered.\n\nAny movement to another State requires prior written approval from the respective State Immigration Director.\n\nThe DPP programme was introduced to gradually take over refugee registration functions previously carried out by the United Nations High Commissioner for Refugees (UNHCR).\n\n“The programme enables the government to develop an official biometric database covering identity verification, security profiles and location information, thereby strengthening control and monitoring of the whereabouts of these individuals,” the ministry said.\n\nHowever, eligibility for the programme is limited to refugees who were already in Malaysia before Jan 1, 2023, to prevent it from becoming a pull factor for new arrivals.\n\nKDN said refugees and asylum seekers who entered the country illegally after that date would not be considered for the programme and would face immigration enforcement action.\n\nThe ministry also stressed that the DPP Card is not a travel document and does not grant permanent resident status or provide a pathway to Malaysian citizenship.\n\nCardholders are required to comply with the country’s laws and conditions imposed under the programme. Violations may result in enforcement action, including cancellation of their passes and deportation in accordance with the law.\n\nKDN was responding to a question from Suhaizan Kaiat (PH-Pulai) on the latest number of Rohingya in Malaysia, their involvement in criminal activities, complaints involving forged UNHCR cards, their locations and the government’s measures to manage them.\n\nBased on UNHCR records as at Sept 30, a total of 227,414 registered refugees and asylum seekers were in Malaysia, of whom 205,273, or 90.2 per cent, were from Myanmar, including 132,400 Rohingya.\n\nSelangor recorded the highest proportion of UNHCR cardholders in Peninsular Malaysia at 33 per cent (74,028 people), followed by Kuala Lumpur at 21 per cent (47,333) and Penang at 11 per cent (25,357).\n\nAs at Oct 31, a total of 6,294 Rohingya were recorded at Immigration Detention Depots throughout Peninsular Malaysia, out of 11,208 detained Myanmar nationals.\n\nMeanwhile, Royal Malaysia Police (PDRM) statistics recorded 199 index crime cases involving Myanmar refugees from 2022 to August this year.\n\nThe breakdown comprised 52 cases in 2022, 43 in 2023, 37 in 2024, 29 in 2025 and 38 as at August this year.\n\nPDRM also recorded one case involving the forgery of UNHCR cards in Kuala Lumpur, involving six Myanmar nationals, all of whom have been charged in court. — Bernama",
-   "body_ja": "クアラルンプール、11月20日：難民登録証明書（DPP）カードの保有者は、今年1月1日に政府が導入した移動制限に基づき、サラワク州、サバ州、ラブアン連邦直轄領への入国禁止に直面している。\n\n内務省（KDN）は書面による議会答弁で、1963年の入国管理規則第14条に基づいて特別パスを発行されたカード所有者は、登録されている州にのみ滞在することが許可されると述べた。\n\n他の州への移動には、それぞれの州の入国管理局長からの事前の書面による承認が必要です。\n\nDPP プログラムは、これまで国連難民高等弁務官事務所 (UNHCR) が行っていた難民登録機能を段階的に引き継ぐために導入されました。\n\n同省は、「このプログラムにより、政府は身元確認、セキュリティプロフィール、位置情報を網羅する公式の生体認証データベースを開発することができ、それによってこれらの個人の居場所の管理と監視が強化される」と述べた。\n\nただし、このプログラムの参加資格は、新たに到着する人にとっての誘因とならないよう、2023年1月1日以前にすでにマレーシアに滞在していた難民に限定されている。\n\nKDNは、その日以降に不法入国した難民や亡命希望者はプログラムの対象とはみなされず、移民法執行の対象となると述べた。\n\n同省はまた、DPPカードは旅行証明書ではなく、永住権を付与したり、マレーシア市民権への道を提供したりするものではないと強調した。\n\nカード所有者は、プログラムに基づいて課される国の法律および条件に従う必要があります。違反した場合は、法律に従ってパスの取り消しや強制送還などの強制措置が講じられる場合があります。\n\nKDNは、マレーシアにおけるロヒンギャの最新の数、犯罪活動への関与、偽造UNHCRカードに関する苦情、ロヒンギャの所在地、ロヒンギャを管理する政府の措置についてのスハイザン・カイアット(PH-プーライ)の質問に答えた。\n\n9月30日時点のUNHCR記録に基づくと、合計22万7,414人の登録難民と亡命希望者がマレーシアにおり、そのうち20万5,273人（90.2パーセント）がミャンマー出身で、その中には13万2,400人のロヒンギャが含まれている。\n\nマレー半島でUNHCRカード所有者の割合が最も高かったのはセランゴール州で33パーセント（7万4,028人）、次いでクアラルンプールの21パーセント（4万7,333人）、ペナンの11パーセント（2万5,357人）となった。\n\n10月31日現在、マレー半島全域の入国管理所で拘束されているミャンマー人1万1,208人のうち、ロヒンギャは合計6,294人であると記録されている。\n\n一方、王立マレーシア警察（PDRM）の統計によると、2022年から今年8月までにミャンマー難民が関与した犯罪事件は199件記録されている。\n\n内訳は2022年が52件、2023年が43件、2024年が37件、2025年が29件、今年8月時点で38件となっている。\n\nPDRM はまた、クアラルンプールでの UNHCR カード偽造に関わる 1 件の事件を記録しており、6 人のミャンマー人が関与しており、全員が法廷で起訴されている。 — ベルナマ",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "クアラルンプール、11月20日：難民登録証明書（DPP）カードの保有者は、今年1月1日に政府が導入した移動制限に基づき、サラワク州、サバ州、ラブアン連邦直轄領への入国禁止に直面している。KDNは、マレーシアにおけるロヒンギャの最新の数、犯罪活動への関与、偽造UNHCRカードに関する苦情、ロヒンギャの所在地、ロヒンギャを管理する政府の措置についてのスハイザン・カイアット(PH-プーライ)の質問に答えた。"
+   "figures": []
   },
   {
    "title": "Refugee card holders barred from Sabah, Sarawak and Labuan, says Home Ministry",
@@ -118,26 +150,56 @@
    "query": "Sabah refugee",
    "id": "370b51439690",
    "tags": [
-    "政策・政治",
-    "難民"
+    "難民",
+    "政策・政治"
    ],
    "title_ja": "難民カード保持者はサバ州、サラワク州、ラブアン島への入国を禁止されると内務省が発表",
-   "summary_ja": "クアラルンプール：政府が1月1日に発行を開始した難民登録文書（DPP）カードの所持者は、サバ州、サラワク州、ラブアン連邦直轄領への入国が禁止されている。",
    "first_seen": "2026-11-20T07:39:06Z",
+   "url_real": "https://www.thestar.com.my/news/nation/2026/11/20/refugee-card-holders-barred-from-sabah-sarawak-and-labuan-says-home-ministry",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/20/4222878.jpg",
+   "site_name": "The Star",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KUALA LUMPUR: Holders of the Refugee Registration Document (DPP) card, which the government began issuing on Jan 1, are barred from entering Sabah, Sarawak and the Federal Territory of Labuan.\n\nIn a written reply on Parliament's official website, the Home Ministry said cardholders, who are issued a Special Pass under Rule 14 of the Immigration Regulations 1963, are only permitted to remain in the state where they are registered.\n\nThe ministry said any movement to other states requires written approval from the respective state Immigration Director.\n\nAccording to the ministry, the DPP programme was introduced to gradually take over the refugee registration function from the United Nations High Commissioner for Refugees (UNHCR).\n\n\"The programme enables the government to develop an official biometric database covering identity verification, security profiles and location information, thereby strengthening control and monitoring of the presence of this group,\" the reply read.\n\nSuhaizan Kaiat (PH-Pulai) wanted to know the latest number of Rohingya, their involvement in crime, complaints of UNHCR card forgery, their resettlement locations and the government's measures to control and manage them.\n\nThe ministry said that to prevent the DPP programme from becoming a pull factor for new arrivals, only refugees in the country before Jan 1, 2023 are eligible.\n\nIt said refugees or asylum seekers who entered illegally after that date will not be considered and will face immigration enforcement action.\n\n\"The ministry states that the DPP card is not a travel document. The government stresses that holding a DPP card is subject to compliance with national laws and the stipulated conditions.\n\n\"Any individual who violates the law or these conditions will face enforcement action, including cancellation of the pass and deportation under the provisions and legal processes in force.\n\n\"The DPP programme does not grant permanent resident status and is not a pathway to Malaysian citizenship,\" the reply added.\n\nThe ministry said 227,414 refugees and asylum seekers were registered in Malaysia under UNHCR records as of Sept 30 last year.\n\nOf these, 205,273 or 90.2% are from Myanmar, including 132,400 ethnic Rohingya.\n\nThe ministry said Selangor recorded the most UNHCR cardholders in Peninsular Malaysia at 33% (74,028 people), followed by Kuala Lumpur at 21% (47,333) and Penang at 11% (25,357).\n\nIt said that as of Oct 31 last year, 6,294 ethnic Rohingya were also recorded at immigration detention depots across the peninsula, out of a total of 11,208 Myanmar nationals detained.\n\nIt cited Royal Malaysia Police (PDRM) statistics showing 199 index crime cases involving Myanmar refugees from 2022 to August this year: 52 cases in 2022, 43 in 2023, 37 in 2024, 29 in 2025, and 38 this year up to August.\n\nIn addition, PDRM recorded only one case of UNHCR card forgery in Kuala Lumpur, involving six Myanmar nationals, all of whom have been charged in court. – Bernama",
+   "body_ja": "クアラルンプール：政府が1月1日に発行を開始した難民登録文書（DPP）カードの所持者は、サバ州、サラワク州、ラブアン連邦直轄領への入国が禁止されている。\n\n内務省は議会の公式ウェブサイトに掲載された書面による回答で、1963年の移民規則第14規則に基づいて特別パスが発行されたカード所有者は、登録されている州にのみ滞在することが許可されていると述べた。\n\n同省は、他州への移動には各州の入国管理局長の書面による承認が必要だと述べた。\n\n同省によると、DPPプログラムは国連難民高等弁務官事務所（UNHCR）の難民登録機能を段階的に引き継ぐために導入された。\n\n「このプログラムにより、政府は身元確認、セキュリティプロフィール、位置情報を網羅する公式の生体認証データベースを開発することができ、それによってこのグループの存在の管理と監視が強化される」と返信には書かれている。\n\nスハイザン・カイアト（PH-プーライ）は、ロヒンギャの最新の数、彼らの犯罪への関与、UNHCRカード偽造の苦情、彼らの再定住場所、そして彼らを管理・管理するための政府の措置を知りたいと考えた。\n\n同省は、DPPプログラムが新たな到着者の引き寄せ要因となるのを防ぐため、2023年1月1日までに国内に滞在する難民のみが対象となると述べた。\n\n同日付以降に不法入国した難民や亡命希望者は考慮されず、入国管理法に直面すると述べた。\n\n「同省は、DPP カードは旅行証明書ではないと述べている。政府は、DPP カードの保有には国内法と規定された条件の遵守が条件であると強調している。\n\n「法律またはこれらの条件に違反した個人は、現行の規定および法的手続きに基づき、通行証の取り消しや国外退去を含む強制措置を受けることになります。\n\n「DPPプログラムは永住権を付与するものではなく、マレーシア市民権への道ではない」と回答は付け加えた。\n\n同省は、昨年9月30日の時点でUNHCRの記録にマレーシアで22万7,414人の難民と亡命希望者が登録されていると発表した。\n\nこのうち、90.2%にあたる20万5,273人がミャンマー出身者で、そのうち13万2,400人のロヒンギャ民族が含まれている。\n\n同省によると、マレー半島で最も多くのUNHCRカード保有者を記録したのはセランゴール州で33％（7万4,028人）、次いでクアラルンプールの21％（4万7,333人）、ペナンの11％（2万5,357人）だった。\n\n同報告書によると、昨年10月31日の時点で、拘束されたミャンマー人計1万1208人のうち、ロヒンギャ民族6294人が半島各地の入国者収容所にも記録されている。\n\n同報告書は、2022年から今年8月までにミャンマー難民が関与した主要犯罪事件199件を示す王立マレーシア警察（PDRM）の統計を引用しており、その内訳は2022年に52件、2023年に43件、2024年に37件、2025年に29件、そして今年8月までに38件となっている。\n\nさらに、PDRMはクアラルンプールでのUNHCRカード偽造事件を1件のみ記録しており、6人のミャンマー人が関与しており、全員が法廷で起訴されている。 – ベルナマ",
+   "summary_ja2": "クアラルンプール：政府が1月1日に発行を開始した難民登録文書（DPP）カードの所持者は、サバ州、サラワク州、ラブアン連邦直轄領への入国が禁止されている。同省は、昨年9月30日の時点でUNHCRの記録にマレーシアで22万7,414人の難民と亡命希望者が登録されていると発表した。さらに、PDRMはクアラルンプールでのUNHCRカード偽造事件を1件のみ記録しており、6人のミャンマー人が関与しており、全員が法廷で起訴されている。",
+   "summary_ja": "クアラルンプール：政府が1月1日に発行を開始した難民登録文書（DPP）カードの所持者は、サバ州、サラワク州、ラブアン連邦直轄領への入国が禁止されている。",
    "impact": 4,
    "issues": [
     "摘発・収容・送還",
     "難民・UNHCR"
    ],
+   "figures": []
+  },
+  {
+   "title": "Home Ministry: Refugee card holders barred from entering Sabah, Sarawak and Labuan",
+   "summary": "Under new system, cardholders only permitted to stay in the state they’re registered.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1FVanNCOFlCbU81VWxwZjZPRHNJRURaTUxrelo2Ry1zSVBvLVBXaG5VRVZPV0Vra0wtcjgxUVdKUDRjRTJjT1ktX0lPYXFIZEd0cUtwenJ2NXAxY2tVbWdBb3lYenhmYUlucGxLUDFQdjF3UkdBbFplVDVvdnFKYkJ2Nm5CZXhUbmJVN0hFT1VfdzhLMUhaZDRfeERuWjN0SlhxZ1c1NGl2SXp6dWFvYnhIeFV3UGJLaFNpN2V3?oc=5",
+   "source": "Malaysiakini",
+   "date": "2026-11-20T04:45:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "eae22f705a9f",
+   "tags": [
+    "難民",
+    "政策・政治"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T20:39:06Z",
+   "impact": 4,
+   "issues": [
+    "難民・UNHCR"
+   ],
    "figures": [],
-   "url_real": "https://www.thestar.com.my/news/nation/2026/11/20/refugee-card-holders-barred-from-sabah-sarawak-and-labuan-says-home-ministry",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/20/4222878.jpg",
-   "site_name": "The Star",
-   "body": "KUALA LUMPUR: Holders of the Refugee Registration Document (DPP) card, which the government began issuing on Jan 1, are barred from entering Sabah, Sarawak and the Federal Territory of Labuan.\n\nIn a written reply on Parliament's official website, the Home Ministry said cardholders, who are issued a Special Pass under Rule 14 of the Immigration Regulations 1963, are only permitted to remain in the state where they are registered.\n\nThe ministry said any movement to other states requires written approval from the respective state Immigration Director.\n\nAccording to the ministry, the DPP programme was introduced to gradually take over the refugee registration function from the United Nations High Commissioner for Refugees (UNHCR).\n\n\"The programme enables the government to develop an official biometric database covering identity verification, security profiles and location information, thereby strengthening control and monitoring of the presence of this group,\" the reply read.\n\nSuhaizan Kaiat (PH-Pulai) wanted to know the latest number of Rohingya, their involvement in crime, complaints of UNHCR card forgery, their resettlement locations and the government's measures to control and manage them.\n\nThe ministry said that to prevent the DPP programme from becoming a pull factor for new arrivals, only refugees in the country before Jan 1, 2023 are eligible.\n\nIt said refugees or asylum seekers who entered illegally after that date will not be considered and will face immigration enforcement action.\n\n\"The ministry states that the DPP card is not a travel document. The government stresses that holding a DPP card is subject to compliance with national laws and the stipulated conditions.\n\n\"Any individual who violates the law or these conditions will face enforcement action, including cancellation of the pass and deportation under the provisions and legal processes in force.\n\n\"The DPP programme does not grant permanent resident status and is not a pathway to Malaysian citizenship,\" the reply added.\n\nThe ministry said 227,414 refugees and asylum seekers were registered in Malaysia under UNHCR records as of Sept 30 last year.\n\nOf these, 205,273 or 90.2% are from Myanmar, including 132,400 ethnic Rohingya.\n\nThe ministry said Selangor recorded the most UNHCR cardholders in Peninsular Malaysia at 33% (74,028 people), followed by Kuala Lumpur at 21% (47,333) and Penang at 11% (25,357).\n\nIt said that as of Oct 31 last year, 6,294 ethnic Rohingya were also recorded at immigration detention depots across the peninsula, out of a total of 11,208 Myanmar nationals detained.\n\nIt cited Royal Malaysia Police (PDRM) statistics showing 199 index crime cases involving Myanmar refugees from 2022 to August this year: 52 cases in 2022, 43 in 2023, 37 in 2024, 29 in 2025, and 38 this year up to August.\n\nIn addition, PDRM recorded only one case of UNHCR card forgery in Kuala Lumpur, involving six Myanmar nationals, all of whom have been charged in court. – Bernama",
-   "body_ja": "クアラルンプール：政府が1月1日に発行を開始した難民登録文書（DPP）カードの所持者は、サバ州、サラワク州、ラブアン連邦直轄領への入国が禁止されている。\n\n内務省は議会の公式ウェブサイトに掲載された書面による回答で、1963年の移民規則第14規則に基づいて特別パスが発行されたカード所有者は、登録されている州にのみ滞在することが許可されていると述べた。\n\n同省は、他州への移動には各州の入国管理局長の書面による承認が必要だと述べた。\n\n同省によると、DPPプログラムは国連難民高等弁務官事務所（UNHCR）の難民登録機能を段階的に引き継ぐために導入された。\n\n「このプログラムにより、政府は身元確認、セキュリティプロフィール、位置情報を網羅する公式の生体認証データベースを開発することができ、それによってこのグループの存在の管理と監視が強化される」と返信には書かれている。\n\nスハイザン・カイアト（PH-プーライ）は、ロヒンギャの最新の数、彼らの犯罪への関与、UNHCRカード偽造の苦情、彼らの再定住場所、そして彼らを管理・管理するための政府の措置を知りたいと考えた。\n\n同省は、DPPプログラムが新たな到着者の引き寄せ要因となるのを防ぐため、2023年1月1日までに国内に滞在する難民のみが対象となると述べた。\n\n同日付以降に不法入国した難民や亡命希望者は考慮されず、入国管理法に直面すると述べた。\n\n「同省は、DPP カードは旅行証明書ではないと述べている。政府は、DPP カードの保有には国内法と規定された条件の遵守が条件であると強調している。\n\n「法律またはこれらの条件に違反した個人は、現行の規定および法的手続きに基づき、通行証の取り消しや国外退去を含む強制措置を受けることになります。\n\n「DPPプログラムは永住権を付与するものではなく、マレーシア市民権への道ではない」と回答は付け加えた。\n\n同省は、昨年9月30日の時点でUNHCRの記録にマレーシアで22万7,414人の難民と亡命希望者が登録されていると発表した。\n\nこのうち、90.2%にあたる20万5,273人がミャンマー出身者で、そのうち13万2,400人のロヒンギャ民族が含まれている。\n\n同省によると、マレー半島で最も多くのUNHCRカード保有者を記録したのはセランゴール州で33％（7万4,028人）、次いでクアラルンプールの21％（4万7,333人）、ペナンの11％（2万5,357人）だった。\n\n同報告書によると、昨年10月31日の時点で、拘束されたミャンマー人計1万1208人のうち、ロヒンギャ民族6294人が半島各地の入国者収容所にも記録されている。\n\n同報告書は、2022年から今年8月までにミャンマー難民が関与した主要犯罪事件199件を示す王立マレーシア警察（PDRM）の統計を引用しており、その内訳は2022年に52件、2023年に43件、2024年に37件、2025年に29件、そして今年8月までに38件となっている。\n\nさらに、PDRMはクアラルンプールでのUNHCRカード偽造事件を1件のみ記録しており、6人のミャンマー人が関与しており、全員が法廷で起訴されている。 – ベルナマ",
+   "url_real": "https://www.malaysiakini.com/news/889501-home-ministry-refugee-card-holders-barred-from-entering-sabah-sarawak-and-labuan",
+   "image": "https://s.malaysiakini.com/i/d36KHZ-BBLXosV0whdOZEC5JXRg=/1200x0/filters:strip_exif()/file/1333/a2fc3c9726bfbc53cc1c75d0074d850f.jpeg",
+   "site_name": "Malaysiakini",
+   "body": "Holders of the Refugee Registration Document (DPP) card, which the government began issuing on Jan 1, are barred from entering Sabah, Sarawak and the Federal Territory of Labuan.\n\nIn a written reply on Parliament's official website, the Home Ministry said cardholders, who are issued a Special Pass under Rule 14 of the Immigration Regulations 1963, are only permitted to remain in the state where they are registered.\n\nThe ministry said any movement to other states requires written approval from the respective state immigration director.\n\nAccording to the ministry, the DPP programme was introduced to gradually take over the refugee registration function from the United Nations High Commissioner for Refugees (UNHCR).",
+   "body_ja": "",
    "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "クアラルンプール：政府が1月1日に発行を開始した難民登録文書（DPP）カードの所持者は、サバ州、サラワク州、ラブアン連邦直轄領への入国が禁止されている。同省は、昨年9月30日の時点でUNHCRの記録にマレーシアで22万7,414人の難民と亡命希望者が登録されていると発表した。さらに、PDRMはクアラルンプールでのUNHCRカード偽造事件を1件のみ記録しており、6人のミャンマー人が関与しており、全員が法廷で起訴されている。"
+   "enriched_v": 3
   },
   {
    "title": "755 Filipino undocumented migrants repatriated via Sandakan",
@@ -151,23 +213,23 @@
    "id": "b557ae668eb1",
    "tags": [],
    "title_ja": "755人のフィリピン人不法移民がサンダカン経由で本国送還",
-   "summary_ja": "サンダカン：サバ州マレーシア移民局（JIM）は昨日、755人のフィリピン人不法移民（PATI）を海路で送還した。",
    "first_seen": "2026-11-20T07:39:06Z",
+   "url_real": "https://tvsabahnews.com/755-filipino-undocumented-migrants-repatriated-via-sandakan/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/c10299d1-d607-4084-b796-383deead8d2e.jpeg",
+   "image_alt": "755 Filipino undocumented migrants repatriated via Sandakan",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "SANDAKAN: The Sabah Malaysian Immigration Department (JIM) repatriated 755 Filipino undocumented migrants (PATI) by sea yesterday.\n\nThe Series 4/2026 transfer operation from Sandakan Port to Zamboanga City Port aboard the vessel MV Antonia 1 involved detainees from the Kota Kinabalu, Papar and Sandakan Immigration Depots.\n\nThey comprised 669 adult men, 63 adult women and 23 children (14 boys and nine girls) aged between six months and 69 years. The children were accompanied by their respective parents or guardians.\n\nOn the same day, Sabah JIM through the Kota Kinabalu and Papar Immigration Depots also repatriated 12 more undocumented migrants by air from Kota Kinabalu International Airport to KLIA before they were flown back to their home countries.\n\nThey involved 10 Pakistani men, one Indian man and one Vietnamese woman.\n\nThe success brought the total number of undocumented migrants repatriated by Sabah JIM so far this year to 10,006. This comprised 7,670 Filipinos, Indonesians (1,960), Chinese (156), Pakistanis (153), Vietnamese (30) and others (37).\n\nAccording to Sabah JIM, all detainees had completed serving their sentences under the country’s laws and were equipped with valid travel documents before the repatriation process was carried out.\n\nTo ensure smooth operations and avoid congestion at detention depots, Sabah JIM called for the cooperation of the Philippine Embassy to expedite the issuance of Travel Documents.\n\nSabah JIM also urged employers in the state, particularly in the plantation sector, to fully support the Sabah State Government’s digital registration programme for foreigners to curb the influx of foreign workers.\n\nThe department stressed it would not compromise with employers who stubbornly protected undocumented migrants. Firm action under the Immigration Act 1959/63 awaits them, including fines of up to RM50,000, imprisonment and caning.",
+   "body_ja": "サンダカン：サバ州マレーシア移民局（JIM）は昨日、755人のフィリピン人不法移民（PATI）を海路で送還した。\n\nMVアントニア1号によるサンダカン港からサンボアンガ市港へのシリーズ4/2026移送作戦には、コタキナバル、パパール、サンダカン入国管理所の被拘禁者が参加した。\n\n対象者は成人男性669人、成人女性63人、生後6か月から69歳までの子供23人（男子14人、女子9人）であった。子どもたちにはそれぞれの保護者が同伴しました。\n\n同日、サバJIMはコタキナバルとパパールの入国管理所を通じて、さらに12人の不法移民をコタキナバル国際空港からKLIAへ空路で送還し、その後帰国させた。\n\n参加者はパキスタン人男性10人、インド人男性1人、ベトナム人女性1人だった。\n\nこの成功により、今年これまでにサバJIMが本国に送還した不法移民の総数は10,006人となった。この内訳はフィリピン人7,670人、インドネシア人(1,960人)、中国人(156人)、パキスタン人(153人)、ベトナム人(30人)、その他(37人)であった。\n\nサバ・ジムによれば、すべての被拘禁者は同国の法律に基づく刑期を終えており、本国送還手続きが行われる前に有効な渡航書類を所持していたという。\n\n円滑な業務を確保し、拘留所の混雑を避けるため、サバJIMはフィリピン大使館に対し渡航書類の発行を迅速化するよう協力を求めた。\n\nサバ州JIMはまた、州内、特にプランテーション部門の雇用主に対し、外国人労働者の流入を抑制するためにサバ州政府の外国人向けデジタル登録プログラムを全面的に支援するよう求めた。\n\n同省は、不法移民を頑なに保護する雇用主とは妥協しないと強調した。 1959/63年移民法に基づく断固たる措置が彼らを待っており、これにはRM50,000以下の罰金、投獄および鞭打ちが含まれる。",
+   "summary_ja2": "サンダカン：サバ州マレーシア移民局（JIM）は昨日、755人のフィリピン人不法移民（PATI）を海路で送還した。MVアントニア1号によるサンダカン港からサンボアンガ市港へのシリーズ4/2026移送作戦には、コタキナバル、パパール、サンダカン入国管理所の被拘禁者が参加した。同日、サバJIMはコタキナバルとパパールの入国管理所を通じて、さらに12人の不法移民をコタキナバル国際空港からKLIAへ空路で送還し、その後帰国させた。",
+   "summary_ja": "サンダカン：サバ州マレーシア移民局（JIM）は昨日、755人のフィリピン人不法移民（PATI）を海路で送還した。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
     "労働・雇用"
    ],
-   "figures": [],
-   "url_real": "https://tvsabahnews.com/755-filipino-undocumented-migrants-repatriated-via-sandakan/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/c10299d1-d607-4084-b796-383deead8d2e.jpeg",
-   "image_alt": "755 Filipino undocumented migrants repatriated via Sandakan",
-   "site_name": "TV Sabah | News Portals",
-   "body": "SANDAKAN: The Sabah Malaysian Immigration Department (JIM) repatriated 755 Filipino undocumented migrants (PATI) by sea yesterday.\n\nThe Series 4/2026 transfer operation from Sandakan Port to Zamboanga City Port aboard the vessel MV Antonia 1 involved detainees from the Kota Kinabalu, Papar and Sandakan Immigration Depots.\n\nThey comprised 669 adult men, 63 adult women and 23 children (14 boys and nine girls) aged between six months and 69 years. The children were accompanied by their respective parents or guardians.\n\nOn the same day, Sabah JIM through the Kota Kinabalu and Papar Immigration Depots also repatriated 12 more undocumented migrants by air from Kota Kinabalu International Airport to KLIA before they were flown back to their home countries.\n\nThey involved 10 Pakistani men, one Indian man and one Vietnamese woman.\n\nThe success brought the total number of undocumented migrants repatriated by Sabah JIM so far this year to 10,006. This comprised 7,670 Filipinos, Indonesians (1,960), Chinese (156), Pakistanis (153), Vietnamese (30) and others (37).\n\nAccording to Sabah JIM, all detainees had completed serving their sentences under the country’s laws and were equipped with valid travel documents before the repatriation process was carried out.\n\nTo ensure smooth operations and avoid congestion at detention depots, Sabah JIM called for the cooperation of the Philippine Embassy to expedite the issuance of Travel Documents.\n\nSabah JIM also urged employers in the state, particularly in the plantation sector, to fully support the Sabah State Government’s digital registration programme for foreigners to curb the influx of foreign workers.\n\nThe department stressed it would not compromise with employers who stubbornly protected undocumented migrants. Firm action under the Immigration Act 1959/63 awaits them, including fines of up to RM50,000, imprisonment and caning.",
-   "body_ja": "サンダカン：サバ州マレーシア移民局（JIM）は昨日、755人のフィリピン人不法移民（PATI）を海路で送還した。\n\nMVアントニア1号によるサンダカン港からサンボアンガ市港へのシリーズ4/2026移送作戦には、コタキナバル、パパール、サンダカン入国管理所の被拘禁者が参加した。\n\n対象者は成人男性669人、成人女性63人、生後6か月から69歳までの子供23人（男子14人、女子9人）であった。子どもたちにはそれぞれの保護者が同伴しました。\n\n同日、サバJIMはコタキナバルとパパールの入国管理所を通じて、さらに12人の不法移民をコタキナバル国際空港からKLIAへ空路で送還し、その後帰国させた。\n\n参加者はパキスタン人男性10人、インド人男性1人、ベトナム人女性1人だった。\n\nこの成功により、今年これまでにサバJIMが本国に送還した不法移民の総数は10,006人となった。この内訳はフィリピン人7,670人、インドネシア人(1,960人)、中国人(156人)、パキスタン人(153人)、ベトナム人(30人)、その他(37人)であった。\n\nサバ・ジムによれば、すべての被拘禁者は同国の法律に基づく刑期を終えており、本国送還手続きが行われる前に有効な渡航書類を所持していたという。\n\n円滑な業務を確保し、拘留所の混雑を避けるため、サバJIMはフィリピン大使館に対し渡航書類の発行を迅速化するよう協力を求めた。\n\nサバ州JIMはまた、州内、特にプランテーション部門の雇用主に対し、外国人労働者の流入を抑制するためにサバ州政府の外国人向けデジタル登録プログラムを全面的に支援するよう求めた。\n\n同省は、不法移民を頑なに保護する雇用主とは妥協しないと強調した。 1959/63年移民法に基づく断固たる措置が彼らを待っており、これにはRM50,000以下の罰金、投獄および鞭打ちが含まれる。",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "サンダカン：サバ州マレーシア移民局（JIM）は昨日、755人のフィリピン人不法移民（PATI）を海路で送還した。MVアントニア1号によるサンダカン港からサンボアンガ市港へのシリーズ4/2026移送作戦には、コタキナバル、パパール、サンダカン入国管理所の被拘禁者が参加した。同日、サバJIMはコタキナバルとパパールの入国管理所を通じて、さらに12人の不法移民をコタキナバル国際空港からKLIAへ空路で送還し、その後帰国させた。"
+   "figures": []
   },
   {
    "title": "755 PATI Filipina diusir pulang melalui Sandakan",
@@ -183,23 +245,23 @@
     "入管・摘発"
    ],
    "title_ja": "サンダカン経由でフィリピン国籍755人が国外追放された",
-   "summary_ja": "サンダカン：サバ州のマレーシア移民局（JIM）は昨日、合計755人の不法移民（PATI）をフィリピンから海路で強制送還した。",
    "first_seen": "2026-11-20T07:39:06Z",
+   "url_real": "https://tvsabahnews.com/755-pati-filipina-diusir-pulang-melalui-sandakan/",
+   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/c10299d1-d607-4084-b796-383deead8d2e.jpeg",
+   "image_alt": "755 PATI Filipina diusir pulang melalui Sandakan",
+   "site_name": "TV Sabah | News Portals",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "SANDAKAN: Jabatan Imigresen Malaysia (JIM) Sabah mengusir pulang seramai 755 Pendatang Asing Tanpa Izin (PATI) warga Filipina melalui jalan laut, semalam.\n\nOperasi pemindahan Siri 4/2026 dari Pelabuhan Sandakan ke Pelabuhan Zamboanga City menaiki kapal MV Antonia 1 itu membabitkan tahanan dari Depot Imigresen Kota Kinabalu, Papar dan Sandakan.\n\nKesemua mereka terdiri dari 669 lelaki dewasa, 63 wanita dewasa dan 23 kanak-kanak (14 lelaki dan sembilan perempuan) berusia antara enam bulan hingga 69 tahun. Kanak-kanak terbabit diiringi ibu bapa atau penjaga masing-masing.\n\nPada hari sama, JIM Sabah melalui Depot Imigresen Kota Kinabalu dan Papar turut mengusir 12 lagi PATI melalui laluan udara dari Lapangan Terbang Antarabangsa Kota Kinabalu ke KLIA sebelum diterbangkan pulang ke negara asal.\n\nMereka membabitkan 10 lelaki Pakistan, seorang lelaki India dan seorang wanita Vietnam.\n\nKejayaan itu menjadikan jumlah keseluruhan PATI yang dihantar pulang oleh JIM Sabah setakat tahun ini mencecah 10,006 orang. Ia merangkumi 7,670 warga Filipina, Indonesia (1,960), China (156), Pakistan (153), Vietnam (30) dan lain-lain negara (37).\n\nMenurut JIM Sabah, kesemua tahanan sudah selesai menjalani hukuman mengikut undang-undang negara dan dilengkapi dokumen perjalanan sah sebelum proses pengusiran dilaksanakan.\n\nUntuk memastikan kelancaran operasi dan mengelakkan kesesakan di depot tahanan, JIM Sabah menyeru kerjasama Kedutaan Filipina untuk mempercepatkan pengeluaran Travel Document.\n\nJIM Sabah juga menggesa majikan di negeri ini, khususnya dalam sektor perladangan, menyokong penuh program pendataan digital warga asing kelolaan Kerajaan Negeri Sabah demi membendung lambakan pekerja asing.\n\nJabatan itu menegaskan tidak akan berkompromi dengan majikan yang berdegil melindungi PATI. Tindakan tegas di bawah Akta Imigresen 1959/63 menanti mereka, termasuk denda sehingga RM50,000, hukuman penjara dan sebatan.",
+   "body_ja": "サンダカン：サバ州のマレーシア移民局（JIM）は昨日、合計755人の不法移民（PATI）をフィリピンから海路で強制送還した。\n\nMVアントニア1号によるサンダカン港からサンボアンガ市港への移送作戦シリーズ4/2026には、コタキナバル、パパール、サンダカン入国管理所からの被拘禁者が参加した。\n\n全員は成人男性669人、成人女性63人、生後6か月から69歳までの子供23人（男子14人、女子9人）で構成されていた。参加する子供たちにはそれぞれの両親または保護者が同伴します。\n\n同日、ジム・サバ氏はコタキナバル入国管理局とパパール氏を通じてさらに12人の不法滞在者をコタキナバル国際空港からKLIAへ空路で強制送還し、その後帰国させた。\n\n参加者はパキスタン人男性10人、インド人男性1人、ベトナム人女性1人。\n\nこの成功により、今年これまでにジム・サバ州が送還した不法滞在者の総数は10,006人となった。この中にはフィリピン人7,670人、インドネシア(1,960人)、中国(156人)、パキスタン(153人)、ベトナム(30人)、その他の国(37人)が含まれている。\n\nジム・サバ氏によると、すべての被拘禁者は国内法に従って刑期を終えており、国外退去手続きが行われる前に有効な渡航書類を所持しているという。\n\n円滑な業務を確保し、拘留所の混雑を回避するため、ジム・サバ氏は渡航書類の発行を迅速化するためフィリピン大使館の協力を求めている。\n\nJIMサバ州はまた、州内、特にプランテーション部門の雇用主に対し、外国人労働者のダンピングを抑制するために、サバ州政府が管理する外国人向けのデジタルデータ収集プログラムを全面的に支援するよう求めている。\n\n同省は、PATIの保護に頑固な雇用主とは妥協しないと主張した。彼らには、1959/63 年移民法に基づく、最高 RM50,000 の罰金、投獄、鞭打ちなどの厳しい措置が待っています。",
+   "summary_ja2": "サンダカン：サバ州のマレーシア移民局（JIM）は昨日、合計755人の不法移民（PATI）をフィリピンから海路で強制送還した。MVアントニア1号によるサンダカン港からサンボアンガ市港への移送作戦シリーズ4/2026には、コタキナバル、パパール、サンダカン入国管理所からの被拘禁者が参加した。",
+   "summary_ja": "サンダカン：サバ州のマレーシア移民局（JIM）は昨日、合計755人の不法移民（PATI）をフィリピンから海路で強制送還した。",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
     "労働・雇用"
    ],
-   "figures": [],
-   "url_real": "https://tvsabahnews.com/755-pati-filipina-diusir-pulang-melalui-sandakan/",
-   "image": "https://tvsabahnews.com/wp-content/uploads/2026/11/c10299d1-d607-4084-b796-383deead8d2e.jpeg",
-   "image_alt": "755 PATI Filipina diusir pulang melalui Sandakan",
-   "site_name": "TV Sabah | News Portals",
-   "body": "SANDAKAN: Jabatan Imigresen Malaysia (JIM) Sabah mengusir pulang seramai 755 Pendatang Asing Tanpa Izin (PATI) warga Filipina melalui jalan laut, semalam.\n\nOperasi pemindahan Siri 4/2026 dari Pelabuhan Sandakan ke Pelabuhan Zamboanga City menaiki kapal MV Antonia 1 itu membabitkan tahanan dari Depot Imigresen Kota Kinabalu, Papar dan Sandakan.\n\nKesemua mereka terdiri dari 669 lelaki dewasa, 63 wanita dewasa dan 23 kanak-kanak (14 lelaki dan sembilan perempuan) berusia antara enam bulan hingga 69 tahun. Kanak-kanak terbabit diiringi ibu bapa atau penjaga masing-masing.\n\nPada hari sama, JIM Sabah melalui Depot Imigresen Kota Kinabalu dan Papar turut mengusir 12 lagi PATI melalui laluan udara dari Lapangan Terbang Antarabangsa Kota Kinabalu ke KLIA sebelum diterbangkan pulang ke negara asal.\n\nMereka membabitkan 10 lelaki Pakistan, seorang lelaki India dan seorang wanita Vietnam.\n\nKejayaan itu menjadikan jumlah keseluruhan PATI yang dihantar pulang oleh JIM Sabah setakat tahun ini mencecah 10,006 orang. Ia merangkumi 7,670 warga Filipina, Indonesia (1,960), China (156), Pakistan (153), Vietnam (30) dan lain-lain negara (37).\n\nMenurut JIM Sabah, kesemua tahanan sudah selesai menjalani hukuman mengikut undang-undang negara dan dilengkapi dokumen perjalanan sah sebelum proses pengusiran dilaksanakan.\n\nUntuk memastikan kelancaran operasi dan mengelakkan kesesakan di depot tahanan, JIM Sabah menyeru kerjasama Kedutaan Filipina untuk mempercepatkan pengeluaran Travel Document.\n\nJIM Sabah juga menggesa majikan di negeri ini, khususnya dalam sektor perladangan, menyokong penuh program pendataan digital warga asing kelolaan Kerajaan Negeri Sabah demi membendung lambakan pekerja asing.\n\nJabatan itu menegaskan tidak akan berkompromi dengan majikan yang berdegil melindungi PATI. Tindakan tegas di bawah Akta Imigresen 1959/63 menanti mereka, termasuk denda sehingga RM50,000, hukuman penjara dan sebatan.",
-   "body_ja": "サンダカン：サバ州のマレーシア移民局（JIM）は昨日、合計755人の不法移民（PATI）をフィリピンから海路で強制送還した。\n\nMVアントニア1号によるサンダカン港からサンボアンガ市港への移送作戦シリーズ4/2026には、コタキナバル、パパール、サンダカン入国管理所からの被拘禁者が参加した。\n\n全員は成人男性669人、成人女性63人、生後6か月から69歳までの子供23人（男子14人、女子9人）で構成されていた。参加する子供たちにはそれぞれの両親または保護者が同伴します。\n\n同日、ジム・サバ氏はコタキナバル入国管理局とパパール氏を通じてさらに12人の不法滞在者をコタキナバル国際空港からKLIAへ空路で強制送還し、その後帰国させた。\n\n参加者はパキスタン人男性10人、インド人男性1人、ベトナム人女性1人。\n\nこの成功により、今年これまでにジム・サバ州が送還した不法滞在者の総数は10,006人となった。この中にはフィリピン人7,670人、インドネシア(1,960人)、中国(156人)、パキスタン(153人)、ベトナム(30人)、その他の国(37人)が含まれている。\n\nジム・サバ氏によると、すべての被拘禁者は国内法に従って刑期を終えており、国外退去手続きが行われる前に有効な渡航書類を所持しているという。\n\n円滑な業務を確保し、拘留所の混雑を回避するため、ジム・サバ氏は渡航書類の発行を迅速化するためフィリピン大使館の協力を求めている。\n\nJIMサバ州はまた、州内、特にプランテーション部門の雇用主に対し、外国人労働者のダンピングを抑制するために、サバ州政府が管理する外国人向けのデジタルデータ収集プログラムを全面的に支援するよう求めている。\n\n同省は、PATIの保護に頑固な雇用主とは妥協しないと主張した。彼らには、1959/63 年移民法に基づく、最高 RM50,000 の罰金、投獄、鞭打ちなどの厳しい措置が待っています。",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "summary_ja2": "サンダカン：サバ州のマレーシア移民局（JIM）は昨日、合計755人の不法移民（PATI）をフィリピンから海路で強制送還した。MVアントニア1号によるサンダカン港からサンボアンガ市港への移送作戦シリーズ4/2026には、コタキナバル、パパール、サンダカン入国管理所からの被拘禁者が参加した。"
+   "figures": []
   },
   {
    "title": "RM1.06 juta bil kesihatan PTI di Sabah. Timbul tanggapan pesakit warga asing terima ‘rawatan kelas pertama’: Shahelmey",
@@ -216,16 +278,16 @@
     "医療・福祉"
    ],
    "title_ja": "サバ州における PTI の医療費 RM106 万。外国人患者は「一流の治療」を受けているという認識がある：シャヘルメイ氏",
-   "summary_ja": "",
    "first_seen": "2026-11-20T07:39:06Z",
+   "url_real": "https://www.dailyexpress.com.my/news/291830/rm1-06-juta-bil-kesihatan-pti-di-sabah-timbul-tanggapan-pesakit-warga-asing-terima-rawatan-kelas-pertama-shahelmey/",
+   "enriched": "blocked",
+   "enriched_v": 3,
+   "summary_ja": "",
    "impact": 1,
    "issues": [
     "医療アクセス"
    ],
-   "figures": [],
-   "url_real": "https://www.dailyexpress.com.my/news/291830/rm1-06-juta-bil-kesihatan-pti-di-sabah-timbul-tanggapan-pesakit-warga-asing-terima-rawatan-kelas-pertama-shahelmey/",
-   "enriched": "blocked",
-   "enriched_v": 3
+   "figures": []
   },
   {
    "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
@@ -664,59 +726,6 @@
    ]
   },
   {
-   "title": "107 undocumented migrants, including 25 children, held in Sabah raids",
-   "summary": "SANDAKAN: A total of 107 undocumented migrants, including 25 children, were detained in a series of immigration operations across four districts in Sabah between Monday (Nov 9) and Wednesday (Nov 11).",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemVuNjQxdlQyVG5oc1hwcmFsblZ1bFItOHBVQWxBZVhKZ1NSd2Z2X0dlc1NaR3lvQWdSblhnSWxndXNzT0pmNzRRdXJDaE9LRFRuR3l1ODR2RDJ6NlBmOThEOXRpSXhwWFluaVQzY0pSaDRXX2xFNktabkplczV1TE9tY2dxLWF2Ry1RMlF5NFVLbDB5XzB6c2N4SmlCZUlJem1wMUd4WEVTbWg2d09VZXBLS1JmX0NP?oc=5",
-   "source": "The Star",
-   "date": "2026-11-11T11:19:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "fcad44761a75",
-   "tags": [
-    "入管・摘発",
-    "子ども"
-   ],
-   "title_ja": "サバ州襲撃で子供25人を含む不法移民107人が拘束される",
-   "first_seen": "2026-11-11T19:47:57Z",
-   "url_real": "https://www.thestar.com.my/news/nation/2026/11/11/107-undocumented-migrants-including-25-children-held-in-sabah-raids",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/11/4207288.jpg",
-   "site_name": "The Star",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "SANDAKAN: A total of 107 undocumented migrants, including 25 children, were detained in a series of immigration operations across four districts in Sabah between Monday (Nov 9) and Wednesday (Nov 11).\n\nThe Sabah Immigration Department said the operations in Kota Kinabalu, Penampang, Ranau and Sandakan were part of its ongoing efforts to combat illegal immigration across the state.\n\nOf those detained, 71 were picked up during simultaneous operations in Ranau and Sandakan on Wednesday, while another 36 were arrested in Kota Kinabalu and Penampang on Monday.\n\nIn Sandakan, 50 undocumented migrants, including 25 children, were detained during Ops Sapu, which began at 1.35am on Wednesday.\n\nA team of 15 immigration enforcement officers inspected 83 individuals at five locations, including Kampung Ulu Dusun at Mile 30, Jalan Labuk, Kampung Bimbim at Mile 16, two sites in Kampung Gum-Gum and Flat Taman Sejati at Mile 7, Jalan Airport.\n\nIn Ranau, 21 Filipino nationals were detained following public complaints about the presence of suspected undocumented migrants.\n\nThe operation involved 14 immigration officers assisted by Rela personnel, who inspected 24 individuals at three locations.\n\nThe department said the 71 detainees from both districts comprised 68 Filipinos and three Indonesians.\n\nMeanwhile, separate operations conducted in Kota Kinabalu and Penampang on Monday resulted in the detention of 36 undocumented migrants and one employer.\n\nThe operations, involving 19 enforcement officers, were carried out from 2pm to 11.30pm at six locations, including shopping centres, spas, business premises and rented rooms.\n\nA total of 312 individuals were screened during the operations, which were conducted under Ops Belanja, Ops Kutip, Ops Sapu and Ops Gegar.\n\nThe 36 undocumented migrants comprised 34 Filipinos, one Pakistani and one Indonesian, all of whom were found without valid identification documents or immigration passes.\n\nThe department also issued a witness summons, known as Form Imm.29, for further action.\n\nAll 107 undocumented migrants were detained under Section 6(1)(c) of the Immigration Act 1959/63 for allegedly entering or remaining in Malaysia without valid passes or permits.\n\nThe detainees from the Kota Kinabalu and Penampang operations were taken to the Kota Kinabalu Immigration Depot for documentation and further investigation.\n\nThe department said enforcement operations would continue across Sabah, including urban centres and rural districts.\n\nIt also urged the public to report suspected immigration offences through its official complaint channels.",
-   "body_ja": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。\n\nサバ州移民局は、コタキナバル、ペナンパン、ラナウ、サンダカンでの作戦は、州全体の不法移民と戦うための継続的な取り組みの一環であると述べた。\n\n拘束された人々のうち、71人は水曜日にラナウとサンダカンで同時作戦中に逮捕され、さらに36人が月曜日にコタキナバルとペナンパンで逮捕された。\n\nサンダカンでは、水曜午前1時35分から始まったオプサプ作戦中に、子供25人を含む不法移民50人が拘束された。\n\n入国管理官15人からなるチームは、マイル30のカンプン・ウル・ドゥスン、ジャラン・ラブク、マイル16のカンプン・ビンビン、カンプン・ガムガムの2か所、ジャラン空港マイル7のフラット・タマン・セジャティを含む5か所で83人を検査した。\n\nラナウでは、不法移民の疑いがある人の存在に関する国民の苦情を受けて、21人のフィリピン人が拘束された。\n\nこの作戦には、Rela職員の支援を受けて14人の入国管理官が関与し、3か所で24人を検査した。\n\n同省によると、両地区の拘留者７１人はフィリピン人６８人、インドネシア人３人となっている。\n\n一方、月曜日にコタキナバルとペナンパンで実施された別個の作戦により、不法移民36名と雇用主1名が拘束された。\n\n19人の執行官が参加したこの作戦は、ショッピングセンター、スパ、ビジネス施設、レンタルルームなど6か所で午後2時から午後11時30分まで実施された。\n\nベランハ作戦、クティプ作戦、サプ作戦、ゲガル作戦のもとで実施された作戦中に、合計312人が検査を受けた。\n\n36人の不法移民はフィリピン人34人、パキスタン人1人、インドネシア人1人で構成されており、全員が有効な身分証明書や入国許可証を所持していない状態で発見された。\n\n同省はまた、更なる措置を講じるため、Form Imm.29として知られる証人召喚も発行した。\n\n107 人の不法移民全員が、有効なパスや許可証なしにマレーシアに入国または残留した疑いで、1959/63 年移民法第 6 条(1)(c) に基づいて拘留された。\n\nコタキナバルとペナンパンの作戦からの被拘禁者は、記録とさらなる調査のためにコタキナバル入国管理所に連行された。\n\n同省は、都市中心部や農村部を含むサバ州全域で取り締まりが継続されると述べた。\n\nまた国民に対し、移民法違反の疑いがある場合は公式の苦情チャンネルを通じて通報するよう呼び掛けた。",
-   "summary_ja2": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。一方、月曜日にコタキナバルとペナンパンで実施された別個の作戦により、不法移民36名と雇用主1名が拘束された。ベランハ作戦、クティプ作戦、サプ作戦、ゲガル作戦のもとで実施された作戦中に、合計312人が検査を受けた。",
-   "summary_ja": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。",
-   "impact": 0,
-   "issues": [
-    "摘発・収容・送還",
-    "労働・雇用"
-   ],
-   "figures": [
-    {
-     "n": 107,
-     "kind": "拘束",
-     "raw": "107 undocumented"
-    },
-    {
-     "n": 25,
-     "kind": "拘束",
-     "raw": "25 children"
-    },
-    {
-     "n": 50,
-     "kind": "拘束",
-     "raw": "50 undocumented"
-    },
-    {
-     "n": 24,
-     "kind": "拘束",
-     "raw": "24 individu"
-    }
-   ]
-  },
-  {
    "title": "36 undocumented migrants detained in Immigration operation in Kota Kinabalu, Penampang",
    "summary": "By: Zaidul Khair bin Jungkim",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDJuOEIxR0hZTDlUb09HUnh2YWd0MFBRaVZGZzNiMWtHTmJVU1Fad08wZklISWExWTlCYmhVV202SzNCMk1fNFA1LUhZQnZ2OTFUbVByZGJPUmdlbU5kVVVhWVZYMUk5eEVuN1M2MUhZb3EwTm13bFZsM2poNllYZk95bTF6cmJodExjOGlxbVpsRzNiY2hJRXRDeUZjSnZFRjltRkhKVmtOdXNpMFJn?oc=5",
@@ -789,6 +798,59 @@
      "n": 36,
      "kind": "拘束",
      "raw": "36 PATI"
+    }
+   ]
+  },
+  {
+   "title": "107 undocumented migrants, including 25 children, held in Sabah raids",
+   "summary": "SANDAKAN: A total of 107 undocumented migrants, including 25 children, were detained in a series of immigration operations across four districts in Sabah between Monday (Nov 9) and Wednesday (Nov 11).",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemVuNjQxdlQyVG5oc1hwcmFsblZ1bFItOHBVQWxBZVhKZ1NSd2Z2X0dlc1NaR3lvQWdSblhnSWxndXNzT0pmNzRRdXJDaE9LRFRuR3l1ODR2RDJ6NlBmOThEOXRpSXhwWFluaVQzY0pSaDRXX2xFNktabkplczV1TE9tY2dxLWF2Ry1RMlF5NFVLbDB5XzB6c2N4SmlCZUlJem1wMUd4WEVTbWg2d09VZXBLS1JmX0NP?oc=5",
+   "source": "The Star",
+   "date": "2026-11-11T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "fcad44761a75",
+   "tags": [
+    "入管・摘発",
+    "子ども"
+   ],
+   "title_ja": "サバ州襲撃で子供25人を含む不法移民107人が拘束される",
+   "first_seen": "2026-11-11T19:47:57Z",
+   "url_real": "https://www.thestar.com.my/news/nation/2026/11/11/107-undocumented-migrants-including-25-children-held-in-sabah-raids",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/11/4207288.jpg",
+   "site_name": "The Star",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "SANDAKAN: A total of 107 undocumented migrants, including 25 children, were detained in a series of immigration operations across four districts in Sabah between Monday (Nov 9) and Wednesday (Nov 11).\n\nThe Sabah Immigration Department said the operations in Kota Kinabalu, Penampang, Ranau and Sandakan were part of its ongoing efforts to combat illegal immigration across the state.\n\nOf those detained, 71 were picked up during simultaneous operations in Ranau and Sandakan on Wednesday, while another 36 were arrested in Kota Kinabalu and Penampang on Monday.\n\nIn Sandakan, 50 undocumented migrants, including 25 children, were detained during Ops Sapu, which began at 1.35am on Wednesday.\n\nA team of 15 immigration enforcement officers inspected 83 individuals at five locations, including Kampung Ulu Dusun at Mile 30, Jalan Labuk, Kampung Bimbim at Mile 16, two sites in Kampung Gum-Gum and Flat Taman Sejati at Mile 7, Jalan Airport.\n\nIn Ranau, 21 Filipino nationals were detained following public complaints about the presence of suspected undocumented migrants.\n\nThe operation involved 14 immigration officers assisted by Rela personnel, who inspected 24 individuals at three locations.\n\nThe department said the 71 detainees from both districts comprised 68 Filipinos and three Indonesians.\n\nMeanwhile, separate operations conducted in Kota Kinabalu and Penampang on Monday resulted in the detention of 36 undocumented migrants and one employer.\n\nThe operations, involving 19 enforcement officers, were carried out from 2pm to 11.30pm at six locations, including shopping centres, spas, business premises and rented rooms.\n\nA total of 312 individuals were screened during the operations, which were conducted under Ops Belanja, Ops Kutip, Ops Sapu and Ops Gegar.\n\nThe 36 undocumented migrants comprised 34 Filipinos, one Pakistani and one Indonesian, all of whom were found without valid identification documents or immigration passes.\n\nThe department also issued a witness summons, known as Form Imm.29, for further action.\n\nAll 107 undocumented migrants were detained under Section 6(1)(c) of the Immigration Act 1959/63 for allegedly entering or remaining in Malaysia without valid passes or permits.\n\nThe detainees from the Kota Kinabalu and Penampang operations were taken to the Kota Kinabalu Immigration Depot for documentation and further investigation.\n\nThe department said enforcement operations would continue across Sabah, including urban centres and rural districts.\n\nIt also urged the public to report suspected immigration offences through its official complaint channels.",
+   "body_ja": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。\n\nサバ州移民局は、コタキナバル、ペナンパン、ラナウ、サンダカンでの作戦は、州全体の不法移民と戦うための継続的な取り組みの一環であると述べた。\n\n拘束された人々のうち、71人は水曜日にラナウとサンダカンで同時作戦中に逮捕され、さらに36人が月曜日にコタキナバルとペナンパンで逮捕された。\n\nサンダカンでは、水曜午前1時35分から始まったオプサプ作戦中に、子供25人を含む不法移民50人が拘束された。\n\n入国管理官15人からなるチームは、マイル30のカンプン・ウル・ドゥスン、ジャラン・ラブク、マイル16のカンプン・ビンビン、カンプン・ガムガムの2か所、ジャラン空港マイル7のフラット・タマン・セジャティを含む5か所で83人を検査した。\n\nラナウでは、不法移民の疑いがある人の存在に関する国民の苦情を受けて、21人のフィリピン人が拘束された。\n\nこの作戦には、Rela職員の支援を受けて14人の入国管理官が関与し、3か所で24人を検査した。\n\n同省によると、両地区の拘留者７１人はフィリピン人６８人、インドネシア人３人となっている。\n\n一方、月曜日にコタキナバルとペナンパンで実施された別個の作戦により、不法移民36名と雇用主1名が拘束された。\n\n19人の執行官が参加したこの作戦は、ショッピングセンター、スパ、ビジネス施設、レンタルルームなど6か所で午後2時から午後11時30分まで実施された。\n\nベランハ作戦、クティプ作戦、サプ作戦、ゲガル作戦のもとで実施された作戦中に、合計312人が検査を受けた。\n\n36人の不法移民はフィリピン人34人、パキスタン人1人、インドネシア人1人で構成されており、全員が有効な身分証明書や入国許可証を所持していない状態で発見された。\n\n同省はまた、更なる措置を講じるため、Form Imm.29として知られる証人召喚も発行した。\n\n107 人の不法移民全員が、有効なパスや許可証なしにマレーシアに入国または残留した疑いで、1959/63 年移民法第 6 条(1)(c) に基づいて拘留された。\n\nコタキナバルとペナンパンの作戦からの被拘禁者は、記録とさらなる調査のためにコタキナバル入国管理所に連行された。\n\n同省は、都市中心部や農村部を含むサバ州全域で取り締まりが継続されると述べた。\n\nまた国民に対し、移民法違反の疑いがある場合は公式の苦情チャンネルを通じて通報するよう呼び掛けた。",
+   "summary_ja2": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。一方、月曜日にコタキナバルとペナンパンで実施された別個の作戦により、不法移民36名と雇用主1名が拘束された。ベランハ作戦、クティプ作戦、サプ作戦、ゲガル作戦のもとで実施された作戦中に、合計312人が検査を受けた。",
+   "summary_ja": "サンダカン：月曜日（11月9日）から水曜日（11月11日）にかけてサバ州の4つの地区にわたる一連の入国管理作業で、子供25人を含む合計107人の不法移民が拘束された。",
+   "impact": 0,
+   "issues": [
+    "摘発・収容・送還",
+    "労働・雇用"
+   ],
+   "figures": [
+    {
+     "n": 107,
+     "kind": "拘束",
+     "raw": "107 undocumented"
+    },
+    {
+     "n": 25,
+     "kind": "拘束",
+     "raw": "25 children"
+    },
+    {
+     "n": 50,
+     "kind": "拘束",
+     "raw": "50 undocumented"
+    },
+    {
+     "n": 24,
+     "kind": "拘束",
+     "raw": "24 individu"
     }
    ]
   },
@@ -4904,7 +4966,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=o5weEIXiTogQ7kNvwHsTNPz&_nc_oc=AdqgrP0cA2xFnKNvjtnzqa38HkhnSPQXTWuCg-mnKQ3UI7ql0Oyk3AGCqNref_I_cEw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2EVcZdPTXbqKHKYaYIuVEA&_nc_ss=79289&oh=00_AQRGBn42E4mfjf4HE27EfQ7zAjMmma8k4zZp3ire8swqWw&oe=6B05D1AD",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=o5weEIXiTogQ7kNvwE31PSR&_nc_oc=AdoXcRfdBTex0QAFJFH2NNwkUoN2fFusYh6s_l0y76GVZv_NpUA7qMGYen5vF7NoUrQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=owhwT_jbrcFI0SYWVBh13g&_nc_ss=79289&oh=00_AQRJOTyckenkVhXR5g-E1EkGNxVKLIHEZsZU96iqWUFiZg&oe=6B067A6D",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6410,7 +6472,7 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "e7cfc4c5928a",
    "tags": [
     "無国籍",
@@ -6421,7 +6483,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=aSXgrvJS_LYQ7kNvwGk7J_F&_nc_oc=AdouQQgZrEzRrKsOiKKxI_wa0hp1vpqm6YCkPkiK0RduvGK8X-NS3Td7k9koOFQQCXE&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=q2dKbVE2eOl7tuoICCVpOA&_nc_ss=79289&oh=00_AQQLTORPeqdIyksB641BVoPoIoJMhX5TBi9HLOBP7HGgLg&oe=6B05DAAF",
+   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=aSXgrvJS_LYQ7kNvwFEjx3S&_nc_oc=AdrNMzB5UjWHQ2aPfLaN4d_b6sb193DI2Rd_eHTYPHgcfshmvhYdqveuLLbwOwiSb8U&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=QGl2rb_75KjZ17zueLAAiA&_nc_ss=79289&oh=00_AQSvukf9Z6dPPoUgaLF4nifZBD1gt3jDS4BpD2VRDWnxZA&oe=6B06836F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6639,7 +6701,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -6808,7 +6870,7 @@
    ],
    "title_ja": "IMM13: サバ州と未だ解決されていない50年前のスキャンダル",
    "first_seen": "2026-09-18T05:02:32Z",
-   "url_real": "https://www.youtube.com/watch?si=UfEjwn6yWvQdZ5t7&v=pbftxPKPDSk&feature=youtu.be",
+   "url_real": "https://www.youtube.com/watch?v=pbftxPKPDSk",
    "enriched": "thin",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
@@ -7547,8 +7609,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -8326,12 +8388,12 @@
    "date": "2026-05-08T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "52e8c9b5ce49",
    "tags": [
-    "バジャウ",
+    "無国籍",
     "子ども",
-    "無国籍"
+    "バジャウ"
    ],
    "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
    "first_seen": "2026-08-10T08:27:43Z",
@@ -8391,11 +8453,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -11962,5 +12024,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-20T07:46:05Z"
+ "enriched_at": "2026-11-20T20:44:01Z"
 }
