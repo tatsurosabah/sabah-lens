@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-23T08:01:29Z",
- "count": 324,
+ "updated": "2026-11-24T00:15:28Z",
+ "count": 326,
  "tags": {
   "入管・摘発": 218,
   "市民権": 38,
   "無国籍": 32,
-  "難民": 22,
+  "難民": 23,
   "子ども": 22,
-  "政策・政治": 16,
+  "政策・政治": 18,
   "バジャウ": 11,
   "人権・NGO": 8,
-  "医療・福祉": 6,
+  "医療・福祉": 7,
   "ロヒンギャ": 4,
   "教育": 3
  },
  "sources": {
   "TV Sabah News": 53,
   "Sabah Media": 47,
-  "Daily Express Malaysia": 27,
+  "Daily Express Malaysia": 28,
   "The Star": 17,
   "sabahnews.com.my": 16,
   "NST Online": 16,
@@ -48,6 +48,7 @@
   "The Vibes": 2,
   "KLSE Screener": 1,
   "DayakDaily": 1,
+  "Head Topics": 1,
   "Warta Oriental": 1,
   "Newswav": 1,
   "BusinessMirror": 1,
@@ -139,6 +140,38 @@
     "難民・UNHCR"
    ],
    "figures": []
+  },
+  {
+   "title": "Refugee card holders barred from Sabah, Sarawak and Labuan, says Home Ministry - Parliament | Dewan Rakyat News",
+   "summary": "PETALING JAYA: Mixed doubles pair Goh Soon Huat-Shevon Lai Jemie stormed into the semi-finals of the Hong Kong Open after pulling off an upset against China's fourth seeds Guo Xinwa-Chen Fanghui on Fr",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTNHd1BJMUFKdV9HLXNqTzdTUDkxX1Z4bFpVSFZOb0dFRVl6d183dHJMaFJ4bW10TnBKS0lHcm91U2JkNHJNazRnVmswSXNHeE5ta3FrWnFqZElacEpPZXRqZktJNU5wel9RRF9SZkxvUUFRS3lOOG9aeHRpWnQ1dFlEU01vU2FsWV9PZmpSRGhpMWUtYnA1WnJtclV5UQ?oc=5",
+   "source": "Head Topics",
+   "date": "2026-11-20T05:31:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "099679fe0b47",
+   "tags": [
+    "難民",
+    "政策・政治"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-24T00:13:02Z",
+   "impact": 4,
+   "issues": [
+    "摘発・収容・送還",
+    "難民・UNHCR"
+   ],
+   "figures": [],
+   "url_real": "https://ng.headtopics.com/news/refugee-card-holders-barred-from-sabah-sarawak-and-labuan-90019118",
+   "image": "https://i.headtopics.com/images/2026/11/20/staronline/refugee-card-holders-barred-from-sabah-sarawak-and-refugee-card-holders-barred-from-sabah-sarawak-and-03DE13CB1656752AABD9D530F375469A-16x9.webp",
+   "image_alt": "Refugee card holders barred from Sabah, Sarawak and Labuan, says Home Ministry",
+   "site_name": "Head Topics",
+   "body": "KUALA LUMPUR: Holders of the Refugee Registration Document card, which the government began issuing on Jan 1, are barred from entering Sabah, Sarawak and the Federal Territory of Labuan.\n\nIn a written reply on Parliament's official website, the Home Ministry said cardholders, who are issued a Special Pass under Rule 14 of the Immigration Regulations 1963, are only permitted to remain in the state where they are registered. The ministry said any movement to other states requires written approval from the respective state Immigration Director.\n\nAccording to the ministry, the DPP programme was introduced to gradually take over the refugee registration function from the United Nations High Commissioner for Refugees .\n\n\"The programme enables the government to develop an official biometric database covering identity verification, security profiles and location information, thereby strengthening control and monitoring of the presence of this group,\" the reply read. Suhaizan Kaiat wanted to know the latest number of Rohingya, their involvement in crime, complaints of UNHCR card forgery, their resettlement locations and the government's measures to control and manage them.\n\nThe ministry said that to prevent the DPP programme from becoming a pull factor for new arrivals, only refugees in the country before Jan 1, 2023 are eligible. It said refugees or asylum seekers who entered illegally after that date will not be considered and will face immigration enforcement action.\n\n\"The ministry states that the DPP card is not a travel document. The government stresses that holding a DPP card is subject to compliance with national laws and the stipulated conditions.\n\n\"Any individual who violates the law or these conditions will face enforcement action, including cancellation of the pass and deportation under the provisions and legal processes in force. \"The DPP programme does not grant permanent resident status and is not a pathway to Malaysian citizenship,\" the reply added. The ministry said 227,414 refugees and asylum seekers were registered in Malaysia under UNHCR records as of Sept 30 last year.\n\nThe ministry said Selangor recorded the most UNHCR cardholders in Peninsular Malaysia at 33% , followed by Kuala Lumpur at 21% and Penang at 11% . It said that as of Oct 31 last year, 6,294 ethnic Rohingya were also recorded at immigration detention depots across the peninsula, out of a total of 11,208 Myanmar nationals detained.\n\nIt cited Royal Malaysia Police statistics showing 199 index crime cases involving Myanmar refugees from 2022 to August this year: 52 cases in 2022, 43 in 2023, 37 in 2024, 29 in 2025, and 38 this year up to August. In addition, PDRM recorded only one case of UNHCR card forgery in Kuala Lumpur, involving six Myanmar nationals, all of whom have been charged in court. – BernamaPrisons Dept finalising SOPs for Najib's house arrest, Dewan Rakyat told",
+   "body_ja": "",
+   "enriched": "ok",
+   "enriched_v": 3
   },
   {
    "title": "Refugee card holders barred from Sabah, Sarawak and Labuan, says Home Ministry",
@@ -290,6 +323,32 @@
     "医療アクセス"
    ],
    "figures": []
+  },
+  {
+   "title": "Health Ministry urged to explain Sabah’s RM1.06 million unpaid migrant medical bills",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODlETWV3RFZWOVVRM3czRzRuOWtRSGh4Q3dDaGY4cFd1VGZkVUVMMTRVY3BOSFJ4bG01TjRXaDlSQ19SQjlCZWRQZWpJYVh3OXBhTWJ5VU1UQXUwSFJleGVsV1NqZDNVT2pwTFhlVFNEOGJkc0h0TmxuRmtESXlISjM1OVZyVkxOQ2NjRDBkcm1JUk9NU1U0Y2hPbGZWV3lJaXVfTlB5WklXOFNnM1E1YUFsTHdST3dPMUgzc1NfM0xNSTVtdGplRw?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-11-19T07:48:11Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "79fa278fc85b",
+   "tags": [
+    "医療・福祉",
+    "政策・政治"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-24T00:13:02Z",
+   "impact": 1,
+   "issues": [
+    "医療アクセス"
+   ],
+   "figures": [],
+   "url_real": "https://www.dailyexpress.com.my/news/291794/health-ministry-urged-to-explain-sabah-s-rm1-06-million-unpaid-migrant-medical-bills/",
+   "enriched": "failed",
+   "enriched_v": 3
   },
   {
    "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
@@ -1401,7 +1460,7 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
@@ -5030,7 +5089,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=JH6XoHEgjfgQ7kNvwHRzHkt&_nc_oc=AdoQ22JDcRwHms2CcJ3F_R_MNxEbntn1WQRZplN6tcNmR2LzjQGS2L00CCywpPicqxk&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=sp25E35hs7muuJUxdAoYMw&_nc_ss=79289&oh=00_AQQFm-dgDB2CdkvIt4aKWKBeLpAAgUDtpoNPXpyf3olseA&oe=6B09C62D",
+   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=d3Vb-QpH6JoQ7kNvwGG6oj-&_nc_oc=AdrJ-CKZCZYSroh2J0F1SU-1C8CbGUo2tRNTjenbutxEMiN48-gLRVJvMu9pbLSxmXk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=tUS65meJX77mTvvtRPLzKg&_nc_ss=79289&oh=00_AQRfOX9BgSO3K8SVdnAie8T0TWEzelHtTW83B-ubiOYA3A&oe=6B0AA72D",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5846,7 +5905,7 @@
    "first_seen": "2026-08-15T18:57:16Z",
    "url_real": "https://www.sayangsabah.com.my/2026/07/208-pati-ditahan-dalam-operasi.html",
    "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFEWTHPCoZ0sguUSUF36nYWLuX3TFHQYIIsMvEJZMstB5y1rKqk2MPmgT5Xg52g57ivcpKY8J12k00Vg",
-   "enriched": "failed",
+   "enriched": "thin",
    "enriched_v": 3,
    "summary_ja": "",
    "impact": 0,
@@ -6536,7 +6595,7 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "e7cfc4c5928a",
    "tags": [
     "無国籍",
@@ -6547,7 +6606,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=o49Xy_oay1MQ7kNvwH76CjU&_nc_oc=AdoCv6-cG3Jg7g__ZQxkzFlChjyHNCNPRRXb-xy3VlKzK6rorFW_E7K86eQdZfQkeEE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7gisCis0laZw4cEXSwFfiw&_nc_ss=79289&oh=00_AQQDgSYR7IqvPc0eQqeQott20kLpJEzokwzxsoSUsZNTRQ&oe=6B09CF2F",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=o49Xy_oay1MQ7kNvwGfg9hh&_nc_oc=AdrSJBuygh8GzTWDkhsmkVl9ECiR5ME1QHP3uKTkQY_aGkHRYfFomaCm-pnWHFyANK8&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=ipnXGHBtq45QwOK_D20iLw&_nc_ss=79389&oh=00_AQTRNTiWQn069wbGlud9eIASKbsNIg1xw0neGVF4C2i5XQ&oe=6B0AB02F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6639,22 +6698,22 @@
     "ロヒンギャ"
    ],
    "title_ja": "彼らはホームレスではない、サバ州のロヒンギャ活動家家族の隣人が事実を正すために名乗り出る",
-   "summary_ja": "ラハド・ダトゥ - ロヒンギャ活動家ヌール・アジザの隣人と思われる女性が名乗り出て、このウイルスの話の正当性に異議を唱え、次のようなことがあったと主張した。",
    "first_seen": "2026-11-20T07:39:06Z",
-   "impact": 0,
-   "issues": [
-    "難民・UNHCR"
-   ],
-   "figures": [],
-   "enriched": "ok",
-   "enriched_v": 3,
    "url_real": "https://themalaysiapress.com/2026/06/20/mereka-bukan-gelandangan-jiran-keluarga-aktivis-rohingya-di-sabah-tampil-betulkan-fakta/",
    "image": "https://themalaysiapress.com/wp-content/uploads/2026/06/IMG-20260620-WA0035.jpg",
    "image_alt": "aktivis Rohingya",
    "site_name": "MALAYSIAPRESS.COM",
+   "enriched": "ok",
+   "enriched_v": 3,
    "body": "LAHAD DATU – Seorang wanita yang dipercayai jiran aktivis Rohingya, Noor Azizah tampil mempertikaikan kesahihan kisah tular sekali gus mendakwa terdapat beberapa maklumat yang tidak tepat mengenai latar belakang kehidupan aktivis terbabit. Wanita berkenaan yang dikenali sebagai Juniartini Bahar, 42, mendakwa, dia mengenali Noor Azizah sejak kecil dan pernah tinggal di flat di Jalan Leila, Sandakan. Katanya, berdasarkan pengalaman, Noor Azizah membesar bersama keluarga di kawasan perumahan dan bukannya sebagai gelandangan seperti yang digambarkan dalam naratif tular. “Point penting saya. Dia (Azizah) bukan gelandangan cari makanan dalam sampah, tetapi membesar elok, sihat dan dapat BCG sama macam kanak-kanak Malaysia yang lain. “Dia bukan jalan kaki merentas segala hutan belantara atau tinggal dalam hutan. Mereka sekeluarga berpindah ke Australia pada tahun 2001 atau 2002,” katanya menerusi perkongsian di Facebook miliknya. Juniartini menyifatkan tindakan Azizah dilihat tidak memberi impak yang jelas kepada komuniti Rohingya, sebaliknya lebih tertumpu kepada penyampaian pandangan yang cenderung negatif terhadap Malaysia. Katanya, keadaan ini menimbulkan persepsi bahawa Azizah seolah-olah mengambil kesempatan menggunakan identiti Rohingya, namun matlamat perjuangan tersebut tidak benar-benar memfokuskan kepentingan bangsanya sendiri. Bercakap kepada The Malaysia Press, Juniartini berkata, dia percaya setiap fakta perlu dijelaskan dengan tepat agar orang ramai memperoleh gambaran yang seimbang. “Saya juga ingin menegaskan bahawa kenyataan ini bukan bertujuan untuk mencari populariti atau menjadi tular, sebaliknya demi memperbetulkan sebarang dakwaan yang boleh membawa kepada fitnah terhadap negara Malaysia yang saya cintai. “Apabila negara difitnah, menjadi tanggungjawab saya untuk memperbetulkan perkara yang tidak tepat,” ujarnya. Dalam pada itu, Juniartini tidak bersetuju dengan mana-mana netizen yang melemparkan kata-kata kesat terhadap ibu bapa Azizah. “Demi Allah, saya sangat menyayangi mereka dan saya menganggap mereka seperti ibu bapa saya sendiri. “Sebab itu saya berfikir berkali-kali sebelum membuat sebarang hantaran tapi saya tetap bersuara kerana rasa kecewa dengan Azizah,” kongsinya. Baru-baru ini tular Noor Azizah dikecam netizen apabila ucapannya dalam satu majlis di Australia menyentuh tentang nasib pelarian etnik Rohingya di negara ini.",
    "body_ja": "ラハド・ダトゥ - ロヒンギャ活動家の隣人であると考えられている女性、ヌール・アジザは、このウイルスの話の正当性に異議を唱え、活動家の人生の背景について不正確な情報があると主張した。ジュニアルティニ・バハール（42歳）として知られるこの女性は、子供の頃からヌール・アジザを知っており、サンダカン州ジャラン・レイラのアパートに住んでいたと主張した。同氏は経験に基づいて、ヌール・アジザさんは住宅街で家族とともに育ち、ウイルスの物語で描かれているようなホームレスとしてではなかったと述べた。 「私が重要なのは、彼女（アジザ）はゴミの中から食べ物を探しているホームレスではなく、他のマレーシアの子供たちと同じように美しく健康に育ち、BCGも受けて育ったということです。」 彼女は荒野をずっと歩いて歩いたり、森の中で暮らしたりしたわけではありません。家族は2001年か2002年にオーストラリアに移住した」とフェイスブックで共有した。ジュニアルティニさんは、アジザさんの行動はロヒンギャコミュニティに明確な影響を与えておらず、むしろマレーシアに対して否定的な傾向にある意見を伝えることに重点を置いていると説明した。この状況により、アジザさんはロヒンギャのアイデンティティを利用しているように見えるが、闘争の目的は実際には自国の利益に焦点を当てているわけではないと述べた。マレーシア・プレスのジュニアルティニ氏は、国民がバランスのとれた状況を理解するには、あらゆる事実を正確に説明する必要があると信じていると述べ、「この声明は人気を集めたり、拡散することを目的としたものではなく、むしろ私の愛する国に対する中傷につながる可能性のある疑惑を正すことを目的としているということも強調したい。」 「国が中傷された場合、それは国の責任です」",
-   "summary_ja2": "ラハド・ダトゥ - ロヒンギャ活動家の隣人であると考えられている女性、ヌール・アジザは、このウイルスの話の正当性に異議を唱え、活動家の人生の背景について不正確な情報があると主張した。ジュニアルティニ・バハール（42歳）として知られるこの女性は、子供の頃からヌール・アジザを知っており、サンダカン州ジャラン・レイラのアパートに住んでいたと主張した。"
+   "summary_ja2": "ラハド・ダトゥ - ロヒンギャ活動家の隣人であると考えられている女性、ヌール・アジザは、このウイルスの話の正当性に異議を唱え、活動家の人生の背景について不正確な情報があると主張した。ジュニアルティニ・バハール（42歳）として知られるこの女性は、子供の頃からヌール・アジザを知っており、サンダカン州ジャラン・レイラのアパートに住んでいたと主張した。",
+   "summary_ja": "ラハド・ダトゥ - ロヒンギャ活動家ヌール・アジザの隣人と思われる女性が名乗り出て、このウイルスの話の正当性に異議を唱え、次のようなことがあったと主張した。",
+   "impact": 0,
+   "issues": [
+    "難民・UNHCR"
+   ],
+   "figures": []
   },
   {
    "title": "166 PATI Filipina dihantar pulang ke negara asal",
@@ -6765,7 +6824,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -6894,7 +6953,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -6935,7 +6994,7 @@
    "title_ja": "IMM13: サバ州と未だ解決されていない50年前のスキャンダル",
    "first_seen": "2026-09-18T05:02:32Z",
    "url_real": "https://www.youtube.com/watch?v=pbftxPKPDSk",
-   "enriched": "failed",
+   "enriched": "thin",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
    "summary_ja": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
@@ -7281,7 +7340,7 @@
    "date": "2026-06-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "pelarian Sabah",
    "id": "f9b143804ae2",
    "tags": [
     "市民権"
@@ -7420,11 +7479,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "109ac503086c",
    "tags": [
-    "子ども",
-    "医療・福祉"
+    "医療・福祉",
+    "子ども"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7511,11 +7570,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7712,7 +7771,7 @@
    "url_real": "https://www.dailyexpress.com.my/news/282132/action-urged-on-stateless-issue-mykas-proposal/",
    "image": "https://www.dailyexpress.com.my/uploads/news2/2026/05/Jafery_Jomion_2.jpg",
    "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2rAwDeJTJUuVPbIjgVI38xc4N0bMFk2jJRp4tPT6D1BavH5Y0o3isgygv4Gssr3dWzj_Yx8Oyf2ow0w",
-   "enriched": "blocked",
+   "enriched": "failed",
    "enriched_v": 3,
    "summary_ja2": "コタキナバル：外国人労働者雇用者協会（ペマバ）サバ州支部は、MyKAS発行提案を支持し、サバ州の無国籍者に対処するための政府の緊急措置を要請した。",
    "summary_ja": "コタキナバル：外国人労働者雇用者協会（ペマバ）サバ州支部は、MyKAS発行提案を支持し、サバ州の無国籍者に対処するための政府の緊急措置を要請した。",
@@ -7861,7 +7920,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -7915,11 +7974,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7982,7 +8041,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
     "無国籍",
@@ -8286,7 +8345,7 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
     "無国籍",
@@ -8452,12 +8511,12 @@
    "date": "2026-05-08T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "52e8c9b5ce49",
    "tags": [
-    "無国籍",
+    "バジャウ",
     "子ども",
-    "バジャウ"
+    "無国籍"
    ],
    "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
    "first_seen": "2026-08-10T08:27:43Z",
@@ -8517,11 +8576,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -8584,7 +8643,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -9406,12 +9465,12 @@
    "date": "2026-04-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "2a750d42659b",
    "tags": [
-    "無国籍",
+    "バジャウ",
     "子ども",
-    "バジャウ"
+    "無国籍"
    ],
    "title_ja": "バジャウ族の無国籍少年、サバ州生まれを証明し保釈認められた",
    "first_seen": "2026-08-11T13:55:43Z",
@@ -9695,7 +9754,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
@@ -12002,5 +12061,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-23T08:04:03Z"
+ "enriched_at": "2026-11-24T00:18:33Z"
 }
