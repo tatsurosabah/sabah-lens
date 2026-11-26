@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T08:48:36Z",
- "count": 327,
+ "updated": "2026-11-26T21:50:07Z",
+ "count": 328,
  "tags": {
   "入管・摘発": 219,
   "市民権": 38,
   "無国籍": 32,
-  "難民": 23,
+  "難民": 24,
   "子ども": 22,
   "政策・政治": 18,
   "バジャウ": 11,
@@ -22,9 +22,9 @@
   "NST Online": 16,
   "sabahnews.com.my": 15,
   "Borneo Post": 12,
-  "Astro Awani": 9,
+  "Berita Harian": 9,
   "Jesselton Times": 8,
-  "Berita Harian": 8,
+  "Astro Awani": 8,
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
@@ -40,6 +40,7 @@
   "Sabah Post": 4,
   "Nabalu News": 3,
   "Buletin TV3": 3,
+  "The Sun Malaysia": 2,
   "Sabah News": 2,
   "Utusan Malaysia": 2,
   "Utusan Borneo": 2,
@@ -56,7 +57,6 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
-  "The Sun Malaysia": 1,
   "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "Malaysia-China Insight": 1,
@@ -111,6 +111,38 @@
    "figures": []
   },
   {
+   "title": "Refugee card holders barred from Sabah, Sarawak, Labuan – KDN",
+   "summary": "Holders of the Refugee Registration Document (DPP) card are barred from Sabah, Sarawak and Labuan and may only remain in the state where they are registered.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ib1dQdkZOQy16MVJhRC0taFNKS0MzV1E2b2ZxWlM1LVM4bW14c2pIcWpmQ0VkdGQ1dTBNdThCZ050TTNRc1FYTVdQald5bXQyR3p1Wm1rSDljenkyaHdMM29QLTEyYUxDS0pGcWhjVjgzSml4RndzMjJSVGU?oc=5",
+   "source": "The Sun Malaysia",
+   "date": "2026-11-20T07:27:44Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah UNHCR OR asylum",
+   "id": "a2c0c9dc2a91",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "難民カード保持者、サバ州、サラワク州、ラブアンへの入国を禁止 - KDN",
+   "summary_ja": "難民登録書類 (DPP) カードの所有者は、サバ州、サラワク州、ラブアンへの入国を禁止されており、登録されている州にのみ滞在することができます。",
+   "first_seen": "2026-11-26T21:50:00Z",
+   "impact": 3,
+   "issues": [
+    "摘発・収容・送還",
+    "難民・UNHCR"
+   ],
+   "figures": [],
+   "url_real": "https://thesun.my/news/refugee-card-holders-barred-sabah-sarawak-labuan/",
+   "image": "https://cms.thesun.my/wp-content/uploads/2026/11/Refugee-Card-Holders-Barred-From-Sabah-Sarawak-Labuan-KDN.webp",
+   "image_alt": "Refugee card holders barred from Sabah, Sarawak, Labuan – KDN",
+   "site_name": "The Sun Malaysia",
+   "body": "The ministry was responding to a question from Suhaizan Kaiat (PH-Pulai) on the latest number of Rohingya, their involvement in crime, complaints of UNHCR card forgery, their resettlement locations and the government’s measures to control and manage them.\n\nKDN said that to prevent the DPP programme from becoming a pull factor for new arrivals, only refugees who were in the country before Jan 1, 2023 are eligible to be considered for the programme.\n\nIt said refugees or asylum seekers who entered illegally after that date will not be considered and will face immigration enforcement action.\n\n“KDN states that the DPP card is not a travel document. The government stresses that holding a DPP card is subject to compliance with national laws and the stipulated conditions.\n\n“Any individual who violates the law or these conditions will face enforcement action, including cancellation of the pass and deportation under the provisions and legal processes in force. The DPP programme does not grant permanent resident status and is not a pathway to Malaysian citizenship,” the reply said.\n\nKDN said 227,414 refugees and asylum seekers were registered in Malaysia under UNHCR records as of Sept 30 last year, of whom 205,273, or 90.2 per cent, were from Myanmar, including 132,400 ethnic Rohingya.\n\nThe ministry said Selangor recorded the highest share of UNHCR card holders in Peninsular Malaysia at 33 per cent (74,028 people), followed by Kuala Lumpur at 21 per cent (47,333) and Penang at 11 per cent (25,357).\n\nKDN said that as of Oct 31 last year, 6,294 ethnic Rohingya were also recorded at immigration detention depots across the peninsula, out of a total of 11,208 Myanmar nationals detained.\n\nAccording to KDN, Royal Malaysia Police (PDRM) statistics recorded 199 index crime cases involving Myanmar refugees from 2022 to August: 52 cases in 2022, 43 in 2023, 37 in 2024, 29 in 2025, and 38 as of August this year.\n\nIn addition, PDRM recorded only one case of UNHCR card forgery in Kuala Lumpur, involving six Myanmar nationals, all of whom have been charged in court.",
+   "body_ja": "同省は、ロヒンギャの最新の数、犯罪への関与、UNHCRカード偽造の苦情、再定住場所、ロヒンギャを管理・管理する政府の措置についてのスハイザン・カイアト（PH-プーライ）の質問に答えた。\n\nKDNは、DPPプログラムが新たな到着者の引き寄せ要因となるのを防ぐため、2023年1月1日より前に国内に滞在していた難民のみがプログラムの対象となる資格があると述べた。\n\n同日付以降に不法入国した難民や亡命希望者は考慮されず、入国管理法に直面すると述べた。\n\n「KDN は、DPP カードは旅行証明書ではないと述べています。政府は、DPP カードの保有には国内法と規定された条件の遵守が条件であると強調しています。\n\n「法律またはこれらの条件に違反した個人は、現行の規定および法的手続きに基づき、通行証の取り消しや国外退去を含む強制措置に直面することになります。 DPPプログラムは永住権を付与するものではなく、マレーシア市民権への道ではない」と回答書は述べた。\n\nKDNによると、昨年9月30日の時点でUNHCRの記録にマレーシアに登録されている難民と亡命希望者は22万7,414人で、このうち90.2％にあたる20万5,273人がミャンマー出身で、その中には13万2,400人のロヒンギャ民族が含まれている。\n\n同省によると、マレー半島でUNHCRカード所有者の割合が最も高かったのはセランゴール州で33％（7万4028人）、次いでクアラルンプールの21％（4万7333人）、ペナン州の11％（2万5357人）となった。\n\nKDNによると、昨年10月31日の時点で、拘束されたミャンマー国民合計1万1208人のうち、ロヒンギャ民族6294人が半島各地の入国者収容所でも記録されている。\n\nKDNによると、王立マレーシア警察（PDRM）の統計では、2022年から8月までにミャンマー難民が関与した主要犯罪事件は199件記録されており、2022年は52件、2023年は43件、2024年は37件、2025年は29件、そして今年8月時点で38件となっている。\n\nさらに、PDRMはクアラルンプールでのUNHCRカード偽造事件を1件のみ記録しており、6人のミャンマー人が関与しており、全員が法廷で起訴されている。",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "summary_ja2": "同省は、ロヒンギャの最新の数、犯罪への関与、UNHCRカード偽造の苦情、再定住場所、ロヒンギャを管理・管理する政府の措置についてのスハイザン・カイアト（PH-プーライ）の質問に答えた。KDNによると、昨年9月30日の時点でUNHCRの記録にマレーシアに登録されている難民と亡命希望者は22万7,414人で、このうち90.2％にあたる20万5,273人がミャンマー出身で、その中には13万2,400人のロヒンギャ民族が含まれている。"
+  },
+  {
    "title": "Refugee cardholders face entry ban to S’wak, Sabah and Labuan",
    "summary": "By DayakDaily Team KUALA LUMPUR, Nov 20: Holders of the Refugee Registration Document (DPP) Card face an entry ban to Sarawak, Sabah and the Federal Territory of Labuan under movement restrictions …",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGVTWHgtMGFieFZnT1JXSjdFZERkeE5WYUJ5UEM0Y0czYVVxR0NjX3dwdkFtUHBldWg0QkZvN0xXNHpBNVU2dW1GRjI3Z0pjaGY3VS1GeVg3eUtxOEVOZ0hyanlxMnFhVk0yZEthSlNxTFJqN1EzS05oMnRleEY4d0xGNWF0YS02U0FR?oc=5",
@@ -152,8 +184,8 @@
    "query": "Sabah refugee",
    "id": "099679fe0b47",
    "tags": [
-    "政策・政治",
-    "難民"
+    "難民",
+    "政策・政治"
    ],
    "title_ja": "難民カード保持者はサバ州、サラワク州、ラブアン島への入国を禁止、内務省が発表 - 議会デュワン・ラクヤットのニュース",
    "first_seen": "2026-11-24T00:13:02Z",
@@ -324,7 +356,9 @@
    "issues": [
     "医療アクセス"
    ],
-   "figures": []
+   "figures": [],
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
   },
   {
    "title": "Health Ministry urged to explain Sabah’s RM1.06 million unpaid migrant medical bills",
@@ -352,38 +386,8 @@
    ],
    "figures": [],
    "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
-   "body_ja": ""
-  },
-  {
-   "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
-   "summary": "Shahelmey Yahya KUALA LUMPUR: Kementerian Kesihatan Malaysia (KKM) perlu memberikan penjelasan menyeluruh berhubung Sabah yang mencatatkan jumlah tunggakan bil rawatan kesihatan golongan pelarian dan",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTg2Vm9EZWtHTV80QVJlZVNpUUtqa25YYWJvbXhMd2VYLTRZOTZ0Q2l3OXI1dDRZM1VMRUVmUHpHS2VGRnZOYmJ4OXZNaGNrbFFSWFRxbENtMDVpQUlQMEpKa2kwYlRqUlkwNmdTMUcyMzFRdUpjNDQ1LVVGOGVyNkhvWjY1bDdMQWlMSzVnOE00cmRGY3FpMGxJdV9oLWcwMkptQXl3?oc=5",
-   "source": "Warta Oriental",
-   "date": "2026-11-17T15:08:13Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "pelarian Sabah",
-   "id": "ac425ce5ed0b",
-   "tags": [
-    "難民"
-   ],
-   "title_ja": "サバ州は難民治療費の滞納額が最も多い－シャヘルメイ",
-   "first_seen": "2026-11-17T21:14:31Z",
-   "url_real": "https://wartaoriental.com/2026/11/17/sabah-tanggung-tunggakan-bil-rawatan-pelarian-tertinggi-shahelmey/",
-   "image": "https://wartaoriental.com/wp-content/uploads/2026/11/4f2cf89d-e7c8-44b6-9d51-df07309cb66e-1024x552.jpeg",
-   "site_name": "Warta Oriental",
-   "enriched": "ok",
-   "enriched_v": 3,
-   "body": "KUALA LUMPUR: Kementerian Kesihatan Malaysia (KKM) perlu memberikan penjelasan menyeluruh berhubung Sabah yang mencatatkan jumlah tunggakan bil rawatan kesihatan golongan pelarian dan pendatang asing tanpa izin (PATI) tertinggi di negara ini.\n\nAhli Parlimen Putatan Datuk Ir Shahelmey Yahya berkata laporan Jawatankuasa Pilihan Hak Asasi Manusia, Pilihan Raya dan Reformasi Institusi berhubung Pengurusan Pelarian di Malaysia (DR 21) merekodkan Sabah sebagai negeri tertinggi menanggung kos tunggakan rawatan berkenaan bagi 2025.\n\nMenurutnya, pendedahan dalam laporan itu boleh menimbulkan rasa tidak senang dalam kalangan rakyat, khususnya berhubung persepsi bahawa warga asing, termasuk PATI, menerima layanan kesihatan yang lebih baik berbanding rakyat tempatan.\n\n“Dapatan yang dinyatakan dalam muka surat 16 tersebut boleh mendatangkan tidak kurang senang kepada rakyat.\n\n“Pendedahan tersebut boleh mencetuskan tanggapan ‘first class treatment’ kepada pesakit warga asing, khususnya golongan PATI, yang merupakan penyumbang tertinggi kepada tunggakan bil rawatan golongan pelarian.\n\n“Sehubungan dengan itu, Putatan ingin mendapatkan penjelasan daripada KKM mengenai punca utama yang menyebabkan Sabah menjadi negeri yang merekodkan jumlah tunggakan bil rawatan kesihatan golongan pelarian yang paling tinggi,” katanya ketika membahas Rang Undang-Undang (RUU) Perbekalan 2027 di peringkat Jawatankuasa bagi Kementerian Kesihatan pada persidangan Dewan Rakyat, hari ini.\n\nShahelmey berkata sektor kesihatan awam terpaksa menanggung tunggakan sebanyak RM1.06 juta bagi bil rawatan kesihatan golongan pelarian pada 2025.\n\nBeliau berkata pendedahan itu turut memperlihatkan isu beban yang ditanggung kerajaan dalam menyediakan perkhidmatan kesihatan kepada golongan pelarian yang berada di negara ini.\n\nSementara itu, beliau turut membangkitkan keperluan mendesak pembinaan sebuah hospital daerah di Putatan susulan pertambahan penduduk yang kini mencecah lebih 70,000 orang berdasarkan bancian.\n\nMenurutnya, Pakar Perubatan Kesihatan Pekerjaan dan Pakar Perubatan Kesihatan Awam di Pejabat Kesihatan Daerah Putatan Dr Balachandar turut mengklasifikasikan pembinaan hospital berkenaan sebagai satu keperluan mendesak.\n\nKatanya, keperluan itu antara lain mengambil kira peningkatan permintaan terhadap rawatan penyakit tidak berjangkit.\n\n“Hospital daerah yang dimaksudkan tersebut merupakan satu keperluan teratas yang mesti diberi penekanan oleh KKM, memandangkan populasi daerah Putatan telah menjangkau angka 70,000 penduduk berdasarkan dapatan daripada bancian.\n\n“Pengklasifikasian tersebut dibuat antaranya bersandarkan kepada realiti keperluan terhadap rawatan bagi penyakit tidak berjangkit yang semakin meningkat,” katanya.\n\nSehubungan itu, beliau meminta KKM memberikan pertimbangan serius supaya cadangan pembinaan Hospital Daerah Putatan disenaraikan dalam agenda pembangunan hospital baharu di bawah peruntukan pembangunan kementerian berkenaan.",
-   "body_ja": "クアラルンプール：マレーシア保健省（KKM）は、国内で難民および不法移民（PATI）に対する医療費の滞納件数が最多を記録したサバ州について、包括的な説明を行う必要がある。\n\nプタタン州議会議員のダトゥク・イル・シャヘルメイ・ヤヒヤ氏は、マレーシアの難民管理に関する人権・選挙・制度改革に関する特別委員会（DR21）の報告書では、サバ州が2025年の治療費滞納額が最も高い州として記録されていると述べた。\n\n同氏によると、報告書での開示は、特に不法移民を含む外国人が地元住民よりも良い医療を受けているという認識に関して、国民に不安を引き起こす可能性があるという。\n\n「16 ページに記載されている調査結果は、人々に少なからず喜びをもたらすことができます。\n\n「この暴露は、外国人患者、特に難民グループの治療費滞納の最大の原因であるPATIグループに対して『一流の治療』という印象を与える可能性がある。\n\n「これに関連して、プタタンは、サバ州が難民グループの医療費滞納件数で最も多い州となった主な原因について、保健省から説明を受けたいと考えている」と、本日デワン・ラクヤット会議で保健省の委員会レベルで2027年供給法案について議論した際に同氏は述べた。\n\nシャヘルメイ氏は、公衆衛生部門は2025年に難民グループの医療費として106万リンギットの滞納を負担しなければならないと述べた。\n\n同氏は、今回の情報開示は国内の難民に医療サービスを提供する際に政府が負担する負担の問題も示していると述べた。\n\n一方、同氏はまた、国勢調査に基づいて現在7万人を超える人口増加を受けて、プタタンに郡立病院を建設する緊急の必要性も提起した。\n\n同氏によると、プタタン地区保健局の産業保健医兼公衆衛生医のバラチャンダル博士も、病院の建設は緊急の必要性があると分類したという。\n\n同氏は、その必要性はとりわけ、非感染性疾患の治療に対する需要の増加を考慮していると述べた。\n\n「国勢調査の結果に基づくプタタン地区の人口が7万人に達していることを考えると、問題の地区病院は保健省が重視すべき最重要ニーズの一つである。\n\n「この分類は、非感染性疾患の治療の必要性が増大しているという現実に基づいている」と同氏は述べた。\n\nしたがって、同氏は保健省に対し、プタタン地区病院の建設計画が同省の開発割り当てに基づく新病院開発計画に記載されるよう真剣に検討するよう要請した。",
-   "summary_ja2": "クアラルンプール：マレーシア保健省（KKM）は、国内で難民および不法移民（PATI）に対する医療費の滞納件数が最多を記録したサバ州について、包括的な説明を行う必要がある。「これに関連して、プタタンは、サバ州が難民グループの医療費滞納件数で最も多い州となった主な原因について、保健省から説明を受けたいと考えている」と、本日デワン・ラクヤット会議で保健省の委員会レベルで2027年供給法案について議論した際に同氏は述べた。",
-   "summary_ja": "シャヘルメイ・ヤヒヤ クアラルンプール：マレーシア保健省（KKM）は、難民や難民の医療費滞納件数を記録したサバ州に関して包括的な説明を行う必要がある。",
-   "impact": 4,
-   "issues": [
-    "医療アクセス",
-    "難民・UNHCR"
-   ],
-   "figures": []
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
   },
   {
    "title": "MP Sabah: Sediakan pelan tindakan isu tunggakan bil hospital pelarian",
@@ -451,6 +455,37 @@
    "figures": []
   },
   {
+   "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
+   "summary": "Shahelmey Yahya KUALA LUMPUR: Kementerian Kesihatan Malaysia (KKM) perlu memberikan penjelasan menyeluruh berhubung Sabah yang mencatatkan jumlah tunggakan bil rawatan kesihatan golongan pelarian dan",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTg2Vm9EZWtHTV80QVJlZVNpUUtqa25YYWJvbXhMd2VYLTRZOTZ0Q2l3OXI1dDRZM1VMRUVmUHpHS2VGRnZOYmJ4OXZNaGNrbFFSWFRxbENtMDVpQUlQMEpKa2kwYlRqUlkwNmdTMUcyMzFRdUpjNDQ1LVVGOGVyNkhvWjY1bDdMQWlMSzVnOE00cmRGY3FpMGxJdV9oLWcwMkptQXl3?oc=5",
+   "source": "Warta Oriental",
+   "date": "2026-11-17T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "ac425ce5ed0b",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "サバ州は難民治療費の滞納額が最も多い－シャヘルメイ",
+   "first_seen": "2026-11-17T21:14:31Z",
+   "url_real": "https://wartaoriental.com/2026/11/17/sabah-tanggung-tunggakan-bil-rawatan-pelarian-tertinggi-shahelmey/",
+   "image": "https://wartaoriental.com/wp-content/uploads/2026/11/4f2cf89d-e7c8-44b6-9d51-df07309cb66e-1024x552.jpeg",
+   "site_name": "Warta Oriental",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KUALA LUMPUR: Kementerian Kesihatan Malaysia (KKM) perlu memberikan penjelasan menyeluruh berhubung Sabah yang mencatatkan jumlah tunggakan bil rawatan kesihatan golongan pelarian dan pendatang asing tanpa izin (PATI) tertinggi di negara ini.\n\nAhli Parlimen Putatan Datuk Ir Shahelmey Yahya berkata laporan Jawatankuasa Pilihan Hak Asasi Manusia, Pilihan Raya dan Reformasi Institusi berhubung Pengurusan Pelarian di Malaysia (DR 21) merekodkan Sabah sebagai negeri tertinggi menanggung kos tunggakan rawatan berkenaan bagi 2025.\n\nMenurutnya, pendedahan dalam laporan itu boleh menimbulkan rasa tidak senang dalam kalangan rakyat, khususnya berhubung persepsi bahawa warga asing, termasuk PATI, menerima layanan kesihatan yang lebih baik berbanding rakyat tempatan.\n\n“Dapatan yang dinyatakan dalam muka surat 16 tersebut boleh mendatangkan tidak kurang senang kepada rakyat.\n\n“Pendedahan tersebut boleh mencetuskan tanggapan ‘first class treatment’ kepada pesakit warga asing, khususnya golongan PATI, yang merupakan penyumbang tertinggi kepada tunggakan bil rawatan golongan pelarian.\n\n“Sehubungan dengan itu, Putatan ingin mendapatkan penjelasan daripada KKM mengenai punca utama yang menyebabkan Sabah menjadi negeri yang merekodkan jumlah tunggakan bil rawatan kesihatan golongan pelarian yang paling tinggi,” katanya ketika membahas Rang Undang-Undang (RUU) Perbekalan 2027 di peringkat Jawatankuasa bagi Kementerian Kesihatan pada persidangan Dewan Rakyat, hari ini.\n\nShahelmey berkata sektor kesihatan awam terpaksa menanggung tunggakan sebanyak RM1.06 juta bagi bil rawatan kesihatan golongan pelarian pada 2025.\n\nBeliau berkata pendedahan itu turut memperlihatkan isu beban yang ditanggung kerajaan dalam menyediakan perkhidmatan kesihatan kepada golongan pelarian yang berada di negara ini.\n\nSementara itu, beliau turut membangkitkan keperluan mendesak pembinaan sebuah hospital daerah di Putatan susulan pertambahan penduduk yang kini mencecah lebih 70,000 orang berdasarkan bancian.\n\nMenurutnya, Pakar Perubatan Kesihatan Pekerjaan dan Pakar Perubatan Kesihatan Awam di Pejabat Kesihatan Daerah Putatan Dr Balachandar turut mengklasifikasikan pembinaan hospital berkenaan sebagai satu keperluan mendesak.\n\nKatanya, keperluan itu antara lain mengambil kira peningkatan permintaan terhadap rawatan penyakit tidak berjangkit.\n\n“Hospital daerah yang dimaksudkan tersebut merupakan satu keperluan teratas yang mesti diberi penekanan oleh KKM, memandangkan populasi daerah Putatan telah menjangkau angka 70,000 penduduk berdasarkan dapatan daripada bancian.\n\n“Pengklasifikasian tersebut dibuat antaranya bersandarkan kepada realiti keperluan terhadap rawatan bagi penyakit tidak berjangkit yang semakin meningkat,” katanya.\n\nSehubungan itu, beliau meminta KKM memberikan pertimbangan serius supaya cadangan pembinaan Hospital Daerah Putatan disenaraikan dalam agenda pembangunan hospital baharu di bawah peruntukan pembangunan kementerian berkenaan.",
+   "body_ja": "クアラルンプール：マレーシア保健省（KKM）は、国内で難民および不法移民（PATI）に対する医療費の滞納件数が最多を記録したサバ州について、包括的な説明を行う必要がある。\n\nプタタン州議会議員のダトゥク・イル・シャヘルメイ・ヤヒヤ氏は、マレーシアの難民管理に関する人権・選挙・制度改革に関する特別委員会（DR21）の報告書では、サバ州が2025年の治療費滞納額が最も高い州として記録されていると述べた。\n\n同氏によると、報告書での開示は、特に不法移民を含む外国人が地元住民よりも良い医療を受けているという認識に関して、国民に不安を引き起こす可能性があるという。\n\n「16 ページに記載されている調査結果は、人々に少なからず喜びをもたらすことができます。\n\n「この暴露は、外国人患者、特に難民グループの治療費滞納の最大の原因であるPATIグループに対して『一流の治療』という印象を与える可能性がある。\n\n「これに関連して、プタタンは、サバ州が難民グループの医療費滞納件数で最も多い州となった主な原因について、保健省から説明を受けたいと考えている」と、本日デワン・ラクヤット会議で保健省の委員会レベルで2027年供給法案について議論した際に同氏は述べた。\n\nシャヘルメイ氏は、公衆衛生部門は2025年に難民グループの医療費として106万リンギットの滞納を負担しなければならないと述べた。\n\n同氏は、今回の情報開示は国内の難民に医療サービスを提供する際に政府が負担する負担の問題も示していると述べた。\n\n一方、同氏はまた、国勢調査に基づいて現在7万人を超える人口増加を受けて、プタタンに郡立病院を建設する緊急の必要性も提起した。\n\n同氏によると、プタタン地区保健局の産業保健医兼公衆衛生医のバラチャンダル博士も、病院の建設は緊急の必要性があると分類したという。\n\n同氏は、その必要性はとりわけ、非感染性疾患の治療に対する需要の増加を考慮していると述べた。\n\n「国勢調査の結果に基づくプタタン地区の人口が7万人に達していることを考えると、問題の地区病院は保健省が重視すべき最重要ニーズの一つである。\n\n「この分類は、非感染性疾患の治療の必要性が増大しているという現実に基づいている」と同氏は述べた。\n\nしたがって、同氏は保健省に対し、プタタン地区病院の建設計画が同省の開発割り当てに基づく新病院開発計画に記載されるよう真剣に検討するよう要請した。",
+   "summary_ja2": "クアラルンプール：マレーシア保健省（KKM）は、国内で難民および不法移民（PATI）に対する医療費の滞納件数が最多を記録したサバ州について、包括的な説明を行う必要がある。「これに関連して、プタタンは、サバ州が難民グループの医療費滞納件数で最も多い州となった主な原因について、保健省から説明を受けたいと考えている」と、本日デワン・ラクヤット会議で保健省の委員会レベルで2027年供給法案について議論した際に同氏は述べた。",
+   "summary_ja": "シャヘルメイ・ヤヒヤ クアラルンプール：マレーシア保健省（KKM）は、難民や難民の医療費滞納件数を記録したサバ州に関して包括的な説明を行う必要がある。",
+   "impact": 4,
+   "issues": [
+    "医療アクセス",
+    "難民・UNHCR"
+   ],
+   "figures": []
+  },
+  {
    "title": "750 tahanan PATI dihantar pulang ke Filipina",
    "summary": "SANDAKAN, 13 Nov: Seramai 750 tahanan pendatang asing tanpa izin (PATI) warga Filipina dipindahkan ke Zamboanga City, Filipina menerusi Pelabuhan Sandakan, pada Rabu.",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU9WeVprQVdQWTVqLUJIWjNvWlllVUJnUERYZnRBcVBUZFBaSjlUZTg3OEcxYkFUOWJpVmRxTHFja05BMUdIZ1AwV2pKUlRVNzJ2S2R1YnoyTzl0REdrVDE3SnhGWGVDaUNsNUJ1eW9kckJzdUNVNjVUTTVzcEVPRlhLeEtRNUkz?oc=5",
@@ -463,8 +498,8 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
-   "summary_ja": "",
+   "title_ja": "750人のPATI捕虜がフィリピンに送還された",
+   "summary_ja": "サンダカン、11月13日：水曜日、合計750人のフィリピンの不法外国人移民（PATI）がサンダカン港を通じてフィリピンのサンボアンガ市に移送された。",
    "first_seen": "2026-11-24T22:40:53Z",
    "impact": 0,
    "issues": [
@@ -476,9 +511,10 @@
    "image": "https://s3.tvstv.my/wp-content/uploads/2026/11/PIXX2026-RK-43.png",
    "site_name": "TVS",
    "body": "SANDAKAN, 13 Nov: Seramai 750 tahanan pendatang asing tanpa izin (PATI) warga Filipina dipindahkan ke Zamboanga City, Filipina menerusi Pelabuhan Sandakan, pada Rabu.\n\nMenurut kenyataan Jabatan Imigresen Malaysia Negeri Sabah, pemindahan Siri 4/2026 itu menggunakan kapal MV Antonia 1 dan melibatkan tahanan dari Depot Imigresen Sandakan serta Depot Imigresen Papar.\n\nDaripada jumlah itu, seramai 378 merupakan lelaki dewasa, 175 wanita, 98 kanak-kanak lelaki dan 99 kanak-kanak perempuan berusia antara tiga hari hingga 71 tahun.\n\nKanak-kanak terbabit turut diiringi ibu bapa atau pengiring masing-masing sepanjang proses penghantaran pulang berkenaan.\n\nDalam perkembangan berasingan, seorang tahanan lelaki warga Singapura turut dipindahkan dari Depot Imigresen Papar ke negara asalnya pada 11 November menerusi penerbangan dari Lapangan Terbang Kota Kinabalu.\n\nMenurut kenyataan itu, setakat 12 November, seramai 9,224 tahanan PATI pelbagai warganegara telah dipindahkan ke negara asal masing-masing.\n\nDaripada jumlah tersebut, 6,915 merupakan warga Filipina, 1,959 warga Indonesia, 143 warga Pakistan, 142 warga China, 29 warga Vietnam dan 36 warga negara lain termasuk Singapura.\n\nSehubungan itu, Jabatan Imigresen Sabah berharap Kedutaan Filipina dapat mempercepatkan proses pengeluaran dokumen perjalanan bagi melancarkan urusan penghantaran pulang tahanan, sekali gus mengurangkan kesesakan di depot imigresen.\n\nJabatan itu turut menggesa majikan supaya menyertai program pendataan digital warga asing yang dilaksanakan Kerajaan Negeri Sabah.\n\nTindakan tegas akan diambil terhadap majikan yang melindungi atau menggaji pekerja asing tanpa permit atau dokumen perjalanan yang sah.-TVS",
-   "body_ja": "",
+   "body_ja": "サンダカン、11月13日：水曜日、合計750人のフィリピンの不法外国人移民（PATI）がサンダカン港を通じてフィリピンのサンボアンガ市に移送された。\n\nサバ州マレーシア入国管理局の声明によると、シリーズ4/2026の移送にはMVアントニア1が使用され、サンダカン入国管理所とパパール入国管理所の被収容者が関与した。\n\nこのうち、生後3日から71歳までの成人男性が378人、女性が175人、少年が98人、少女が99人だった。\n\n関係する子供たちには、本国送還の過程を通じて両親または付き添い者も同伴する。\n\nこれとは別の展開として、シンガポール人の男性被拘禁者も、11月11日にコタキナバル空港からの飛行機でパパール入国管理所から母国に移送された。\n\n声明によると、11月12日現在、さまざまな国籍の合計9,224人のPATI受刑者がそれぞれの出身国に移送されている。\n\nこのうち、6,915人がフィリピン人、1,959人がインドネシア人、143人がパキスタン人、142人が中国人、29人がベトナム人、そしてシンガポールを含むその他の国の国民が36人である。\n\nしたがって、サバ州入国管理局は、フィリピン大使館が渡航書類の発行手続きを迅速化し、被収容者の本国送還を促進し、それによって入国管理所の混雑を軽減できることを期待している。\n\n同省はまた、雇用主に対し、サバ州政府が実施する外国人向けのデジタルデータ収集プログラムに参加するよう促した。\n\n有効な渡航許可や書類を持たずに外国人労働者を保護したり雇用したりする雇用主に対しては、厳格な措置が取られることになる。-TVS",
    "enriched": "ok",
-   "enriched_v": 3
+   "enriched_v": 3,
+   "summary_ja2": "サンダカン、11月13日：水曜日、合計750人のフィリピンの不法外国人移民（PATI）がサンダカン港を通じてフィリピンのサンボアンガ市に移送された。サバ州マレーシア入国管理局の声明によると、シリーズ4/2026の移送にはMVアントニア1が使用され、サンダカン入国管理所とパパール入国管理所の被収容者が関与した。"
   },
   {
    "title": "29 PATI ditahan, JIM tegas mahu kehadiran PATI dimaklumkan",
@@ -4780,7 +4816,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah citizenship children",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -5123,7 +5159,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=d3Vb-QpH6JoQ7kNvwEJd62p&_nc_oc=Adok0DnaQMYVb9Sml0VSkbnGpmteuLX0apTfBzCNOzWFckoTgL45gTEATlYOw8hGPto&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=uPWb8AoEG5q05Zo-tpcFLw&_nc_ss=79389&oh=00_AQTpKuhQmxi4HBtnYc6jet7AASx7VkS9Dcyh7vuefJqs3g&oe=6B0DBAAD",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=d3Vb-QpH6JoQ7kNvwFYGUhu&_nc_oc=Adp_CN_8wHk-WIFNqEYML4zoN0PCksJXG1JS8ctdJYuv1XSgxhilSaaGc5MkB2TXGzc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=WlkxGyuC50oOtppYMCSekA&_nc_ss=79389&oh=00_AQUHxrF1jpn9A7xkIySYOA_RbYBjLgqptDYbZwvP5uUnMg&oe=6B0E636D",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -5423,8 +5459,8 @@
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "KUALA LUMPUR: Sebanyak 3,640 permohonan kewarganegaraan di Sabah masih dalam proses pertimbangan bagi tempoh 2025 hingga 31 Mei lalu, manakala sebanyak 10 permohonan sudah diluluskan dan sijil kewarganegaraan diserahkan kepada pemohon.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclc3WXBHajlVVzdSel9ELTlrcDd5aXAzNkVmVWR4LTM2RXM2RWwzb1BpczdEQlpjTHN0QmpLRUNUTzNRblRuQXZvT0dTSkd5X19FLXY4Y0hDMW5LZERaSW1wVjdsYkpaYUlKel8yeUJWVm91dHpDQU1UR2tIdmpEZXZlV01ZNXZ5a2xHY1B4Si03bFl2a0xyYnBNc2NSVm93VTJxSUpWdjVlM2NGN1VmaGt3?oc=5",
-   "source": "Astro Awani",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
+   "source": "Berita Harian",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -6640,7 +6676,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=EXxspPQqYXwQ7kNvwGFflSW&_nc_oc=Adp3MVTgGaoS5CihUtLxpPfwApShqdoH3lEHwFLT8B_ZBGagpiXF0zq5uOsAeoXhiPE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=RW4_IPuKP65qGAlmf0UQKw&_nc_ss=79389&oh=00_AQSqeKW_UGt2ESTRp01PNA1rAU-UHsmNNMlB7-eyi_cfVw&oe=6B0DC3AF",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=EXxspPQqYXwQ7kNvwESvr0k&_nc_oc=AdrVCc_l_FzcbmXTbrCva-aCCy4k5nsiejvbuHGhhVm7tqSQBay_n3WLB7LrlAVqwmU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=-eq11HeBFlNuAAs7vOeVTw&_nc_ss=79389&oh=00_AQUyOl-3pkwdMpEP2_p_vUJ0i0kBElHBYKxODIq3m_zxrA&oe=6B0E6C6F",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6858,7 +6894,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -6987,7 +7023,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -7374,7 +7410,7 @@
    "date": "2026-06-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f9b143804ae2",
    "tags": [
     "市民権"
@@ -7604,11 +7640,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7921,11 +7957,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "74af7615571b",
    "tags": [
-    "人権・NGO",
-    "市民権"
+    "市民権",
+    "人権・NGO"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7954,7 +7990,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -8008,11 +8044,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3bc557de9775",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -8044,7 +8080,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -8379,12 +8415,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -8545,12 +8581,12 @@
    "date": "2026-05-08T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "52e8c9b5ce49",
    "tags": [
-    "バジャウ",
+    "無国籍",
     "子ども",
-    "無国籍"
+    "バジャウ"
    ],
    "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
    "first_seen": "2026-08-10T08:27:43Z",
@@ -8610,11 +8646,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -8677,7 +8713,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -12095,5 +12131,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-26T08:50:57Z"
+ "enriched_at": "2026-11-26T21:52:26Z"
 }
