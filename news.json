@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:58:09Z",
+ "updated": "2026-11-26T08:48:36Z",
  "count": 327,
  "tags": {
   "入管・摘発": 219,
@@ -30,6 +30,7 @@
   "Free Malaysia Today": 6,
   "Malaysiakini": 5,
   "Saluran 122": 5,
+  "Bernama": 5,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "Portal Berita RTM": 5,
@@ -37,8 +38,6 @@
   "tvsabahnews.com": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "bernama": 3,
-  "Bernama": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Sabah News": 2,
@@ -58,6 +57,7 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -152,8 +152,8 @@
    "query": "Sabah refugee",
    "id": "099679fe0b47",
    "tags": [
-    "難民",
-    "政策・政治"
+    "政策・政治",
+    "難民"
    ],
    "title_ja": "難民カード保持者はサバ州、サラワク州、ラブアン島への入国を禁止、内務省が発表 - 議会デュワン・ラクヤットのニュース",
    "first_seen": "2026-11-24T00:13:02Z",
@@ -318,14 +318,13 @@
    "url_real": "https://www.dailyexpress.com.my/news/291830/rm1-06-juta-bil-kesihatan-pti-di-sabah-timbul-tanggapan-pesakit-warga-asing-terima-rawatan-kelas-pertama-shahelmey/",
    "enriched": "ok",
    "enriched_v": 3,
+   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
    "summary_ja": "",
    "impact": 1,
    "issues": [
     "医療アクセス"
    ],
-   "figures": [],
-   "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
-   "body_ja": ""
+   "figures": []
   },
   {
    "title": "Health Ministry urged to explain Sabah’s RM1.06 million unpaid migrant medical bills",
@@ -1210,7 +1209,7 @@
    "title": "Sabah Employers Fined Total Of RM2.1 Mln This Year - Immigration",
    "summary": "Sabah, Immigration, employer, compounds, Sh Sitti",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YdzRXdjdwVXdzTXo0T2tjVTE4Q3J6S3hLSGpGb1laMlhqN2d1VlhCOHIwTll3UzVlaFF2VEstLWJfaDZLTUc0X05EM1FrS2xQREF5US02QjJtdUFVWTFITUM0SQ?oc=5",
-   "source": "bernama",
+   "source": "Bernama",
    "date": "2026-11-05T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2425,7 +2424,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "Budget 2027, Immigration, allocation, quarters,",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "bernama",
+   "source": "Bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -5124,7 +5123,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=d3Vb-QpH6JoQ7kNvwG-hj5R&_nc_oc=AdpQd7Tvoj1HEO7v3eNga0geb9dQ_P-D2L_6AbGn9bpdZu64iaxvH8faWv0YklmQIA0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=s_7JO7tP2h9WuZb2j0gtVQ&_nc_ss=79389&oh=00_AQQTLhUstDE6KhsRKjPJzLa6fmYCN8vUUbl0ASVCXEX6vA&oe=6B0D11ED",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=d3Vb-QpH6JoQ7kNvwEJd62p&_nc_oc=Adok0DnaQMYVb9Sml0VSkbnGpmteuLX0apTfBzCNOzWFckoTgL45gTEATlYOw8hGPto&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=uPWb8AoEG5q05Zo-tpcFLw&_nc_ss=79389&oh=00_AQTpKuhQmxi4HBtnYc6jet7AASx7VkS9Dcyh7vuefJqs3g&oe=6B0DBAAD",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6641,7 +6640,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=EXxspPQqYXwQ7kNvwFT3kX2&_nc_oc=Adp-geLEXa9n56uQf7Q8KJB_W9ekNM0pUxRiHBEcZACIzTAxqEwYG-tWbvykkvw33gg&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=jLW3FuDB9aOic6G51uWvDw&_nc_ss=79389&oh=00_AQR57_6cDmkO5y_yXz6Aeo2zZzcZLJ34E-Z86_Vp0uLRMw&oe=6B0D1AEF",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=EXxspPQqYXwQ7kNvwGFflSW&_nc_oc=Adp3MVTgGaoS5CihUtLxpPfwApShqdoH3lEHwFLT8B_ZBGagpiXF0zq5uOsAeoXhiPE&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=RW4_IPuKP65qGAlmf0UQKw&_nc_ss=79389&oh=00_AQSqeKW_UGt2ESTRp01PNA1rAU-UHsmNNMlB7-eyi_cfVw&oe=6B0DC3AF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6859,7 +6858,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -7029,7 +7028,7 @@
    "title_ja": "IMM13: サバ州と未だ解決されていない50年前のスキャンダル",
    "first_seen": "2026-09-18T05:02:32Z",
    "url_real": "https://www.youtube.com/watch?v=pbftxPKPDSk",
-   "enriched": "failed",
+   "enriched": "thin",
    "enriched_v": 3,
    "summary_ja2": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
    "summary_ja": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
@@ -7375,7 +7374,7 @@
    "date": "2026-06-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "pelarian Sabah",
    "id": "f9b143804ae2",
    "tags": [
     "市民権"
@@ -8380,12 +8379,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -8410,7 +8409,7 @@
   {
    "title": "24 Chinese citizens deported after Semporna immigration raids",
    "summary": "SEMPORNA: Twenty-four Chinese citizens were deported after they were detained during immigration operations in Semporna last month.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3lHNHhLT09rT1lXcTQxMUhXM3gxcnJKVXdkYjliRWIxMjhuVTFzYm8tMjRvWW5mZ3loNWZtUGkzQ1BmcllQMGo4TVlFV2VVdmtCRldaODA1NEVkMlBBN2k1LWViNFRxUWhrdWt5UGRvYW5tN0tyVU9RWmwtRDRJalBGd2FNTWFIdTY1ZENHV3FEZVZnX0xGaERGMGxFU3ZVWHF0MXgtNU51MHRfM1ZfTm15YXI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3lHNHhLT09rT1lXcTQxMUhXM3gxcnJKVXdkYjliRWIxMjhuVTFzYm8tMjRvWW5mZ3loNWZtUGkzQ1BmcllQMGo4TVlFV2VVdmtCRldaODA1NEVkMlBBN2k1LWViNFRxUWhrdWt5UGRvYW5tN0tyVU9RWmwtRDRJalBGd2FNTWFIdTY1ZENHV3FEZVZnX0xGaERGMGxFU3ZVWHF0MXgtNU51MHRfM1ZfTm15YXLSAboBQVVfeXFMTTZ1dUdtMUxJREtTb2phc1pFNWFLZ0V4WHZzVHNzLW5QM1FiNmoxdmY4SkJRQ1hhSmxrNEY3VFhnT3BpcGliazQzQWJvbjA4NDhqUnRJTE1QNVlhTHY1b29JNmZabDF5LVhzOFJ3RVh4dThVRnhseXJwaE5JbE9Ec0dLQTZEaGdDZERsci15eW5FOGhPRzBhU0hvTC1vOHJmTjBIMUZOeWFvSlM1QVhhd0M2NWV5WnNqbGtB?oc=5",
    "source": "NST Online",
    "date": "2026-05-09T07:00:00Z",
    "lang": "en",
@@ -8611,11 +8610,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "917dcdd3c5f6",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -12096,5 +12095,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-25T22:00:42Z"
+ "enriched_at": "2026-11-26T08:50:57Z"
 }
