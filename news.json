@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:59:20Z",
+ "updated": "2026-11-27T21:36:51Z",
  "count": 329,
  "tags": {
   "入管・摘発": 220,
@@ -91,8 +91,14 @@
     "入管・摘発"
    ],
    "title_ja": "",
-   "summary_ja": "",
    "first_seen": "2026-11-27T08:56:54Z",
+   "url_real": "https://www.thestar.com.my/news/nation/2026/11/27/immigration-raids-see-122-undocumented-migrants-nabbed-in-sabah",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/27/4234574.jpeg",
+   "site_name": "The Star",
+   "enriched": "ok",
+   "enriched_v": 3,
+   "body": "KOTA KINABALU: Immigration personnel in the state continue to arrest and raid suspected undocumented migrant dens across the state, with their latest operation seeing a total of 122 people nabbed throughout this week.\n\nThe undocumented migrants were arrested in a series of 15 raids from Nov 20 to Nov 26, the Sabah Immigration Department said in a statement.\n\nIt said that those arrested, including 35 children, were among 333 individuals inspected in various strategic locations.\n\nIt said that from this number, Filipinos made up the largest share of arrests with 91 people, followed by 29 Indonesians and two Pakistanis.\n\nMeanwhile, the department said they also deported a total of 480 undocumented migrants, including 46 children, to their home countries of the Philippines (419 people), Indonesia (50), Pakistan (10) and one to Taiwan on Thursday.\n\nIt said this makes the total number of people deported thus far 10,498 from a total of 221 series of deportation exercises since early this year.\n\nIt said the Filipinos aged between five months old and 62 were sent out from the Sandakan Jetty to Zamboanga City, Philippines, of whom 44 were children.\n\nAs for the Indonesians, they were deported via the Tawau Jetty to Nunukan, and comprised 48 adults and two children.\n\nThe 10 Pakistani men and a Taiwanese woman were repatriated from the Sandakan Immigration Depot via air routes, the department said.\n\nIn this respect, the Sabah Immigration Department hopes for better cooperation with the Filipino and Indonesian embassies or consulates so that all deportation processes can be conducted more quickly and efficiently.\n\n“We are determined to ensure that all deportation procedures are conducted properly, safely and in accordance with enforced laws,” it added.\n\nIt said the department will continue conducting operations and raids to rid the country of undocumented migrants while warning all employers and the public against harbouring, hiring or protecting the undocumented.\n\nAny information of undocumented migrants can be shared through the Public Complaints Management System (SISPAA) at https://spab.gov.my or the online enquiry system (SPO) at https://eapp.imi.gov.my.",
+   "summary_ja": "",
    "impact": 0,
    "issues": [
     "摘発・収容・送還",
@@ -129,28 +135,21 @@
      "kind": "送還",
      "raw": "46 children"
     }
-   ],
-   "url_real": "https://www.thestar.com.my/news/nation/2026/11/27/immigration-raids-see-122-undocumented-migrants-nabbed-in-sabah",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/27/4234574.jpeg",
-   "site_name": "The Star",
-   "body": "KOTA KINABALU: Immigration personnel in the state continue to arrest and raid suspected undocumented migrant dens across the state, with their latest operation seeing a total of 122 people nabbed throughout this week.\n\nThe undocumented migrants were arrested in a series of 15 raids from Nov 20 to Nov 26, the Sabah Immigration Department said in a statement.\n\nIt said that those arrested, including 35 children, were among 333 individuals inspected in various strategic locations.\n\nIt said that from this number, Filipinos made up the largest share of arrests with 91 people, followed by 29 Indonesians and two Pakistanis.\n\nMeanwhile, the department said they also deported a total of 480 undocumented migrants, including 46 children, to their home countries of the Philippines (419 people), Indonesia (50), Pakistan (10) and one to Taiwan on Thursday.\n\nIt said this makes the total number of people deported thus far 10,498 from a total of 221 series of deportation exercises since early this year.\n\nIt said the Filipinos aged between five months old and 62 were sent out from the Sandakan Jetty to Zamboanga City, Philippines, of whom 44 were children.\n\nAs for the Indonesians, they were deported via the Tawau Jetty to Nunukan, and comprised 48 adults and two children.\n\nThe 10 Pakistani men and a Taiwanese woman were repatriated from the Sandakan Immigration Depot via air routes, the department said.\n\nIn this respect, the Sabah Immigration Department hopes for better cooperation with the Filipino and Indonesian embassies or consulates so that all deportation processes can be conducted more quickly and efficiently.\n\n“We are determined to ensure that all deportation procedures are conducted properly, safely and in accordance with enforced laws,” it added.\n\nIt said the department will continue conducting operations and raids to rid the country of undocumented migrants while warning all employers and the public against harbouring, hiring or protecting the undocumented.\n\nAny information of undocumented migrants can be shared through the Public Complaints Management System (SISPAA) at https://spab.gov.my or the online enquiry system (SPO) at https://eapp.imi.gov.my.",
-   "body_ja": "",
-   "enriched": "ok",
-   "enriched_v": 3
+   ]
   },
   {
    "title": "Refugee card holders barred from Sabah, Sarawak and Labuan — Home Ministry",
    "summary": "Holders of the Refugee Registration Document (DPP) card, which the government began issuing on Jan 1, are barred from entering Sabah, Sarawak and the Federal Territory of Labuan.",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VbWtFSjVaNXU1YmtCNU1CdmE4WnppTkpyWFNmdk1QcUNab3Z5dFViWDRaZ3pKWnJwY3poRjlicFFnV082MlJvaWdqSnpSOVFx?oc=5",
    "source": "The Edge Malaysia",
-   "date": "2026-11-20T08:08:41Z",
+   "date": "2026-11-20T08:17:53Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah UNHCR OR asylum",
    "id": "fb9b513855b6",
    "tags": [
-    "難民",
-    "政策・政治"
+    "政策・政治",
+    "難民"
    ],
    "title_ja": "難民カード保持者、サバ州、サラワク州、ラブアンへの入国を禁止 — 内務省",
    "first_seen": "2026-11-20T20:39:06Z",
@@ -394,9 +393,9 @@
   {
    "title": "RM1.06 juta bil kesihatan PTI di Sabah. Timbul tanggapan pesakit warga asing terima ‘rawatan kelas pertama’: Shahelmey",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVk16UEozejE0Zl82UWFUYnFqNXBiZkVydjQxQkxuWlBrUGMxcFgwOVNPWEJxaEE2V0RYSjVObS1zbnNJeE85ZDFVbm1yZXdERjJmM2tzMmVraERsaUZTTVhFS19CX3A0Vy1nVVlYdm5MX3puX1dPQW14eW8zZnBQdTNHVUNXdkVnMnlyYUwzZ051UkR3NGdkOWlpdVRiVmFjX0pLNHc4WFdEVml0SXBmNmw1cEQ1aWdVbXRheC0yZkxrcUtJMDhoSEtISEp5cjFZYTJxTWw2MnhudW1vSzFMRDJicFIyX1FlOGVsOU1LYno?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU3dzMVdSZjIxS1VBbzE5T1F6eEZxcGc0LWdwcGN0aXNKckQtb1cxVlBqRm14WndSWVJUbHhRZUhORWNHWklwNzU0QzFPMUkzNUJyOEpNTjhId2IzWkhKVXUwY0dMVmtBMkRLVFVmaDJLZjRzTHJlTVM1cndOc3MxSUZOeUlxN3B4YkpWUnVwcmx4bHVYbjE2VmVITGtGT1FKekF0RU9hZFJncmdpcVpwZFNnUVdEMW9OVkZMQVYzRV9vNUl3czZfRm1uNmZlVHJCOW5iUlZjNzJwcTgzcXBOVFRXbnRUNDRoRXZxbFp2bW9sZw?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-11-19T09:25:01Z",
+   "date": "2026-11-19T08:46:35Z",
    "lang": "ms",
    "origin": "news",
    "query": "pelarian Sabah",
@@ -411,14 +410,14 @@
    "enriched": "ok",
    "enriched_v": 3,
    "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nThis verification can take longer due to an older computer or a slow internet connection.",
+   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
+   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
    "summary_ja": "",
    "impact": 1,
    "issues": [
     "医療アクセス"
    ],
-   "figures": [],
-   "body_ja": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。\n\n古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。",
-   "summary_ja2": "この Web サイトは、悪意のあるボットから保護するためにセキュリティ サービスを使用しています。このページは、Web サイトがボットではないことを確認しているときに表示されます。古いコンピュータやインターネット接続が遅い場合、この検証にはさらに時間がかかることがあります。"
+   "figures": []
   },
   {
    "title": "Health Ministry urged to explain Sabah’s RM1.06 million unpaid migrant medical bills",
@@ -486,7 +485,7 @@
    "summary": "PARLIAMENT | Shahelmy says situation gives impression that they are receiving preferential treatment.",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWUwTmdKYVlmUjdVaFJGclVEbnl4aFBoc0dNMDQxUGVtLU93OVlrNG9lc1hjUlU4NXBEWmpQMThGMFdQVlg4ektUOHU4X0s1c3E1Y1lFSmdZdVJrOWdGWGoyamRGNWZnd2lmME5WOUJtQVc0Qm41TU9vOTR0RUtBRjI1VHBVTGVCTjVfU1ZnVzc1VnJ6OGMtNHdUY3dNZkQwcE9acUFCcGN3V0U4VlRFdmczN0xCWnFOb0lNRGhpNEh2TlJMWGdraS04QQ?oc=5",
    "source": "Malaysiakini",
-   "date": "2026-11-17T10:39:00Z",
+   "date": "2026-11-17T08:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah refugee",
@@ -5219,7 +5218,7 @@
    "title_ja": "サバ州入国管理局（JIM）は、過密な収容施設とサバ州のフィリピン国民の死亡に関するソーシャルメディアでのウイルスの主張に関して、正式に否定を発表した。報道は、出回っている画像がジム・サバからのものではないことを明らかにしている",
    "first_seen": "2026-08-30T21:24:05Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/videos/jim-sabah-nafi-depot-tahanan-sesak-warga-filipina-mati-mgflash-katanya-semua-tah/1569617291421160/",
-   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=jBY8PmSiWUQQ7kNvwHCWePP&_nc_oc=Adr3Yyl3q7rOaBHD6DuP6a25hsz6nLo5ZMbQvZPPsRYObgFFEf3anoAOjoSjjaMxTYk&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=m7dlR858ANnbXSjYF39nLQ&_nc_ss=79389&oh=00_AQWKEzJfiCScbOZxcPdFnNQ4eOaRmRXLcOSZMNwjdGeBHw&oe=6B0F0C2D",
+   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/755867915_2236356793576228_7363731188607789367_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=jBY8PmSiWUQQ7kNvwFKlid2&_nc_oc=AdommXZdn86X9w7y964ShlqIn60H6HJvHq-mOse8zblfVeyeTRvQEGEYcyYI6fvipvQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=bI20UEHm1oXsYmJCratqww&_nc_ss=79389&oh=00_AQVATPP5ge84Y9_nBlRakfYvQd7uvD5UnvImqVbBQnryBA&oe=6B0FB4ED",
    "image_alt": "405K views · 4.3K reactions | JIM Sabah Nafi Depot Tahanan Sesak, Warga Filipina Mati  #MGFlash \n\nKatanya, semua tahanan warganegara Filipina yang ditempatkan di Depot Tahanan Imigresen Sabah berada dalam keadaan baik sementara menunggu proses penghantaran pulang ke negara asal. \n\n#malaysiagazette #depottahananimigeresen | Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -6736,7 +6735,7 @@
    "title_ja": "マレーシア国際人道支援機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "first_seen": "2026-10-09T18:28:03Z",
    "url_real": "https://www.facebook.com/MalaysiaGazette/posts/pertubuhan-kemanusiaan-masyarakat-antarabangsa-malaysia-mho-menggesa-kerajaan-se/1512165217621511/",
-   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=EXxspPQqYXwQ7kNvwGfqFYi&_nc_oc=AdrOvpBlavZbmBJr1sZNAGLLhx4kfhWD_Troz8IMZJYmEPq6memPI-1Mey9vWG9v0Tc&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=OKroSHo6QiIYKXl2NZYizw&_nc_ss=79389&oh=00_AQVEul8HAR5WyKxnst2jgIRfG0AvlTktg6kptwOyMUjn7g&oe=6B0F152F",
+   "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/728819957_27245781978365036_6367236425848268632_n.png?stp=dst-jpg_tt6&cstp=mx1200x1500&ctp=p600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cae128&_nc_ohc=EXxspPQqYXwQ7kNvwGAfUjY&_nc_oc=AdoeTVIzZMgWYNwCRyEe1Vm3bGYs4IdAfJJ_8jql6utjdg3mjYtLjd_N_jgzAA7d5pM&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=GFlj_97xF7nBIL2pjG1L0Q&_nc_ss=79389&oh=00_AQXMMur8fRI_VDk18mrvYSdPr62ZfK-pSqlTyfPnABZsug&oe=6B0FBDEF",
    "image_alt": "Malaysia Gazette",
    "enriched": "nobody",
    "enriched_v": 3,
@@ -7470,7 +7469,7 @@
    "date": "2026-06-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "pelarian Sabah",
    "id": "f9b143804ae2",
    "tags": [
     "市民権"
@@ -7540,9 +7539,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
+    "無国籍",
     "子ども",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -7703,8 +7702,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "first_seen": "2026-08-09T01:55:15Z",
@@ -12191,5 +12190,5 @@
    ]
   }
  ],
- "enriched_at": "2026-11-27T09:01:45Z"
+ "enriched_at": "2026-11-27T21:39:07Z"
 }
